@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="scss" type="CSS" />
+      <mapping pattern="_cursor.css" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
