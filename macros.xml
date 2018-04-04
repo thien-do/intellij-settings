@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="1">
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="Inline" />
+      <shortuct text="ENTER" />
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="2">
+      <action id="Macro.1" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="Inline" />
+      <action id="EditorEnter" />
+      <shortuct text="ENTER" />
+      <action id="Macro.1" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="Inline" />
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <shortuct text="ENTER" />
+      <action id="Macro.1" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="Inline" />
+      <action id="EditorEnter" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
