@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.sbt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,5 +17,6 @@
     <mask>*.mxml</mask>
     <mask>*.scala</mask>
     <mask>*.scss</mask>
+    <mask>*.sbt</mask>
   </component>
 </application>
