@@ -1,0 +1,7 @@
+<templateSet group="surround">
+  <template name="&gt;&lt;" value="/*&gt;*/$SELECTION$/*&lt;*/" description="Surprround with Anduin Guide Collapse" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>
