@@ -4,4 +4,9 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
+  <template name="**" value="**$SELECTION$**" description="Markdown Bold" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
 </templateSet>
