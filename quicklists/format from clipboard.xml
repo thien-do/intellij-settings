@@ -1,0 +1,5 @@
+<list display="format from clipboard" description="format from clipboard">
+  <action id="GotoFile" />
+  <action id="$Paste" />
+  <action id="ScalaFmtFormat" />
+</list>
