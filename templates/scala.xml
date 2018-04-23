@@ -10,4 +10,9 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
+  <template name="mid example" value="&quot;&quot;&quot;.stripMargin)(),&#10;Example(&#10;  Source.annotate(&#10;  )&#10;)(),&#10;Markdown(&#10;  &quot;&quot;&quot;&#10;    |" description="Add example middle" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
 </templateSet>
