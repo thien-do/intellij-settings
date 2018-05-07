@@ -1,6 +1,0 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
-  <action id="ContextHelp" />
-  <action id="Macro.1">
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
-</keymap>

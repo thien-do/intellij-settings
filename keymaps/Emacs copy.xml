@@ -1,5 +1,0 @@
-<keymap version="1" name="Emacs copy" parent="Emacs">
-  <action id="FileChooser.NewFolder">
-    <keyboard-shortcut first-keystroke="alt insert" />
-  </action>
-</keymap>
