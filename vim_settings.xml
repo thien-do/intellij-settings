@@ -9,12 +9,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" timestamp="1525710621319">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="36" column="9" />
-        <mark key="^" line="36" column="9" />
-        <mark key="." line="36" column="9" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" timestamp="1525713618561">
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="56" column="60" />
+        <mark key="^" line="56" column="60" />
+        <mark key="." line="56" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -22,16 +21,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
       <jump line="111" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
+      <jump line="51" column="11" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
     </jumps>
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">KAogICAgICAgICAgIjMuIENoYW5naW5nIiwKICAgICAgICAgICJlbGltaW5hdGVFcnJvcnMiLAogICAgICAgICAgIkh1bWFuIGNoYW5nZXMsIHNvIGdvb2QgcHJvZHVjdHMgYXJlIGFkYXB0YWJsZSBvbmVzLiBUaGluZ3MgdGhhdCBhcmUgbm90IHNjYWxhYmxlIHNob3VsZCBub3QgYmUgZG9uZSBhdCBhbGwuIgogICAgICAgICksCiAgICAgICAgcmVuZGVyR29hbCgKICAgICAgICAgICI0LiBFbXBvd2VyaW5nIiwKICAgICAgICAgICJhbGlnbkRlYWwiLAogICAgICAgICAgIkhlbHBpbmcgZW5naW5lZXJzIHRvIG1ha2UgdGhlIG1vc3Qgb2YgdGhlIGxpYnJhcnkgaXMgb25seSBvdXIgZmlyc3Qgc3RlcC4gYnV0IHRvIG1ha2UgZXZlcnkgb25lIGFuIGV4cGVydCA=</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">aXMg</text>
       </register>
     </registers>
     <search>
@@ -47,6 +50,13 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
