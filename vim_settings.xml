@@ -3,15 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/sbtShell" timestamp="1525709425128">
+      <file name="/sbtShell" timestamp="1525710669626">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" timestamp="1525709807582">
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" timestamp="1525710621319">
         <mark key="'" line="111" column="0" />
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="36" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -21,8 +24,14 @@
       <jump line="111" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>s</text>
+      </register>
       <register name=":" type="4">
         <text>help j</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
       </register>
     </registers>
     <search>
