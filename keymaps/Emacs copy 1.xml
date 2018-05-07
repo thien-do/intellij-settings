@@ -42,8 +42,20 @@
   <action id="EditorLineStartWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
   <action id="EditorPageDown" />
   <action id="EditorPageUp" />
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt b" />
+  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
@@ -61,9 +73,17 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="FindInPath" />
   <action id="GotoTypeDeclaration" />
   <action id="RecentChangedFiles" />
+  <action id="RecentChanges" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Scala.ShowImplicitParameters" />
+  <action id="Vcs.UpdateProject" />
   <action id="tasks.open.in.browser" />
 </keymap>
