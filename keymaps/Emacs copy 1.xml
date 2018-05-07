@@ -2,15 +2,30 @@
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="$SelectAll" />
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="Activatesbt-shell-toolwindowToolWindow" />
   <action id="AddToFavoritesPopup" />
+  <action id="CloseAllEditors" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
@@ -70,6 +85,7 @@
   <action id="EditorRightWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="EditorSwapSelectionBoundaries" />
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="ctrl home" />
     <keyboard-shortcut first-keystroke="shift alt comma" />
@@ -97,7 +113,25 @@
     <keyboard-shortcut first-keystroke="alt period" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="GotoFile" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoNextIncompletePropertyAction">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="GotoTypeDeclaration" />
+  <action id="Images.Thumbnails.Hide">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="NextProjectWindow" />
+  <action id="NextSplitter" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
   <action id="RecentFiles">
@@ -106,7 +140,14 @@
   <action id="ReloadFromDisk">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="Scala.ShowImplicitParameters" />
+  <action id="SplitHorizontally" />
+  <action id="SplitVertically" />
+  <action id="Switcher" />
+  <action id="UnsplitAll" />
   <action id="Vcs.UpdateProject" />
   <action id="tasks.open.in.browser" />
 </keymap>
