@@ -9,12 +9,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" timestamp="1525717245302">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="32" column="170" />
-        <mark key="]" line="32" column="170" />
-        <mark key="^" line="32" column="170" />
-        <mark key="." line="32" column="170" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" timestamp="1525721653778">
+        <mark key="'" line="108" column="47" />
+        <mark key="[" line="108" column="48" />
+        <mark key="]" line="108" column="52" />
+        <mark key="." line="108" column="52" />
+        <mark key="^" line="108" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -27,33 +27,60 @@
       <jump line="46" column="132" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
       <jump line="119" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
+      <jump line="39" column="109" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
+      <jump line="56" column="6" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
+      <jump line="105" column="11" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
+      <jump line="108" column="47" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>104px</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUYWdNb2QoXi53aWR0aCA6PSAiOTZweCIsIF4uaGVpZ2h0IDo9ICI5NnB4IikKICAgICAgKSwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>wfollowing</text>
+        <text>p</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>renderGoal(
+          &quot;1. Changing&quot;,
+          &quot;eliminateErrors&quot;,
+          &quot;Human changes, so does our UI Engineering. Our elements are designed so that changes are expected, effortless, and usually automated.&quot;
+        ),</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLnNjYWxhanMuanMK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">KAogICAgICAgICAgIjMuIENoYW5naW5nIiwKICAgICAgICAgICJlbGltaW5hdGVFcnJvcnMiLAogICAgICAgICAgIkh1bWFuIGNoYW5nZXMsIHNvIGdvb2QgcHJvZHVjdHMgYXJlIGFkYXB0YWJsZSBvbmVzLiBUaGluZ3MgdGhhdCBhcmUgbm90IHNjYWxhYmxlIHNob3VsZCBub3QgYmUgZG9uZSBhdCBhbGwuIgogICAgICAgICksCiAgICAgICAgcmVuZGVyR29hbCgKICAgICAgICAgICI0LiBFbXBvd2VyaW5nIiwKICAgICAgICAgICJhbGlnbkRlYWwiLAogICAgICAgICAgIkhlbHBpbmcgZW5naW5lZXJzIHRvIG1ha2UgdGhlIG1vc3Qgb2YgdGhlIGxpYnJhcnkgaXMgb25seSBvdXIgZmlyc3Qgc3RlcC4gYnV0IHRvIG1ha2UgZXZlcnkgb25lIGFuIGV4cGVydCA=</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
       </register>
       <register name="-" type="4">
-        <text>wfollowing</text>
+        <text>p</text>
+      </register>
+      <register name="/" type="4">
+        <text>96px</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>96px</last-search>
+      <last-offset />
+      <last-pattern>96px</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>therefore</entry>
+        <entry>engineers's</entry>
+        <entry>96px</entry>
+      </history-search>
       <history-cmd>
         <entry>copy</entry>
         <entry>help j</entry>
@@ -68,8 +95,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
