@@ -1,0 +1,63 @@
+<keymap version="1" name="Emacs copy 1" parent="Emacs">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="EditorPageDown" />
+  <action id="EditorPageUp" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindInPath" />
+  <action id="GotoTypeDeclaration" />
+  <action id="RecentChangedFiles" />
+  <action id="Scala.ShowImplicitParameters" />
+  <action id="tasks.open.in.browser" />
+</keymap>
