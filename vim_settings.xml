@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" timestamp="1525762746579">
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+      </file>
       <file name="/sbtShell" timestamp="1525710669626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -37,11 +43,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTooltip.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tY3JvLlNvdXJjZQo=</text>
+      <register name="&quot;" type="4">
+        <text>Well</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Well</text>
       </register>
       <register name="/" type="4">
         <text>96px</text>
