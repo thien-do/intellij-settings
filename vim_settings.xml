@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" timestamp="1525772339562">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="33" column="29" />
-        <mark key="^" line="33" column="29" />
-        <mark key="." line="33" column="29" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" timestamp="1525774520582">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="/sbtShell" timestamp="1525766908993">
         <mark key="[" line="0" column="0" />
@@ -15,11 +15,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1525772393114">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="37" column="24" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1525774700656">
+        <mark key="[" line="44" column="72" />
+        <mark key="]" line="44" column="74" />
+        <mark key="." line="44" column="74" />
+        <mark key="^" line="44" column="74" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1525772538892">
         <mark key="[" line="62" column="90" />
@@ -61,46 +61,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTooltip.scala" />
       <jump line="14" column="27" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
       <jump line="28" column="21" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
+      <jump line="41" column="21" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>row</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>row</text>
       </register>
       <register name="/" type="4">
         <text>96px</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5yZW5kZXJCYWNrZW5kW0JhY2tlbmRbVF1dCiAgICAuYnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5jb2x1bW5zLnRvVmRvbUFycmF5KGNvbHVtbiA9PiB7CiAgICAgICAgICBjb2x1bW4ucmVuZGVyKHJvdykKICAgICAgICB9KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PC5kaXYoCiAgICAgICAgICAgIFRhYmxlW0xpc3RbU3RyaW5nXV0oCiAgICAgICAgICAgICAgcm93cyA9IExpc3QoCiAgICAgICAgICAgICAgICBMaXN0KCJUZXJtIFNoZWV0IiwgIlNpZ25lZCBieSBib3RoIHNpZGVzIiwgIlZpcmdpbmlhIExlZSwgR3VuZGVyc29uIiksCiAgICAgICAgICAgICAgICBMaXN0KCJJUkEiLCAiTmVnb3RpYXRpbmciLCAiVmlyZ2luaWEgTGVlLCBHdW5kZXJzb24iKQogICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgY29sdW1ucyA9IExpc3QoCiAgICAgICAgICAgICAgICBUYWJsZS5Db2x1bW4odGl0bGUgPSAiRG9jdW1lbnQgVHlwZSIsIHJlbmRlciA9IHJvdyA9PiA8LnNwYW4ocm93LmhlYWQpKSwKICAgICAgICAgICAgICAgIFRhYmxlLkNvbHVtbih0aXRsZSA9ICJEb2N1bWVudCBTdGF0dXMiLCByZW5kZXIgPSByb3cgPT4gPC5zcGFuKHJvdygxKSkpLAogICAgICAgICAgICAgICAgVGFibGUuQ29sdW1uKHRpdGxlID0gIkF1dGhvciBvZiBsYXN0IHZlcnNpb24iLCByZW5kZXIgPSByb3cgPT4gPC5zcGFuKHJvdygyKSkpCiAgICAgICAgICAgICAgKQogICAgICAgICAgICApKCkKICAgICAgICAgICk=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9jYXNlIGNsYXNzIFRhYmxlQ29sdW1uW1RdKAovLyAgdGl0bGU6IFN0cmluZywKLy8gIHJlbmRlcjogVCA9PiBWZG9tTm9kZQovLykK</text>
+        <text encoding="base64">Ly8gVCBpcyB0aGUgdHlwZSBvZiBkYXRhIG9mIGEgcm93LiBEZWZhdWx0IGlzIExpc3RbU3RyaW5nXQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Q29sdW1uW1RdKAovLyAgdGl0bGU6IFN0cmluZywKLy8gIHJlbmRlcjogVCA9PiBWZG9tTm9kZQovLyk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBeLmtleSA6PSBjb2x1bW4udGl0bGUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRhYmxlVW5kZXJseWluZ1tUXS5jb21wb25lbnQodGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sdW1uLnJlbmRlcihyb3cpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChUYWJsZVVuZGVybHlpbmdbVF0gYXNJbnN0YW5jZU9mW1RhYmxlVW5kZXJseWluZ1tUXV0pLlNjYWxhQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQuY29udGFpbmVyLlRhYmxlLkNvbHVtblByb3BzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5jb2x1bW5zLnRvVmRvbUFycmF5KGNvbHVtbiA9PiB7CiAgICAgICAgICBjb2x1bW4ucmVuZGVyKHJvdykKICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHlbVF06IFRhYmxlID0gbmV3IFRhYmxlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
@@ -144,6 +145,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
