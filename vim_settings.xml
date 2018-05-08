@@ -9,11 +9,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" timestamp="1525726327338">
-        <mark key="'" line="66" column="47" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" timestamp="1525761083178">
+        <mark key="'" line="65" column="47" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTooltip.scala" timestamp="1525725669394">
         <mark key="[" line="14" column="10" />
@@ -38,7 +38,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgVG9jKGNvbnRlbnQgPSBTb3VyY2UudG9jKCkpKCksCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tY3JvLlNvdXJjZQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -50,21 +50,24 @@
         <text encoding="base64">CiAgICAgIFRvYyhjb250ZW50ID0gU291cmNlLnRvYygpKSgpLA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVG9jKGNvbnRlbnQgPSBTb3VyY2UudG9jKCkpKCksCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tY3JvLlNvdXJjZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgVG9jKGNvbnRlbnQgPSBTb3VyY2UudG9jKCkpKCksCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIHwjIEludHJvZHVjdGlvbgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LAogICAgICBNYXJrZG93bigKICAgICAgICAiIiIKICAgICAgICAgIHwKICAgICAgICAgIHwjIERldmVsb3BtZW50CiAgICAgICAgICB8CiAgICAgICAgICB8Qm90aCB0aGUgcGFja2FnZXMgYW5kIHRoZSBndWlkZSBhcmUgaW4gaGlnaGx5IGFjdGl2ZSBkZXZlbG9wbWVudC4KICAgICAgICAgIHwKICAgICAgICAgIHwtIFRoZXJlIGlzIG5vIHB1YmxpYyByZWxlYXNlIG9mIHRoZSBwYWNrYWdlcyB5ZXQuIEhvd2V2ZXIgdGhlIGd1aWRlIGlzIHN0aWxsIGF2YWlsYWJsZS4KICAgICAgICAgIHwKICAgICAgICAgIHxFeGFtcGxlOgogICAgICAgICIiIi5zdHJpcE1hcmdpbgogICAgICApKCksCiAgICAgIEV4YW1wbGVSaWNoKAogICAgICAgIFNvdXJjZS5hbm5vdGF0ZSgKICAgICAgICAgIDwuZGl2KCkKICAgICAgICApCiAgICAgICkoKSwKICAgICAgTWFya2Rvd24oIiIiCiAgICAgICAgICB8CiAgICAgICAgIiIiLnN0cmlwTWFyZ2luKSgp</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>|At Anduin, the problem we are solving is complex. No one knows what does the complete solution look like.
           |
           |We optimize for changes.
@@ -94,18 +97,15 @@
           |```
           |</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUYWdNb2QoXi53aWR0aCA6PSAiOTZweCIsIF4uaGVpZ2h0IDo9ICI5NnB4IikKICAgICAgKSwK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>renderGoal(
           &quot;1. Changing&quot;,
           &quot;eliminateErrors&quot;,
           &quot;Human changes, so does our UI Engineering. Our elements are designed so that changes are expected, effortless, and usually automated.&quot;
         ),</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
