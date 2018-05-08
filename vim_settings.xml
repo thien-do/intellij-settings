@@ -3,11 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" timestamp="1525808004090">
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-        <mark key="^" line="51" column="39" />
+      <file name="/Dummy.txt" timestamp="1525812054141">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/Header.scala" timestamp="1525810121961">
+        <mark key="[" line="25" column="77" />
+        <mark key="]" line="25" column="93" />
+        <mark key="^" line="25" column="93" />
+        <mark key="." line="25" column="93" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" timestamp="1525817606728">
+        <mark key="[" line="56" column="82" />
+        <mark key="]" line="56" column="82" />
+        <mark key="^" line="56" column="81" />
+        <mark key="." line="56" column="82" />
       </file>
       <file name="/sbtShell" timestamp="1525766908993">
         <mark key="[" line="0" column="0" />
@@ -15,11 +24,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1525785128740">
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="45" column="15" />
-        <mark key="." line="45" column="15" />
-        <mark key="^" line="45" column="15" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1525816502765">
+        <mark key="i" line="104" column="70" />
+        <mark key="[" line="101" column="42" />
+        <mark key="m" line="93" column="23" />
+        <mark key="]" line="101" column="42" />
+        <mark key="^" line="100" column="73" />
+        <mark key="." line="101" column="42" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1525772538892">
         <mark key="[" line="62" column="90" />
@@ -62,46 +73,47 @@
       <jump line="14" column="27" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
       <jump line="28" column="21" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
       <jump line="41" column="21" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" />
+      <jump line="55" column="53" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFkCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>96px</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwudHIoCiAgICAgICAgICAgIHByb3BzLmNvbHVtbnMudG9UYWdNb2QoY29sdW1uID0+IHsKICAgICAgICAgICAgICA8LnRkKGNvbHVtbi5yZW5kZXIocm93KSkKICAgICAgICAgICAgfSkKICAgICAgICAgICkK</text>
+      <register name="0" type="4">
+        <text>isColumnSelected</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFkCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">QnV0dG9uKAogICAgICAgICAgICAgICAgICAgICAgc3R5bGUgPSBCdXR0b25TdHlsZS5TdHlsZU1pbmltYWwsCiAgICAgICAgICAgICAgICAgICAgICBzaXplID0gQnV0dG9uU3R5bGUuU2l6ZUljb24sCiAgICAgICAgICAgICAgICAgICAgICBpc1NlbGVjdGVkID0gc3RhdGUuc29ydENvbHVtbiA9PSBPcHRpb24oaW5kZXgpICYmICFzdGF0ZS5zb3J0SXNBc2MsCiAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrID0gc2NvcGUuc2V0U3RhdGUoU3RhdGUoc29ydENvbHVtbiA9IE9wdGlvbihpbmRleCksIHNvcnRJc0FzYyA9IGZhbHNlKSkKICAgICAgICAgICAgICAgICAgICApKEljb25BY2wobmFtZSA9IEljb25BY2wuTmFtZUNhcmV0RG93bikoKSksCiAgICAgICAgICAgICAgICAgICAgQnV0dG9uKAogICAgICAgICAgICAgICAgICAgICAgc3R5bGUgPSBCdXR0b25TdHlsZS5TdHlsZU1pbmltYWwsCiAgICAgICAgICAgICAgICAgICAgICBzaXplID0gQnV0dG9uU3R5bGUuU2l6ZUljb24sCiAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrID0gc2NvcGUuc2V0U3RhdGUoU3RhdGUoc29ydENvbHVtbiA9IE9wdGlvbihpbmRleCksIHNvcnRJc0FzYyA9IHRydWUpKQogICAgICAgICAgICAgICAgICAgICkoSWNvbkFjbChuYW1lID0gSWNvbkFjbC5OYW1lQ2FyZXRVcCkoKSk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRhYmxlLkNvbHVtbih0aXRsZSA9ICJBdXRob3Igb2YgbGFzdCB2ZXJzaW9uIiwgcmVuZGVyID0gZG9jID0+IGRvYy5hdXRob3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRhYmxlLkNvbHVtbigiSW50IDIiLCBfLmkyLCBPcHRpb24oc29ydCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgc3R5bGVzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3R5bGUuYm9yZGVyLmFsbC5ib3JkZXJXaWR0aC5weDEuYm9yZGVyQ29sb3IuZ3JheTMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29sdW1uLnRpdGxlLAogICAgICAgICAgICAgICAgICBCdXR0b24oCiAgICAgICAgICAgICAgICAgICAgc3R5bGUgPSBCdXR0b25TdHlsZS5TdHlsZU1pbmltYWwsCiAgICAgICAgICAgICAgICAgICAgb25DbGljayA9IHNjb3BlLm1vZFN0YXRlKHMgPT4gU3RhdGUoT3B0aW9uKGluZGV4KSwgcy5zb3J0SXNBc2MpKQogICAgICAgICAgICAgICAgICApKGluZGV4LnRvU3RyaW5nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8LnRoKGNvbHVtbi50aXRsZShyb3cpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW5kZXgudG9TdHJpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYWJsZS5Tb3J0W1Jvd10oCiAgICAgICAgICAgICAgICAgICAgICBhc2MgPSBfLl8xIDwgXy5fMSwKICAgICAgICAgICAgICAgICAgICAgIGRlc2MgPSBfLl8xID4gXy5fMQogICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBzb3J0ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBzb3J0OiBUYWJsZS5Tb3J0W1N0cmluZ10gPSAK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
@@ -146,8 +158,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
