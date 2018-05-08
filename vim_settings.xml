@@ -3,17 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" timestamp="1525767084045">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="24" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" timestamp="1525772339562">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="33" column="29" />
+        <mark key="^" line="33" column="29" />
+        <mark key="." line="33" column="29" />
       </file>
       <file name="/sbtShell" timestamp="1525766908993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1525772393114">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1525772538892">
+        <mark key="[" line="62" column="90" />
+        <mark key="]" line="63" column="82" />
+        <mark key="^" line="63" column="82" />
+        <mark key="." line="63" column="82" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Layout.scala" timestamp="1525772589066">
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="72" column="48" />
+        <mark key="^" line="72" column="48" />
+        <mark key="." line="72" column="48" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" timestamp="1525761083178">
         <mark key="'" line="65" column="47" />
@@ -41,19 +59,21 @@
       <jump line="105" column="11" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
       <jump line="108" column="47" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTooltip.scala" />
+      <jump line="14" column="27" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
+      <jump line="28" column="21" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stateless</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>96px</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgIFRvYyhjb250ZW50ID0gU291cmNlLnRvYygpKSgpLA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC5yZW5kZXJCYWNrZW5kW0JhY2tlbmRbVF1dCiAgICAuYnVpbGQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -62,25 +82,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjYXNlIG9iamVjdCBTdHlsZVBsYWluIGV4dGVuZHMgU3R5bGUKICBjYXNlIG9iamVjdCBTdHlsZVN0cmlwZWQgZXh0ZW5kcyBTdHlsZQo=</text>
+        <text encoding="base64">Ly9jYXNlIGNsYXNzIFRhYmxlQ29sdW1uW1RdKAovLyAgdGl0bGU6IFN0cmluZywKLy8gIHJlbmRlcjogVCA9PiBWZG9tTm9kZQovLykK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB0cmFpdCBTdHlsZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Q29sdW1uW1RdKAovLyAgdGl0bGU6IFN0cmluZywKLy8gIHJlbmRlcjogVCA9PiBWZG9tTm9kZQovLyk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tY3JvLlNvdXJjZQo=</text>
+        <text encoding="base64">ICAgIFRhYmxlVW5kZXJseWluZ1tUXS5jb21wb25lbnQodGhpcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVG9jKGNvbnRlbnQgPSBTb3VyY2UudG9jKCkpKCksCg==</text>
+        <text encoding="base64">ICAgIChUYWJsZVVuZGVybHlpbmdbVF0gYXNJbnN0YW5jZU9mW1RhYmxlVW5kZXJseWluZ1tUXV0pLlNjYWxhQ29tcG9uZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQuY29udGFpbmVyLlRhYmxlLkNvbHVtblByb3BzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwjIEludHJvZHVjdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LAogICAgICBNYXJrZG93bigKICAgICAgICAiIiIKICAgICAgICAgIHwKICAgICAgICAgIHwjIERldmVsb3BtZW50CiAgICAgICAgICB8CiAgICAgICAgICB8Qm90aCB0aGUgcGFja2FnZXMgYW5kIHRoZSBndWlkZSBhcmUgaW4gaGlnaGx5IGFjdGl2ZSBkZXZlbG9wbWVudC4KICAgICAgICAgIHwKICAgICAgICAgIHwtIFRoZXJlIGlzIG5vIHB1YmxpYyByZWxlYXNlIG9mIHRoZSBwYWNrYWdlcyB5ZXQuIEhvd2V2ZXIgdGhlIGd1aWRlIGlzIHN0aWxsIGF2YWlsYWJsZS4KICAgICAgICAgIHwKICAgICAgICAgIHxFeGFtcGxlOgogICAgICAgICIiIi5zdHJpcE1hcmdpbgogICAgICApKCksCiAgICAgIEV4YW1wbGVSaWNoKAogICAgICAgIFNvdXJjZS5hbm5vdGF0ZSgKICAgICAgICAgIDwuZGl2KCkKICAgICAgICApCiAgICAgICkoKSwKICAgICAgTWFya2Rvd24oIiIiCiAgICAgICAgICB8CiAgICAgICAgIiIiLnN0cmlwTWFyZ2luKSgp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBkZWYgYXBwbHlbVF06IFRhYmxlID0gbmV3IFRhYmxlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
@@ -110,7 +130,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
