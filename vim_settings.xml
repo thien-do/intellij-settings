@@ -9,13 +9,13 @@
       <file name="/Dummy.txt" timestamp="1525812054141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" timestamp="1525871632684">
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" timestamp="1525874862112">
         <mark key="c" line="70" column="62" />
+        <mark key="'" line="105" column="18" />
         <mark key="h" line="70" column="67" />
-        <mark key="[" line="121" column="28" />
-        <mark key="]" line="121" column="33" />
-        <mark key="^" line="121" column="33" />
-        <mark key="." line="121" column="33" />
+        <mark key="[" line="120" column="65" />
+        <mark key="]" line="120" column="65" />
+        <mark key="." line="120" column="65" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/Header.scala" timestamp="1525810121961">
         <mark key="[" line="25" column="77" />
@@ -72,11 +72,11 @@
         <mark key="." line="960" column="16" />
         <mark key="^" line="960" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" timestamp="1525871892474">
-        <mark key="[" line="115" column="42" />
-        <mark key="]" line="115" column="42" />
-        <mark key="^" line="115" column="42" />
-        <mark key="." line="115" column="42" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" timestamp="1525874697703">
+        <mark key="[" line="111" column="56" />
+        <mark key="]" line="111" column="56" />
+        <mark key="." line="111" column="56" />
+        <mark key="^" line="111" column="43" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1525772538892">
         <mark key="[" line="62" column="90" />
@@ -133,55 +133,58 @@
       <jump line="239" column="16" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" />
       <jump line="249" column="36" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" />
       <jump line="296" column="8" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" />
+      <jump line="298" column="21" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
+      <jump line="105" column="18" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Name</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>render</text>
+        <text>Table</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBUYWJsZS5Db2x1bW4oIk5hbWUiLCBfLm5hbWUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8LnRoKF4uY2xzIDo9ICJ0bCIsICJTdGF0dXMiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUYWJsZS5Db2x1bW4oIlN0YXR1cyIsIG0gPT4gVGFibGUuQ2VsbChtLnN0YXR1cy5sYWJlbCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8LnRoKF4uY2xzIDo9ICJ0bCIsICJFbWFpbCIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBjb250ZW50ID0gY29sdW1uLnJlbmRlcihyb3cpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8LnRoKF4uY2xzIDo9ICJ0bCIsICJOYW1lIiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgdmFsIGNvbnRlbnQgPSBjb2x1bW4ucmVuZGVyKHJvdykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8LnRkKGVudGl0eU1lbWJlci5uYW1lKSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8LnRkKGVudGl0eU1lbWJlci51c2VySWQuaWQpLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8LnRkKGVudGl0eU1lbWJlci5zdGF0dXMubGFiZWwpLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUYWJsZS5Db2x1bW4oIk5hbWUiLCBfLm5hbWUpLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjYXNlIGNsYXNzIENlbGwodmFsdWU6IFZkb21Ob2RlLCByb3dTcGFuOiBJbnQgPSAxLCBjb2xTcGFuOiBJbnQgPSAxKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjYXNlIGNsYXNzIENlbGwodmFsdWU6IFZkb21Ob2RlLCByb3dTcGFuOiBJbnQgPSAxLCBjb2xTcGFuOiBJbnQgPSAxKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlbmRlcldpdGhTcGFuOiBUID0+IChWZG9tTm9kZSwgSW50LCBJbnQpID0gXyA9PiAoRW1wdHlWZG9tLCAxLCAxKSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmICgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
       </register>
     </registers>
     <search>
-      <last-search>render</last-search>
+      <last-search>Table</last-search>
       <last-offset />
-      <last-pattern>render</last-pattern>
+      <last-pattern>Table</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -193,6 +196,8 @@
         <entry>thead</entry>
         <entry encoding="base64">PC50YWJsZQ==</entry>
         <entry>render</entry>
+        <entry>Table(</entry>
+        <entry>Table</entry>
       </history-search>
       <history-cmd>
         <entry>copy</entry>
