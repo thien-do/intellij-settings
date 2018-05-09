@@ -38,8 +38,11 @@
         <mark key="^" line="100" column="73" />
         <mark key="." line="101" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/progress/TransactionProgress.scala" timestamp="1525863958784">
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/progress/TransactionProgress.scala" timestamp="1525864563062">
         <mark key="'" line="946" column="14" />
+        <mark key="[" line="960" column="16" />
+        <mark key="]" line="960" column="16" />
+        <mark key="." line="960" column="16" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1525772538892">
         <mark key="[" line="62" column="90" />
@@ -94,11 +97,11 @@
       <jump line="946" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/progress/TransactionProgress.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBvbkNsaWNrID0gc2NvcGUuc2V0U3RhdGUoU3RhdGUoc29ydENvbHVtbiA9IE9wdGlvbihpbmRleCksIHNvcnRJc0FzYyA9IGZhbHNlKSkKICAgICAgICAgIHZhbCBidXR0b24gPSByZW5kZXJTb3J0QnV0dG9uKGlzQXNjID0gZmFsc2UsIGlzU2VsZWN0ZWQgPSBpc1NvcnRCeSAmJiAhc3RhdGUuc29ydElzQXNjLCBvbkNsaWNrID0gb25DbGljaykK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PC50YWJsZQ==</text>
