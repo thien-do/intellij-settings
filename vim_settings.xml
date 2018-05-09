@@ -38,6 +38,9 @@
         <mark key="^" line="100" column="73" />
         <mark key="." line="101" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/progress/TransactionProgress.scala" timestamp="1525863958784">
+        <mark key="'" line="946" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1525772538892">
         <mark key="[" line="62" column="90" />
         <mark key="]" line="63" column="82" />
@@ -84,6 +87,11 @@
       <jump line="52" column="23" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
       <jump line="96" column="26" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
       <jump line="74" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
+      <jump line="448" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/progress/TransactionProgress.scala" />
+      <jump line="952" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/progress/TransactionProgress.scala" />
+      <jump line="960" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/progress/TransactionProgress.scala" />
+      <jump line="979" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/progress/TransactionProgress.scala" />
+      <jump line="946" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/progress/TransactionProgress.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -93,7 +101,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>thead</text>
+        <text encoding="base64">PC50YWJsZQ==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC5zcGFuKHN0eWxlcywgYnV0dG9uKQo=</text>
@@ -133,9 +141,9 @@ isUp</text>
       </register>
     </registers>
     <search>
-      <last-search>thead</last-search>
+      <last-search encoding="base64">PC50YWJsZQ==</last-search>
       <last-offset />
-      <last-pattern>thead</last-pattern>
+      <last-pattern encoding="base64">PC50YWJsZQ==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -145,6 +153,7 @@ isUp</text>
         <entry>engineers's</entry>
         <entry>96px</entry>
         <entry>thead</entry>
+        <entry encoding="base64">PC50YWJsZQ==</entry>
       </history-search>
       <history-cmd>
         <entry>copy</entry>
