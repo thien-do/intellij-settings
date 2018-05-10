@@ -9,12 +9,6 @@
       <file name="/Dummy.txt" timestamp="1525812054141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" timestamp="1525923076441">
-        <mark key="[" line="404" column="63" />
-        <mark key="]" line="404" column="65" />
-        <mark key="^" line="404" column="65" />
-        <mark key="." line="404" column="65" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/Header.scala" timestamp="1525810121961">
         <mark key="[" line="25" column="77" />
         <mark key="]" line="25" column="93" />
@@ -82,11 +76,11 @@
         <mark key="." line="960" column="16" />
         <mark key="^" line="960" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" timestamp="1525922864927">
-        <mark key="'" line="118" column="15" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" timestamp="1525930795618">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="36" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1525772538892">
         <mark key="[" line="62" column="90" />
@@ -103,6 +97,12 @@
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTooltip.scala" timestamp="1525725669394">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="15" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/Button.scala" timestamp="1525931223272">
+        <mark key="[" line="65" column="48" />
+        <mark key="]" line="65" column="73" />
+        <mark key="." line="65" column="73" />
+        <mark key="^" line="65" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -153,55 +153,61 @@
       <jump line="339" column="4" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
       <jump line="20" column="56" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
       <jump line="118" column="15" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" />
+      <jump line="355" column="62" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
+      <jump line="11" column="34" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
+      <jump line="72" column="4" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" />
+      <jump line="389" column="16" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
+      <jump line="394" column="39" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
+      <jump line="118" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>:</text>
-      </register>
-      <register name="/" type="4">
-        <text>ki</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vID09PQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8LnRhYmxlKHN0eWxlcywgaGVhZCwgYm9keSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbmRlckJvZHkocHJvcHMsIHN0YXRlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHN0eWxlcyA9IFRhZ01vZChTdHlsZS5ib3JkZXJSYWRpdXMucHgyLndpZHRoLnBjMTAwLmJhY2tncm91bmRDb2xvci53aGl0ZSwgXi5ib3JkZXJDb2xsYXBzZSA6PSAiY29sbGFwc2UiKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIF4uYm9yZGVyQ29sbGFwc2UgOj0gImNvbGxhcHNlIiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLmJvcmRlclJhZGl1cy5weDIud2lkdGgucGMxMDAuYmFja2dyb3VuZENvbG9yLndoaXRlLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="-" type="4">
+        <text>ton.TpeLink,</text>
+      </register>
+      <register name="/" type="4">
+        <text>&quot;Role</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">U3R5bGUubWFyZ2luLmxlZnQ0LCA=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGhyZWYgPQogICAgICAgICJodHRwOi8vaGVscC1pbnRlcm5hbC5hbmR1aW50cmFuc2FjdC5jb20vZmFxL3doYXQtaXMtdGhlLWRpZmZlcmVuY2UtYmV0d2Vlbi1zdXBlci1hZG1pbi1hZG1pbi1hbmQtbWVtYmVyIgo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PC5kaXYoCiAgICAgIFN0eWxlLmZsZXhib3guZmxleC5mbGV4Ym94Lml0ZW1zQ2VudGVyLAogICAgICA8LnNwYW4oU3R5bGUubWFyZ2luLnJpZ2h0OCwgIlJvbGUiKSwKICAgICAgVG9vbHRpcCgKICAgICAgICByZW5kZXJUYXJnZXQgPSAoKSA9PgogICAgICAgICAgQnV0dG9uKAogICAgICAgICAgICB0cGUgPSBCdXR0b24uVHBlTGluaywKICAgICAgICAgICAgc3R5bGUgPSBCdXR0b25TdHlsZS5TdHlsZU1pbmltYWwsCiAgICAgICAgICAgIGhyZWYgPQogICAgICAgICAgKShJY29uQWNsKG5hbWUgPSBJY29uQWNsLk5hbWVJbmZvQ2lyY2xlKSgpKSwKICAgICAgICByZW5kZXJDb250ZW50ID0gKCkgPT4gIkxlYXJuIG1vcmUiCiAgICAgICkoKQogICAgKQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAiaHR0cDovL2hlbHAtaW50ZXJuYWwuYW5kdWludHJhbnNhY3QuY29tL2ZhcS93aGF0LWlzLXRoZS1kaWZmZXJlbmNlLWJldHdlZW4tc3VwZXItYWRtaW4tYWRtaW4tYW5kLW1lbWJlciIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBocmVmOiBTdHJpbmcgPSAiIiwgLy8gaWYgdHBlID09IGxpbmsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGhlYWRJc1N0aWNreSA9IHRydWUsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS5ib3JkZXIuYWxsLmJvcmRlcldpZHRoLnB4MS5ib3JkZXJDb2xvci5ncmF5MiwK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
       </register>
     </registers>
     <search>
-      <last-search>ki</last-search>
+      <last-search>&quot;Role</last-search>
       <last-offset />
-      <last-pattern>ki</last-pattern>
+      <last-pattern>&quot;Role</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -213,10 +219,12 @@
         <entry>thead</entry>
         <entry encoding="base64">PC50YWJsZQ==</entry>
         <entry>render</entry>
-        <entry>Table(</entry>
-        <entry>Table</entry>
         <entry>Last invitation</entry>
         <entry>ki</entry>
+        <entry>Table(</entry>
+        <entry>Table</entry>
+        <entry>Role</entry>
+        <entry>&quot;Role</entry>
       </history-search>
       <history-cmd>
         <entry>copy</entry>
