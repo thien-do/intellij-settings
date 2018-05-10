@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +18,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sbt</mask>
-    <mask>*.scss</mask>
     <mask>*.scala</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
