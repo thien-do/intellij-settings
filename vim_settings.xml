@@ -82,11 +82,12 @@
         <mark key="." line="960" column="16" />
         <mark key="^" line="960" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" timestamp="1525920696945">
-        <mark key="[" line="81" column="74" />
-        <mark key="]" line="81" column="74" />
-        <mark key="." line="81" column="74" />
-        <mark key="^" line="81" column="74" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" timestamp="1525922289660">
+        <mark key="'" line="118" column="15" />
+        <mark key="[" line="125" column="16" />
+        <mark key="]" line="125" column="23" />
+        <mark key="^" line="125" column="23" />
+        <mark key="." line="125" column="34" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1525772538892">
         <mark key="[" line="62" column="90" />
@@ -152,13 +153,14 @@
       <jump line="327" column="27" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
       <jump line="339" column="4" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
       <jump line="20" column="56" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
+      <jump line="118" column="15" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8LnNwYW4oU3R5bGUubWFyZ2luLmhvcjQsICJvciIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbmRlckJvZHkocHJvcHMsIHN0YXRlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>TagMod</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>ki</text>
@@ -167,31 +169,31 @@
         <text encoding="base64">ICAgIC8vID09PQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8LnNwYW4oU3R5bGUubWFyZ2luLmhvcjQsICJvciIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbmRlckJvZHkocHJvcHMsIHN0YXRlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXguZmxleGJveC5pdGVtc0NlbnRlciwK</text>
+        <text encoding="base64">ICAgICAgdmFsIHN0eWxlcyA9IFRhZ01vZChTdHlsZS5ib3JkZXJSYWRpdXMucHgyLndpZHRoLnBjMTAwLmJhY2tncm91bmRDb2xvci53aGl0ZSwgXi5ib3JkZXJDb2xsYXBzZSA6PSAiY29sbGFwc2UiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQudXRpbC5Db21wb25lbnRVdGlscwo=</text>
+        <text encoding="base64">ICAgICAgICAgIF4uYm9yZGVyQ29sbGFwc2UgOj0gImNvbGxhcHNlIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQubW9kYWwuT3Blbk1vZGFsQnV0dG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0eWxlLmJvcmRlclJhZGl1cy5weDIud2lkdGgucGMxMDAuYmFja2dyb3VuZENvbG9yLndoaXRlLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgPC50YWJsZSgKICAgICAgICBTdHlsZS5ib3JkZXJSYWRpdXMucHgyLndpZHRoLnBjMTAwLmJhY2tncm91bmRDb2xvci53aGl0ZSwKICAgICAgICBeLmJvcmRlckNvbGxhcHNlIDo9ICJjb2xsYXBzZSIsCiAgICAgICAgcmVuZGVyQm9keShwcm9wcywgc3RhdGUpCiAgICAgICkKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiU2VuZCByZW1pbmRlciAyIgo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJIZWFkKHByb3BzLCBzdGF0ZSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
