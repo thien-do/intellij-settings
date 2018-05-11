@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" timestamp="1526035743584">
-        <mark key="[" line="73" column="69" />
-        <mark key="]" line="73" column="67" />
-        <mark key="^" line="73" column="67" />
-        <mark key="." line="73" column="67" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" timestamp="1526059000650">
+        <mark key="[" line="147" column="13" />
+        <mark key="]" line="146" column="56" />
+        <mark key="^" line="146" column="56" />
+        <mark key="." line="146" column="56" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_hover.scss" timestamp="1525949988153">
         <mark key="[" line="2" column="21" />
@@ -65,11 +65,17 @@
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" timestamp="1525869420620">
         <mark key="'" line="296" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Radio.scala" timestamp="1526032362252">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="71" column="12" />
-        <mark key="." line="71" column="12" />
-        <mark key="^" line="71" column="12" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Radio.scala" timestamp="1526058155504">
+        <mark key="[" line="53" column="53" />
+        <mark key="]" line="53" column="57" />
+        <mark key="^" line="53" column="57" />
+        <mark key="." line="53" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Checkbox.scala" timestamp="1526057566085">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="35" />
+        <mark key="^" line="67" column="26" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1525812054141">
         <mark key="[" line="0" column="0" />
@@ -84,6 +90,11 @@
         <mark key="]" line="72" column="48" />
         <mark key="^" line="72" column="48" />
         <mark key="." line="72" column="48" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/ApplicationSettings.scala" timestamp="1526059360929">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="36" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_active.scss" timestamp="1525949962830">
         <mark key="[" line="92" column="30" />
@@ -186,49 +197,44 @@
       <jump line="148" column="35" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>//</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUudW5zdWJzY3JpYmVkU3RhZ2VzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>//</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZTdHlsZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIFt4XSBTcGFjaW5nIH4jMTM4Nzd+Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzaXplUHggPSBzIiR7c2l6ZX1weCIK</text>
       </register>
-      <register name="1" type="8">
-        <text>Checkbox
-Checkbox
-Checkbox
-Checkbox
-Checkbox
-Checkbox</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUudW5zdWJzY3JpYmVkU3RhZ2VzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG1ldGhvZC5sZW5ndGggbXVsdGlwbGUuc3RyaW5nLmxpdGVyYWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVmYXVsdEFsbFN0YWdlcy50b0xpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBzY2FsYXN0eWxlOm9uIG1ldGhvZC5sZW5ndGggbXVsdGlwbGUuc3RyaW5nLmxpdGVyYWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvZ3Jlc3NCdXR0b24oCiAgICAgICAgICAgICAgY29sb3IgPSBCdXR0b25TdHlsZS5Db2xvclByaW1hcnksCg==</text>
+        <text encoding="base64">ICAgICAgIk9ubHkgYWN0aXZpdGllcyByZXF1aXJpbmcgbXkgaW1tZWRpYXRlIGF0dGVudGlvbiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIk9ubHkgYWN0aXZpdGllcyByZXF1aXJpbmcgbXkgaW1tZWRpYXRlIGF0dGVudGlvbiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByb3BzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJTZXQgYXMgbXkgZGVmYXVsdCBwcmVmZXJlbmNlcyIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF4uaHRtbEZvciA6PSAic2V0LWRlZmF1bHQtc2V0dGluZ3MiLAo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF4uY2xzIDo9ICJhdC1ncmF5LTciLAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXMgPSBQcm9ncmVzc0J1dHRvbi5TdGF0dXMuRGlzYWJsZWQK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
