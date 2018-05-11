@@ -36,12 +36,6 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationPreferencesModal.scala" timestamp="1526027283634">
-        <mark key="[" line="138" column="25" />
-        <mark key="]" line="138" column="29" />
-        <mark key="." line="138" column="29" />
-        <mark key="^" line="138" column="29" />
-      </file>
       <file name="/sbtShell" timestamp="1526023396592">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -187,11 +181,11 @@
       <jump line="148" column="35" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bottom12</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG1ldGhvZC5sZW5ndGggbXVsdGlwbGUuc3RyaW5nLmxpdGVyYWxzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>bottom12</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZTdHlsZXNcPg==</text>
@@ -200,31 +194,31 @@
         <text>profile-form-body</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG1ldGhvZC5sZW5ndGggbXVsdGlwbGUuc3RyaW5nLmxpdGVyYWxzCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cHJpdmF0ZSBkZWYgYWxsQXZhaWxhYmxlU3RhZ2VzKHByb3BzOiBQcm9wcykgPSB7CiAgICBwcm9wcy5vdXRlclByb3BzLmN1cnJlbnRVc2VyUm9sZSBtYXRjaCB7CiAgICAgIGNhc2UgU29tZShCb2FyZE1lbWJlcikgPT4KICAgICAgICBTZXQuZW1wdHlbTWFpblN0YWdlVHlwZV0KICAgICAgY2FzZSBTb21lKFNoYXJlaG9sZGVyKSA9PgogICAgICAgIFNldC5lbXB0eVtNYWluU3RhZ2VUeXBlXQogICAgICBjYXNlIFNvbWUoQ29JbnZlc3RvcikgPT4KICAgICAgICBpZiAocHJvcHMuYWxsU3RhZ2VzLmNvbnRhaW5zKFdpcmluZ1N0YWdlVHlwZSkpIHsKICAgICAgICAgIFNldFtNYWluU3RhZ2VUeXBlXShXaXJpbmdTdGFnZVR5cGUpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIFNldC5lbXB0eVtNYWluU3RhZ2VUeXBlXQogICAgICAgIH0KICAgICAgY2FzZSBfID0+CiAgICAgICAgcHJvcHMuYWxsU3RhZ2VzLmtleVNldAogICAgfQogIH0K</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyBzY2FsYXN0eWxlOm9uIG1ldGhvZC5sZW5ndGggbXVsdGlwbGUuc3RyaW5nLmxpdGVyYWxzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvZ3Jlc3NCdXR0b24oCiAgICAgICAgICAgICAgY29sb3IgPSBCdXR0b25TdHlsZS5Db2xvclByaW1hcnksCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHJpdmF0ZSBkZWYgYWxsQXZhaWxhYmxlU3RhZ2VzKHByb3BzOiBQcm9wcykgPSB7CiAgICBwcm9wcy5vdXRlclByb3BzLmN1cnJlbnRVc2VyUm9sZSBtYXRjaCB7CiAgICAgIGNhc2UgU29tZShCb2FyZE1lbWJlcikgPT4KICAgICAgICBTZXQuZW1wdHlbTWFpblN0YWdlVHlwZV0KICAgICAgY2FzZSBTb21lKFNoYXJlaG9sZGVyKSA9PgogICAgICAgIFNldC5lbXB0eVtNYWluU3RhZ2VUeXBlXQogICAgICBjYXNlIFNvbWUoQ29JbnZlc3RvcikgPT4KICAgICAgICBpZiAocHJvcHMuYWxsU3RhZ2VzLmNvbnRhaW5zKFdpcmluZ1N0YWdlVHlwZSkpIHsKICAgICAgICAgIFNldFtNYWluU3RhZ2VUeXBlXShXaXJpbmdTdGFnZVR5cGUpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIFNldC5lbXB0eVtNYWluU3RhZ2VUeXBlXQogICAgICAgIH0KICAgICAgY2FzZSBfID0+CiAgICAgICAgcHJvcHMuYWxsU3RhZ2VzLmtleVNldAogICAgfQogIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKSwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgcHJvcHMub3V0ZXJQcm9wcy5jdXJyZW50VXNlclJvbGUgbWF0Y2ggewogICAgICBjYXNlIFNvbWUoQm9hcmRNZW1iZXIpID0+CiAgICAgICAgU2V0LmVtcHR5W01haW5TdGFnZVR5cGVdCiAgICAgIGNhc2UgU29tZShTaGFyZWhvbGRlcikgPT4KICAgICAgICBTZXQuZW1wdHlbTWFpblN0YWdlVHlwZV0KICAgICAgY2FzZSBTb21lKENvSW52ZXN0b3IpID0+CiAgICAgICAgaWYgKHByb3BzLmFsbFN0YWdlcy5jb250YWlucyhXaXJpbmdTdGFnZVR5cGUpKSB7CiAgICAgICAgICBTZXRbTWFpblN0YWdlVHlwZV0oV2lyaW5nU3RhZ2VUeXBlKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBTZXQuZW1wdHlbTWFpblN0YWdlVHlwZV0KICAgICAgICB9CiAgICAgIGNhc2UgXyA9PgogICAgICAgIHByb3BzLmFsbFN0YWdlcy5rZXlTZXQKICAgIH0KICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICApCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>private def allAvailableStages(props: Props)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJTZXQgYXMgbXkgZGVmYXVsdCBwcmVmZXJlbmNlcyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF4uaHRtbEZvciA6PSAic2V0LWRlZmF1bHQtc2V0dGluZ3MiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC5kaXYoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF4uY2xzIDo9ICJhdC1ncmF5LTciLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBeLmNscyA6PSAicHJvZmlsZS1mb3JtLWJvZHkgcHQzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8LmxhYmVsKAo=</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
