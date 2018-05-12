@@ -1,8 +1,4 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="EditorChooseLookupItemReplace" />
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
   <action id="EditorTab" />
 </keymap>
