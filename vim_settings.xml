@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" timestamp="1526128545200">
+        <mark key="[" line="715" column="0" />
+        <mark key="]" line="715" column="0" />
+        <mark key="." line="715" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/Header.scala" timestamp="1525810121961">
         <mark key="[" line="25" column="77" />
         <mark key="]" line="25" column="93" />
@@ -91,11 +96,11 @@
         <mark key="^" line="72" column="48" />
         <mark key="." line="72" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" timestamp="1526126615261">
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="24" />
-        <mark key="^" line="31" column="24" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" timestamp="1526128222411">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="46" column="18" />
+        <mark key="^" line="46" column="18" />
+        <mark key="." line="46" column="18" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/ApplicationSettings.scala" timestamp="1526069930096">
         <mark key="[" line="177" column="22" />
@@ -208,61 +213,54 @@
       <jump line="199" column="2" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Success</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG1ldGhvZC5sZW5ndGggY3ljbG9tYXRpYy5jb21wbGV4aXR5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Success</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXZTdHlsZXNcPg==</text>
+        <text encoding="base64">XDxleHRlbmRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Zm9yIHsKICAgICAgICAgIHN0YXRlIDwtIHNjb3BlLnN0YXRlCiAgICAgICAgICBwcm9wcyA8LSBzY29wZS5wcm9wcwogICAgICAgICAgXyA8LSBwcm9wcy5vdXRlclByb3BzLm9uQ2hhbmdlKAogICAgICAgICAgICBwcm9wcy5vdXRlclByb3BzLnVuc3Vic2NyaWJlZFN0YWdlcywKICAgICAgICAgICAgc3RhdGUuaXNBY3Rpdml0eVVuc3Vic2NyaWJlZCwKICAgICAgICAgICAgcHJvcHMub3V0ZXJQcm9wcy5pc1dlZWtseURpZ2VzdFVuc3Vic2NyaWJlZAogICAgICAgICAgKQogICAgICAgIH0geWllbGQgKCk=</text>
+        <text>extends Status</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNEaXNhYmxlZCA9IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG1ldGhvZC5sZW5ndGggY3ljbG9tYXRpYy5jb21wbGV4aXR5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNEaXNhYmxlZCA9IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b24gbWV0aG9kLmxlbmd0aCBtdWx0aXBsZS5zdHJpbmcubGl0ZXJhbHMgY3ljbG9tYXRpYy5jb21wbGV4aXR5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwucChTdHlsZS5tYXJnaW4udG9wOC5jb2xvci5ncmF5NywgVXNlckxldmVsVXRpbHMuZ2V0VXNlckxldmVsRGVzY3JpcHRpb24ocHJvcHMub3V0ZXJQcm9wcy51c2VyTGV2ZWwpKQo=</text>
+        <text encoding="base64">ICAgIFRleHRJbnB1dC5jb21wb25lbnQodGhpcykoY2hpbGRyZW46IF8qKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Dropdown(
-            value = UserLevelUtils.getUserLevelDisplay(props.outerProps.userLevel),
-            placeholder = &quot;Select a role&quot;,
-            options = UserLevelUtils.getUserLevelOptions(props.outerProps.userLevel),
-            disable = props.outerProps.userLevel == UserLevelMessage.Signatory,
-            onChange = onUserLevelChange,
-            lazyLoadOptions = true
-          ),</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwuZGl2KCkK</text>
+        <text encoding="base64">ICBzaXplOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNEaXNhYmxlZCA9IHRydWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBkZXNjVGV4dFN0eWxlID0gU3R5bGUubWFyZ2luLnRvcDgucGFkZGluZy5sZWZ0MzIuY29sb3IuZ3JheTcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNEaXNhYmxlZCA9IHRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXZTdHlsZXNcPg==</last-search>
+      <last-search encoding="base64">XDxleHRlbmRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXZTdHlsZXNcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxleHRlbmRzXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -282,6 +280,7 @@
         <entry>check</entry>
         <entry>Checkbox</entry>
         <entry encoding="base64">XDxkaXZTdHlsZXNcPg==</entry>
+        <entry encoding="base64">XDxleHRlbmRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>copy</entry>
