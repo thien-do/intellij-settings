@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" timestamp="1526154164377">
-        <mark key="c" line="782" column="21" />
-        <mark key="'" line="709" column="12" />
-        <mark key="[" line="708" column="12" />
-        <mark key="]" line="708" column="26" />
-        <mark key="^" line="708" column="26" />
-        <mark key="." line="708" column="26" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" timestamp="1526156433661">
+        <mark key="c" line="725" column="21" />
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="585" column="20" />
+        <mark key="]" line="585" column="20" />
+        <mark key="^" line="585" column="20" />
+        <mark key="." line="585" column="20" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-2.0/component/_modal.scss" timestamp="1526150458280">
         <mark key="[" line="60" column="15" />
@@ -254,46 +254,48 @@
       <jump line="545" column="7" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
       <jump line="707" column="18" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
       <jump line="709" column="12" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
+      <jump line="370" column="22" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>renderNames</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQudXRpbC5KYXZhU2NyaXB0VXRpbHMK</text>
       </register>
       <register name="-" type="4">
-        <text>renderNames</text>
+        <text>short</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>box-shadow: var(--shadow-border) var(--color-primary-4)</text>
+        <text encoding="base64">cHJpdmF0ZSBkZWYgcmVuZGVyRnVuZElucHV0KHN0YXRlOiBTdGF0ZSkgPSB7CiAgICAgIDwuZGl2KAogICAgICAgIF4uY2xzIDo9ICJmb3JtLWdyb3VwIiwKICAgICAgICA8LmRpdigKICAgICAgICAgIF4uY2xzIDo9ICJjb2xzLTIiLAogICAgICAgICAgPC5sYWJlbCheLmNscyA6PSAiZm9ybS1sYWJlbCIsICJGdW5kIG5hbWUgKHlvdSBjYW4gYWxzbyBzcGVjaWZ5IHRoZSBmdW5kIGxhdGVyKSIpCiAgICAgICAgKSwKICAgICAgICA8LmRpdigKICAgICAgICAgIF4uY2xzIDo9ICJjb2xzLTEwIiwKICAgICAgICAgIDwuZGl2KAogICAgICAgICAgICBTdHlsZS53aWR0aC5wYzUwLAogICAgICAgICAgICBUZXh0SW5wdXQoCiAgICAgICAgICAgICAgdmFsdWUgPSBzdGF0ZS5mdW5kTmFtZSwKICAgICAgICAgICAgICBvbkNoYW5nZSA9IG9uRnVuZE5hbWVDaGFuZ2UsCiAgICAgICAgICAgICAgcGxhY2Vob2xkZXIgPSAiRW50ZXIgdGhlIGZ1bmQgbmFtZSB0byBhc3NvY2lhdGUgd2l0aCB0aGUgdHJhbnNhY3Rpb24iCiAgICAgICAgICAgICkoKQogICAgICAgICAgKQogICAgICAgICkKICAgICAgKQogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiVXBsb2FkIGEgbG9nbyIK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQudXRpbC5KYXZhU2NyaXB0VXRpbHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiVXBsb2FkIGEgbG9nbyIK</text>
+        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIGN5Y2xvbWF0aWMuY29tcGxleGl0eSBtZXRob2QubGVuZ3RoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIEljb25BY2wobmFtZSA9IEljb25BY2wuTmFtZVVwbG9hZCkoKQo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBocmVmID0gSmF2YVNjcmlwdFV0aWxzLnZvaWRNZXRob2QsCg==</text>
+        <text encoding="base64">ICAgICAgICA8LmRpdigK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cGUgPSBCdXR0b24uVHBlTGluaywK</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS5tYXJnaW4udG9wMTIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIEljb25BY2wobmFtZSA9IEljb25BY2wuTmFtZVRyYXNoKSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBeLmNscyA6PSAiaXRlbXMtY2VudGVyIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiUmVtb3ZlIHRoaXMgbG9nbyIK</text>
+        <text encoding="base64">ICAgICAgICAvLyBOYW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBocmVmID0gSmF2YVNjcmlwdFV0aWxzLnZvaWRNZXRob2QsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBBbGlhcyBuYW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cGUgPSBCdXR0b24uVHBlTGluaywK</text>
+        <text encoding="base64">ICAgICAgICBhbGlhcyAK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
@@ -360,7 +362,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
