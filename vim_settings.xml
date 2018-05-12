@@ -3,13 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" timestamp="1526150144947">
-        <mark key="c" line="795" column="21" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="550" column="6" />
-        <mark key="]" line="550" column="18" />
-        <mark key="^" line="550" column="18" />
-        <mark key="." line="550" column="18" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" timestamp="1526152267820">
+        <mark key="c" line="798" column="21" />
+        <mark key="'" line="544" column="7" />
+        <mark key="[" line="546" column="15" />
+        <mark key="]" line="546" column="7" />
+        <mark key="^" line="546" column="7" />
+        <mark key="." line="544" column="48" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-2.0/component/_modal.scss" timestamp="1526150458280">
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="14" />
+        <mark key="." line="60" column="14" />
+        <mark key="^" line="60" column="14" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/Header.scala" timestamp="1525810121961">
         <mark key="[" line="25" column="77" />
@@ -29,20 +35,19 @@
         <mark key="." line="82" column="23" />
         <mark key="^" line="82" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_transition.scss" timestamp="1526147284410">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_transition.scss" timestamp="1526150977706">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/setting/Setting.scala" timestamp="1525940048672">
         <mark key="[" line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_focus.scss" timestamp="1526147375677">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="18" column="4" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_focus.scss" timestamp="1526151312744">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/RemindButton.scala" timestamp="1525886880412">
         <mark key="[" line="67" column="47" />
@@ -100,18 +105,21 @@
       <file name="/Dummy.txt" timestamp="1525812054141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_shadow.scss" timestamp="1526150316649" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_shadow.scss" timestamp="1526151221508">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="63" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/utils/UserLevelUtils.scala" timestamp="1526070240488">
         <mark key="[" line="59" column="29" />
         <mark key="]" line="59" column="35" />
         <mark key="." line="59" column="35" />
         <mark key="^" line="59" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Focus.scala" timestamp="1526147347328">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="6" column="12" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Focus.scala" timestamp="1526151367519">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="54" />
+        <mark key="^" line="6" column="54" />
+        <mark key="." line="6" column="54" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Modal.scala" timestamp="1525869342807">
         <mark key="[" line="21" column="24" />
@@ -124,11 +132,10 @@
         <mark key="^" line="72" column="48" />
         <mark key="." line="72" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" timestamp="1526150004690">
-        <mark key="[" line="59" column="77" />
-        <mark key="]" line="59" column="97" />
-        <mark key="." line="59" column="97" />
-        <mark key="^" line="59" column="97" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" timestamp="1526152389477">
+        <mark key="[" line="78" column="58" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/ApplicationSettings.scala" timestamp="1526069930096">
         <mark key="[" line="177" column="22" />
@@ -244,46 +251,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
       <jump line="74" column="46" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" />
       <jump line="45" column="3" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" />
+      <jump line="545" column="7" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TagMod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>TagMod</text>
+        <text>StatusNone</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBpY29uU3R5bGVzID0gVGFnTW9kKAogICAgU3R5bGUucG9zaXRpb24uYWJzb2x1dGUuY29vcmRpbmF0ZS50b3AwLmNvb3JkaW5hdGUuYm90dG9tMCwKICAgIFN0eWxlLmJhY2tncm91bmRDb2xvci53aGl0ZS5tYXJnaW4udmVyQXV0bywKICAgIF4ucmlnaHQgOj0gIjhweCIsCiAgKQo=</text>
+      <register name="0" type="4">
+        <text>box-shadow: var(--shadow-border) var(--color-primary-4)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8LmRpdihpY29uU3R5bGVzLCBJY29uQWNsKG5hbWUgPSBuYW1lKSgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QudmRvbS5odG1sXzxeCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBpY29uOiBWZG9tTm9kZSA9IHJlbmRlckljb24oSWNvbkFjbC5OYW1lQ3Jvc3MpCg==</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBTdGF0dXNBYmMgPSBTdGF0dXNOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBzdHlsZXM6IFRhZ01vZCA9IFN0eWxlLmJvcmRlckNvbG9yLnN1Y2Nlc3M0Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGlucHV0U3R5bGVzID0gU3R5bGUuZGlzcGxheS5ibG9jay53aWR0aC5wYzEwMC5mb2N1cy5zaGFkb3dCb3JkZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBzdHlsZXM6IFRhZ01vZCA9IFN0eWxlLmJvcmRlckNvbG9yLnN1Y2Nlc3M0Cg==</text>
+        <text encoding="base64">ICBwbGFjZWhvbGRlcjogU3RyaW5nID0gIiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb250ZXh0OiBWZG9tTm9kZSA9IEVtcHR5VmRvbSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICBzaXplOiBUZXh0SW5wdXQuU2l6ZSA9IFRleHRJbnB1dC5TaXplTWVkaXVtLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBpY29uU3R5bGVzID0gVGFnTW9kKAo=</text>
+        <text encoding="base64">ICBkZWYgc2hhZG93OiBTdHlsZSA9IG5ldyBTdHlsZShjbGFzc2VzIDorICJmYy1zIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0eWxlLnBvc2l0aW9uLmFic29sdXRlLmNvb3JkaW5hdGUudG9wMC5jb29yZGluYXRlLmJvdHRvbTAsCiAgICBTdHlsZS5iYWNrZ3JvdW5kQ29sb3Iud2hpdGUubWFyZ2luLnZlckF1dG8sCiAgICBUYWdNb2QoXi5yaWdodCA6PSAiOHB4IiwgXi5oZWlnaHQgOj0gIjE2cHgiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
@@ -352,6 +360,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
