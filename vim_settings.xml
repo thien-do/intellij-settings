@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" timestamp="1526152267820">
-        <mark key="c" line="798" column="21" />
-        <mark key="'" line="544" column="7" />
-        <mark key="[" line="546" column="15" />
-        <mark key="]" line="546" column="7" />
-        <mark key="^" line="546" column="7" />
-        <mark key="." line="544" column="48" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" timestamp="1526154164377">
+        <mark key="c" line="782" column="21" />
+        <mark key="'" line="709" column="12" />
+        <mark key="[" line="708" column="12" />
+        <mark key="]" line="708" column="26" />
+        <mark key="^" line="708" column="26" />
+        <mark key="." line="708" column="26" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-2.0/component/_modal.scss" timestamp="1526150458280">
         <mark key="[" line="60" column="15" />
@@ -252,13 +252,15 @@
       <jump line="74" column="46" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" />
       <jump line="45" column="3" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" />
       <jump line="545" column="7" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
+      <jump line="707" column="18" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
+      <jump line="709" column="12" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>renderNames</text>
       </register>
       <register name="-" type="4">
-        <text>StatusNone</text>
+        <text>renderNames</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
@@ -267,31 +269,31 @@
         <text>box-shadow: var(--shadow-border) var(--color-primary-4)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiVXBsb2FkIGEgbG9nbyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QudmRvbS5odG1sXzxeCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiVXBsb2FkIGEgbG9nbyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjYXNlIG9iamVjdCBTdGF0dXNBYmMgPSBTdGF0dXNOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIEljb25BY2wobmFtZSA9IEljb25BY2wuTmFtZVVwbG9hZCkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGlucHV0U3R5bGVzID0gU3R5bGUuZGlzcGxheS5ibG9jay53aWR0aC5wYzEwMC5mb2N1cy5zaGFkb3dCb3JkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBocmVmID0gSmF2YVNjcmlwdFV0aWxzLnZvaWRNZXRob2QsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwbGFjZWhvbGRlcjogU3RyaW5nID0gIiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cGUgPSBCdXR0b24uVHBlTGluaywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb250ZXh0OiBWZG9tTm9kZSA9IEVtcHR5VmRvbSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIEljb25BY2wobmFtZSA9IEljb25BY2wuTmFtZVRyYXNoKSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzaXplOiBUZXh0SW5wdXQuU2l6ZSA9IFRleHRJbnB1dC5TaXplTWVkaXVtLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiUmVtb3ZlIHRoaXMgbG9nbyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgc2hhZG93OiBTdHlsZSA9IG5ldyBTdHlsZShjbGFzc2VzIDorICJmYy1zIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBocmVmID0gSmF2YVNjcmlwdFV0aWxzLnZvaWRNZXRob2QsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cGUgPSBCdXR0b24uVHBlTGluaywK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
