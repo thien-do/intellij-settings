@@ -66,7 +66,6 @@
         <mark key="^" line="156" column="16" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/TransactionGeneralInfoAndTerms.scala" timestamp="1526215693686" />
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/BorderRadius.scala" timestamp="1526163975281">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="16" column="9" />
@@ -118,11 +117,11 @@
         <mark key="^" line="54" column="75" />
         <mark key="." line="54" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Checkbox.scala" timestamp="1526062615381">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="80" />
-        <mark key="^" line="67" column="26" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Checkbox.scala" timestamp="1526293800240">
+        <mark key="[" line="40" column="177" />
+        <mark key="]" line="40" column="176" />
+        <mark key="^" line="40" column="176" />
+        <mark key="." line="40" column="176" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_shadow.scss" timestamp="1526158423407">
         <mark key="[" line="9" column="0" />
@@ -278,10 +277,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApKCksCg==</text>
+        <text encoding="base64">ICAgIC8vIGZvcm1hdDogb2ZmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
@@ -290,31 +289,31 @@
         <text encoding="base64">ICAgICAgICAgIHBsYWNlaG9sZGVyID0gIkVudGVyIHRoZSBsZWdhbCBuYW1lIGZvciB5b3VyIG9yZ2FuaXphdGlvbiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApKCksCg==</text>
+        <text encoding="base64">ICAgIC8vIGZvcm1hdDogb2ZmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlzUmVhZE9ubHkgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgIC8vIGZvcm1hdDogb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlID0gb25TeW5jRmllbGRDaGFuZ2UoU3RhdGUuZW50aXR5TmFtZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHRoZSBUYWdNb2RzIGJlbG93IGhhdmUgbm8gZnVuY3Rpb25hbGl0eSBlZmZlY3RzLiBUaGV5IGFyZSBmb3IgY29kZSBmb3JtYXQgcHVycG9zZSBvbmx5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlID0gc3RhdGUuZW50aXR5TmFtZS52YWx1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0SW5wdXQoCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApKCksCg==</text>
+        <text encoding="base64">ICAgICAgICBUYWdNb2Qgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRleHQgPSAidGUiCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNpemUgPSBUZXh0SW5wdXQuU2l6ZUxhcmdlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsYWNlaG9sZGVyID0gIkVudGVyIHRoZSBsZWdhbCBuYW1lIGZvciB5b3VyIG9yZ2FuaXphdGlvbiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
