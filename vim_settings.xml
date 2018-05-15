@@ -134,6 +134,12 @@
         <mark key="." line="19" column="49" />
         <mark key="^" line="62" column="74" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" timestamp="1526362733039">
+        <mark key="[" line="352" column="47" />
+        <mark key="]" line="352" column="47" />
+        <mark key="." line="352" column="47" />
+        <mark key="^" line="352" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_shadow.scss" timestamp="1526158423407">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -297,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
