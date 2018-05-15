@@ -87,11 +87,10 @@
       <file name="/Dummy.scala" timestamp="1526357921493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" timestamp="1526375533636">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="126" column="6" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" timestamp="1526376727989">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dialog/EntitySetupForAdminPortalDialog.scala" timestamp="1526164010369">
         <mark key="[" line="445" column="52" />
@@ -303,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG11bHRpcGxlLnN0cmluZy5saXRlcmFscyBtZXRob2QubGVuZ3RoIGN5Y2xvbWF0aWMuY29tcGxleGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICBeLmhlaWdodCA6PSAiIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>isWeeklyDigestUnsubscribed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
@@ -315,21 +314,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgcG9zaXRpb24gPSBQb3NpdGlvbkJvdHRvbSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG11bHRpcGxlLnN0cmluZy5saXRlcmFscyBtZXRob2QubGVuZ3RoIGN5Y2xvbWF0aWMuY29tcGxleGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICBeLmhlaWdodCA6PSAiIiwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PC5wKAogICAgICAgICAgICBTdHlsZS53aWR0aC5wYzYwLm1hcmdpbi50b3A4LmNvbG9yLmdyYXk3LAogICAgICAgICAgICBVc2VyTGV2ZWxVdGlscy5nZXRVc2VyTGV2ZWxEZXNjcmlwdGlvbihzdGF0ZS51c2VyTGV2ZWwpCiAgICAgICAgICAp</text>
+      <register name="2" type="8">
+        <text>updatedUnsubscribedStages
+updatedUnsubscribedStages
+updatedUnsubscribedStages</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGlucHV0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA8LSBzCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG11bHRpcGxlLnN0cmluZy5saXRlcmFscyBtZXRob2QubGVuZ3RoIGN5Y2xvbWF0aWMuY29tcGxleGl0eQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PC5wKAogICAgICAgICAgICBTdHlsZS53aWR0aC5wYzYwLm1hcmdpbi50b3A4LmNvbG9yLmdyYXk3LAogICAgICAgICAgICBVc2VyTGV2ZWxVdGlscy5nZXRVc2VyTGV2ZWxEZXNjcmlwdGlvbihzdGF0ZS51c2VyTGV2ZWwpCiAgICAgICAgICAp</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgdmFsIGlucHV0ID0gCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGlucHV0ID0gCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>scope.modState(
           _.copy(
             userLevel = dropdownItem.key,
@@ -339,15 +349,6 @@
           ),
           onChange
         )</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIChwcm9wcy5vdXRlclByb3BzLnVuc3Vic2NyaWJlZFN0YWdlcywgcHJvcHMub3V0ZXJQcm9wcy5pc1dlZWtseURpZ2VzdFVuc3Vic2NyaWJlZCkK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
