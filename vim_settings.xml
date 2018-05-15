@@ -111,12 +111,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Radio.scala" timestamp="1526295009189">
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Radio.scala" timestamp="1526353023433">
         <mark key="'" line="79" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="78" column="7" />
         <mark key="^" line="22" column="49" />
-        <mark key="." line="30" column="0" />
+        <mark key="." line="78" column="7" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Checkbox.scala" timestamp="1526295248080">
         <mark key="[" line="67" column="7" />
@@ -275,11 +275,11 @@
       <jump line="74" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Radio.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5tYXJnaW4ubGVmdDQsCg==</text>
+      <register name="&quot;" type="4">
+        <text>when(props.isChecked)</text>
       </register>
       <register name="-" type="4">
-        <text>stickyTable</text>
+        <text>when(props.isChecked)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
