@@ -87,11 +87,11 @@
       <file name="/Dummy.scala" timestamp="1526357921493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" timestamp="1526374212207">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="195" column="37" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" timestamp="1526375533636">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="126" column="6" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dialog/EntitySetupForAdminPortalDialog.scala" timestamp="1526164010369">
         <mark key="[" line="445" column="52" />
@@ -144,11 +144,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/utils/UserLevelUtils.scala" timestamp="1526070240488">
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="59" column="35" />
-        <mark key="." line="59" column="35" />
-        <mark key="^" line="59" column="35" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/utils/UserLevelUtils.scala" timestamp="1526375153194">
+        <mark key="[" line="32" column="103" />
+        <mark key="]" line="32" column="103" />
+        <mark key="." line="32" column="103" />
+        <mark key="^" line="32" column="116" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Focus.scala" timestamp="1526151367519">
         <mark key="[" line="6" column="53" />
@@ -299,13 +299,14 @@
       <jump line="368" column="38" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
       <jump line="61" column="19" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/EntitySettingForm.scala" />
       <jump line="74" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Radio.scala" />
+      <jump line="103" column="11" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG11bHRpcGxlLnN0cmluZy5saXRlcmFscyBtZXRob2QubGVuZ3RoIGN5Y2xvbWF0aWMuY29tcGxleGl0eQo=</text>
       </register>
       <register name="-" type="4">
-        <text>outerProps</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlbmRzXD4=</text>
@@ -314,31 +315,39 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgcG9zaXRpb24gPSBQb3NpdGlvbkJvdHRvbSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG11bHRpcGxlLnN0cmluZy5saXRlcmFscyBtZXRob2QubGVuZ3RoIGN5Y2xvbWF0aWMuY29tcGxleGl0eQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">PC5wKAogICAgICAgICAgICBTdHlsZS53aWR0aC5wYzYwLm1hcmdpbi50b3A4LmNvbG9yLmdyYXk3LAogICAgICAgICAgICBVc2VyTGV2ZWxVdGlscy5nZXRVc2VyTGV2ZWxEZXNjcmlwdGlvbihzdGF0ZS51c2VyTGV2ZWwpCiAgICAgICAgICAp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgPT4K</text>
+        <text encoding="base64">ICAgICAgdmFsIGlucHV0ID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgPT4KICAgICAgICAgIHN0YXRlLmNvcHkoCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGlucHV0ID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sdW1ucyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVmRvbUFycmF5KAo=</text>
+      <register name="6" type="4">
+        <text>scope.modState(
+          _.copy(
+            userLevel = dropdownItem.key,
+            isActivityUnsubscribed = allAvailableStages(props).subsetOf(unsubscribedStages.toSet),
+            unsubscribedStages = unsubscribedStages,
+            isWeeklyDigestUnsubscribed = isWeeklyDigestUnsubscribed
+          ),
+          onChange
+        )</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBwb3NpdGlvbiA9IFBvc2l0aW9uVG9wLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uID0gUG9zaXRpb25Ub3AsCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uID0gUG9zaXRpb25Ub3AsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIChwcm9wcy5vdXRlclByb3BzLnVuc3Vic2NyaWJlZFN0YWdlcywgcHJvcHMub3V0ZXJQcm9wcy5pc1dlZWtseURpZ2VzdFVuc3Vic2NyaWJlZCkK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
