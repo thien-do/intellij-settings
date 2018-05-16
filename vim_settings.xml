@@ -38,8 +38,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Test.scala" timestamp="1526425082549">
-        <mark key="[" line="9" column="13" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Test.scala" timestamp="1526462786021">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/_org-type-selector.scss" timestamp="1526159203921">
         <mark key="[" line="45" column="0" />
@@ -87,11 +90,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Test2.scala" timestamp="1526425034205">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="24" column="29" />
-        <mark key="." line="24" column="24" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Test2.scala" timestamp="1526425160624">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/Dummy.scala" timestamp="1526409444181">
         <mark key="[" line="0" column="0" />
@@ -134,7 +137,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Radio.scala" timestamp="1526353023433">
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Radio.scala" timestamp="1526462159310">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="78" column="7" />
         <mark key="]" line="78" column="7" />
@@ -147,11 +150,11 @@
         <mark key="." line="19" column="49" />
         <mark key="^" line="62" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" timestamp="1526424471170">
-        <mark key="[" line="99" column="19" />
-        <mark key="]" line="99" column="20" />
-        <mark key="^" line="99" column="20" />
-        <mark key="." line="99" column="20" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" timestamp="1526463133935">
+        <mark key="[" line="99" column="10" />
+        <mark key="]" line="99" column="14" />
+        <mark key="^" line="99" column="14" />
+        <mark key="." line="99" column="14" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_shadow.scss" timestamp="1526158423407">
         <mark key="[" line="9" column="0" />
@@ -175,6 +178,7 @@
         <mark key="]" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/build%40artifactory.anduintransact.com/artifactory/anduin-plugins-maven/com/github/japgolly/scalajs-react/core_sjs0.6_2.12/1.2.0/core_sjs0.6_2.12-1.2.0-sources.jar!/japgolly/scalajs/react/component/builder/Builder.scala" timestamp="1526461241734" />
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Layout.scala" timestamp="1525772589066">
         <mark key="[" line="68" column="15" />
         <mark key="]" line="72" column="48" />
@@ -323,44 +327,46 @@
       <jump line="253" column="70" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" />
       <jump line="147" column="20" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" />
+      <jump line="23" column="2" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Test.scala" />
+      <jump line="15" column="11" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Test.scala" />
+      <jump line="97" column="35" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>getTextInputStatus</text>
+        <text>TestInt(Test.Props[Int](&quot;a&quot;, 1))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBUZXN0SW50ID0gVGVzdFtJbnRdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc2NvcGUudG9TdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0ZXN0RnVsbCA9IG5ldyBUZXN0RnVsbFtJbnRdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc2NvcGUudG9TdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgVGVzdEludChUZXN0LlByb3BzW0ludF0oImEiLCAxKSksCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>_
-//</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc2NvcGUudG9TdHJpbmcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc2NvcGUudG9TdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0ZXN0RnVsbCA9IFRlcwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
