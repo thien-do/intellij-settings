@@ -68,11 +68,20 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/EntityTopNavBar.scala" timestamp="1526552179299">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="47" column="37" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Tooltip.scala" timestamp="1526358048404">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="84" column="86" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/common/TopRightNavBar.scala" timestamp="1526553187592">
+        <mark key="'" line="25" column="11" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Shadow.scala" timestamp="1526158432767">
         <mark key="[" line="10" column="0" />
@@ -121,6 +130,12 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/MainLayout.scala" timestamp="1526552555927">
+        <mark key="[" line="107" column="26" />
+        <mark key="]" line="107" column="26" />
+        <mark key="." line="107" column="26" />
+        <mark key="^" line="107" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_border-radius.scss" timestamp="1526163924691">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="0" />
@@ -163,7 +178,7 @@
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
       </file>
-      <file name="/sbtShell" timestamp="1526125679963">
+      <file name="/sbtShell" timestamp="1526551942935">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -354,10 +369,11 @@
       <jump line="10" column="31" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Test.scala" />
       <jump line="9" column="17" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Foo.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Foo.scala" />
+      <jump line="25" column="11" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/common/TopRightNavBar.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -369,33 +385,31 @@
         <text encoding="base64">ICBwcml2YXRlIHZhbCBjb21wb25lbnQgPSBTY2FsYUNvbXBvbmVudAogICAgLmJ1aWxkZXJbRm9vLlByb3BzW1RdXSh0aGlzLmdldENsYXNzLmdldFNpbXBsZU5hbWUpCiAgICAuc3RhdGVsZXNzCiAgICAucmVuZGVyQmFja2VuZFtGb28uQmFja2VuZFtUXV0KICAgIC5idWlsZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5yb2hhbi5tb2R1bGUuZW50aXR5Lm1lbWJlci5JbnZpdGVNZW1iZXJNb2RhbC50ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICA8LmRpdigK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIF4uY2xzIDo9ICJlbnRpdHktbGF5b3V0IG92ZXJmbG93LWhpZGRlbiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBGb29JbnQ6ID0gKG5ldyBGb29bSW50XSkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2YWwgUGVyc29uYWxEYXNoYm9hcmROYW1lOiBTdHJpbmcgPSAiTXkgRGFzaGJvYXJkIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIFByb3BzW1RdKGJhcjogU3RyaW5nID0gImEiLCBiYXo6IFQpIHsK</text>
+        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuY29tcG9uZW50LlNjYWxhLlVubW91bnRlZAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>def apply(implicit fooBuilder: FooBuilder[T]): VdomNode = {
-      fooBuilder.component(this)
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
