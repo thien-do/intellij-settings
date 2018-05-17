@@ -181,6 +181,12 @@
         <mark key="." line="32" column="103" />
         <mark key="^" line="32" column="116" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/EntityPage.scala" timestamp="1526548540573">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Focus.scala" timestamp="1526151367519">
         <mark key="[" line="6" column="53" />
         <mark key="]" line="6" column="54" />
@@ -350,11 +356,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Foo.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5yb2hhbi5tb2R1bGUuZW50aXR5Lm1lbWJlci5JbnZpdGVNZW1iZXJNb2RhbC50ZXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>FooBuilder</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
@@ -363,33 +369,33 @@
         <text encoding="base64">ICBwcml2YXRlIHZhbCBjb21wb25lbnQgPSBTY2FsYUNvbXBvbmVudAogICAgLmJ1aWxkZXJbRm9vLlByb3BzW1RdXSh0aGlzLmdldENsYXNzLmdldFNpbXBsZU5hbWUpCiAgICAuc3RhdGVsZXNzCiAgICAucmVuZGVyQmFja2VuZFtGb28uQmFja2VuZFtUXV0KICAgIC5idWlsZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5yb2hhbi5tb2R1bGUuZW50aXR5Lm1lbWJlci5JbnZpdGVNZW1iZXJNb2RhbC50ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5yb2hhbi5tb2R1bGUuZW50aXR5Lm1lbWJlci5JbnZpdGVNZW1iZXJNb2RhbC50ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBGb29JbnQ6ID0gKG5ldyBGb29bSW50XSkoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBGb29JbnQ6ID0gKG5ldyBGb29bSW50XSkoKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBjYXNlIGNsYXNzIFByb3BzW1RdKGJhcjogU3RyaW5nID0gImEiLCBiYXo6IFQpIHsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>def apply(implicit fooBuilder: FooBuilder[T]): VdomNode = {
       fooBuilder.component(this)
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
