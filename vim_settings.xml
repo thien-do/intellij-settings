@@ -97,12 +97,12 @@
         <mark key="^" line="72" column="48" />
         <mark key="." line="72" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/menu/MenuItem.scala" timestamp="1526659689458">
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/menu/MenuItem.scala" timestamp="1526663991797">
         <mark key="'" line="13" column="26" />
-        <mark key="[" line="42" column="106" />
-        <mark key="]" line="42" column="105" />
-        <mark key="^" line="42" column="105" />
-        <mark key="." line="42" column="105" />
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/CheckBox.scala" timestamp="1525941060617">
         <mark key="[" line="12" column="21" />
@@ -522,9 +522,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/transaction/TransactionTabRenderUtils.scala" timestamp="1526662611458">
-        <mark key="^" line="208" column="35" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/signature/signature/js/src/main/scala/com/anduin/signature/client/components/PredefinedLocationArea.scala" timestamp="1526587397844">
         <mark key="[" line="26" column="24" />
         <mark key="]" line="26" column="24" />
@@ -663,57 +660,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkaXRpb25hbENscyA9IFN0eWxlLm1hcmdpbi5yaWdodDEyLnZhbHVlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>Normal</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Normal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgaG9yQXV0bzogU3R5bGUgPSBuZXcgU3R5bGUoY2xhc3NlcyA6KyAibWgtYXV0byIpCg==</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBDb2xvclByaW1hcnkgZXh0ZW5kcyBDb2xvciB7IHZhbCBzdHlsZXM6IFN0eWxlID0gU3R5bGUuY29sb3IucHJpbWFyeTQuaG92ZXIuYmFja2dyb3VuZFByaW1hcnk0IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkaXRpb25hbENscyA9IFN0eWxlLm1hcmdpbi5yaWdodDEyLnZhbHVlLAo=</text>
+        <text encoding="base64">ICAgICAgcHJvcHMuCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>SingleEntityLogo(
-            entityId = entityId,
-            defaultLogo = EntityLogo.DefaultLogo.Empty,
-            additionalCls = Style.margin.right12.value,
-            size = EntityLogo.LogoSize.Small
-          )()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBDb2xvckdyYXkgZXh0ZW5kcyBDb2xvciB7IHZhbCBzdHlsZXMgPSBTdHlsZS5jb2xvci5ncmF5OC5ob3Zlci5iYWNrZ3JvdW5kUHJpbWFyeTQgfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBDb2xvckdyYXkgZXh0ZW5kcyBDb2xvciB7IHZhbCBzdHlsZXMgPSBTdHlsZS5jb2xvci5ncmF5OC5ob3Zlci5iYWNrZ3JvdW5kUHJpbWFyeTQgfQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>SingleEntityLogo(
-          entityId = entityId,
-          defaultLogo = EntityLogo.DefaultLogo.Empty,
-          additionalCls = Style.margin.right12.value,
-          size = EntityLogo.LogoSize.Small
-        )()</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb3BzLm91dGVyUHJvcHMuYWRkaXRpb25hbENscywK</text>
+        <text encoding="base64">ICBjb2xvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgZmxleCA9IFN0eWxlLmZsZXhib3guZmxleC5mbGV4Ym94Lmp1c3RpZnlDZW50ZXIuZmxleGJveC5pdGVtc0NlbnRlci50ZXh0QWxpZ24uY2VudGVyCiAgcHJpdmF0ZSB2YWwgcm91bmRlZCA9IFN0eWxlLmJvcmRlclJhZGl1cy5weDIub3ZlcmZsb3cuaGlkZGVuCiAgcHJpdmF0ZSB2YWwgd2hpdGUgPSBTdHlsZS5iYWNrZ3JvdW5kQ29sb3Iud2hpdGUKICBwcml2YXRlIHZhbCBncmF5ID0gU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXk0LmNvbG9yLndoaXRlCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgZmxleCA9IFN0eWxlLmZsZXhib3guZmxleC5mbGV4Ym94Lmp1c3RpZnlDZW50ZXIuZmxleGJveC5pdGVtc0NlbnRlci50ZXh0QWxpZ24uY2VudGVyCiAgcHJpdmF0ZSB2YWwgcm91bmRlZCA9IFN0eWxlLmJvcmRlclJhZGl1cy5weDIub3ZlcmZsb3cuaGlkZGVuCiAgcHJpdmF0ZSB2YWwgd2hpdGUgPSBTdHlsZS5iYWNrZ3JvdW5kQ29sb3Iud2hpdGUKICBwcml2YXRlIHZhbCBncmF5ID0gU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXk0LmNvbG9yLndoaXRlCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUYWdNb2Qod2hpdGUsIHJvdW5kZWQsIHNpemVNb2QpLAo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5ib3JkZXJSYWRpdXMucHgyLm92ZXJmbG93LmhpZGRlbiwK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
