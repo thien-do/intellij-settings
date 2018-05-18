@@ -85,10 +85,12 @@
         <mark key="^" line="72" column="48" />
         <mark key="." line="72" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/menu/MenuItem.scala" timestamp="1526596832260">
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="18" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/menu/MenuItem.scala" timestamp="1526654197304">
+        <mark key="'" line="11" column="26" />
+        <mark key="[" line="40" column="73" />
+        <mark key="]" line="40" column="71" />
+        <mark key="." line="40" column="71" />
+        <mark key="^" line="40" column="71" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/CheckBox.scala" timestamp="1525941060617">
         <mark key="[" line="12" column="21" />
@@ -612,19 +614,20 @@
       <jump line="41" column="25" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/text/Tag.scala" />
       <jump line="49" column="30" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/text/Tag.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/text/Tag.scala" />
+      <jump line="11" column="26" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/menu/MenuItem.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>entityModel</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>entityModel</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
@@ -633,31 +636,31 @@
         <text encoding="base64">ICBvdXRsaW5lOiAycHggc29saWQgdmFyKC0tY29sb3ItcHJpbWFyeS0yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0YXJnZXRQYWdlOiBPcHRpb25bRW50aXR5RGFzaGJvYXJkUGFnZV0gPSBOb25lCg==</text>
+        <text encoding="base64">ICBjb2xvcjogTWVudUl0ZW0uQ29sb3IgPSBNZW51SXRlbS5EZWZhdWx0LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJvcHMub3V0ZXJQcm9wcy4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDwuZGl2KHByb3BzLmVudGl0aWVzLnNpemUpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAucmVuZGVyQgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC5yZW5kZXJCYWNrZW5kV2l0aENoaWxkcmVuW0JhY2tlbmRdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTdHlsZS5jb2xvci5ncmF5OC5ob3Zlci5iYWNrZ3JvdW5kUHJpbWFyeTQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBQcmltYXJ5IGV4dGVuZHMgQ29sb3IgeyB2YWwgc3R5bGU6IFRhZ01vZCA9IFN0eWxlLmNvbG9yLnByaW1hcnk0LmhvdmVyLmJhY2tncm91bmRQcmltYXJ5NCB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlIFByb3BzOiBNZW51Cg==</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBXYXJuaW5nIGV4dGVuZHMgQ29sb3IgeyB2YWwgc3R5bGU6IFRhZ01vZCA9IFN0eWxlLmNvbG9yLndhcm5pbmc0LmhvdmVyLmJhY2tncm91bmRXYXJuaW5nNCB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBTdWNjZXNzIGV4dGVuZHMgQ29sb3IgeyB2YWwgc3R5bGU6IFRhZ01vZCA9IFN0eWxlLmNvbG9yLnN1Y2Nlc3M0LmhvdmVyLmJhY2tncm91bmRTdWNjZXNzNCB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHkoKTogTWVudS5jb21wb25lbnQudHlwZSA9IGNvbXBvbmVudAo=</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBEYW5nZXIgZXh0ZW5kcyBDb2xvciB7IHZhbCBzdHlsZTogVGFnTW9kID0gU3R5bGUuY29sb3IuZGFuZ2VyNC5ob3Zlci5iYWNrZ3JvdW5kRGFuZ2VyNCB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
