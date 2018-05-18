@@ -58,10 +58,11 @@
         <mark key="." line="39" column="6" />
         <mark key="^" line="39" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/common/EntityLogo.scala" timestamp="1526660646938">
-        <mark key="[" line="87" column="51" />
-        <mark key="]" line="87" column="51" />
-        <mark key="." line="87" column="51" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/common/EntityLogo.scala" timestamp="1526662410852">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="56" column="31" />
+        <mark key="^" line="56" column="31" />
+        <mark key="." line="56" column="31" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/EntityTopNavBar.scala" timestamp="1526552179299">
         <mark key="[" line="48" column="0" />
@@ -313,6 +314,11 @@
         <mark key="]" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/common/SingleEntityLogo.scala" timestamp="1526662557577">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/TermSheetMainView.scala" timestamp="1526652837067">
         <mark key="[" line="1105" column="34" />
         <mark key="]" line="1105" column="35" />
@@ -516,6 +522,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/transaction/TransactionTabRenderUtils.scala" timestamp="1526662611458">
+        <mark key="^" line="208" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/signature/signature/js/src/main/scala/com/anduin/signature/client/components/PredefinedLocationArea.scala" timestamp="1526587397844">
         <mark key="[" line="26" column="24" />
         <mark key="]" line="26" column="24" />
@@ -654,14 +663,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWRkaXRpb25hbENscyA9IFN0eWxlLm1hcmdpbi5yaWdodDEyLnZhbHVlLAo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
@@ -670,31 +679,41 @@
         <text encoding="base64">ICBkZWYgaG9yQXV0bzogU3R5bGUgPSBuZXcgU3R5bGUoY2xhc3NlcyA6KyAibWgtYXV0byIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZUVudGl0eUxvZ28oIGVudGl0eUlkID0gaWQsIHNpemUgPSBFbnRpdHlMb2dvLkxvZ29TaXplLkR5bmFtaWMoMjQpICkoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkaXRpb25hbENscyA9IFN0eWxlLm1hcmdpbi5yaWdodDEyLnZhbHVlLAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLmJvcmRlclJhZGl1cy5weDIub3ZlcmZsb3cuaGlkZGVuLAo=</text>
+      <register name="2" type="4">
+        <text>SingleEntityLogo(
+            entityId = entityId,
+            defaultLogo = EntityLogo.DefaultLogo.Empty,
+            additionalCls = Style.margin.right12.value,
+            size = EntityLogo.LogoSize.Small
+          )()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGVmYXVsdExvZ28gPSBFbnRpdHlMb2dvLkRlZmF1bHRMb2dvLk9yZ1R5cGUobW9kZWwuZW50aXR5VHlwZSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxvZ29TaXplID0gCg==</text>
+      <register name="4" type="4">
+        <text>SingleEntityLogo(
+          entityId = entityId,
+          defaultLogo = EntityLogo.DefaultLogo.Empty,
+          additionalCls = Style.margin.right12.value,
+          size = EntityLogo.LogoSize.Small
+        )()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIF4uc3JjIDo9IGxvZ29VcmwK</text>
+        <text encoding="base64">ICAgICAgICAgIHByb3BzLm91dGVyUHJvcHMuYWRkaXRpb25hbENscywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLmJvcmRlclN0eWxlLnNvbGlkLmJvcmRlcldpZHRoLnB4MS5ib3JkZXJDb2xvci5ncmF5NiwK</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgZmxleCA9IFN0eWxlLmZsZXhib3guZmxleC5mbGV4Ym94Lmp1c3RpZnlDZW50ZXIuZmxleGJveC5pdGVtc0NlbnRlci50ZXh0QWxpZ24uY2VudGVyCiAgcHJpdmF0ZSB2YWwgcm91bmRlZCA9IFN0eWxlLmJvcmRlclJhZGl1cy5weDIub3ZlcmZsb3cuaGlkZGVuCiAgcHJpdmF0ZSB2YWwgd2hpdGUgPSBTdHlsZS5iYWNrZ3JvdW5kQ29sb3Iud2hpdGUKICBwcml2YXRlIHZhbCBncmF5ID0gU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXk0LmNvbG9yLndoaXRlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgZmxleCA9IFN0eWxlLmZsZXhib3guZmxleC5mbGV4Ym94Lmp1c3RpZnlDZW50ZXIuZmxleGJveC5pdGVtc0NlbnRlci50ZXh0QWxpZ24uY2VudGVyCiAgcHJpdmF0ZSB2YWwgcm91bmRlZCA9IFN0eWxlLmJvcmRlclJhZGl1cy5weDIub3ZlcmZsb3cuaGlkZGVuCiAgcHJpdmF0ZSB2YWwgd2hpdGUgPSBTdHlsZS5iYWNrZ3JvdW5kQ29sb3Iud2hpdGUKICBwcml2YXRlIHZhbCBncmF5ID0gU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXk0LmNvbG9yLndoaXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUYWdNb2Qod2hpdGUsIHJvdW5kZWQsIHNpemVNb2QpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS5ib3JkZXJSYWRpdXMucHgyLm92ZXJmbG93LmhpZGRlbiwK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
