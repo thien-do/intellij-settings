@@ -429,10 +429,10 @@
         <mark key="." line="32" column="103" />
         <mark key="^" line="32" column="116" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/FundSubTopNavBar.scala" timestamp="1526656605997">
-        <mark key="[" line="60" column="41" />
-        <mark key="]" line="60" column="41" />
-        <mark key="." line="60" column="41" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/FundSubTopNavBar.scala" timestamp="1526737080686">
+        <mark key="[" line="108" column="73" />
+        <mark key="]" line="108" column="73" />
+        <mark key="." line="108" column="73" />
         <mark key="^" line="60" column="41" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/narya/narya/js/src/main/scala/anduin/narya/esign/EsignPage.scala" timestamp="1526587488128">
@@ -648,13 +648,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>div</text>
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
