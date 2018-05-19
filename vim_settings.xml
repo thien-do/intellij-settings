@@ -61,7 +61,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/common/UserMenu.scala" timestamp="1526674940427">
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/common/UserMenu.scala" timestamp="1526729146200">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="25" />
         <mark key="." line="35" column="0" />
@@ -114,6 +114,12 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/EntityHeader.scala" timestamp="1526729367859">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="88" column="48" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/narya/narya/jvm/src/main/scala/anduin/narya/graphql/web/NaryaMainIndex.scala" timestamp="1526677859012">
         <mark key="[" line="67" column="20" />
@@ -642,14 +648,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBeLmNscyA6PSAibGlzdCAtbGVmdC1saXN0IGl0ZW1zLWNlbnRlciBmbGV4IGl0ZW1zLWNlbnRlciIsCg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>VdomNode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
@@ -658,31 +664,31 @@
         <text encoding="base64">ICAgICAgICAgIFN0eWxlLm1hcmdpbi5ob3JBdXRvLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBeLmNscyA6PSAibGlzdCAtbGVmdC1saXN0IGl0ZW1zLWNlbnRlciBmbGV4IGl0ZW1zLWNlbnRlciIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICApIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5yZW5kZXJCYWNrZW5kV2l0aENoaWxkcmVuW0JhY2tlbmRdCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAiJ3MgZGFzaGJvYXJkIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNsYXNzIEJhY2tlbmQoKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICBVc2VybmFtZUZyb21JZChwcm9wcy51c2VySWQsIChfLCBfLCB1c2VyTmFtZTogU3RyaW5nKSA9PiA8LnNwYW4odXNlck5hbWUpKSgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIF4uY2xzIDo9ICJjZW50ZXIgdy02MCB0bCIsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgPC5oMygK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIF4uY2xzIDo9ICJjZW50ZXIgZnctNjAwIGF0LWdyYXktNyIsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3R5bGUuY29sb3Iud2hpdGUuZmxleGJveC5pbmxpbmVGbGV4LmZsZXhib3guaXRlbXNDZW50ZXIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIF4uY2xzIDo9ICJpbmxpbmUtZmxleCBhYnNvbHV0ZSByaWdodC0wIHRvcC0wIGJvdHRvbS0wIiwK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgIDwubGkoCg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
