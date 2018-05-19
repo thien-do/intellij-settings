@@ -159,7 +159,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="91" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/local/local.conf" timestamp="1526703921304">
+      <file name="$USER_HOME$/Code/anduin/stargazer/local/local.conf" timestamp="1526735002072">
         <mark key="[" line="198" column="2" />
         <mark key="]" line="198" column="2" />
         <mark key="." line="198" column="2" />
@@ -230,11 +230,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/EntityHeader.scala" timestamp="1526732149873">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="127" column="3" />
-        <mark key="." line="127" column="3" />
-        <mark key="^" line="127" column="3" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/EntityHeader.scala" timestamp="1526736077319">
+        <mark key="[" line="153" column="25" />
+        <mark key="]" line="153" column="26" />
+        <mark key="^" line="160" column="2" />
+        <mark key="." line="153" column="26" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/narya/narya/jvm/src/main/scala/anduin/narya/graphql/web/NaryaMainIndex.scala" timestamp="1526677859012">
         <mark key="[" line="67" column="20" />
@@ -522,9 +522,9 @@
         <mark key="." line="65" column="73" />
         <mark key="^" line="65" column="73" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/common/PrimaryNavigation.scala" timestamp="1526671239524">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="39" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/common/PrimaryNavigation.scala" timestamp="1526735251691">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="44" column="99" />
         <mark key="^" line="31" column="39" />
         <mark key="." line="16" column="54" />
       </file>
@@ -648,46 +648,52 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>div</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLm1hcmdpbi5ob3JBdXRvLAo=</text>
+      <register name="0" type="4">
+        <text>renderInternalTool(
+      router = router,
+      condition = props.showPortal,
+      target = DynamicAuthPage.Portal.Main,
+      icon = IconAcl.NameLightBoltCircle,
+      title = &quot;Internal Tools for Anduin Admins&quot;
+    )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3R5bGUubWFyZ2luLnJpZ2h0MTYsCg==</text>
+        <text encoding="base64">ICAgICAgaWNvbiA9IEljb25BY2wuTmFtZUxpZ2h0Qm9sdCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgaWNvbiA9IEljb25BY2wuTmFtZUxpZ2h0Qm9sdENpcmNsZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGljb246IEljb25BY2wuTmFtZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIDwuaDMoZW50aXR5TW9kZWwuYWxpYXMpCg==</text>
+        <text encoding="base64">ICAvLyA9PT0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIDwuZGl2KFN0eWxlLmNvbG9yLmdyYXk2Lm1hcmdpbi5ib3R0b200LCAiT3JnYW5pemF0aW9uIHBvcnRhbCIpLAo=</text>
+        <text encoding="base64">ICAgICAgPC5kaXYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIF4uY2xzIDo9IHMiJHtTdHlsZS5jb2xvci53aGl0ZS5tYXJnaW4ubGVmdDE2fSBlbnRpdHktaW5mbyIsCg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7IEVtcHR5VmRvbSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICA8LmRpdigK</text>
+        <text encoding="base64">ICAgICAgKSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJDb250ZW50ID0gKCkgPT4gIkludGVybmFsIFRvb2wgZm9yIEFuZHVpbidzIExlZ2FsIFRlYW0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
