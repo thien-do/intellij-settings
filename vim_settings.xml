@@ -242,18 +242,18 @@
         <mark key="^" line="11" column="94" />
         <mark key="." line="11" column="95" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonLink.scala" timestamp="1526831036120">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="38" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonLink.scala" timestamp="1526832551089">
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="41" column="33" />
+        <mark key="^" line="41" column="33" />
+        <mark key="." line="41" column="33" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberLink.scala" timestamp="1525869514203">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Popover.scala" timestamp="1526688726540">
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Popover.scala" timestamp="1526832407485">
         <mark key="[" line="79" column="57" />
         <mark key="]" line="79" column="58" />
         <mark key="." line="79" column="58" />
@@ -518,6 +518,9 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" timestamp="1526831812003">
+        <mark key="'" line="13" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/common/EntityMenu.scala" timestamp="1526748302777">
         <mark key="'" line="93" column="6" />
         <mark key="[" line="26" column="0" />
@@ -561,7 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTooltip.scala" />
       <jump line="14" column="27" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
       <jump line="28" column="21" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
       <jump line="41" column="21" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" />
@@ -661,19 +663,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Dropdown.scala" />
       <jump line="4" column="32" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Dropdown.scala" />
       <jump line="50" column="6" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Dropdown.scala" />
+      <jump line="13" column="6" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0cGU6IEJ1dHRvbi5UcGUgPSBCdXR0b24uVHBlQnV0dG9uLAo=</text>
+      <register name="&quot;" type="4">
+        <text>onClick</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>IconAcl(name = IconAcl.NameCaretDown)()</text>
+        <text>onClick</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
@@ -682,38 +685,31 @@
         <text encoding="base64">VGFnTW9kKENvbG9yTmV1dHJhbC5jb2xvciwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0cGU6IEJ1dHRvbi5UcGUgPSBCdXR0b24uVHBlQnV0dG9uLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpc0Rpc2FibGVkOiBCb29sZWFuID0gZmFsc2UsIC8vIGlmIHRwZSAhPSBsaW5rCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGNsYXNzIEJhY2tlbmQoc2NvcGU6IEJhY2tlbmRTY29wZVtCdXR0b24sIF9dKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC5zcGFuKAogICAgICAgIC8vIG1hbnVhbGx5IG1vdmUgaXQgYSBsaXR0bGUgYml0IHRvIHRoZSByaWdodCBmb3IgdmlzdWFsIHJlYXNvbgogICAgICAgIFRhZ01vZChTdHlsZS5tYXJnaW4ubGVmdEF1dG8ucG9zaXRpb24ucmVsYXRpdmUsIF4ucmlnaHQgOj0gIi04cHgiKSwKICAgICAgICBJY29uQWNsKG5hbWUgPSBJY29uQWNsLk5hbWVDYXJldERvd24pKCkKICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBpY29uU3R5bGVzID0gCg==</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBUcGVSZXNldCBleHRlbmRzIFRwZSB7IHZhbCB2YWx1ZSA9ICJyZXNldCIgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>LevelDropdown(
-            value = state.userLevel,
-            renderValue = UserLevelUtils.getUserLevelDisplay,
-            optionGroups = getLevelOptionGroups(state),
-            renderOption = renderLevelOption,
-            onChange = setLevel,
-            isDisabled = state.userLevel == UserLevelMessage.Signatory
-          )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBUcGVTdWJtaXQgZXh0ZW5kcyBUcGUgeyB2YWwgdmFsdWUgPSAic3VibWl0IiB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLndpZHRoLnBjMjUud2hlbihpc1dpZGUpLAo=</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBUcGVCdXR0b24gZXh0ZW5kcyBUcGUgeyB2YWwgdmFsdWUgPSAiYnV0dG9uIiB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLndpZHRoLnBjT25lUmQsCg==</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBUcGVMaW5rIGV4dGVuZHMgVHBlIHsgdmFsIHZhbHVlID0gImxpbmsiIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgsCg==</text>
+        <text encoding="base64">ICBzZWFsZWQgdHJhaXQgVHBlIHsgdmFsIHZhbHVlOiBTdHJpbmcgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICBvbkNsaWNrOiBDYWxsYmFjayA9IENhbGxiYWNrLmVtcHR5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
