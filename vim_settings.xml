@@ -299,17 +299,17 @@
         <mark key="^" line="7" column="56" />
         <mark key="." line="7" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1526784384454">
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1526792805848">
         <mark key="[" line="93" column="9" />
         <mark key="]" line="93" column="11" />
         <mark key="^" line="93" column="11" />
         <mark key="." line="93" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" timestamp="1526790993614">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="152" column="41" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationSettings.scala" timestamp="1526792091718">
+        <mark key="[" line="153" column="63" />
+        <mark key="]" line="153" column="71" />
+        <mark key="^" line="153" column="71" />
+        <mark key="." line="153" column="77" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/wirefund/common/CCFOToSendStockCertificatesIN.scala" timestamp="1526588191684">
         <mark key="[" line="116" column="0" />
@@ -356,10 +356,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="91" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Dropdown.scala" timestamp="1526790876578">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Dropdown.scala" timestamp="1526792405189">
+        <mark key="'" line="50" column="6" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="40" />
+        <mark key="." line="60" column="42" />
+        <mark key="^" line="60" column="40" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/local/local.conf" timestamp="1526735002072">
         <mark key="[" line="198" column="2" />
@@ -565,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="47" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTooltip.scala" />
       <jump line="14" column="27" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
       <jump line="28" column="21" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Table.scala" />
@@ -665,19 +666,20 @@
       <jump line="67" column="36" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Dropdown.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Dropdown.scala" />
       <jump line="4" column="32" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Dropdown.scala" />
+      <jump line="50" column="6" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Dropdown.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgsCg==</text>
+        <text encoding="base64">PC5zcGFuKAogICAgICAgIC8vIG1hbnVhbGx5IG1vdmUgaXQgYSBsaXR0bGUgYml0IHRvIHRoZSByaWdodCBmb3IgdmlzdWFsIHJlYXNvbgogICAgICAgIFRhZ01vZChTdHlsZS5tYXJnaW4ubGVmdEF1dG8ucG9zaXRpb24ucmVsYXRpdmUsIF4ucmlnaHQgOj0gIi04cHgiKSwKICAgICAgICBJY29uQWNsKG5hbWUgPSBJY29uQWNsLk5hbWVDYXJldERvd24pKCkKICAgICAgKQo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>IconAcl(name = IconAcl.NameCaretDown)()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
@@ -686,31 +688,38 @@
         <text encoding="base64">VGFnTW9kKENvbG9yTmV1dHJhbC5jb2xvciwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgsCg==</text>
+        <text encoding="base64">PC5zcGFuKAogICAgICAgIC8vIG1hbnVhbGx5IG1vdmUgaXQgYSBsaXR0bGUgYml0IHRvIHRoZSByaWdodCBmb3IgdmlzdWFsIHJlYXNvbgogICAgICAgIFRhZ01vZChTdHlsZS5tYXJnaW4ubGVmdEF1dG8ucG9zaXRpb24ucmVsYXRpdmUsIF4ucmlnaHQgOj0gIi04cHgiKSwKICAgICAgICBJY29uQWNsKG5hbWUgPSBJY29uQWNsLk5hbWVDYXJldERvd24pKCkKICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpY29uU3R5bGVzID0gCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLndpZHRoLnBjNzUsCg==</text>
+      <register name="3" type="4">
+        <text>LevelDropdown(
+            value = state.userLevel,
+            renderValue = UserLevelUtils.getUserLevelDisplay,
+            optionGroups = getLevelOptionGroups(state),
+            renderOption = renderLevelOption,
+            onChange = setLevel,
+            isDisabled = state.userLevel == UserLevelMessage.Signatory
+          )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8LmRpdigK</text>
+        <text encoding="base64">ICAgICAgICAgIFN0eWxlLndpZHRoLnBjMjUud2hlbihpc1dpZGUpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwuZGl2KFN0eWxlLndpZHRoLnBjNzAubWFyZ2luLnRvcDguY29sb3IuZ3JheTcsIFVzZXJMZXZlbFV0aWxzLmdldFVzZXJMZXZlbERlc2NyaXB0aW9uKHN0YXRlLnVzZXJMZXZlbCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0eWxlLndpZHRoLnBjT25lUmQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3BzLm9wdGlvbnMuZm9sZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gQ29udmVydCBmcm9tIGdyb3VwcyBvZiBvcHRpb25zCiAgICAgIC8vICAgKGVnOiBMaXN0W0xpc3QoMSwgMiwgMyksIExpc3QoNCwgNSksIExpc3QoNildKQogICAgICAvLyB0byBub2RlcyBvZiBvcHRpb25zIHdpdGggZGl2aWRlcnMgaW4gYmV0d2VlbjoKICAgICAgLy8gICAoZWc6IExpc3RbMSwgMiwgMywgZGl2LCA0LCA1LCBkaXYsIDZdKQogICAgICB2YWwgbm9kZXMgPSBwcm9wcy5vcHRpb25Hcm91cHMuemlwV2l0aEluZGV4CiAgICAgICAgLmZsYXRNYXAgewogICAgICAgICAgY2FzZSAoZ3JvdXAsIGluZGV4KSA9PgogICAgICAgICAgICB2YWwgb3B0aW9ucyA9IGdyb3VwLm1hcChyZW5kZXJPcHRpb24ocHJvcHMsIGNsb3NlLCBfKSkKICAgICAgICAgICAgdmFsIGRpdjogVmRvbU5vZGUgPSA8LmRpdiheLmtleSA6PSBpbmRleCwgTWVudURpdmlkZXIoKSgpKQogICAgICAgICAgICBvcHRpb25zIDorIGRpdgogICAgICAgIH0KICAgICAgICAuZHJvcFJpZ2h0KDEpCiAgICAgIE1lbnUoKShub2Rlcy50b1Zkb21BcnJheShub2RlID0+IG5vZGUpKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obm9kZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0eWxlLndpZHRoLnBjNzUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8LmRpdigK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
