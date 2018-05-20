@@ -242,6 +242,12 @@
         <mark key="^" line="11" column="94" />
         <mark key="." line="11" column="95" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonLink.scala" timestamp="1526831036120">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberLink.scala" timestamp="1525869514203">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -251,12 +257,6 @@
         <mark key="[" line="79" column="57" />
         <mark key="]" line="79" column="58" />
         <mark key="." line="79" column="58" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/Button.scala" timestamp="1525940571161">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="45" column="4" />
-        <mark key="." line="65" column="73" />
-        <mark key="^" line="65" column="73" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-2.0/component/_modal.scss" timestamp="1526659528193">
         <mark key="[" line="19" column="10" />
@@ -299,11 +299,11 @@
         <mark key="^" line="7" column="56" />
         <mark key="." line="7" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1526792805848">
-        <mark key="[" line="93" column="9" />
-        <mark key="]" line="93" column="11" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1526830950492">
+        <mark key="[" line="72" column="91" />
+        <mark key="]" line="72" column="92" />
         <mark key="^" line="93" column="11" />
-        <mark key="." line="93" column="11" />
+        <mark key="." line="72" column="92" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/wirefund/common/CCFOToSendStockCertificatesIN.scala" timestamp="1526588191684">
         <mark key="[" line="116" column="0" />
@@ -667,7 +667,7 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PC5zcGFuKAogICAgICAgIC8vIG1hbnVhbGx5IG1vdmUgaXQgYSBsaXR0bGUgYml0IHRvIHRoZSByaWdodCBmb3IgdmlzdWFsIHJlYXNvbgogICAgICAgIFRhZ01vZChTdHlsZS5tYXJnaW4ubGVmdEF1dG8ucG9zaXRpb24ucmVsYXRpdmUsIF4ucmlnaHQgOj0gIi04cHgiKSwKICAgICAgICBJY29uQWNsKG5hbWUgPSBJY29uQWNsLk5hbWVDYXJldERvd24pKCkKICAgICAgKQo=</text>
+        <text encoding="base64">ICB0cGU6IEJ1dHRvbi5UcGUgPSBCdXR0b24uVHBlQnV0dG9uLAo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -682,12 +682,18 @@
         <text encoding="base64">VGFnTW9kKENvbG9yTmV1dHJhbC5jb2xvciwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC5zcGFuKAogICAgICAgIC8vIG1hbnVhbGx5IG1vdmUgaXQgYSBsaXR0bGUgYml0IHRvIHRoZSByaWdodCBmb3IgdmlzdWFsIHJlYXNvbgogICAgICAgIFRhZ01vZChTdHlsZS5tYXJnaW4ubGVmdEF1dG8ucG9zaXRpb24ucmVsYXRpdmUsIF4ucmlnaHQgOj0gIi04cHgiKSwKICAgICAgICBJY29uQWNsKG5hbWUgPSBJY29uQWNsLk5hbWVDYXJldERvd24pKCkKICAgICAgKQo=</text>
+        <text encoding="base64">ICB0cGU6IEJ1dHRvbi5UcGUgPSBCdXR0b24uVHBlQnV0dG9uLAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBpc0Rpc2FibGVkOiBCb29sZWFuID0gZmFsc2UsIC8vIGlmIHRwZSAhPSBsaW5rCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PC5zcGFuKAogICAgICAgIC8vIG1hbnVhbGx5IG1vdmUgaXQgYSBsaXR0bGUgYml0IHRvIHRoZSByaWdodCBmb3IgdmlzdWFsIHJlYXNvbgogICAgICAgIFRhZ01vZChTdHlsZS5tYXJnaW4ubGVmdEF1dG8ucG9zaXRpb24ucmVsYXRpdmUsIF4ucmlnaHQgOj0gIi04cHgiKSwKICAgICAgICBJY29uQWNsKG5hbWUgPSBJY29uQWNsLk5hbWVDYXJldERvd24pKCkKICAgICAgKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHZhbCBpY29uU3R5bGVzID0gCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>LevelDropdown(
             value = state.userLevel,
             renderValue = UserLevelUtils.getUserLevelDisplay,
@@ -697,23 +703,17 @@
             isDisabled = state.userLevel == UserLevelMessage.Signatory
           )</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIFN0eWxlLndpZHRoLnBjMjUud2hlbihpc1dpZGUpLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIFN0eWxlLndpZHRoLnBjT25lUmQsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLndpZHRoLnBjNzUsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8LmRpdigK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
