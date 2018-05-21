@@ -614,12 +614,12 @@
         <mark key="." line="94" column="74" />
         <mark key="^" line="94" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/setting/Setting.scala" timestamp="1526873805504">
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/setting/Setting.scala" timestamp="1526875519747">
         <mark key="'" line="108" column="18" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="156" column="36" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="15" />
+        <mark key="^" line="52" column="15" />
+        <mark key="." line="52" column="15" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dealapproval/common/DealApprovalStatusStepper.scala" timestamp="1526677632561">
         <mark key="[" line="76" column="45" />
@@ -706,10 +706,10 @@
         <mark key="]" line="160" column="47" />
         <mark key="." line="172" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" timestamp="1526840698022">
-        <mark key="[" line="39" column="60" />
-        <mark key="]" line="39" column="76" />
-        <mark key="." line="39" column="76" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" timestamp="1526875028355">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="99" />
         <mark key="^" line="39" column="76" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Margin.scala" timestamp="1526659147402">
@@ -927,13 +927,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>l</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
@@ -942,31 +942,31 @@
         <text encoding="base64">ICAgIHByaXZhdGVbV2VsbF0gdmFsIGljb25Db2xvciA9IFN0eWxlLmNvbG9yLnByaW1hcnk0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuY29tcG9uZW50LlNjYWxhLlVubW91bnRlZAo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBpY29uOiBPcHRpb25bVmRvbU5vZGVdID0gT3B0aW9uKHJlbmRlckljb24oSWNvbkFjbC5OYW1lQ3Jvc3MsIFN0eWxlLmNvbG9yLmRhbmdlcjQpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwuZGl2KF4uY2xzIDo9ICJ3ZWxsIC1wcmltYXJ5IiwgKSwK</text>
+        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuY29tcG9uZW50LlNjYWxhLlVubW91bnRlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIG9uIHRvcCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwuZGl2KF4uY2xzIDo9ICJ3ZWxsIC1wcmltYXJ5IiwgKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIG9uIHRvcCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS4sCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS4sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5oZWlnaHQucHgK</text>
+        <text encoding="base64">ICAgICAgICBTCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS5oZWlnaHQucHgK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
