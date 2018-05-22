@@ -604,6 +604,12 @@
         <mark key="^" line="118" column="21" />
         <mark key="." line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/apps/gondor/gondorAppClient/src/main/scala/com/anduin/stargazer/client/modules/routing/RoutingConfig.scala" timestamp="1526981541253">
+        <mark key="[" line="411" column="45" />
+        <mark key="]" line="411" column="45" />
+        <mark key="^" line="411" column="48" />
+        <mark key="." line="411" column="45" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/RemindLink.scala" timestamp="1525886094196">
         <mark key="[" line="82" column="22" />
         <mark key="]" line="82" column="23" />
@@ -965,14 +971,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgVGFibGUuQ2VsbAo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
