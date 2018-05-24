@@ -183,11 +183,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_pointer-events.scss" timestamp="1526988745065">
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/narya/narya/jvm/src/main/scala/anduin/narya/graphql/web/NaryaMainIndex.scala" timestamp="1526677859012">
         <mark key="[" line="67" column="20" />
         <mark key="]" line="67" column="23" />
@@ -244,7 +239,7 @@
         <mark key="^" line="80" column="14" />
         <mark key="." line="80" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorCommon/shared/src/main/scala/stargazer/model/routing/pages.scala" timestamp="1526981627006">
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorCommon/shared/src/main/scala/stargazer/model/routing/pages.scala" timestamp="1527136039377">
         <mark key="[" line="127" column="16" />
         <mark key="]" line="127" column="16" />
         <mark key="^" line="127" column="15" />
@@ -550,6 +545,7 @@
         <mark key="^" line="67" column="16" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/deal_memo.proto" timestamp="1527136235178" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" timestamp="1526966905365">
         <mark key="'" line="244" column="14" />
         <mark key="[" line="165" column="0" />
@@ -735,13 +731,6 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/NativeDropdown.scala" timestamp="1527042412946">
-        <mark key="p" line="59" column="15" />
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="54" />
-        <mark key="^" line="32" column="54" />
-        <mark key="." line="32" column="54" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/dialogs/ConfirmEventDialog.scala" timestamp="1526588152123">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -798,6 +787,9 @@
         <mark key="[" line="160" column="47" />
         <mark key="]" line="160" column="47" />
         <mark key="." line="172" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dealapproval/DealApprovalLayout.scala" timestamp="1527135762357">
+        <mark key="'" line="133" column="11" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" timestamp="1526986159480">
         <mark key="[" line="61" column="0" />
@@ -929,7 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="16" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
       <jump line="394" column="39" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
       <jump line="118" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/MembersTab.scala" />
       <jump line="48" column="9" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Checkbox.scala" />
@@ -1029,6 +1020,7 @@
       <jump line="41" column="33" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/NativeDropdown.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Tab.scala" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/TabFull.scala" />
+      <jump line="133" column="11" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dealapproval/DealApprovalLayout.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
