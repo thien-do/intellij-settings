@@ -479,11 +479,11 @@
         <mark key="^" line="7" column="56" />
         <mark key="." line="7" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1526845403830">
-        <mark key="[" line="97" column="37" />
-        <mark key="]" line="97" column="37" />
-        <mark key="." line="97" column="37" />
-        <mark key="^" line="97" column="37" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1527131092749">
+        <mark key="[" line="109" column="81" />
+        <mark key="]" line="109" column="81" />
+        <mark key="." line="109" column="81" />
+        <mark key="^" line="109" column="80" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/wirefund/common/CCFOToSendStockCertificatesIN.scala" timestamp="1526588191684">
         <mark key="[" line="116" column="0" />
@@ -701,7 +701,7 @@
         <mark key="^" line="52" column="15" />
         <mark key="." line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dealapproval/common/DealApprovalStatusStepper.scala" timestamp="1526677632561">
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dealapproval/common/DealApprovalStatusStepper.scala" timestamp="1527130529982">
         <mark key="[" line="76" column="45" />
         <mark key="]" line="76" column="45" />
         <mark key="." line="76" column="45" />
@@ -1034,14 +1034,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFN0eWxlTWluaW1hbCA9PiBUYWJGdWxsKHByb3BzLnBhbmVscywgc3RhdGUuYWN0aXZlLCBzZXRBY3RpdmUpKCkK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
