@@ -387,6 +387,11 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/_uploader.scss" timestamp="1527210263820">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/utils/UserLevelUtils.scala" timestamp="1526781827897">
         <mark key="[" line="65" column="59" />
         <mark key="]" line="65" column="66" />
@@ -1145,7 +1150,7 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQudXBsb2FkZXIuQnJvd3NlRmlsZUJ1dHRvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -1160,31 +1165,31 @@
         <text>shouldClearAfterChanged</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQudXBsb2FkZXIuQnJvd3NlRmlsZUJ1dHRvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyb3dzZUZpbGVCdXR0b24oCiAgICAgICAgICAgICAgICAgIGNsYXNzZXMgPSAiYnRuIC1wcmltYXJ5IiwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci5icm93c2UtZmlsZSB7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CgogICAgLmlucHV0IHsKICAgICAgICBAaW5jbHVkZSBwb3NpdGlvbihhYnNvbHV0ZSwgMCAwIG51bGwgbnVsbCk7CiAgICAgICAgQGluY2x1ZGUgc2l6ZSgwIDApOwogICAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgICBtaW4taGVpZ2h0OiAxMDAlOwogICAgICAgIG1pbi13aWR0aDogMTAwJTsKICAgICAgICBvcGFjaXR5OiAwOwogICAgICAgIG92ZXJmbG93OiBoaWRkZW47CiAgICB9Cn0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICApCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2xhc3NlcyA9ICJidG4gLXByaW1hcnkiLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyb3dzZUZpbGVCdXR0b24oCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQudXBsb2FkZXIuQnJvd3NlRmlsZUJ1dHRvbgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyb3dzZUZpbGVCdXR0b24oCiAgICAgICAgICAgICAgICAgIGNsYXNzZXMgPSAiYnRuIC1wcmltYXJ5IiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2xhc3NlcyA9ICJidG4gLXByaW1hcnkiLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJyb3dzZUZpbGVCdXR0b24oCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
