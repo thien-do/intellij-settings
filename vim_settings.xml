@@ -413,10 +413,11 @@
         <mark key="." line="198" column="2" />
         <mark key="^" line="197" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1527379373777">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="30" column="40" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1527384947415">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="39" column="15" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/EntityPage.scala" timestamp="1526548540573">
         <mark key="[" line="36" column="23" />
@@ -1239,13 +1240,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>production</text>
+        <text>p</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdFw+</text>
@@ -1254,33 +1255,31 @@
         <text encoding="base64">Lyo8Ki8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwpKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfCAgY29sb3I6IEJ1dHRvblN0eWxlLkNvbG9yID0gQnV0dG9uU3R5bGUuQ29sb3JXaGl0ZSwKICAgICAgICAgICAgfCAgc3R5bGU6IEJ1dHRvblN0eWxlLlN0eWxlID0gQnV0dG9uU3R5bGUuU3R5bGVGdWxsLAogICAgICAgICAgICB8ICBzaXplOiBCdXR0b25TdHlsZS5TaXplID0gQnV0dG9uU3R5bGUuU2l6ZU1lZGl1bSwKICAgICAgICAgICAgfCAgaXNGdWxsV2lkdGg6IEJvb2xlYW4gPSBmYWxzZSwKICAgICAgICAgICAgfCAgaXNTZWxlY3RlZDogQm9vbGVhbiA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxCdXR0b25TdHlsZSgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfCAgY29sb3I6IEJ1dHRvblN0eWxlLkNvbG9yID0gQnV0dG9uU3R5bGUuQ29sb3JXaGl0ZSwKICAgICAgICAgICAgfCAgc3R5bGU6IEJ1dHRvblN0eWxlLlN0eWxlID0gQnV0dG9uU3R5bGUuU3R5bGVGdWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwgIGNvbG9yOiBCdXR0b25TdHlsZS5Db2xvciA9IEJ1dHRvblN0eWxlLkNvbG9yV2hpdGUsCiAgICAgICAgICB8ICBzdHlsZTogQnV0dG9uU3R5bGUuU3R5bGUgPSBCdXR0b25TdHlsZS5TdHlsZUZ1bGwsCiAgICAgICAgICB8ICBzaXplOiBCdXR0b25TdHlsZS5TaXplID0gQnV0dG9uU3R5bGUuU2l6ZU1lZGl1bSwKICAgICAgICAgIHwgIGlzRnVsbFdpZHRoOiBCb29sZWFuID0gZmFsc2UsCiAgICAgICAgICB8ICBpc1NlbGVjdGVkOiBCb29sZWFuID0gZmFsc2UK</text>
       </register>
-      <register name="6" type="4">
-        <text>${ctl
-             .urlFor(Main.ButtonLink())
-             .value}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwqKk9uIGFwcGVhcmFuY2Ugc2lkZSwqKiB0aGFuayB0byBgQnV0dG9uU3R5bGVgLCB0aGlzIG9ic2VydmVzIG90aGVyIHByb3BzIHRvIHByb3ZpZGVzIGNvcnJlY3Qgc3R5bGluZyBmb3IgZGlmZmVyZW50IGNvbG9ycyBhbmQgc3R5bGVzLiBMZWFybiBtb3JlIGFuZCBzZWUgZXhhbXBsZXMgYXQgW2BCdXR0b25TdHlsZWBdWzFdLiBGb3IgRm9yIGV4YW1wbGUsIGEgYFN0eWxlTWluaW1hbGAgYnV0dG9uIHdvdWxkIGhhdmUgYSBzaW1wbGVyIGRpc2FibGVkIHN0eWxlIHRoYW4gYSBgU3R5bGVGdWxsYCAoZGVmYXVsdCkgb25lLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmb3JtYXQ6IG9mZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmb3JtYXQ6IG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfCAgY29sb3I6IEJ1dHRvblN0eWxlLkNvbG9yID0gQnV0dG9uU3R5bGUuQ29sb3JXaGl0ZSwKICAgICAgICAgICAgfCAgc3R5bGU6IEJ1dHRvblN0eWxlLlN0eWxlID0gQnV0dG9uU3R5bGUuU3R5bGVGdWxsLAogICAgICAgICAgICB8ICBzaXplOiBCdXR0b25TdHlsZS5TaXplID0gQnV0dG9uU3R5bGUuU2l6ZU1lZGl1bSwKICAgICAgICAgICAgfCAgaXNGdWxsV2lkdGg6IEJvb2xlYW4gPSBmYWxzZSwKICAgICAgICAgICAgfCAgaXNTZWxlY3RlZDogQm9vbGVhbiA9IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
