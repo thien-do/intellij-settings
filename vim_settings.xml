@@ -229,12 +229,6 @@
         <mark key="." line="71" column="84" />
         <mark key="^" line="71" column="84" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/portal/valinor/UploadAnnotatedDocumentDialog.scala" timestamp="1527243259617">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/components/uploader/DragDropArea.scala" timestamp="1527141267739">
         <mark key="[" line="61" column="68" />
         <mark key="]" line="61" column="68" />
@@ -539,11 +533,12 @@
         <mark key="." line="198" column="2" />
         <mark key="^" line="197" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1527420228852">
-        <mark key="[" line="161" column="13" />
-        <mark key="]" line="161" column="12" />
-        <mark key="." line="161" column="12" />
-        <mark key="^" line="161" column="12" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1527478138876">
+        <mark key="'" line="304" column="18" />
+        <mark key="[" line="305" column="6" />
+        <mark key="]" line="305" column="6" />
+        <mark key="." line="305" column="6" />
+        <mark key="^" line="304" column="20" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/EntityPage.scala" timestamp="1526548540573">
         <mark key="[" line="36" column="23" />
@@ -823,6 +818,11 @@
         <mark key="^" line="91" column="26" />
         <mark key="." line="91" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/.scalafmt.conf" timestamp="1527476048350">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/Header.scala" timestamp="1525810121961">
         <mark key="[" line="25" column="77" />
         <mark key="]" line="25" column="93" />
@@ -898,12 +898,6 @@
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/investor/ManageFundSubDocuments.scala" timestamp="1527204260936">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/narya/narya/js/src/main/scala/anduin/narya/widgets/HorizontalNavBar.scala" timestamp="1527213188675">
         <mark key="[" line="101" column="0" />
@@ -1052,12 +1046,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="387" column="11" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/duediligence/company/FolderViewForCompany.scala" timestamp="1527157987143">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Well.scala" timestamp="1526873743545">
         <mark key="'" line="4" column="29" />
@@ -1372,10 +1360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="12" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/common/EntityMenu.scala" />
-      <jump line="94" column="6" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/common/EntityMenu.scala" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/menu/MenuDivider.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/menu/Menu.scala" />
       <jump line="50" column="4" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/EntityHeader.scala" />
       <jump line="196" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/EntityHeader.scala" />
       <jump line="12" column="4" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/FundSubHeader.scala" />
@@ -1472,52 +1456,57 @@
       <jump line="45" column="3" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Nav.scala" />
       <jump line="150" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Nav.scala" />
       <jump line="34" column="103" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButton.scala" />
+      <jump line="187" column="11" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" />
+      <jump line="181" column="10" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" />
+      <jump line="247" column="14" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" />
+      <jump line="290" column="18" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>action</text>
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>action</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3IgPSBCdXR0b25TdHlsZS5Db2xvclByaW1hcnksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnV0dG9uKGNvbG9yID0gQnV0dG9uU3R5bGUuQ29sb3JQcmltYXJ5LCBpc0Z1bGxXaWR0aCA9IHRydWUpKCJTaWduIEluIikK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">RXhhbXBsZVNpbXBsZSgiKipHT09EOioqIFVzZXJzIGtub3cgd2hpY2ggaXMgdGhlIHByaW1hcnkgYWN0aW9uIHRoYXQgc2hvdWxkIGJlIHRha2VuIikoCiAgICAgICAgPC5kaXYoCiAgICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgsCiAgICAgICAgICA8LmRpdihCdXR0b24oY29sb3IgPSBCdXR0b25TdHlsZS5Db2xvclByaW1hcnkpKCJDcmVhdGUgVHJhbnNhY3Rpb24iKSksCiAgICAgICAgICA8LmRpdihCdXR0b24oKSgiQ3JlYXRlIE9yZ2FuaXphdGlvbiIpLCBTdHlsZS5tYXJnaW4ubGVmdDgpCiAgICAgICAgKQogICAgICApLAo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTb3VyY2UuYW5ub3RhdGUoewo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">RXhhbXBsZVNpbXBsZSgpKAogICAgICAgIDwuZGl2KCkKICAgICAgKSw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB8Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">RXhhbXBsZVNpbXBsZSgiKipOT1QgR09PRDoqKiBVc2VycyBkb24ndCBrbm93IHdoaWNoIGlzIGFjdGlvbiBzaG91bGQgYmUgdGFrZW4iKSgKICAgICAgICA8LmRpdigKICAgICAgICAgIFN0eWxlLmZsZXhib3guZmxleCwKICAgICAgICAgIDwuZGl2KEJ1dHRvbihjb2xvciA9IEJ1dHRvblN0eWxlLkNvbG9yUHJpbWFyeSkoIkNyZWF0ZSBUcmFuc2FjdGlvbiIpKSwKICAgICAgICAgIDwuZGl2KEJ1dHRvbihjb2xvciA9IEJ1dHRvblN0eWxlLkNvbG9yU3VjY2VzcykoIkNyZWF0ZSBPcmdhbml6YXRpb24iKSwgU3R5bGUubWFyZ2luLmxlZnQ4KQogICAgICAgICkKICAgICAgKSw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiRm9yIGV4YW1wbGUsIFN0eWxlRnVsbCBzaG91bGQgYmUgdXNlZCB0byBtYWtlIGEgYnV0dG9uIHN0YW5kIG91dCBmcm9tIHRoZSB0ZXh0IHN1cnJvdW5kaW5nIGl0LiIK</text>
+      <register name="4" type="4">
+        <text encoding="base64">PC5kaXYoCiAgICAgICAgICBQb3BvdmVyKAogICAgICAgICAgICByZW5kZXJUYXJnZXQgPSAob3BlbiwgXywgXywgc3RhdHVzKSA9PiBCdXR0b24ob25DbGljayA9IG9wZW4sIGlzU2VsZWN0ZWQgPSBzdGF0dXMgPT0gU3RhdHVzT3BlbikoKSwKICAgICAgICAgICAgcmVuZGVyQ29udGVudCA9IChfLCBfKSA9PiAiRm9vIgogICAgICAgICAgKSgpCiAgICAgICAgKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3IgPSBCdXR0b25TdHlsZS5Db2xvclByaW1hcnksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxUaGUgZGVmYXVsdCBgU2l6ZU1lZGl1bWAgc2hvdWxkIHdvcmtzIG1vc3Qgb2YgdGhlIHRpbWUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxgU2l6ZUxhcmdlYCBvZnRlbiBnb2VzIHdpdGggYGlzRnVsbFdpZHRoYCBhbmQgcmVxdWlyZXMgdGhlaXIgc3Vycm91bmRpbmcgZWxlbWVudHMgdG8gYmUgbGFyZ2UgdG9vLiBUaHVzLCB0aGV5IGFyZSBxdWl0ZSB1bmNvbW1vbiBpbiBwcmFjdGljZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICIgIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3R5bGUuZmxleGJveC5mbGV4LmZsZXhib3guaXRlbXNDZW50ZXIubWFyZ2luLnRvcDE2LnBhZGRpbmcudG9wMTYsCiAgICAgICAgICAgIFN0eWxlLmJvcmRlci50b3AuYm9yZGVyQ29sb3IuZ3JheTIuYm9yZGVyV2lkdGgucHgyLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+      <register name="8" type="4">
+        <text>.margin.top16.padding.top16,
+            Style.border.top.borderColor.gray2.borderWidth.px2</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTb3VyY2UuYW5ub3RhdGUoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8dG86IEd1bmRlcnNvbiAmIDhWQy4gU2hhcmUgdG8gY29tcGFueSBub3c/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
