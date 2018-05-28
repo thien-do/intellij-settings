@@ -539,11 +539,11 @@
         <mark key="." line="198" column="2" />
         <mark key="^" line="197" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1527487262132">
-        <mark key="[" line="395" column="52" />
-        <mark key="]" line="395" column="52" />
-        <mark key="^" line="396" column="88" />
-        <mark key="." line="396" column="191" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1527489583477">
+        <mark key="[" line="397" column="77" />
+        <mark key="]" line="397" column="83" />
+        <mark key="^" line="397" column="83" />
+        <mark key="." line="397" column="83" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/EntityPage.scala" timestamp="1526548540573">
         <mark key="[" line="36" column="23" />
@@ -1471,13 +1471,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Primary</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Primary</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdFw+</text>
