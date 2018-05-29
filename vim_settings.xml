@@ -501,10 +501,10 @@
         <mark key="]" line="237" column="0" />
         <mark key="." line="237" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/project/GondorSettings.scala" timestamp="1527563276574">
-        <mark key="[" line="244" column="55" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/project/GondorSettings.scala" timestamp="1527564090956">
+        <mark key="[" line="245" column="58" />
         <mark key="]" line="245" column="58" />
-        <mark key="^" line="245" column="58" />
+        <mark key="^" line="245" column="57" />
         <mark key="." line="245" column="58" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dialog/EntitySetupForAdminPortalDialog.scala" timestamp="1526833461199">
@@ -1105,7 +1105,7 @@
         <mark key="]" line="204" column="0" />
         <mark key="." line="204" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/build/anduin-houserules/src/main/scala/anduin/build/AnduinVersions.scala" timestamp="1527563298486">
+      <file name="$USER_HOME$/Code/anduin/stargazer/build/anduin-houserules/src/main/scala/anduin/build/AnduinVersions.scala" timestamp="1527564084998">
         <mark key="[" line="51" column="25" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Well.scala" timestamp="1527499452550">
@@ -1531,13 +1531,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>.</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdFw+</text>
