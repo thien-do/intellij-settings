@@ -508,11 +508,11 @@
         <mark key="]" line="237" column="0" />
         <mark key="." line="237" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/project/GondorSettings.scala" timestamp="1527564090956">
-        <mark key="[" line="245" column="58" />
-        <mark key="]" line="245" column="58" />
-        <mark key="^" line="245" column="57" />
-        <mark key="." line="245" column="58" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/project/GondorSettings.scala" timestamp="1527579203048">
+        <mark key="[" line="499" column="45" />
+        <mark key="]" line="499" column="45" />
+        <mark key="^" line="499" column="44" />
+        <mark key="." line="499" column="45" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dialog/EntitySetupForAdminPortalDialog.scala" timestamp="1526833461199">
         <mark key="[" line="466" column="39" />
@@ -627,6 +627,7 @@
         <mark key="." line="158" column="31" />
         <mark key="^" line="158" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/wikis/docs/yarn.md" timestamp="1527579218645" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_border-radius.scss" timestamp="1526163924691">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="0" />
@@ -1005,6 +1006,9 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="35" column="19" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorJsDependency/src/main/scala/com/anduin/stargazer/client/facades/focusvisible/package.scala" timestamp="1527578745912">
+        <mark key="^" line="5" column="42" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/common/Visibility.scala" timestamp="1527236434454">
         <mark key="[" line="94" column="14" />
@@ -1537,14 +1541,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICkK</text>
+      <register name="&quot;" type="4">
+        <text>Some(webpackDir.value / &quot;yarn.lock&quot;)</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Some(webpackDir.value / &quot;yarn.lock&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdFw+</text>
@@ -1553,31 +1557,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFN0eWxlLmZsZXhib3guZmxleCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Ly8gU2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9sYW5jZWRpa3Nvbi9ib3dzZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2YWwgbW9iaWxlOiBqcy5VbmRlZk9yW0Jvb2xlYW5dID0ganMubmF0aXZlCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gQXBwbHkgc3R5bGluZyBmcm9tIHNpemUgcHJvcAogICAgc2l6ZS5zdHlsZSwKICAgIFRhZ01vZC53aGVuKHNpemUgIT0gU2l6ZUljb24gJiYgc3R5bGUgIT0gU3R5bGVMaW5rKSB7CiAgICAgIGlmIChpc0Z1bGxXaWR0aCkgU3R5bGUud2lkdGgucGMxMDAgZWxzZSBTdHlsZS53aWR0aC5tYXhDb250ZW50CiAgICB9LA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJY29uQWNsKG5hbWUgPSBJY29uQWNsLk5hbWVDcm9zc1NtYWxsKSgpCiAgICAgICAgICAgICAgICAgICkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gQXBwbHkgc3R5bGluZyBmcm9tIHNpemUgcHJvcAogICAgc2l6ZS5zdHlsZSwKICAgIFRhZ01vZC53aGVuKHNpemUgIT0gU2l6ZUljb24gJiYgc3R5bGUgIT0gU3R5bGVMaW5rKSB7CiAgICAgIGlmIChpc0Z1bGxXaWR0aCkgU3R5bGUud2lkdGgucGMxMDAgZWxzZSBTdHlsZS53aWR0aC5tYXhDb250ZW50CiAgICB9LA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC5zcGFuKAogICAgICAgICAgICAgICAgICAgIFN0eWxlLm1hcmdpbi5sZWZ0NC5vcGFjaXR5LnBjNTAuZmxleGJveC5mbGV4LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJY29uQWNsKG5hbWUgPSBJY29uQWNsLk5hbWVDcm9zc1NtYWxsKSgpCiAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8LnNwYW4oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC5zcGFuKAogICAgICAgICAgICAgICAgICAgIFN0eWxlLm1hcmdpbi5sZWZ0NC5vcGFjaXR5LnBjNTAuZmxleGJveC5mbGV4LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF4uY2xzIDo9ICJ0eHQtZGFuZ2VyIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
