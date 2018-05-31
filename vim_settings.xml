@@ -359,8 +359,11 @@
         <mark key="." line="144" column="74" />
         <mark key="^" line="144" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/room/Body.scala" timestamp="1527763470079">
-        <mark key="[" line="36" column="5" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/room/Body.scala" timestamp="1527764699270">
+        <mark key="[" line="25" column="132" />
+        <mark key="]" line="25" column="132" />
+        <mark key="^" line="26" column="135" />
+        <mark key="." line="25" column="132" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/SelectDocumentForSignature.scala" timestamp="1527226925899">
         <mark key="'" line="23" column="40" />
@@ -515,11 +518,10 @@
         <mark key="." line="14" column="45" />
         <mark key="^" line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/room/File.scala" timestamp="1527763887141">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/room/File.scala" timestamp="1527764639727">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/RemindButton.scala" timestamp="1525886880412">
         <mark key="[" line="67" column="47" />
@@ -790,6 +792,9 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527764566023">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/resources/index-opt.html" timestamp="1527380497566">
         <mark key="[" line="42" column="58" />
@@ -1690,8 +1695,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBqYXZhLnRpbWUuCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -1706,18 +1711,21 @@
         <text encoding="base64">ICBjYXNlIG9iamVjdCBUcGVTaGVldCBleHRlbmRzIFRwZSB7IHZhbCBpbGx1czogSWxsdXMuTmFtZSA9IElsbHVzLk5hbWVTaGVldCB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBqYXZhLnRpbWUuCg==</text>
+        <text encoding="base64">ICB2YWwgYSA9IFpvbmVkRGF0ZVRpbWUub2YoMjAxNSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEVpdGhlcigKICAgICksCg==</text>
+        <text encoding="base64">ICBqYXZhLnRpbWUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVpdGhlcigKICAgICksCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgRm9sZGVyKAogICAgICAgIG5hbWUgPSAiSVYuIENvbXBsaWFuY2Ugd2l0aCBMYXdzIC0gRmVkZXJhbCwgU3RhdGUgYW5kIExvY2FsIiwKICAgICAgICBjaGlsZHJlbiA9IEZvbGRlci5DaGlsZHJlbihjb3VudCA9IDE3LCBmbGFnZ2VkID0gMikKICAgICAgKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Either(
       Folder(
         name = &quot;VII. Material Agreements&quot;,
@@ -1726,17 +1734,14 @@
       )
     )</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEVpdGhlcihGb2xkZXIpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpc0NoZWNrTGlzdDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpc0NoZWNrTGlzdDoK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
