@@ -1535,7 +1535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/EntityList.scala" />
       <jump line="126" column="73" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/common/EntityMenu.scala" />
       <jump line="69" column="23" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/invitation/InvitationCompletedIN.scala" />
       <jump line="104" column="53" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/transaction/JoinedTrxnAction.scala" />
@@ -1635,6 +1634,7 @@
       <jump line="80" column="76" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/checklist/Welcome.scala" />
       <jump line="87" column="22" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/checklist/Welcome.scala" />
       <jump line="85" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/checklist/Welcome.scala" />
+      <jump line="94" column="63" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/checklist/Welcome.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
