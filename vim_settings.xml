@@ -15,6 +15,12 @@
         <mark key="." line="77" column="30" />
         <mark key="^" line="77" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/Message.scala" timestamp="1528121802972">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1527485400376">
         <mark key="[" line="91" column="13" />
         <mark key="]" line="91" column="34" />
@@ -83,6 +89,7 @@
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/Reply.scala" timestamp="1528121607291" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/SignatureRequestRow.scala" timestamp="1526833827601">
         <mark key="[" line="660" column="76" />
         <mark key="]" line="660" column="84" />
@@ -344,6 +351,12 @@
         <mark key="." line="108" column="73" />
         <mark key="^" line="60" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/Header.scala" timestamp="1528121495308">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/setting/SettingsTab.scala" timestamp="1526677738740">
         <mark key="[" line="66" column="52" />
         <mark key="]" line="66" column="56" />
@@ -426,6 +439,12 @@
         <mark key="^" line="499" column="44" />
         <mark key="." line="499" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/ReplyItem.scala" timestamp="1528121956609">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="10" />
+        <mark key="^" line="36" column="10" />
+        <mark key="." line="36" column="10" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dialog/EntitySetupForAdminPortalDialog.scala" timestamp="1526833461199">
         <mark key="[" line="466" column="39" />
         <mark key="]" line="466" column="21" />
@@ -507,12 +526,12 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentItem.scala" timestamp="1528109415696">
-        <mark key="'" line="57" column="17" />
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentItem.scala" timestamp="1528122550257">
+        <mark key="'" line="60" column="4" />
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="58" column="37" />
+        <mark key="." line="58" column="37" />
+        <mark key="^" line="58" column="37" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/FundSubHeader.scala" timestamp="1526748357490">
         <mark key="'" line="80" column="0" />
@@ -575,6 +594,12 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/ReplyList.scala" timestamp="1528122522575">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="11" />
+        <mark key="^" line="35" column="25" />
+        <mark key="." line="36" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/base/_base.scss" timestamp="1527622242946">
         <mark key="[" line="61" column="40" />
         <mark key="]" line="86" column="67" />
@@ -618,11 +643,23 @@
         <mark key="." line="13" column="85" />
         <mark key="^" line="13" column="85" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/ReplyBox.scala" timestamp="1528120037506">
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="58" column="58" />
+        <mark key="." line="58" column="58" />
+        <mark key="^" line="58" column="58" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/dialogs/ConfirmEventDialog.scala" timestamp="1526588152123">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="^" line="59" column="25" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentList.scala" timestamp="1528122383248">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+        <mark key="^" line="29" column="9" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/SummaryStructureViewHelper.scala" timestamp="1527322366103">
         <mark key="[" line="44" column="1" />
@@ -651,11 +688,11 @@
         <mark key="^" line="42" column="62" />
         <mark key="." line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentViewer.scala" timestamp="1528091013286">
-        <mark key="[" line="165" column="26" />
-        <mark key="]" line="165" column="38" />
-        <mark key="^" line="165" column="38" />
-        <mark key="." line="165" column="38" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentViewer.scala" timestamp="1528122124435">
+        <mark key="[" line="166" column="16" />
+        <mark key="]" line="166" column="26" />
+        <mark key="." line="166" column="26" />
+        <mark key="^" line="166" column="26" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/contact/ContactList.scala" timestamp="1527235414746">
         <mark key="[" line="378" column="25" />
@@ -674,12 +711,6 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="99" />
         <mark key="^" line="39" column="76" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/transaction/TransactionTab.scala" timestamp="1527959656188">
-        <mark key="'" line="313" column="4" />
-        <mark key="[" line="404" column="0" />
-        <mark key="]" line="404" column="0" />
-        <mark key="." line="404" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_active.scss" timestamp="1527689934506">
         <mark key="'" line="14" column="0" />
@@ -744,7 +775,7 @@
         <mark key="." line="105" column="19" />
         <mark key="^" line="102" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1527930905597">
+      <file name="/fragment.java" timestamp="1528121695229">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/TransactionDashboardWithReactor.scala" timestamp="1527224984555">
@@ -1003,6 +1034,12 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/MessageHeader.scala" timestamp="1528121919482">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/invitation/RespondInvitationModal.scala" timestamp="1526659268190">
         <mark key="[" line="133" column="33" />
         <mark key="]" line="133" column="39" />
@@ -1195,6 +1232,12 @@
         <mark key="." line="116" column="77" />
         <mark key="^" line="116" column="77" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/Model.scala" timestamp="1528121643886">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Position.scala" timestamp="1527928164799">
         <mark key="[" line="9" column="48" />
         <mark key="]" line="9" column="49" />
@@ -1258,6 +1301,12 @@
         <mark key="^" line="152" column="35" />
         <mark key="." line="152" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/Selection.scala" timestamp="1528120888042">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/compare/Comparison.scala" timestamp="1527138439153">
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
@@ -1319,6 +1368,13 @@
         <mark key="^" line="34" column="65" />
         <mark key="." line="34" column="68" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/Comment.scala" timestamp="1528121743615">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Table.scala" timestamp="1527956776871">
         <mark key="[" line="101" column="56" />
         <mark key="]" line="101" column="59" />
@@ -1357,12 +1413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="16" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/transaction/JoinedTrxnAction.scala" />
-      <jump line="495" column="17" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/SignatureRequestDetailModal.scala" />
-      <jump line="205" column="54" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/dynamicform/BaseDynamicForm.scala" />
-      <jump line="527" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/dynamicform/FormBuilder.scala" />
-      <jump line="163" column="12" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/debug/FlowDataList.scala" />
-      <jump line="31" column="17" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/portal/valinor/UploadAnnotatedDocumentDialog.scala" />
       <jump line="93" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/portal/valinor/UploadAnnotatedDocumentDialog.scala" />
       <jump line="47" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Nav.scala" />
       <jump line="24" column="5" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Collapse.scala" />
@@ -1455,54 +1505,63 @@
       <jump line="48" column="4" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentViewer.scala" />
       <jump line="53" column="26" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentBox.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentBox.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentItem.scala" />
       <jump line="57" column="17" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentItem.scala" />
+      <jump line="32" column="27" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentItem.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentItem.scala" />
+      <jump line="98" column="10" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentViewer.scala" />
+      <jump line="119" column="36" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentViewer.scala" />
+      <jump line="41" column="4" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/CommentItem.scala" />
+      <jump line="7" column="1" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/Comment.scala" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/comment/Comment.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>CommentItem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>CommentItem</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9wc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNIZWFkU3RpY2t5ID0gdHJ1ZSwK</text>
+        <text encoding="base64">Ly8gQ29weXJpZ2h0IChDKSAyMDE0LTIwMTggQW5kdWluIFRyYW5zYWN0aW9ucyBJbmMuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG11bHRpcGxlLnN0cmluZy5saXRlcmFscwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG11bHRpcGxlLnN0cmluZy5saXRlcmFscwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmIG11bHRpcGxlLnN0cmluZy5saXRlcmFscwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKHN0YXRlLmZvY3VzZWQpIHsKICAgICAgICAgIHByb3BzLnNlbGVjdGlvbnMudG9WZG9tQXJyYXkgeyBzID0+CiAgICAgICAgICAgIDwubWFyaygKICAgICAgICAgICAgICBTdHlsZS5wb3NpdGlvbi5hYnNvbHV0ZS5vcGFjaXR5LnBjMjAsCiAgICAgICAgICAgICAgXi5rZXkgOj0gcyIke3MudG9wfS0ke3MubGVmdH0tJHtzLndpZHRofS0ke3MuaGVpZ2h0fSIsCiAgICAgICAgICAgICAgXi50b3AgOj0gcyIke3MudG9wfSUiLAogICAgICAgICAgICAgIF4ubGVmdCA6PSBzIiR7cy5sZWZ0fSUiLAogICAgICAgICAgICAgIF4ud2lkdGggOj0gcyIke3Mud2lkdGh9JSIsCiAgICAgICAgICAgICAgXi5oZWlnaHQgOj0gcyIke3MuaGVpZ2h0fSUiLAogICAgICAgICAgICAgIF4uYmFja2dyb3VuZENvbG9yIDo9ICJ5ZWxsb3ciCiAgICAgICAgICAgICkKICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgRW1wdHlWZG9tCiAgICAgICAgfQ==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8LmRpdigK</text>
+      </register>
+      <register name="3" type="4">
+        <text>ReplyList(
+          replies = props.comment.replies,
+          update = updateReplies(props)
+        )()</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8LmRpdigpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc2NvcGUubW9kU3RhdGVPcHQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgPC5kaXYocHJvcHMuY29tbWVudC5jb250ZW50KSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwuZGl2KAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwuZGl2KFN0eWxlLm1hcmdpbi5ib3R0b204LCBpbnB1dCksCg==</text>
+        <text encoding="base64">ICAgICAgLAogICAgICBCdXR0b24ob25DbGljayA9IHByb3BzLnJlbW92ZShjLmlkKSwgc3R5bGUgPSBCdXR0b25TdHlsZS5TdHlsZU1pbmltYWwpKGljb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC5wKFN0eWxlLmZvbnRXZWlnaHQubWVkaXVtLCBjLmF1dGhvciksCiAgICAgIDwucChTdHlsZS5mbGV4Ym94LmZpeGVkLmZvbnRTaXplLnB4MTIubWFyZ2luLmxlZnQ4LCBEYXRlVGltZSh2YWx1ZSA9IGMuY3JlYXRlZFRpbWUpKCkpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
