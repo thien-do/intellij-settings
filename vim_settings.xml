@@ -190,6 +190,12 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Well.scala" timestamp="1528527139543">
+        <mark key="[" line="52" column="41" />
+        <mark key="]" line="52" column="49" />
+        <mark key="." line="52" column="49" />
+        <mark key="^" line="52" column="49" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/GondorEmailEditor.scala" timestamp="1527154215674">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -292,11 +298,11 @@
         <mark key="^" line="36" column="78" />
         <mark key="." line="36" column="78" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/scripts/link.sh" timestamp="1525819091825">
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="55" column="22" />
-        <mark key="^" line="55" column="22" />
-        <mark key="." line="55" column="22" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/scripts/link.sh" timestamp="1528526558207">
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="20" />
+        <mark key="." line="60" column="20" />
+        <mark key="^" line="60" column="20" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/components/uploader/DragDropArea.scala" timestamp="1527141267739">
         <mark key="[" line="61" column="68" />
@@ -657,6 +663,9 @@
         <mark key="^" line="67" column="16" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTooltip.scala" timestamp="1528526441256">
+        <mark key="^" line="60" column="41" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" timestamp="1527956527197">
         <mark key="[" line="262" column="24" />
         <mark key="]" line="262" column="24" />
@@ -935,6 +944,12 @@
         <mark key="." line="279" column="30" />
         <mark key="^" line="772" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" timestamp="1528527421265">
+        <mark key="[" line="393" column="77" />
+        <mark key="]" line="394" column="43" />
+        <mark key="^" line="394" column="43" />
+        <mark key="." line="394" column="43" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/SummaryStructureViewHelper.scala" timestamp="1527322366103">
         <mark key="[" line="44" column="1" />
         <mark key="]" line="44" column="0" />
@@ -1194,13 +1209,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>NameInfo</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>NameInfo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9wc1w+</text>
@@ -1209,35 +1224,31 @@
         <text encoding="base64">ICAgICAgICApKEljb25BY2wobmFtZSA9IEljb25BY2wuTmFtZVRyYXNoKSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgZG9tLndpbmRvdy5kZXZpY2VQaXhlbFJhdGlvCg==</text>
+        <text encoding="base64">ICBjb250YWluZXIvV2VsbC5zY2FsYQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">TWVudUl0ZW0ob25DbGljayA9IHByb3BzLnJlbW92ZSwgY29sb3IgPSBNZW51SXRlbS5Db2xvckRhbmdlcikoCiAgICAgICAgICAgIEljb25BY2wobmFtZSA9IEljb25BY2wuTmFtZVRyYXNoKSgpLAogICAgICAgICAgICA8LnNwYW4oU3R5bGUubWFyZ2luLmxlZnQ4LCAiUmVtb3ZlIikKICAgICAgICAgICk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb250YWluZXIvVGFiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiByZW5kZXJNZW51VGFyZ2V0KG9wZW46IENhKQo=</text>
+        <text encoding="base64">ICBjb250YWluZXIvQ29sbGFwc2Uuc2NhbGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb250YWluZXIvQ2FyZC5zY2FsYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApKEljb25BY2wobmFtZSA9IEljb25BY2wuTmFtZVRyYXNoKSgpKQo=</text>
+        <text encoding="base64">ICBjb250YWluZXIvQ2FyZC5zY2FsYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBjb250YWluZXIvVGFibGUuc2NhbGEKICBjb250YWluZXIvQ2FyZC5zY2FsYQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>Button(
-          onClick = props.remove,
-          style = ButtonStyle.StyleMinimal,
-          size = ButtonStyle.SizeIcon
-        )(IconAcl(name = IconAcl.NameTrash)())</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAogICAgZG9tLndpbmRvdy5kZXZpY2VQaXhlbFJhdGlvCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0b24K</text>
+      <register name="9" type="4">
+        <text encoding="base64">TWVudUl0ZW0ob25DbGljayA9IHByb3BzLnJlbW92ZSwgY29sb3IgPSBNZW51SXRlbS5Db2xvckRhbmdlcikoCiAgICAgICAgICAgIEljb25BY2wobmFtZSA9IEljb25BY2wuTmFtZVRyYXNoKSgpLAogICAgICAgICAgICA8LnNwYW4oU3R5bGUubWFyZ2luLmxlZnQ4LCAiUmVtb3ZlIikKICAgICAgICAgICk=</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
