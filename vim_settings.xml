@@ -368,12 +368,12 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1528616976066">
-        <mark key="'" line="261" column="96" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="344" column="41" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1528620997583">
+        <mark key="'" line="408" column="0" />
+        <mark key="[" line="396" column="11" />
+        <mark key="]" line="397" column="5" />
+        <mark key="." line="397" column="5" />
+        <mark key="^" line="397" column="5" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/EntityPage.scala" timestamp="1526548540573">
         <mark key="[" line="36" column="23" />
@@ -599,6 +599,12 @@
       </file>
       <file name="/fragment.java" timestamp="1528121695229">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/.scalafmt.conf" timestamp="1528620568474">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/Header.scala" timestamp="1528540581593">
         <mark key="[" line="8" column="16" />
@@ -862,11 +868,11 @@
         <mark key="." line="80" column="13" />
         <mark key="^" line="106" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTab.scala" timestamp="1528618850961">
-        <mark key="[" line="28" column="58" />
-        <mark key="]" line="28" column="58" />
-        <mark key="^" line="28" column="58" />
-        <mark key="." line="28" column="58" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTab.scala" timestamp="1528621114613">
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="36" column="5" />
+        <mark key="^" line="36" column="5" />
+        <mark key="." line="36" column="5" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/build/anduin-houserules/src/main/scala/anduin/build/AnduinVersions.scala" timestamp="1527564084998">
         <mark key="[" line="51" column="25" />
@@ -1125,6 +1131,12 @@
         <mark key="." line="101" column="59" />
         <mark key="^" line="101" column="59" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PagePopover.scala" timestamp="1528621243734">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_widths.scss" timestamp="1527205241654">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="18" />
@@ -1157,8 +1169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="76" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/checklist/Welcome.scala" />
-      <jump line="87" column="22" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/checklist/Welcome.scala" />
       <jump line="85" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/checklist/Welcome.scala" />
       <jump line="94" column="63" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/checklist/Welcome.scala" />
       <jump line="49" column="21" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/stage/duediligence/next/sharedroom/Header.scala" />
@@ -1257,19 +1267,21 @@
       <jump line="83" column="42" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/input/TextInput.scala" />
       <jump line="135" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/input/TextInput.scala" />
       <jump line="65" column="47" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/Tab.scala" />
+      <jump line="107" column="5" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" />
+      <jump line="408" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaXB0aW9uID0gIiIK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
@@ -1278,31 +1290,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRhYi5QYW5lbCh0aXRsZSA9ICJTZWNvbmQiLCByZW5kZXJDb250ZW50ID0gKCkgPT4gIlNlY29uZCB0YWIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwgIHN0eWxlOiBUYWIuU3R5bGUgPSBUYWIuU3R5bGVGdWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaXB0aW9uID0gIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxFeGFtcGxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAgIHwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwpKCkKICAgICAgICAgIHxgYGAK</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwgIGFjdGl2ZTogT3B0aW9uW0ludF0gPSBOb25lLAogICAgICAgICAgfCAgc2V0QWN0aXZlOiBPcHRpb25bSW50ID0+IENhbGxiYWNrXSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwgIHN0eWxlOiBUYWIuU3R5bGUgPSBUYWIuU3R5bGVGdWxsLAogICAgICAgICAgfCAgLy8gVW5jb250cm9sbGVkIHRhYiAtPiBMZXQgcGFyZW50IGNvbnRyb2xzIHRoZSBzdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwgIHBhbmVsczogTGlzdFtUYWIuUGFuZWxdLAogICAgICAgICAgfCAgZGVmYXVsdFBhbmVsOiBJbnQgPSAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxgYGBzY2FsYQogICAgICAgICAgfFRhYigK</text>
+        <text encoding="base64">ICAgICAgICAgIHwgIHN0eWxlOiBUYWIuU3R5bGUgPSBUYWIuU3R5bGVGdWxsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB8QXQgdGhlIG1vbWVudCwgdGhlcmUgYXJlIDUgcHJvcHMgdGhhdCB5b3UgY2FuIGN1c3RvbWl6ZTogc3R5bGUsIGNvbG9yLCBzaXplLCBpc0Z1bGxXaWR0aCwgaXNTZWxlY3RlZDoKICAgICAgICB8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxFeGFtcGxlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
