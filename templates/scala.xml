@@ -10,12 +10,12 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
-  <template name="eg rich mid" value="&quot;&quot;&quot;.stripMargin)(),&#10;ExampleRich(&#10;  Source.annotate(&#10;    &lt;.div()&#10;  )&#10;)(),&#10;Markdown(&#10;  &quot;&quot;&quot;&#10;    |" description="Add rich example in the middle" toReformat="true" toShortenFQNames="true">
+  <template name="eg rich mid" value="&quot;&quot;&quot;.stripMargin&#10;)(),&#10;ExampleRich(Source.annotate({&#10;  &lt;.div()&#10;}))(),&#10;Markdown(&#10;  &quot;&quot;&quot;&#10;    |" description="Add rich example in the middle" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="SCALA" value="true" />
     </context>
   </template>
-  <template name="eg simple mid" value="&quot;&quot;&quot;.stripMargin)(),&#10;ExampleSimple()(&#10;  &lt;.div()&#10;),&#10;Markdown(&#10;  &quot;&quot;&quot;&#10;    |" description="Add simple example in the middle" toReformat="true" toShortenFQNames="true">
+  <template name="eg simple mid" value="&quot;&quot;&quot;.stripMargin&#10;)(),&#10;ExampleSimple()(&#10;  &lt;.div()&#10;),&#10;Markdown(&#10;  &quot;&quot;&quot;&#10;    |" description="Add simple example in the middle" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="SCALA" value="true" />
     </context>
