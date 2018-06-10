@@ -287,11 +287,11 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="41" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1528652839480">
-        <mark key="[" line="44" column="11" />
-        <mark key="]" line="45" column="19" />
-        <mark key="^" line="45" column="19" />
-        <mark key="." line="45" column="19" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1528654919296">
+        <mark key="[" line="64" column="11" />
+        <mark key="]" line="64" column="11" />
+        <mark key="^" line="64" column="11" />
+        <mark key="." line="64" column="11" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/Button.scala" timestamp="1526987265488">
         <mark key="[" line="48" column="6" />
@@ -1104,12 +1104,12 @@
         <mark key="." line="279" column="30" />
         <mark key="^" line="772" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" timestamp="1528540071807">
-        <mark key="'" line="426" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="306" column="16" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" timestamp="1528654488611">
+        <mark key="'" line="404" column="0" />
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="30" column="61" />
+        <mark key="." line="30" column="61" />
+        <mark key="^" line="30" column="61" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageCard.scala" timestamp="1528643945760">
         <mark key="[" line="22" column="24" />
@@ -1291,55 +1291,55 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwjIChWZXJ0aWNhbCkgQWxpZ24K</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>WIP</text>
+        <text>Style</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b1w+</text>
+        <text encoding="base64">XDx8XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfCBkeW5hbWljUm91dGVDVCgidGFiIiB+IGhhc2guY2FzZUNsYXNzW1RhYl0pIH4+IHJlbmRlclIoUGFnZVRhYi5yZW5kZXIpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gZm9ybWF0OiBvZmYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwjIChWZXJ0aWNhbCkgQWxpZ24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8LmRpdigKICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwjIFdpZHRoCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">TWVtYmVyVGFibGUoCiAgICAgICAgICByb3dzID0gTGlzdCgKICAgICAgICAgICAgTWVtYmVyKDAsICJWaW5jZW50IiwgInZpbmNlbnRAYW5kdWluLmNvIiksCiAgICAgICAgICAgIE1lbWJlcigxLCAiQWRhIiwgImFkYUBhbmR1aW4uY28iKQogICAgICAgICAgKSwKICAgICAgICAgIGNvbHVtbnMgPSBMaXN0KAogICAgICAgICAgICBUYWJsZS5Db2x1bW4oaGVhZCA9ICJuYW1lIiwgcmVuZGVyID0gbWVtYmVyID0+IFRhYmxlLkNlbGwobWVtYmVyLm5hbWUpKSwKICAgICAgICAgICAgVGFibGUuQ29sdW1uKGhlYWQgPSAiZW1haWwiLCByZW5kZXIgPSBtZW1iZXIgPT4gVGFibGUuQ2VsbChtZW1iZXIuZW1haWwpKQogICAgICAgICAgKSwKICAgICAgICAgIGdldEtleSA9IF8uaWQudG9TdHJpbmcKICAgICAgICApKCk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwjIFdpZHRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIFRhYmxlKGhhc2g6IFN0cmluZyA9ICIiKSBleHRlbmRzIFBhZ2UK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfCBkeW5hbWljUm91dGVDVCgidGFibGUiIH4gaGFzKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwpKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwjIyBTb3J0QnkKICAgICAgICAgIHwjIyBEZWZhdWx0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwjIyBTbwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwjIENlbGwKICAgICAgICAgIHwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwjIENvbHVtbgogICAgICAgICAgfAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwjIyBpc0VtcHR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b1w+</last-search>
+      <last-search encoding="base64">XDx8XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b1w+</last-pattern>
+      <last-pattern encoding="base64">XDx8XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1363,8 +1363,8 @@
         <entry encoding="base64">XDxQcm9wc1w+</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
-        <entry encoding="base64">XDx8XD4=</entry>
         <entry encoding="base64">XDx0b1w+</entry>
+        <entry encoding="base64">XDx8XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>copy</entry>
@@ -1415,6 +1415,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
