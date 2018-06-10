@@ -531,6 +531,12 @@
       <file name="/Dummy.txt" timestamp="1528543595904">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/TabFull.scala" timestamp="1528638817441">
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="56" column="22" />
+        <mark key="^" line="56" column="21" />
+        <mark key="." line="56" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/resources/index-opt.html" timestamp="1527380497566">
         <mark key="[" line="42" column="58" />
         <mark key="]" line="42" column="62" />
@@ -874,10 +880,11 @@
         <mark key="." line="80" column="13" />
         <mark key="^" line="106" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTab.scala" timestamp="1528633909452">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTab.scala" timestamp="1528638833062">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="35" column="10" />
+        <mark key="." line="35" column="10" />
+        <mark key="^" line="35" column="10" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/build/anduin-houserules/src/main/scala/anduin/build/AnduinVersions.scala" timestamp="1527564084998">
         <mark key="[" line="51" column="25" />
@@ -1280,61 +1287,60 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
+        <text encoding="base64">XDx8XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICB8IyBBcHBlYXJhbmNlCiAgICAgICAgICAgfAogICAgICAgICAgIHxCdXR0b24gc3VwcG9ydHMgYWxsIGN1c3RvbWl6YXRpb24gdmlhIEJ1dHRvblN0eWxlLiBTZWUgdGhlIFtCdXR0b25TdHlsZSBndWlkZV1bMl0gZm9yIGRldGFpbC4KICAgICAgICAgICB8CiAgICAgICAgICAgfFsyXTogJHtjdGwudXJsRm9yKE1haW4uQnV0dG9uU3R5bGUoKSkudmFsdWV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgU3R5bGUuYm9yZGVyUmFkaXVzLnB4Mi5ib3JkZXJSYWRpdXMudG9wLmJvcmRlci5hbGwuYm9yZGVyQ29sb3IuZ3JheTMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwqKlRoaXMgdGVjaG5pcXVlIGlzIG9mdGVuIGNhbGxlZCAicmVuZGVyLXByb3AiLioqIEl0IGlzIG5pY2VseSBleHBsYWluZWQgYXQgW1JlYWN0J3Mgb2ZmaWNpYWwgZ3VpZGVdKCkuIEl0IGdpdmVzIHRoZSBlbmdpbmVlciBhIGdyZWF0IGZsZXhpYmlsaXR5IGluIFVJLCB3aXRob3V0IHJlcGVhdGluZyB0aGUgc3RhdGUgbG9naWMuCg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgU3R5bGUuYm9yZGVyLmJvdHRvbS5ib3JkZXJDb2xvci5ncmF5MywKICAgICAgPC5kaXYoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwjIFVzYWdlCiAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgXi5tYXJnaW5Cb3R0b20gOj0gIi0xcHgiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgU3R5bGUuYm9yZGVyLmJvdHRvbS5ib3JkZXJDb2xvci5ncmF5MywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwjIyBMZWFybiBtb3JlCg==</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kLndoZW4oaW5kZXggIT0gMCkgeyBTdHlsZS5ib3JkZXIubGVmdC5ib3JkZXJDb2xvci5ncmF5MyB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwqKkJ5IGRlZmF1bHQsIHRoZSBpbml0aWFsIHN0YXRlIGlzIGNvbGxhcHNlZC4qKiBTZXQgYGlzRXhwYW5kZWQgPSB0cnVlYCB0byBoYXZlIGl0IGV4cGFuZGVkIGluaXRpYWxseS4KICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwqKkJ5IGRlZmF1bHQsIHRoZSBpbml0aWFsIHN0YXRlIGlzIGNvbGxhcHNlZC4qKiBTZXQgYGlzRXhwYW5kZWQgPSB0cnVlYCB0byBoYXZlIGl0IGV4cGFuZGVkIGluaXRpYWxseS4K</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwqKlRoaXMgdGVjaG5pcXVlIGlzIG9mdGVuIGNhbGxlZCAicmVuZGVyLXByb3AiLioqIEl0IGlzIG5pY2VseSBleHBsYWluZWQgYXQgW1JlYWN0J3Mgb2ZmaWNpYWwgZ3VpZGVdKCkuIEl0IGdpdmVzIHRoZSBlbmdpbmVlciBhIGdyZWF0IGZsZXhpYmlsaXR5IGluIFVJLCB3aXRob3V0IHJlcGVhdGluZyB0aGUgc3RhdGUgbG9naWMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXNjcmlwdGlvblw+</last-search>
+      <last-search encoding="base64">XDx8XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXNjcmlwdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDx8XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Last invitation</entry>
         <entry>ki</entry>
         <entry>Table(</entry>
         <entry>Table</entry>
@@ -1354,6 +1360,7 @@
         <entry encoding="base64">XDxQcm9wc1w+</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
+        <entry encoding="base64">XDx8XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>copy</entry>
