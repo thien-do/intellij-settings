@@ -287,11 +287,11 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="41" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1528654919296">
-        <mark key="[" line="64" column="11" />
-        <mark key="]" line="64" column="11" />
-        <mark key="^" line="64" column="11" />
-        <mark key="." line="64" column="11" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1528689390966">
+        <mark key="[" line="27" column="89" />
+        <mark key="]" line="27" column="90" />
+        <mark key="." line="27" column="90" />
+        <mark key="^" line="74" column="12" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/Button.scala" timestamp="1526987265488">
         <mark key="[" line="48" column="6" />
@@ -1291,13 +1291,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwjIChWZXJ0aWNhbCkgQWxpZ24K</text>
+        <text encoding="base64">ICAgICAgICAgIHwjIyBXaWR0aAogICAgICAgICAgfAo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>Style</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx8XD4=</text>
@@ -1306,31 +1306,31 @@
         <text encoding="base64">ICAgICAgLy8gZm9ybWF0OiBvZmYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwjIChWZXJ0aWNhbCkgQWxpZ24K</text>
+        <text encoding="base64">ICAgICAgICAgIHwjIyBXaWR0aAogICAgICAgICAgfAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwjIFdpZHRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwjIyBTcGFuCiAgICAgICAgICB8CiAgICAgICAgICB8IyMgRm9vdGVyCiAgICAgICAgICB8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwjIFdpZHRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwjIFN0eWxlCiAgICAgICAgICB8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwjIyAoVmVydGljYWwpIEFsaWduCiAgICAgICAgICB8Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwjIyBTb3J0QnkKICAgICAgICAgIHwjIyBEZWZhdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwjIFNvcnQKICAgICAgICAgIHwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwjIyBTbwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwjIFdpZHRoCiAgICAgICAgICB8CiAgICAgICAgICB8IyBTdGlja3kgSGVhZAogICAgICAgICAgfAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwjIENlbGwKICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwjIEFwcGVhcmFuY2UKICAgICAgICAgIHwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwjIENvbHVtbgogICAgICAgICAgfAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwjIyBpc0VtcHR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwjIFNvcnQK</text>
       </register>
       <register name=":" type="4">
         <text>help j</text>
