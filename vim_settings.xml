@@ -339,12 +339,11 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/secondary/content/DealMemo.scala" timestamp="1529015266845">
-        <mark key="'" line="80" column="133" />
-        <mark key="[" line="87" column="51" />
-        <mark key="]" line="87" column="49" />
-        <mark key="." line="87" column="49" />
-        <mark key="^" line="87" column="49" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/secondary/content/DealMemo.scala" timestamp="1529040184509">
+        <mark key="[" line="71" column="10" />
+        <mark key="]" line="90" column="43" />
+        <mark key="." line="90" column="43" />
+        <mark key="^" line="90" column="43" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/menu/Menu.scala" timestamp="1526785129534">
         <mark key="[" line="19" column="28" />
@@ -1755,46 +1754,46 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FLowEventModel</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FLowEventModel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx8XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZU1hcCA8LSBtb2RlbFJlcG8udHJ4bldvcmtmbG93cy5nZXQob3V0ZXJQcm9wcy5wYWdlLnRyeG5JZCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbmR1aW4uc3RhcmdhemVyLmNsaWVudC51dGlscy57TmV3Rmxvd1V0aWxzLCBUcmFuc2FjdGlvbldvcmtmbG93VXRpbHN9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBhcHByb3ZhbEZsb3dFdmVudHMgPSBOZXdGbG93VXRpbHMKICAgICAgICAgICAgLmdldEZsb3dFdmVudE1vZGVsc1tFbnRpdHlJZCwgQXBwcm92YWxGbG93RXZlbnRdKG1vZGVsUmVwbywgYXBwcm92YWxNb2RlbC5hcHByb3ZhbEZsb3dJZCkKICAgICAgICAgIHZhbCBxdWVzdGlvbm5haXJlRmxvd0V2ZW50cyA9IGFwcHJvdmFsTW9kZWwucXVlc3Rpb25uYWlyZUZsb3dJZAogICAgICAgICAgICAubWFwKE5ld0Zsb3dVdGlscy5nZXRGbG93RXZlbnRNb2RlbHNbUXVlc3Rpb25uYWlyZUlkLCBRdWVzdGlvbm5haXJlRmxvd0V2ZW50XShtb2RlbFJlcG8sIF8pKQogICAgICAgICAgICAuZ2V0T3JFbHNlKExpc3QuZW1wdHkpCiAgICAgICAgICB2YWwgY291bnQgPSBhcHByb3ZhbEZsb3dFdmVudHMuY291bnQoZSA9PiAhZS5hY3Rvci5jb250YWlucyhvdXRlclByb3BzLnVzZXJJZCkgJiYgIWUuZmlyc3RTZWVuLmtleVNldC5jb250YWlucyhvdXRlclByb3BzLnVzZXJJZCkpICsKICAgICAgICAgICAgcXVlc3Rpb25uYWlyZUZsb3dFdmVudHMuY291bnQoZSA9PiAhZS5hY3Rvci5jb250YWlucyhvdXRlclByb3BzLnVzZXJJZCkgJiYgIWUuZmlyc3RTZWVuLmtleVNldC5jb250YWlucyhvdXRlclByb3BzLnVzZXJJZCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5GbG93RXZlbnRNb2RlbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIWUuYWN0b3IuY29udGFpbnMob3V0ZXJQcm9wcy51c2VySWQpICYmICFlLmZpcnN0U2Vlbi5rZXlTZXQuY29udGFpbnMob3V0ZXJQcm9wcy51c2VySWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEVudGl0eVNwZWNpZmljc0NvcmVVdGlscy5mZWF0dXJlRW5hYmxlZChlbnRpdHlNb2RlbCwgRmVhdHVyZUlkU3VmZml4LkRlYWxNZW1vKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5hY3Rvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlzQXZhaWxhYmxlOiBCb29sZWFuLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBhID0gRmxvd0V2ZW50Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBldmVudHNDb3VudCA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZSA9PiAhZS5hY3Rvci5jb250YWlucyhvdXRlclByb3BzLnVzZXJJZCkgJiYgIWUuZmlyc3RTZWVuLmtleVNldC5jb250YWlucyhvdXRlclByb3BzLnVzZXJJZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBhID0gbWFwcGluZy5nZXQoRGVhbE1lbW9TdGFnZVR5cGUpLnRvTGlzdC5mbGF0dGVuLmhlYWRPcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSB5aWVsZCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcHBpbmcgPC0gbW9kZWxSZXBvLnRyeG5Xb3JrZmxvd3MuZ2V0KG91dGVyUHJvcHMucGFnZS50cnhuSWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set visualbell</text>
