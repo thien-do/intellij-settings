@@ -900,6 +900,12 @@
         <mark key="^" line="78" column="42" />
         <mark key="." line="78" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/TrxnLayout.scala" timestamp="1529186764256">
+        <mark key="[" line="66" column="2" />
+        <mark key="]" line="66" column="2" />
+        <mark key="^" line="71" column="17" />
+        <mark key="." line="66" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/primary/TrxnPrimaryNav.scala" timestamp="1528915148733">
         <mark key="[" line="44" column="8" />
         <mark key="]" line="44" column="9" />
@@ -1762,13 +1768,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx8XD4=</text>
