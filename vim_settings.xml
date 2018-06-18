@@ -104,12 +104,12 @@
         <mark key="." line="114" column="6" />
         <mark key="^" line="114" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/navigation/secondary/TransactionNavigationWorkflowUtils.scala" timestamp="1529302965484">
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/navigation/secondary/TransactionNavigationWorkflowUtils.scala" timestamp="1529306361669">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="96" column="52" />
-        <mark key="]" line="97" column="32" />
-        <mark key="." line="97" column="32" />
-        <mark key="^" line="97" column="32" />
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="54" column="3" />
+        <mark key="." line="54" column="3" />
+        <mark key="^" line="98" column="7" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/graphql/graphql.sbt" timestamp="1527580473914">
         <mark key="[" line="29" column="55" />
@@ -1381,11 +1381,11 @@
         <mark key="." line="223" column="52" />
         <mark key="^" line="223" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/navigation/secondary/TransactionNavigationWorkflow.scala" timestamp="1529298233542">
-        <mark key="[" line="92" column="34" />
-        <mark key="]" line="92" column="34" />
-        <mark key="." line="92" column="34" />
-        <mark key="^" line="92" column="33" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/navigation/secondary/TransactionNavigationWorkflow.scala" timestamp="1529306297949">
+        <mark key="[" line="117" column="47" />
+        <mark key="]" line="117" column="54" />
+        <mark key="." line="117" column="54" />
+        <mark key="^" line="117" column="54" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Table.scala" timestamp="1527926793473">
         <mark key="[" line="5" column="46" />
@@ -1782,47 +1782,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBpZHMgPSAK</text>
+      <register name="&quot;" type="4">
+        <text>stageToMessage</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>stageToMessage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx8XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDwuZGl2KFN0eWxlLm1hcmdpbi5sZWZ0NCwgY29udGVudCkK</text>
+        <text encoding="base64">ICAgICAgLmNvbGxlY3QgeyBjYXNlIChzdGFnZSwgU29tZShtZXNzYWdlKSkgPT4gKHN0YWdlLCBtZXNzYWdlKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBpZHMgPSAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFRhc2tVdGlscwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0eXBlIEV2ZW50ID0gRmVSZXNwb25zZVtGbG93RXZlbnRdCgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCBpZHMgPSAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFRhc2tVdGlscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgbWFya01lc3NhZ2VzQXNTZWVuKCkgPSB7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5pZC5GbG93RXZlbnRJZAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKCkK</text>
+        <text encoding="base64">ICBkZWYgbWFya01lc3NhZ2VzQXNTZWVuKCkgPSB7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb3VudCA9IGdldEV2ZW50c0Zyb21BY3Rpdml0aWVzKHByb3BzLCBzdGFnZSkuY291bnQK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5pZC5GbG93RXZlbnRJZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChjb3VudCA+IDApIFNvbWUocyIkY291bnQgbmV3IGFjdGl2aXRpZXMiKSBlbHNlIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAubWFwKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set visualbell</text>
