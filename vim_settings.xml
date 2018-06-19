@@ -457,11 +457,11 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="75" column="85" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1528785645881">
-        <mark key="[" line="25" column="163" />
-        <mark key="]" line="25" column="163" />
-        <mark key="." line="25" column="163" />
-        <mark key="^" line="25" column="163" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1529423157901">
+        <mark key="[" line="101" column="14" />
+        <mark key="]" line="101" column="14" />
+        <mark key="^" line="116" column="34" />
+        <mark key="." line="101" column="14" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/primary/content/Sign.scala" timestamp="1529007566703">
         <mark key="[" line="54" column="5" />
@@ -1799,13 +1799,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx8XD4=</text>
@@ -1814,31 +1814,31 @@
         <text encoding="base64">ICAgIHByaW50bG4ob3AucGFnZS5nZXRDbGFzcy50b1N0cmluZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTb21lKG5vdGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbHVtbnMgPSBMaXN0KAogICAgICAgICAgICBUYWJsZS5Db2x1bW4oCiAgICAgICAgICAgICAgaGVhZCA9ICJuYW1lIiwKICAgICAgICAgICAgICByZW5kZXIgPSBtZW1iZXIgPT4gVGFibGUuQ2VsbChtZW1iZXIubmFtZSkKICAgICAgICAgICAgKSwKICAgICAgICAgICAgVGFibGUuQ29sdW1uKAogICAgICAgICAgICAgIGhlYWQgPSAiZW1haWwiLAogICAgICAgICAgICAgIHJlbmRlciA9IG1lbWJlciA9PiBUYWJsZS5DZWxsKG1lbWJlci5lbWFpbCkKICAgICAgICAgICAgKQogICAgICAgICAgKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIC0gQFRPRE86IEhlcmUgd2Ugc2hvdWxkIGNoZWNrIGZvciB3b3JrZmxvd0lkIHRvbywgYnV0IGN1cnJlbnRseSB0aGVyZSBpcwogICAgLy8gICBubyB0cmFpdCB3aG8gZXh0ZW5kcyBUcmFuc2FjdGlvblBhZ2UgQU5EIGhhcyB3b3JrZmxvd0lkLgogICAgLy8gLSBJbiBvdGhlciB3b3JkcywgdGhlIHdvcmtmbG93SWQgaXMgY3VycmVudGx5IGRlZmluZWQgYXQgc3BlY2lmaWMgUGFnZSwKICAgIC8vICAgbGlrZTogRGVhbERvY3NXb3Jrc3BhY2VQYWdlKHdvcmtmbG93SWQ6IC4uLiksIHNvIHRoZXJlIGlzIG5vIHdheSB0bwogICAgLy8gICBnZXQgdGhhdCBnZW5lcmljYWxseQogICAgY2FzZSAodGFyZ2V0OiBTdGFnZVBhZ2UsIGN1cnJlbnQ6IFN0YWdlUGFnZSkgPT4gdGFyZ2V0LnN0YWdlID09IGN1cnJlbnQuc3RhZ2UKICAgIGNhc2UgXyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IHRhcmdldCA9PSBjdXJyZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxPZiBjb3Vyc2UgeW91IGNhbiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gTm90ZTogdGhpcyBydW4gYXQgcnVuIHRpbWUgb25seQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwgIC8qIG9yIGluIGZ1bGw6CiAgICAgICAgICB8ICAgKiBnZXRLZXkgPSAobWVtYmVyOiBNZW1iZXIpID0+IG1lbWJlci5pZC50b1N0cmluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ob3AucGFnZS5nZXRDbGFzcy50b1N0cmluZykKICAgIHByaW50bG4ocGFnZS5nZXRDbGFzcy50b1N0cmluZykK</text>
+        <text encoding="base64">ICAgICAgICAgIHw0LiBEZXNjcmliZSBob3cgdGhleSBzaG91bGQgYmUgaWRlbnRpZmllZCB2aWEgW2BnZXRLZXlgXSgjZ2V0a2V5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICh0YXJnZXQsIGN1cnJlbnQpIG1hdGNoIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwjIyBnZXRLZXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChwcm9wcy5vdXRlclByb3BzLnBhZ2UsICkK</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuZ2V0Q2xhc2Rkcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwgIC8vIHJlbmRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
