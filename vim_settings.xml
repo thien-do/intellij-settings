@@ -895,6 +895,9 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="50" />
       </file>
+      <file name="/fragment.java" timestamp="1529418748272">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/.scalafmt.conf" timestamp="1528620568474">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="38" />
@@ -1838,7 +1841,7 @@
         <text encoding="base64">ICAgIHBhZ2UuZ2V0Q2xhc2Rkcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set visualbell</text>
+        <text>set nonu</text>
       </register>
     </registers>
     <search>
@@ -1876,6 +1879,8 @@
         <entry>help j</entry>
         <entry>set</entry>
         <entry>set visualbell</entry>
+        <entry>set nu</entry>
+        <entry>set nonu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
