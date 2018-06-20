@@ -456,11 +456,11 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="75" column="85" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1529524680193">
-        <mark key="[" line="209" column="75" />
-        <mark key="]" line="209" column="75" />
-        <mark key="^" line="209" column="75" />
-        <mark key="." line="209" column="75" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1529525845713">
+        <mark key="[" line="300" column="59" />
+        <mark key="]" line="300" column="65" />
+        <mark key="^" line="300" column="58" />
+        <mark key="." line="300" column="59" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/primary/content/Sign.scala" timestamp="1529007566703">
         <mark key="[" line="54" column="5" />
@@ -1820,13 +1820,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IC8qPiov</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IC8qPiov</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRcPg==</text>
@@ -1838,28 +1838,28 @@
         <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8LnAoU3R5bGUuY29sb3IuZGFuZ2VyNCwgbWVtYmVyLmxldmVsKSwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtZW1iZXIgPT4gewogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8LnAoU3R5bGUuY29sb3IuZGFuZ2VyNCwgbWVtYmVyLmxldmVsKSwgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtZW1iZXIgPT4gewogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZW1iZXIuaWQgPT0gMSkgewogICAgICAgICAgICAgICAgICBUYWJsZS5DZWxsKAogICAgICAgICAgICAgICAgICAgIDwucChTdHlsZS5jb2xvci5kYW5nZXI0LCBtZW1iZXIubGV2ZWwpLAogICAgICAgICAgICAgICAgICAgIGFsaWduID0gVGFibGUuQWxpZ25Cb3R0b20KICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgVGFibGUuQ2VsbChtZW1iZXIubGV2ZWwpCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjb250ZW50ID0gbWVtYmVyLmxldmVsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZW1iZXIuaWQgPT0gMSkgewogICAgICAgICAgICAgICAgICBUYWJsZS5DZWxsKAogICAgICAgICAgICAgICAgICAgIDwucChTdHlsZS5jb2xvci5kYW5nZXI0LCBtZW1iZXIubGV2ZWwpLAogICAgICAgICAgICAgICAgICAgIGFsaWduID0gVGFibGUuQWxpZ25Cb3R0b20KICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgVGFibGUuQ2VsbChtZW1iZXIubGV2ZWwpCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgY29sb3IgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjb250ZW50ID0gbWVtYmVyLmxldmVsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgY29sb3IgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
