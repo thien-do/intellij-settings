@@ -456,11 +456,12 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="75" column="85" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1529563615321">
-        <mark key="[" line="279" column="11" />
-        <mark key="]" line="280" column="10" />
-        <mark key="." line="280" column="10" />
-        <mark key="^" line="280" column="10" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" timestamp="1529566616882">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="376" column="12" />
+        <mark key="]" line="376" column="10" />
+        <mark key="." line="376" column="10" />
+        <mark key="^" line="376" column="10" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/primary/content/Sign.scala" timestamp="1529007566703">
         <mark key="[" line="54" column="5" />
@@ -1714,8 +1715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="58" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/secondary/content/Contacts.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/secondary/content/Contacts.scala" />
       <jump line="43" column="4" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/secondary/content/Contacts.scala" />
       <jump line="55" column="16" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/notification/TransactionNavBarNotification.scala" />
       <jump line="374" column="18" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/component/widget/global/GlobalWidget.scala" />
@@ -1814,19 +1813,21 @@
       <jump line="18" column="9" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" />
       <jump line="91" column="136" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTab.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageWelcome.scala" />
+      <jump line="263" column="46" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTable.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgTWFya2Rvd24oICIiIiB8ICIiIi5zdHJpcE1hcmdpbiApKCkK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRcPg==</text>
@@ -1835,31 +1836,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU2FtcGxlLkJhc2VUYWJsZS5jb2x1bW5zKDMpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgTWFya2Rvd24oICIiIiB8ICIiIi5zdHJpcE1hcmdpbiApKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxJZiBmb3Igc29tZSByZWFzb24geQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxUaGF0IGJlaW5nIHNhaWQsIGR1ZSB0byB0aGUgYXV0byBsYXlvdXQsIGhhdmluZyAiNTAlIiBmb3IgYSBjb2x1bW4gZG9lcyBub3QgZ3VhcmFudGVlIHRoYXQgaXRzIHdpZHRoIHdpbGwgYWx3YXlzIGJlIGV4YWN0bHkgbGlrZSAiNTAlIi4K</text>
+        <text encoding="base64">ICAgICAgICAgIHw+Ojp3YXJuaW5nOjpkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHxJdCdzIHdvcnRoIHRvIG5vdGUgdGhhdCAKICAgICAgICAgIHwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxJbiBnZW5lcmFsLCBpdCBpcyBzdWdnZXN0ZWQgdG8gCiAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxJZiBmb3Igc29tZSByZWFzb24geQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHxUaGF0IGJlaW5nIHNhaWQsIGR1ZSB0byB0aGUgYXV0byBsYXlvdXQsIGhhdmluZyAiNTAlIiBmb3IgYSBjb2x1bW4gZG9lcyBub3QgZ3VhcmFudGVlIHRoYXQgaXRzIHdpZHRoIHdpbGwgYWx3YXlzIGJlIGV4YWN0bHkgbGlrZSAiNTAlIi4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHxJbiBnZW5lcmFsLCBpdCBpcyBzdWdnZXN0ZWQgdG8gCiAgICAgICAgICB8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
