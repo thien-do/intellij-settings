@@ -1091,11 +1091,11 @@
         <mark key="." line="345" column="33" />
         <mark key="^" line="345" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/snapshot/PendingTasks.scala" timestamp="1529672050784">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="106" column="59" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/snapshot/PendingTasks.scala" timestamp="1529674248740">
+        <mark key="[" line="156" column="43" />
+        <mark key="]" line="156" column="47" />
+        <mark key="." line="156" column="47" />
+        <mark key="^" line="156" column="47" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/narya/narya/js/src/main/scala/anduin/narya/widgets/HorizontalNavBar.scala" timestamp="1527213188675">
         <mark key="[" line="101" column="0" />
@@ -1564,11 +1564,11 @@
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/snapshot/TransactionSnapshot.scala" timestamp="1529670855917">
-        <mark key="[" line="313" column="14" />
-        <mark key="]" line="313" column="31" />
-        <mark key="^" line="313" column="31" />
-        <mark key="." line="313" column="31" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/snapshot/TransactionSnapshot.scala" timestamp="1529674254204">
+        <mark key="[" line="95" column="28" />
+        <mark key="]" line="95" column="28" />
+        <mark key="^" line="306" column="31" />
+        <mark key="." line="95" column="28" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Position.scala" timestamp="1527928164799">
         <mark key="[" line="9" column="48" />
@@ -1887,14 +1887,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHR5cGUgRGF0YVR1cGxlcyA9IExpc3RbVHVybkRhdGFUdXBsZV0K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRcPg==</text>
@@ -1903,31 +1903,31 @@
         <text encoding="base64">ICAvLyB1c2UgdGhlIGZpcnN0IHNpZGUgdG8gc2hvdyBsb2dvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHR5cGUgRGF0YVR1cGxlcyA9IExpc3RbVHVybkRhdGFUdXBsZV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZW52T3B0ID0gSnNFbnZpcm9ubWVudFV0aWwuZ2V0RW52KHByb3BzLnRyeG5Nb2RlbCkKICAgICAgICB2YWwgbmFtZSA9IFN0YWdlQ29yZVV0aWxzLnN0YWdlTmFtZShzdGFnZUl0ZW0uc3RhZ2VUeXBlLCBlbnZPcHQpCiAgICAgICAgdmFsIHN0YXR1cyA9IHN0YWdlSXRlbS5nZXRTdGFnZVN0YXR1cyhwcm9wcy50cnhuTW9kZWwuYWN0aXZlUGVyaW9kcy50b0xpc3QpCiAgICAgICAgdmFsIHN0YWdlID0gU3RhZ2Uoc3RhZ2VJdGVtLCBuYW1lLCBzdGF0dXMpCiAgICAgICAgPC5kaXYoCiAgICAgICAgICBeLmtleSA6PSBuYW1lLAogICAgICAgICAgcmVuZGVyU3RhZ2VIZWFkZXIoc3RhZ2UpLAogICAgICAgICAgPC5kaXYoCiAgICAgICAgICAgIFN0eWxlLnBhZGRpbmcubGVmdDI0LnBhZGRpbmcudmVyMTYsCiAgICAgICAgICAgIHR1cm5zLnppcFdpdGhJbmRleC50b1Zkb21BcnJheShyZW5kZXJUdXJuKHByb3BzLCBzdGFnZSkpCiAgICAgICAgICApCiAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRhVHVwbGVzID0gdHVybi50dXJuRGF0YS50dXJuUmVzdWx0TGlzdAogICAgZGF0YVR1cGxlcy5oZWFkT3B0aW9uLmZvbGQoRW1wdHlWZG9tKSB7IGRhdGFUdXBsZSA9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHR1cm4udHVybkxpc3RhCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5zdGFnZS50dXJucy5fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0dXJuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb3VudCA9IHByb3BzLnN0YWdlSXRlbXMubWFwIHsgc3RhZ2VJdGVtID0+CiAgICAgIHZhbCBzdGFnZVR1cm5zID0gcHJvcHMuc3RhZ2VUb1R1cm5IaXN0b3J5CiAgICAgICAgLmdldChzdGFnZUl0ZW0uc3RhZ2VUeXBlKQogICAgICAgIC5tYXAoXy50dXJuSW5zdGFuY2VzKQogICAgICAgIC5nZXRPckVsc2UoTGlzdC5lbXB0eVtTdGFnZVR1cm5JbnN0YW5jZV0pCiAgICAgIHN0YWdlVHVybnMuY291bnQoXy50dXJuRGF0YS50dXJuUmVzdWx0TGlzdC5ub25FbXB0eSkKICAgIH0uc3VtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBfICAgICAgICAgICAgICAgICAgICAgICA9PiBSZWFsTGlmZVJvbGUuQ29tcGFueU1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyB1c2UgZmlyc3QK</text>
+        <text encoding="base64">ICAgICAgPC5wKAogICAgICAgICwgdGV4dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHdlIG9ubHkgZGlzcGxheSB0dXJuIGZvciBtYWluIHNpZGUgc28gdGhvc2UgZ2V0IG9yIGVsc2UgaXMgbGVnaXQK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHdlIG9ubHkgZGlzcGxheSB0dXJuIGZvciBtYWluIHNpZGUgc28gdGhvc2UgZ2V0IG9yIGVsc2UgaXMgbGVnaXQK</text>
+        <text encoding="base64">ICAgICAgU3R5bGUubWFyZ2luLnJpZ2h0MTIucGFkZGluZy5yaWdodDguYm9yZGVyLnJpZ2h0LmJvcmRlckNvbG9yLmdyYXk0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
