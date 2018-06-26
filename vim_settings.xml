@@ -39,6 +39,7 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/_animate.scss" timestamp="1529981508560" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/secondary/content/Participants.scala" timestamp="1529003911716">
         <mark key="[" line="9" column="62" />
         <mark key="]" line="9" column="62" />
@@ -572,6 +573,7 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/styles/MainStyles.scala" timestamp="1529982036480" />
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/toggle/Collapse.scala" timestamp="1526961638605">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -1467,11 +1469,11 @@
         <mark key="." line="48" column="4" />
         <mark key="^" line="48" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/apps/gondor/gondorAppClient/src/main/scala/com/anduin/stargazer/client/StargazerMain.scala" timestamp="1527581055938">
-        <mark key="[" line="77" column="32" />
-        <mark key="]" line="78" column="15" />
-        <mark key="^" line="78" column="15" />
-        <mark key="." line="78" column="15" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/apps/gondor/gondorAppClient/src/main/scala/com/anduin/stargazer/client/StargazerMain.scala" timestamp="1529982151686">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="77" column="15" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_vertical-align.scss" timestamp="1527956408209">
         <mark key="[" line="14" column="39" />
@@ -1676,8 +1678,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>layout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbmR1aW4uc3RhcmdhemVyLmNsaWVudC5tb2R1bGVzLnN0eWxlcy5NYWluU3R5bGVzCg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -1692,31 +1694,31 @@
         <text encoding="base64">Z29uZG9yL2pzL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9nb25kb3IvbGF5b3V0IEBkdmtuZG4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z29uZG9yL2pzL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9sYXlvdXQgQGR2a25kbgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbmR1aW4uc3RhcmdhemVyLmNsaWVudC5tb2R1bGVzLnN0eWxlcy5NYWluU3R5bGVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z29uZG9yL2pzL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9sYXlvdXQgQGR2a25kbgo=</text>
+        <text encoding="base64">ICAgIC8vIEFkZCBzdHlsZSB0byBkb2N1bWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1haW5TdHlsZXMuYWRkVG9Eb2N1bWVudCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z29uZG9yL2pzL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9sYXlvdXQgQGR2a25kbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBEZXBsb3ltZW50Cg==</text>
+        <text encoding="base64">Z29uZG9yL2pzL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9sYXlvdXQgQGR2a25kbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMgUm91dGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBVc2VyIGFjY291bnQgc2VydmljZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBGcm9udCBFbmQgbnBtIGRlcGVuZGVuY2llcwo=</text>
+        <text encoding="base64">IyBEZXBsb3ltZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgUm91dGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
