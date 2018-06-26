@@ -193,6 +193,11 @@
         <mark key="^" line="117" column="22" />
         <mark key="." line="117" column="22" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/flow/flow_pages.proto" timestamp="1530034661230">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/narya/narya/jvm/src/main/scala/anduin/narya/graphql/web/NaryaMainIndex.scala" timestamp="1526677859012">
         <mark key="[" line="67" column="20" />
         <mark key="]" line="67" column="23" />
@@ -547,6 +552,12 @@
         <mark key="." line="198" column="2" />
         <mark key="^" line="197" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/flow/summary.proto" timestamp="1530034682163">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_position.scss" timestamp="1527928161504">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="5" />
@@ -689,8 +700,11 @@
         <mark key="." line="52" column="57" />
         <mark key="^" line="52" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/core/src/main/scala/anduin/model/optics/iso/page/TransactionPageIsoInstances.scala" timestamp="1530033068417">
-        <mark key="[" line="99" column="63" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/core/src/main/scala/anduin/model/optics/iso/page/TransactionPageIsoInstances.scala" timestamp="1530035235068">
+        <mark key="[" line="56" column="75" />
+        <mark key="]" line="56" column="78" />
+        <mark key="." line="56" column="78" />
+        <mark key="^" line="56" column="78" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/VerticalAlign.scala" timestamp="1527956387664">
         <mark key="[" line="8" column="51" />
@@ -710,10 +724,11 @@
         <mark key="." line="74" column="16" />
         <mark key="^" line="74" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/transaction_pages.proto" timestamp="1530033386820">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/transaction_pages.proto" timestamp="1530034753192">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+        <mark key="^" line="25" column="46" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/menu/VerticalDivider.scala" timestamp="1527153481203">
         <mark key="[" line="13" column="68" />
@@ -797,6 +812,7 @@
         <mark key="." line="50" column="54" />
         <mark key="^" line="50" column="54" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/flow/workspace_page.proto" timestamp="1530034391625" />
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" timestamp="1528884878204">
         <mark key="[" line="117" column="42" />
         <mark key="]" line="118" column="39" />
@@ -1755,46 +1771,46 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZWFsZWQgdHJhaXQgU3RhZ2VTdW1tYXJ5UGFnZSBleHRlbmRzIFRyYW5zYWN0aW9uUGFnZSB7CiAgICB2YWwgc3RhZ2U6IE1haW5TdGFnZVR5cGVFbnVtCiAgfQogIGZpbmFsIGNhc2UgY2xhc3MgVGVybVNoZWV0U3VtbWFyeVBhZ2Uod29ya2Zsb3dJZDogVGVybVNoZWV0V29ya2Zsb3dJZCkgZXh0ZW5kcyBTdGFnZVN1bW1hcnlQYWdlIHsKICAgIHZhbCBzdGFnZTogTWFpblN0YWdlVHlwZUVudW0gPSBNYWluU3RhZ2VUeXBlRW51bS5UZXJtU2hlZXQKICAgIHZhbCB0cnhuSWQ6IFRyYW5zYWN0aW9uSWQgPSB3b3JrZmxvd0lkLnBhcmVudAogIH0KICBmaW5hbCBjYXNlIGNsYXNzIER1ZURpbGlnZW5jZVN1bW1hcnlQYWdlKHdvcmtmbG93SWQ6IER1ZURpbGlnZW5jZVdvcmtmbG93SWQpIGV4dGVuZHMgU3RhZ2VTdW1tYXJ5UGFnZSB7CiAgICB2YWwgc3RhZ2U6IE1haW5TdGFnZVR5cGVFbnVtID0gTWFpblN0YWdlVHlwZUVudW0uRHVlRGlsaWdlbmNlCiAgICB2YWwgdHJ4bklkOiBUcmFuc2FjdGlvbklkID0gd29ya2Zsb3dJZC5wYXJlbnQKICB9CiAgZmluYWwgY2FzZSBjbGFzcyBEZWFsRG9jc1N1bW1hcnlQYWdlKHdvcmtmbG93SWQ6IERlYWxEb2NzV29ya2Zsb3dJZCkgZXh0ZW5kcyBTdGFnZVN1bW1hcnlQYWdlIHsKICAgIHZhbCBzdGFnZTogTWFpblN0YWdlVHlwZUVudW0gPSBNYWluU3RhZ2VUeXBlRW51bS5EZWFsRG9jcwogICAgdmFsIHRyeG5JZDogVHJhbnNhY3Rpb25JZCA9IHdvcmtmbG93SWQucGFyZW50CiAgfQogIGZpbmFsIGNhc2UgY2xhc3MgU2lnbmF0dXJlU3VtbWFyeVBhZ2Uod29ya2Zsb3dJZDogU2lnbmF0dXJlV29ya2Zsb3dJZCkgZXh0ZW5kcyBTdGFnZVN1bW1hcnlQYWdlIHsKICAgIHZhbCBzdGFnZTogTWFpblN0YWdlVHlwZUVudW0gPSBNYWluU3RhZ2VUeXBlRW51bS5TaWduYXR1cmVzCiAgICB2YWwgdHJ4bklkOiBUcmFuc2FjdGlvbklkID0gd29ya2Zsb3dJZC5wYXJlbnQKICB9CiAgZmluYWwgY2FzZSBjbGFzcyBXaXJpbmdTdW1tYXJ5UGFnZSh3b3JrZmxvd0lkOiBXaXJpbmdXb3JrZmxvd0lkKSBleHRlbmRzIFN0YWdlU3VtbWFyeVBhZ2UgewogICAgdmFsIHN0YWdlOiBNYWluU3RhZ2VUeXBlRW51bSA9IE1haW5TdGFnZVR5cGVFbnVtLldpcmluZwogICAgdmFsIHRyeG5JZDogVHJhbnNhY3Rpb25JZCA9IHdvcmtmbG93SWQucGFyZW50CiAgfQogIGZpbmFsIGNhc2UgY2xhc3MgQ2xvc2luZ1N1bW1hcnlQYWdlKHdvcmtmbG93SWQ6IENsb3NpbmdXb3JrZmxvd0lkKSBleHRlbmRzIFN0YWdlU3VtbWFyeVBhZ2UgewogICAgdmFsIHN0YWdlOiBNYWluU3RhZ2VUeXBlRW51bSA9IE1haW5TdGFnZVR5cGVFbnVtLkNsb3NpbmcKICAgIHZhbCB0cnhuSWQ6IFRyYW5zYWN0aW9uSWQgPSB3b3JrZmxvd0lkLnBhcmVudAogIH0K</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5wcm90b2J1Zi5wYWdlLlRyYW5zYWN0aW9uUGFnZUJveC5QYWdlLlN0YWdlU3VtbWFyeUJveAo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZWFsZWQgdHJhaXQgU3RhZ2VTdW1tYXJ5UGFnZSBleHRlbmRzIFRyYW5zYWN0aW9uUGFnZSB7CiAgICB2YWwgc3RhZ2U6IE1haW5TdGFnZVR5cGVFbnVtCiAgfQogIGZpbmFsIGNhc2UgY2xhc3MgVGVybVNoZWV0U3VtbWFyeVBhZ2Uod29ya2Zsb3dJZDogVGVybVNoZWV0V29ya2Zsb3dJZCkgZXh0ZW5kcyBTdGFnZVN1bW1hcnlQYWdlIHsKICAgIHZhbCBzdGFnZTogTWFpblN0YWdlVHlwZUVudW0gPSBNYWluU3RhZ2VUeXBlRW51bS5UZXJtU2hlZXQKICAgIHZhbCB0cnhuSWQ6IFRyYW5zYWN0aW9uSWQgPSB3b3JrZmxvd0lkLnBhcmVudAogIH0KICBmaW5hbCBjYXNlIGNsYXNzIER1ZURpbGlnZW5jZVN1bW1hcnlQYWdlKHdvcmtmbG93SWQ6IER1ZURpbGlnZW5jZVdvcmtmbG93SWQpIGV4dGVuZHMgU3RhZ2VTdW1tYXJ5UGFnZSB7CiAgICB2YWwgc3RhZ2U6IE1haW5TdGFnZVR5cGVFbnVtID0gTWFpblN0YWdlVHlwZUVudW0uRHVlRGlsaWdlbmNlCiAgICB2YWwgdHJ4bklkOiBUcmFuc2FjdGlvbklkID0gd29ya2Zsb3dJZC5wYXJlbnQKICB9CiAgZmluYWwgY2FzZSBjbGFzcyBEZWFsRG9jc1N1bW1hcnlQYWdlKHdvcmtmbG93SWQ6IERlYWxEb2NzV29ya2Zsb3dJZCkgZXh0ZW5kcyBTdGFnZVN1bW1hcnlQYWdlIHsKICAgIHZhbCBzdGFnZTogTWFpblN0YWdlVHlwZUVudW0gPSBNYWluU3RhZ2VUeXBlRW51bS5EZWFsRG9jcwogICAgdmFsIHRyeG5JZDogVHJhbnNhY3Rpb25JZCA9IHdvcmtmbG93SWQucGFyZW50CiAgfQogIGZpbmFsIGNhc2UgY2xhc3MgU2lnbmF0dXJlU3VtbWFyeVBhZ2Uod29ya2Zsb3dJZDogU2lnbmF0dXJlV29ya2Zsb3dJZCkgZXh0ZW5kcyBTdGFnZVN1bW1hcnlQYWdlIHsKICAgIHZhbCBzdGFnZTogTWFpblN0YWdlVHlwZUVudW0gPSBNYWluU3RhZ2VUeXBlRW51bS5TaWduYXR1cmVzCiAgICB2YWwgdHJ4bklkOiBUcmFuc2FjdGlvbklkID0gd29ya2Zsb3dJZC5wYXJlbnQKICB9CiAgZmluYWwgY2FzZSBjbGFzcyBXaXJpbmdTdW1tYXJ5UGFnZSh3b3JrZmxvd0lkOiBXaXJpbmdXb3JrZmxvd0lkKSBleHRlbmRzIFN0YWdlU3VtbWFyeVBhZ2UgewogICAgdmFsIHN0YWdlOiBNYWluU3RhZ2VUeXBlRW51bSA9IE1haW5TdGFnZVR5cGVFbnVtLldpcmluZwogICAgdmFsIHRyeG5JZDogVHJhbnNhY3Rpb25JZCA9IHdvcmtmbG93SWQucGFyZW50CiAgfQogIGZpbmFsIGNhc2UgY2xhc3MgQ2xvc2luZ1N1bW1hcnlQYWdlKHdvcmtmbG93SWQ6IENsb3NpbmdXb3JrZmxvd0lkKSBleHRlbmRzIFN0YWdlU3VtbWFyeVBhZ2UgewogICAgdmFsIHN0YWdlOiBNYWluU3RhZ2VUeXBlRW51bSA9IE1haW5TdGFnZVR5cGVFbnVtLkNsb3NpbmcKICAgIHZhbCB0cnhuSWQ6IFRyYW5zYWN0aW9uSWQgPSB3b3JrZmxvd0lkLnBhcmVudAogIH0K</text>
+        <text encoding="base64">aW1wb3J0ICJwYWdlL2Zsb3cvd29ya3NwYWNlX3BhZ2UucHJvdG8iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBUcmFuc2FjdGlvblN1bW1hcnlQYWdlTWVzc2FnZSB0cnhuX3N1bW1hcnlfcGFnZSA9IDExOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5wcm90b2J1Zi5wYWdlLlRyYW5zYWN0aW9uUGFnZUJveC5QYWdlLlN0YWdlU3VtbWFyeUJveAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIGNhc2UgVHJhbnNhY3Rpb25QYWdlQm94LlBhZ2UuU3UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoZW1wdHlSdWxlCiAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">ICAgIGZsb3cuU3RhZ2VTdW1tYXJ5Qm94IHN0YWdlX3N1bW1hcnlfYm94ID0gMTE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsb3cuU3RhZ2VTdW1tYXJ5UGFnZUJveAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmltcG9ydCBzdGFyZ2F6ZXIubW9kZWwucm91dGluZy5EeW5hbWljQXV0aFBhZ2UuVGVybVNoZWV0U3VtbWFyeVBhZ2UK</text>
+        <text encoding="base64">U3RhZ2VTdW1tYXJ5UGFnZUJveAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFN0YWdlU3VtbWFyeQogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bWVzc2FnZSBTdGFnZVN1bW1hcnlQYWdlQm94IHsKICBvbmVvZiBwYWdlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
