@@ -1167,6 +1167,12 @@
         <mark key="^" line="64" column="41" />
         <mark key="." line="64" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/.github/CODEOWNERS" timestamp="1529980433931">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/layout/MainNav.scala" timestamp="1528830147442">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1671,46 +1677,46 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEl0IGRvZXNuJ3QgaGF2ZSBzaGFkb3csIGhvd2V2ZXIu</text>
+        <text>layout</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEl0IGRvZXNuJ3QgaGF2ZSBzaGFkb3csIGhvd2V2ZXIu</text>
+        <text>layout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB3aWR0aDogLXdlYmtpdC1tYXgtY29udGVudDsKICB3aWR0aDogLW1vei1tYXgtY29udGVudDsK</text>
+        <text encoding="base64">Z29uZG9yL2pzL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9nb25kb3IvbGF5b3V0IEBkdmtuZG4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aWR0aDogLXdlYmtpdC1tYXgtY29udGVudDsKICB3aWR0aDogLW1vei1tYXgtY29udGVudDsK</text>
+        <text encoding="base64">Z29uZG9yL2pzL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9sYXlvdXQgQGR2a25kbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z29uZG9yL2pzL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9sYXlvdXQgQGR2a25kbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cn0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBEZXBsb3ltZW50Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiMgUm91dGluZwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBVc2VyIGFjY291bnQgc2VydmljZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBGcm9udCBFbmQgbnBtIGRlcGVuZGVuY2llcwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByb3V0aW5nKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
