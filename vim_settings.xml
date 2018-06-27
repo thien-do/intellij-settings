@@ -338,11 +338,11 @@
         <mark key="." line="39" column="72" />
         <mark key="^" line="39" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/RedirectJsService.scala" timestamp="1530117395729">
-        <mark key="[" line="396" column="15" />
-        <mark key="]" line="396" column="14" />
-        <mark key="^" line="396" column="14" />
-        <mark key="." line="396" column="14" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/RedirectJsService.scala" timestamp="1530117705773">
+        <mark key="[" line="374" column="18" />
+        <mark key="]" line="374" column="33" />
+        <mark key="^" line="374" column="33" />
+        <mark key="." line="374" column="33" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/resources/stylesheets/tachyons/_widths.scss" timestamp="1529978185468">
         <mark key="[" line="25" column="14" />
@@ -465,7 +465,6 @@
         <mark key="^" line="26" column="54" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/.js/target/scala-2.12/src_managed/main/anduin/protobuf/flow/transaction/StageStatus.scala" timestamp="1530042857009" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/secondary/content/WorkflowMessageUtils.scala" timestamp="1529096600994">
         <mark key="[" line="32" column="47" />
         <mark key="]" line="32" column="49" />
@@ -1251,7 +1250,6 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/.js/target/scala-2.12/src_managed/main/anduin/protobuf/flow/transaction/TransactionStageData.scala" timestamp="1530042724592" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/invitation/RespondInvitationModal.scala" timestamp="1526659268190">
         <mark key="[" line="133" column="33" />
         <mark key="]" line="133" column="39" />
@@ -1346,7 +1344,6 @@
         <mark key="^" line="38" column="27" />
         <mark key="." line="38" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/duediligence/common/checklist/ChecklistView.scala" timestamp="1530068208865" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/gridview/FundSubCard.scala" timestamp="1526833572568">
         <mark key="[" line="70" column="15" />
         <mark key="]" line="70" column="16" />
@@ -1835,14 +1832,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgU3RhdGljQXV0aFBhZ2UuRGFzaGJvYXJkIHwKICAgICAgICAgICAgICAgU3RhdGljQXV0aFBhZ2UuQ29tbW9uRW50cnlQb2ludCB8CiAgICAgICAgICAgICAgIFN0YXRpY0F1dGhQYWdlLlRyYW5zYWN0aW9uU2V0dXBQYWdlIHwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>MouseEvent</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRcPg==</text>
