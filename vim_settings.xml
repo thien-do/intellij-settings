@@ -103,11 +103,10 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dealapproval/GenerateDealApproval.scala" timestamp="1530071197008">
-        <mark key="[" line="76" column="30" />
-        <mark key="]" line="76" column="30" />
-        <mark key="." line="76" column="30" />
-        <mark key="^" line="76" column="30" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dealapproval/GenerateDealApproval.scala" timestamp="1530074688625">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/SignatureRequestRow.scala" timestamp="1526833827601">
         <mark key="[" line="660" column="76" />
@@ -1831,13 +1830,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>MouseEvent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRcPg==</text>
@@ -1846,31 +1845,31 @@
         <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5tYXBwaW5nLk1vZGVsTWFwcGluZ0luc3RhbmNlcy5fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuYXNJbnN0YW5jZU9mW2pzLkR5bmFtaWNdLmFwcGx5RHluYW1pYygic2Nyb2xsSW50b1ZpZXciKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhcmdldC5hc0luc3RhbmNlT2YK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigpCiAgICAgICAgICAgICgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqcy5EeW5hbWljLmdsb2JhbAo=</text>
+        <text encoding="base64">ICAgICAgICBvcmcuc2NhbGFqcy5kb20uZG9jdW1lbnQub25zY3JvbGwgPSB7CiAgICAgICAgICAoZTogZG9tLlVJRXZlbnQpID0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqcy5EeW5hbWljLmdsb2JhbC5zZWxlY3REeW5hbWljKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGVtZW50LnF1ZXJ5U2VsZWN0b3IocyIjJGlkIikuc2Nyb2xsSW50b1ZpZXcodHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiYSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGlkKQogICAgICAgIHByaW50bG4oZWxlbWVudC50ZXh0Q29udGVudCkK</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICB0LmFzQ2FsbGJhY2subWFwKF8uZ2V0T3JFbHNlKGZhbHNlKSkK</text>
+        <text encoding="base64">ICAgICAgICAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbGVtZW50IDwtIGZvcm1Db250YWluZXJSZWYuZ2V0CiAgICAgIH0geWllbGQgewo=</text>
+        <text encoding="base64">ICAgICAgICAuYXNJbnN0YW5jZU9mW2pzLkR5bmFtaWNdLmFwcGx5RHluYW1pYygic2Nyb2xsSW50b1ZpZXciKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
