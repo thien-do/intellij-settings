@@ -846,7 +846,11 @@
         <mark key="." line="50" column="54" />
         <mark key="^" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/flow/workspace_page.proto" timestamp="1530034391625" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/flow/workspace_page.proto" timestamp="1530066498466">
+        <mark key="[" line="116" column="67" />
+        <mark key="]" line="116" column="67" />
+        <mark key="." line="116" column="67" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/TextInput.scala" timestamp="1528884878204">
         <mark key="[" line="117" column="42" />
         <mark key="]" line="118" column="39" />
@@ -1814,13 +1818,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Timeline</text>
+        <text>, (compat.field).ignored = true</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>Timeline</text>
+        <text>, (compat.field).ignored = true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRcPg==</text>
