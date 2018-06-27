@@ -338,6 +338,12 @@
         <mark key="." line="39" column="72" />
         <mark key="^" line="39" column="72" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/RedirectJsService.scala" timestamp="1530117395729">
+        <mark key="[" line="396" column="15" />
+        <mark key="]" line="396" column="14" />
+        <mark key="^" line="396" column="14" />
+        <mark key="." line="396" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/resources/stylesheets/tachyons/_widths.scss" timestamp="1529978185468">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="16" />
@@ -585,11 +591,11 @@
         <mark key="." line="198" column="2" />
         <mark key="^" line="197" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/flow/summary.proto" timestamp="1530037042897">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="26" column="44" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/flow/summary.proto" timestamp="1530116851577">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_position.scss" timestamp="1527928161504">
         <mark key="[" line="16" column="5" />
@@ -1830,7 +1836,7 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgU3RhdGljQXV0aFBhZ2UuRGFzaGJvYXJkIHwKICAgICAgICAgICAgICAgU3RhdGljQXV0aFBhZ2UuQ29tbW9uRW50cnlQb2ludCB8CiAgICAgICAgICAgICAgIFN0YXRpY0F1dGhQYWdlLlRyYW5zYWN0aW9uU2V0dXBQYWdlIHwK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -1845,31 +1851,31 @@
         <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5tYXBwaW5nLk1vZGVsTWFwcGluZ0luc3RhbmNlcy5fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgU3RhdGljQXV0aFBhZ2UuRGFzaGJvYXJkIHwKICAgICAgICAgICAgICAgU3RhdGljQXV0aFBhZ2UuQ29tbW9uRW50cnlQb2ludCB8CiAgICAgICAgICAgICAgIFN0YXRpY0F1dGhQYWdlLlRyYW5zYWN0aW9uU2V0dXBQYWdlIHwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgU3RhdGljQXV0aFBhZ2UuRGFzaGJvYXJkIHwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigpCiAgICAgICAgICAgICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmcuc2NhbGFqcy5kb20uZG9jdW1lbnQub25zY3JvbGwgPSB7CiAgICAgICAgICAoZTogZG9tLlVJRXZlbnQpID0+Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJmbG93L3RyYW5zYWN0aW9uL3N0YWdlLnByb3RvIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigpCg==</text>
+        <text encoding="base64">aW1wb3J0ICJnb29nbGUvcHJvdG9idWYvd3JhcHBlcnMucHJvdG8iOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiYSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudAo=</text>
+        <text encoding="base64">aW1wb3J0ICJmbG93L3RyYW5zYWN0aW9uL3N0YWdlLnByb3RvIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoKQo=</text>
+        <text encoding="base64">aW1wb3J0ICJnb29nbGUvcHJvdG9idWYvd3JhcHBlcnMucHJvdG8iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuYXNJbnN0YW5jZU9mW2pzLkR5bmFtaWNdLmFwcGx5RHluYW1pYygic2Nyb2xsSW50b1ZpZXciKQo=</text>
+        <text encoding="base64">aW1wb3J0ICJyb2xlL3BvbGVfdHlwZS5wcm90byI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
