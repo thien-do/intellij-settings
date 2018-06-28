@@ -508,12 +508,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/TransactionSummaryLayout.scala" timestamp="1530171651717">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="44" column="52" />
-        <mark key="^" line="44" column="52" />
-        <mark key="." line="44" column="52" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/TransactionSummaryLayout.scala" timestamp="1530173740225">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="59" column="50" />
+        <mark key="]" line="59" column="84" />
+        <mark key="^" line="59" column="84" />
+        <mark key="." line="59" column="84" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Style.scala" timestamp="1527620534818">
         <mark key="[" line="13" column="38" />
@@ -1556,11 +1556,11 @@
         <mark key="." line="463" column="24" />
         <mark key="^" line="463" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/SummaryTimeline.scala" timestamp="1530171958840">
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="68" />
-        <mark key="." line="42" column="68" />
-        <mark key="^" line="42" column="68" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/SummaryTimeline.scala" timestamp="1530174567536">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="53" />
+        <mark key="^" line="45" column="53" />
+        <mark key="." line="45" column="53" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorJsDependency/src/main/scala/com/anduin/stargazer/client/facades/focusvisible/FocusVisible.scala" timestamp="1527581078187">
         <mark key="[" line="5" column="43" />
@@ -1893,61 +1893,60 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>days</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>days</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmRcPg==</text>
+        <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGFjdGl2ZU1haW5TdGFnZXMgPSBUcmFuc2FjdGlvbldvcmtmbG93VXRpbHMKICAgICAgICAgICAgICAubWFpblN0YWdlc0FuZERhdGFNYXAodHJ4bklkLCBtb2RlbFJlcG8pCiAgICAgICAgICAgICAgLmZpbHRlck5vdChfLl8yLnN0YXR1cy5pc0FyY2hpdmVkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVGVybXNoZWV0IGhhcyBub3Qgc3RhcnRlZCB5ZXQK</text>
+        <text encoding="base64">ICAgIChTdHlsZS5tYXJnaW4ubGVmdDgsIHMiQ29tcGxldGVkIG9uICRkYXRlIikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBlbnYgPSBnZXRFbnYocHJvcHMudHJ4bk1vZGVsKQogICAgdmFsIG5hbWUgPSBnZXRTdGFnZU5hbWUocHJvcHMub3V0ZXJQcm9wcy5wYWdlLnN0YWdlLCBlbnYpCg==</text>
+        <text encoding="base64">ICAgIDwucChTdHlsZS5jb2xvci5zdWNjZXNzNC5mbGV4Ym94LmZsZXguZmxleGJveC5pdGVtc0NlbnRlciwgSWNvbkFjbChuYW1lID0KICAgICAgSWNvbkFjbC5OYW1lQ2hlY2tDaXJjbGUpKCksIDwuc3Bhbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRlcm1zaGVldCBoYXMgbm90IHN0YXJ0ZWQgeWV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiByZW5kZXJTdGFydERhdGVOb25lKHByb3BzOiBQcm9wcyk6IFZkb21FbGVtZW50ID0gewogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS5zdGFydERhdGUuZm9sZCgibm90IHlldCBzdGFydGVkIikgeyBzdGFydERhdGUgPT4KICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyU3RhcnREYXRlTm9uZShwcm9wcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGEuZHUK</text>
+        <text encoding="base64">ICAgIDwucChTdHlsZS5jb2xvci5ncmF5NywgcHJvcHMub3V0ZXJQcm9wcy5zdGFnZU5hbWUsICIgaGFzIG5vdCBzdGFydGVkIHlldCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlTWFpblN0YWdlcy5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlsdGVyTm90KF8uXzIuc3RhdHVzLmlzQXJjaGl2ZWQpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiByZW5kZXJTdGFydERhdGVTb21lKHByb3BzOiBQcm9wcykoc3RhcnREYXRlOiBab25lZERhdGVUaW1lKTogVmRvbUVsZW1lbnQgPSB7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbmRcPg==</last-search>
+      <last-search encoding="base64">XDxzdGFydERhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydERhdGVcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Table</entry>
         <entry>Role</entry>
         <entry>&quot;Role</entry>
         <entry>check</entry>
@@ -1967,6 +1966,7 @@
         <entry encoding="base64">XDx0b1w+</entry>
         <entry encoding="base64">XDx8XD4=</entry>
         <entry encoding="base64">XDxhbmRcPg==</entry>
+        <entry encoding="base64">XDxzdGFydERhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>copy</entry>
