@@ -522,6 +522,13 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/TransactionSummaryLayout.scala" timestamp="1530262644751">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="59" column="50" />
+        <mark key="]" line="59" column="84" />
+        <mark key="^" line="59" column="84" />
+        <mark key="." line="59" column="84" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Style.scala" timestamp="1527620534818">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="14" column="45" />
@@ -715,6 +722,7 @@
         <mark key="." line="165" column="53" />
         <mark key="^" line="165" column="53" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/build%40artifactory.anduintransact.com/artifactory/anduin-plugins-maven/com/github/japgolly/scalajs-react/core_sjs0.6_2.12/1.2.0/core_sjs0.6_2.12-1.2.0.jar!/japgolly/scalajs/react/component/builder/Builder.class" timestamp="1530263041767" />
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/inbox/inbox/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/EmailContentUtils.scala" timestamp="1530250367256">
         <mark key="'" line="9" column="34" />
       </file>
@@ -1805,6 +1813,11 @@
         <mark key="^" line="34" column="65" />
         <mark key="." line="34" column="68" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorCommon/js/src/main/scala/anduin/stargazer/component/Reactor.scala" timestamp="1530263653170">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerCore/src/main/scala/com/anduin/stargazer/util/date/DateCalculator.scala" timestamp="1530251503565">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="37" />
@@ -1959,8 +1972,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2NvcGUucHJvcHMuCg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -1975,31 +1988,31 @@
         <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvbiB1bmRlcnNjb3JlLmltcG9ydAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2NvcGUucHJvcHMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YWdlOiBNYWluU3RhZ2VUeXBlRW51bSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHBhcmFtcy5jdXJyZW50UHJvcHMuY2hpbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5wcm90b2J1Zi5ncmFwaHFsLlN0YWdlU3RhdHVzTWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHBhcmFtcy5wcm9wc0NoaWxkcmVuLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQK</text>
+        <text encoding="base64">ICAgICAgLmluaXRpYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFpvbmVkRGF0ZVRpbWUubm93KCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHBhcmFtcy5wcm9wc0NoaWxkcmVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gQ29weXJpZ2h0IChDKSAyMDE0LTIwMTggQW5kdWluIFRyYW5zYWN0aW9ucyBJbmMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhcmFtcy4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YWdlOiBNYWluU3RhZ2VUeXBlRW51bSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqYXZhLnV0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5wcm90b2J1Zi5ncmFwaHFsLlN0YWdlU3RhdHVzTWVzc2FnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
