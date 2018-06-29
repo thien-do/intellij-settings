@@ -1079,6 +1079,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/jvm/src/main/scala/com/anduin/stargazer/service/transactionreportgen/TransactionReportGenerationJvmUtils.scala" timestamp="1530264852867">
+        <mark key="[" line="42" column="48" />
+        <mark key="]" line="42" column="48" />
+        <mark key="." line="42" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/trxn/layout/navigation/primary/content/Name.scala" timestamp="1529004604360">
         <mark key="[" line="38" column="37" />
         <mark key="]" line="38" column="41" />
@@ -1972,8 +1977,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2NvcGUucHJvcHMuCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
