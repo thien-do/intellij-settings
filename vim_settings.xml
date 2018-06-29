@@ -9,6 +9,12 @@
         <mark key="." line="611" column="32" />
         <mark key="^" line="612" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/scala/anduin/model/TransactionStageDataCompanion.scala" timestamp="1530247685055">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/VersionInformation.scala" timestamp="1526677786548">
         <mark key="[" line="76" column="54" />
         <mark key="]" line="77" column="30" />
@@ -540,7 +546,7 @@
         <mark key="^" line="37" column="56" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/flow/transaction/stage.proto" timestamp="1530239671148">
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/flow/transaction/stage.proto" timestamp="1530247583425">
         <mark key="[" line="59" column="77" />
         <mark key="]" line="59" column="80" />
         <mark key="^" line="59" column="80" />
@@ -1927,13 +1933,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
