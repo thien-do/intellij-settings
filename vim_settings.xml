@@ -270,7 +270,6 @@
         <mark key="." line="42" column="14" />
         <mark key="^" line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/services/dataCenter/ModelRepository.scala" timestamp="1530358106035" />
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/TabHeader.scala" timestamp="1527059504162">
         <mark key="[" line="41" column="91" />
         <mark key="]" line="42" column="5" />
@@ -1067,6 +1066,12 @@
         <mark key="^" line="110" column="70" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/services/dataCenter/mappings.scala" timestamp="1530526516343">
+        <mark key="[" line="76" column="32" />
+        <mark key="]" line="76" column="47" />
+        <mark key="^" line="76" column="47" />
+        <mark key="." line="76" column="47" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/Focus.scala" timestamp="1526652438877">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="53" />
@@ -1198,6 +1203,7 @@
         <mark key="." line="30" column="53" />
         <mark key="^" line="30" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorCommon/shared/src/main/scala/stargazer/model/routing/pages.scala" timestamp="1530526581981" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/core/src/main/scala/anduin/model/stage/turns/TurnHistoryCoreUtils.scala" timestamp="1530390478637">
         <mark key="[" line="231" column="75" />
         <mark key="]" line="231" column="75" />
@@ -1425,11 +1431,10 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/TermSheetMainView.scala" timestamp="1530068156722">
-        <mark key="[" line="538" column="0" />
-        <mark key="]" line="538" column="0" />
-        <mark key="^" line="1103" column="35" />
-        <mark key="." line="538" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/TermSheetMainView.scala" timestamp="1530526546834">
+        <mark key="[" line="988" column="0" />
+        <mark key="]" line="988" column="0" />
+        <mark key="." line="988" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageColor.scala" timestamp="1528643956560">
         <mark key="[" line="61" column="8" />
@@ -1642,7 +1647,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/turn/TurnHistoryJsUtils.scala" timestamp="1530438426304" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dashboard/transaction/snapshot/TransactionDates.scala" timestamp="1529643635895">
         <mark key="[" line="38" column="9" />
         <mark key="]" line="39" column="25" />
@@ -1835,13 +1839,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhcmdldFBhZ2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByb3BzLnRzU3RhZ2VJZC5wYXJlbnQK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>ArrowRight</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
@@ -1850,31 +1854,31 @@
         <text encoding="base64">ICAgICAgICAgIHJlbmRlckdvQnV0dG9uKHByb3BzLCBpc1ByaW1hcnkgPSBmYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhcmdldFBhZ2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByb3BzLnRzU3RhZ2VJZC5wYXJlbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBhOiBPcHRpb25bTm90aGluZ10gPSBwcm9wcy5zdGFnZVRvSWQuZ2V0KHN0YWdlKQo=</text>
+        <text encoding="base64">ICAgIHRhcmdldFBhZ2UuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB0YXJnZXRQYWdlID0gCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhOiBPcHRpb25bTm90aGluZ10gPSBwcm9wcy5zdGFnZVRvSWQuZ2V0KHN0YWdlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXJHb0J1dHRvbihwcm9wcywgaXNQcmltYXJ5ID0gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0YXJnZXRQYWdlID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJHb0J1dHRvbihwcm9wcywgaXNQcmltYXJ5ID0gZmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVGFnTW9kIHsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFnZSA9IHByb3BzLm91dGVyUHJvcHMucGFnZQo=</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcGFnZSA9IHByb3BzLm91dGVyUHJvcHMucGFnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVGFnTW9kKF4ucGFkZGluZyA6PSAiMnB4IDAiKQo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
