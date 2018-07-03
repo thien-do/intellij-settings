@@ -1,4 +1,13 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorLookupDown" />
+  <action id="EditorScrollDown" />
   <action id="EditorTab" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
 </keymap>
