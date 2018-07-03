@@ -104,6 +104,11 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/main.scss" timestamp="1530606094527">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-1.0.10/base/_typo.scss" timestamp="1530602810401">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -172,6 +177,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/keycloak/webResources/src/main/assets/common/resources/stylesheets/main.scss" timestamp="1530606100319">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/complete-box/_complete-box.scss" timestamp="1530602284908">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -196,6 +206,11 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/webTarget/keycloak/common/resources/stylesheets/main.scss" timestamp="1530606235111">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/_tree-view.scss" timestamp="1530603180289">
         <mark key="[" line="22" column="0" />
@@ -254,6 +269,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/keycloak/webResources/src/main/assets/common/resources/stylesheets/utils/_entity-color.scss" timestamp="1530605963460" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/doc-viewer/_mobile.scss" timestamp="1530602644825">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -367,7 +383,7 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vIEZvbnQKQGltcG9ydCAnZm9udHMvZm9udHMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -382,31 +398,31 @@
         <text encoding="base64">ICAgICAgICB3aWR0aDogMTZweDsKICAgICAgICBoZWlnaHQ6IDE2cHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vIEZvbnQKQGltcG9ydCAnZm9udHMvZm9udHMnOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ci8vIExpYnMKQGltcG9ydCAndmVuZG9ycy9ib3VyYm9uLTQuMi43L2JvdXJib24nOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gVmVuZG9ycwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QGltcG9ydCAndmVuZG9ycy9waWthZGF5JzsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Lm1zZy1ub3RpZiB7CiAgICBAZXh0ZW5kICVpY29uOwogICAgQGluY2x1ZGUgc2l6ZSgyMHB4KTsKICAgIGJhY2tncm91bmQtcG9zaXRpb246IC01MHB4IC0xMzJweDsKICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKCiAgICAubm90aWYtYmFkZ2UgewogICAgICAgIEBpbmNsdWRlIHBvc2l0aW9uKHJlbGF0aXZlLCAtMTBweCAtMTBweCBudWxsIG51bGwpOwogICAgfQp9CgouYWN0aXZpdHktbm90aWYgewogICAgQGV4dGVuZCAlaWNvbjsKICAgIEBpbmNsdWRlIHNpemUoMTRweCAyMHB4KTsKICAgIGJhY2tncm91bmQtcG9zaXRpb246IC02MHB4IC0yMjJweDsKICAgIG1hcmdpbi1sZWZ0OiAxMHB4Owp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmFjdGl2aXR5LW5vdGlmIHsKICAgIEBleHRlbmQgJWljb247CiAgICBAaW5jbHVkZSBzaXplKDE0cHggMjBweCk7CiAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiAtNjBweCAtMjIycHg7CiAgICBtYXJnaW4tbGVmdDogMTBweDsKfQoK</text>
+        <text encoding="base64">Ly8gVmVuZG9ycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lm1zZy1ub3RpZiB7CiAgICBAZXh0ZW5kICVpY29uOwogICAgQGluY2x1ZGUgc2l6ZSgyMHB4KTsKICAgIGJhY2tncm91bmQtcG9zaXRpb246IC01MHB4IC0xMzJweDsKICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKCiAgICAubm90aWYtYmFkZ2UgewogICAgICAgIEBpbmNsdWRlIHBvc2l0aW9uKHJlbGF0aXZlLCAtMTBweCAtMTBweCBudWxsIG51bGwpOwogICAgfQp9Cgo=</text>
+        <text encoding="base64">QGltcG9ydCAndmVuZG9ycy9waWthZGF5JzsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmJhZGdlIHsKICAgIEBpbmNsdWRlIHBvc2l0aW9uKGFic29sdXRlLCA1MCUgbnVsbCBudWxsIC0xN3B4KTsKICAgIEBpbmNsdWRlIHNpemUoMzRweCk7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAkd2hpdGU7CiAgICBib3JkZXI6IDFweCBzb2xpZCAkaXRlbS1ib3JkZXItY29sb3I7CiAgICBib3JkZXItcmFkaXVzOiAxMDAlOwogICAgbWFyZ2luLXRvcDogLTE3cHg7CiAgICBwYWRkaW5nOiA3cHggOHB4OwogICAgei1pbmRleDogMjsKCiAgICAmOjpiZWZvcmUgewogICAgICAgIEBleHRlbmQgJWljb247CiAgICAgICAgQGluY2x1ZGUgc2l6ZSgxN3B4KTsKICAgIH0KfQo=</text>
+        <text encoding="base64">Ly8gVmVuZG9ycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSBzaXplKCRpY29uLWJhc2Utc2l6ZSk7Cg==</text>
+        <text encoding="base64">Ly9AaW1wb3J0ICd2ZW5kb3JzL3Bpa2FkYXknOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
