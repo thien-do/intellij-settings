@@ -90,6 +90,12 @@
         <mark key="]" line="31" column="4" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/FontSize.scala" timestamp="1531131432976">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/side-bar/_discussion.scss" timestamp="1530608174743">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -571,13 +577,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>us</text>
+        <text>x14</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>us</text>
+        <text>x14</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
