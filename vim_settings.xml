@@ -8,6 +8,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIllus.scala" timestamp="1531112875624">
+        <mark key="[" line="51" column="79" />
+        <mark key="]" line="51" column="78" />
+        <mark key="^" line="51" column="78" />
+        <mark key="." line="51" column="78" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/keycloak/webResources/src/main/assets/common/resources/stylesheets/base/_base.scss" timestamp="1530603315337">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -18,6 +24,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="26" column="91" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/LayoutNav.scala" timestamp="1531112206151">
+        <mark key="[" line="63" column="47" />
+        <mark key="]" line="63" column="46" />
+        <mark key="^" line="63" column="46" />
+        <mark key="." line="63" column="46" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flexibleform/CustomObjectFieldTemplate.scala" timestamp="1530866649765">
         <mark key="[" line="16" column="7" />
@@ -66,15 +78,11 @@
         <mark key="]" line="266" column="0" />
         <mark key="." line="266" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/icon/Illus.scala" timestamp="1531112765407" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/side-bar/_discussion.scss" timestamp="1530608174743">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/input/Dropdown.scala" timestamp="1531107479430">
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="26" column="12" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/base/_deprecated.scss" timestamp="1530607600946">
         <mark key="[" line="53" column="0" />
@@ -87,11 +95,11 @@
         <mark key="]" line="988" column="0" />
         <mark key="." line="988" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1531107796246">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="12" column="9" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1531111734493">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/main.scss" timestamp="1530606825995">
         <mark key="[" line="17" column="0" />
@@ -195,11 +203,11 @@
         <mark key="." line="375" column="32" />
         <mark key="^" line="375" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/scripts/link.sh" timestamp="1531105536047">
-        <mark key="[" line="69" column="11" />
-        <mark key="]" line="69" column="11" />
-        <mark key="." line="69" column="11" />
-        <mark key="^" line="69" column="11" />
+      <file name="$USER_HOME$/Code/anduin/ui-guide/scripts/link.sh" timestamp="1531111685004">
+        <mark key="[" line="73" column="8" />
+        <mark key="]" line="73" column="13" />
+        <mark key="." line="73" column="13" />
+        <mark key="^" line="73" column="13" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-2.0/component/form/_checkbox-radio-switch.scss" timestamp="1530601726707">
         <mark key="[" line="125" column="0" />
@@ -269,6 +277,16 @@
         <mark key="." line="29" column="43" />
         <mark key="^" line="29" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" timestamp="1531112731250">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="23" column="2" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1531112158662">
+        <mark key="[" line="63" column="81" />
+        <mark key="]" line="64" column="83" />
+        <mark key="." line="64" column="83" />
+        <mark key="^" line="64" column="83" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/SummaryStructureViewHelper.scala" timestamp="1530597215010">
         <mark key="[" line="168" column="12" />
         <mark key="]" line="168" column="12" />
@@ -320,13 +338,6 @@
         <mark key="[" line="41" column="79" />
         <mark key="]" line="41" column="79" />
         <mark key="." line="41" column="79" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flexibleform/FlexibleLivePlayground.scala" timestamp="1530865805484">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="119" column="23" />
-        <mark key="]" line="120" column="21" />
-        <mark key="^" line="119" column="22" />
-        <mark key="." line="119" column="23" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-1.0.10/components/_well.scss" timestamp="1530602713995">
         <mark key="[" line="81" column="0" />
@@ -491,47 +502,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHJvcGRvd25PcHRpb25bSW50XSgxKSwK</text>
+        <text encoding="base64">ICAgICAgICA8LmRpdihjZWxsLCBJbGx1cyhJbGx1cy5OYW1lRG9jKSgpLCAiICIsICJEb2MiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8LmRpdihjZWxsLCBJbGx1cyhJbGx1cy5OYW1lRG9jKSgpLCAiICIsICJEb2MiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxJZiB5b3UgYXJlIG5vdCBzdXJlIHdoYXQgaXMgdGhlIHR5cGUgb2YgeW91ciBUYWJsZSwganVzdCB0aGluayB3aGF0IGlzIHRoZSBsaXN0IG9mIHRoaW5nIHRoYXQgeW91IHdhbnQgdG8gcmVuZGVyLiBJbiB0aGlzIGNhc2UsIHRoYXQgaXMgYSBsaXN0IG9mICJNZW1iZXIiLgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBicmVhayA9IDwuZGl2KFN0eWxlLmZsZXhib3gubm9uZS53aWR0aC5wYzEwMC5oZWlnaHQucHgyNCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHJvcGRvd25PcHRpb25bSW50XSgxKSwKICAgICAgICAgICAgRHJvcGRvd25PcHRpb25bSW50XSgxKSwKICAgICAgICAgICkK</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgcmVuZGVySWxsdXMobm9kZXM6IFZkb21Ob2RlKikgPSB7CiAgICA8LmRpdigKICAgICAgbm9kZXMudG9UYWdNb2QKICAgICkKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEludERyb3Bkb3duCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHJvcGRvd24gPSBEcm9wZG93bigpCg==</text>
+        <text encoding="base64">ICAgICAgU3R5bGUuZmxleGJveC5mbGV4LmZsZXhib3gud3JhcCwKICAgICAgU3R5bGUuZm9udFNpemUucHgxMi5saW5lSGVpZ2h0LnB4NDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBNYXJrZG93bigK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICIiIgogICAgICAgIHwgCg==</text>
+        <text encoding="base64">ICAgICAgRXhhbXBsZVJpY2goCiAgICAgICAgU291cmNlLmFubm90YXRlKAogICAgICAgICAgPC5kaXYoKQogICAgICAgICkKICAgICAgKSgpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIiIiLnN0cmlwTWFyZ2luCiAgICAgKSgpLAo=</text>
+        <text encoding="base64">ICAgIDwuZGl2KAogICAgICBTdHlsZS5mbGV4Ym94LmZsZXguZmxleGJveC53cmFwLAogICAgICBTdHlsZS5mb250U2l6ZS5weDEyLmxpbmVIZWlnaHQucHg0MCwKICAgICAgbm9kZXMudG9UYWdNb2QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b2JqZWN0IFNhbXBsZSB7CiAgY2FzZSBjbGFzcyBNZW1iZXIoCiAgICBpZDogSW50LAogICAgbmFtZTogU3RyaW5nLAogICAgbGV2ZWw6IEludCwKICAgIHBvaW50OiBEb3VibGUsCiAgICB0ZXN0QTogQm9vbGVhbiwKICAgIHRlc3RCOiBCb29sZWFuCiAgKQogIHByaXZhdGUgdmFsIE1lbWJlclRhYmxlID0gKG5ldyBUYWJsZVtNZW1iZXJdKSgpCiAgcHJpdmF0ZSB2YWwgcmFuZG9tID0gbmV3IHV0aWwuUmFuZG9tCiAgcHJpdmF0ZSBkZWYgckludCA9IDEgKyByYW5kb20ubmV4dEludCgxMCkKICBwcml2YXRlIGRlZiByRGIgPSBtYXRoLnJvdW5kKHJhbmRvbS5uZXh0RG91YmxlKCkgKiAxMDApIC8gMTAuMAogIHByaXZhdGUgZGVmIHJCb28gPSByYW5kb20ubmV4dEJvb2xlYW4oKQogIHByaXZhdGUgdmFsIHJvd3MgPSBMaXN0KAogICAgTWVtYmVyKDAsICJWaW5jZW50IiwgckludCwgckRiLCByQm9vLCByQm9vKSwKICAgIE1lbWJlcigxLCAiSGFycnkiLCBySW50LCByRGIsIHJCb28sIHJCb28pLAogICAgTWVtYmVyKDIsICJBZGEiLCBySW50LCByRGIsIHJCb28sIHJCb28pLAogICAgTWVtYmVyKDMsICJOYW5jeSIsIHJJbnQsIHJEYiwgckJvbywgckJvbyksCiAgICBNZW1iZXIoNCwgIkpvaG4iLCBySW50LCByRGIsIHJCb28sIHJCb28pLAogICAgTWVtYmVyKDUsICJWaXJnaW5pYSIsIHJJbnQsIHJEYiwgckJvbywgckJvbykKICApCiAgZGVmIHJlbmRlclBvaW50OiBNZW1iZXIgPT4gVGFibGUuQ2VsbCA9IChtZW1iZXI6IE1lbWJlcikgPT4gewogICAgdmFsIGNvbG9yID0gaWYgKG1lbWJlci5wb2ludCA+IDUpIFRhZy5Db2xvclN1Y2Nlc3MgZWxzZSBUYWcuQ29sb3JXaGl0ZQogICAgdmFsIGNvbnRlbnQgPSBUYWcoY29sb3IgPSBjb2xvcikobWVtYmVyLnBvaW50KQogICAgVGFibGUuQ2VsbChjb250ZW50KQogIH0KICBkZWYgcmVuZGVyVG90YWw6IE1lbWJlciA9PiBUYWJsZS5DZWxsID0gKG1lbWJlcjogTWVtYmVyKSA9PiB7CiAgICB2YWwgdG90YWwgPSBtZW1iZXIucG9pbnQgKiBtZW1iZXIubGV2ZWwKICAgIFRhYmxlLkNlbGwobWF0aC5yb3VuZCh0b3RhbCAqIDEwMCkgLyAxMDAuMCkKICB9CiAgZGVmIHJlbmRlck5hbWVJZDogTWVtYmVyID0+IFRhYmxlLkNlbGwgPSAobWVtYmVyOiBNZW1iZXIpID0+IHsKICAgIHZhbCBjb250ZW50ID0gPC5kaXYoCiAgICAgIDwucChtZW1iZXIubmFtZSksCiAgICAgIDwucChTdHlsZS5jb2xvci5ncmF5NywgIklkOiAiLCBtZW1iZXIuaWQpCiAgICApCiAgICBUYWJsZS5DZWxsKGNvbnRlbnQpCiAgfQogIHByaXZhdGUgdmFsIGNvbHVtbnMgPSBMaXN0KAogICAgVGFibGUuQ29sdW1uW01lbWJlcl0oIklkIiwgbWVtYmVyID0+IFRhYmxlLkNlbGwobWVtYmVyLmlkKSksCiAgICBUYWJsZS5Db2x1bW5bTWVtYmVyXSgiTmFtZSIsIG1lbWJlciA9PiBUYWJsZS5DZWxsKG1lbWJlci5uYW1lKSksCiAgICBUYWJsZS5Db2x1bW5bTWVtYmVyXSgiTGV2ZWwiLCBtZW1iZXIgPT4gVGFibGUuQ2VsbChtZW1iZXIubGV2ZWwpKSwKICAgIFRhYmxlLkNvbHVtbltNZW1iZXJdKCJQb2ludCIsIHJlbmRlclBvaW50KSwKICAgIFRhYmxlLkNvbHVtbltNZW1iZXJdKCJUb3RhbCIsIHJlbmRlclRvdGFsKQogICkKICBwcml2YXRlIHZhbCBnZXRLZXkgPSAoZTogTWVtYmVyKSA9PiBlLmlkLnRvU3RyaW5nCiAgdmFsIEJhc2VUYWJsZSA9IE1lbWJlclRhYmxlKAogICAgcm93cyA9IHJvd3MsCiAgICBnZXRLZXkgPSBnZXRLZXksCiAgICBjb2x1bW5zID0gY29sdW1ucwogICkKfQo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
