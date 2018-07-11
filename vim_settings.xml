@@ -126,12 +126,6 @@
         <mark key="^" line="92" column="3" />
         <mark key="." line="92" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/icon/IllusFolder.scala" timestamp="1531124897546">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="42" column="3" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="48" column="24" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/scripts/link.sh" timestamp="1531317891316">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -705,13 +699,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Tooltip</text>
+        <text>^</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>Tooltip</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
