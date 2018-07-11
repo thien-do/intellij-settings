@@ -108,6 +108,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/input/Radio.scala" timestamp="1531321526284">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="18" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/_card.scss" timestamp="1531133059253">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -698,8 +702,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>^</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmluYWwgY2FzZSBjbGFzcyBSYWRpb1tWXSgKICBuYW1lOiBTdHJpbmcsCiAgdmFsdWU6IFYsCiAgb25DaGFuZ2U6IFYgPT4gQ2FsbGJhY2ssCiAgaXNEaXNhYmxlZDogQm9vbGVhbiA9IGZhbHNlLAogIGlzQ2hlY2tlZDogQm9vbGVhbgopIHsK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -711,7 +715,7 @@
         <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsaW5rKCJQb3J0YWwiLCBNYWluLldJUCgpKSwKICAgICAgICAgICAgICB1bCgKICAgICAgICAgICAgICAgIGxpKGxpbmsoIlRvb2x0aXAiLCBNYWluLlRvb2x0aXAoKSkpLAogICAgICAgICAgICAgICAgbGkobGluaygiUG9wb3ZlciIsIE1haW4uV0lQKCkpKSwKICAgICAgICAgICAgICAgIGxpKGxpbmsoIk1lbnUiLCBNYWluLldJUCgpKSksCiAgICAgICAgICAgICAgICBsaShsaW5rKCJNb2RhbCIsIE1haW4uV0lQKCkpKQogICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ZmluYWwgY2FzZSBjbGFzcyBSYWRpb1tWXSgKICBuYW1lOiBTdHJpbmcsCiAgdmFsdWU6IFYsCiAgb25DaGFuZ2U6IFYgPT4gQ2FsbGJhY2ssCiAgaXNEaXNhYmxlZDogQm9vbGVhbiA9IGZhbHNlLAogIGlzQ2hlY2tlZDogQm9vbGVhbgopIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpKGxpbmsoIk1lbnUiLCBNYWluLldJUCgpKSksCiAgICAgICAgICAgICAgICBsaShsaW5rKCJNb2RhbCIsIE1haW4uV0lQKCkpKQo=</text>
