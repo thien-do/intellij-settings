@@ -197,9 +197,9 @@
         <mark key="]" line="231" column="75" />
         <mark key="." line="231" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1531340446489">
+      <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" timestamp="1531374024365">
         <mark key="'" line="105" column="0" />
-        <mark key="[" line="103" column="18" />
+        <mark key="[" line="103" column="26" />
         <mark key="]" line="103" column="25" />
         <mark key="." line="103" column="25" />
         <mark key="^" line="103" column="25" />
@@ -655,7 +655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="11" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/TransactionSummaryLayout.scala" />
       <jump line="72" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/TransactionSummaryLayout.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/TransactionSummaryLayout.scala" />
       <jump line="50" column="4" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/TransactionSummaryLayout.scala" />
@@ -755,6 +754,7 @@
       <jump line="49" column="16" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIllusFolder.scala" />
       <jump line="174" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageTab.scala" />
       <jump line="100" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Main.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/LayoutNav.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
