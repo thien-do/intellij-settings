@@ -136,6 +136,12 @@
         <mark key="." line="31" column="42" />
         <mark key="^" line="86" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Tooltip.scala" timestamp="1532426724542">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/ExampleRich.scala" timestamp="1531307349448">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="47" />
@@ -535,14 +541,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHRoZSBkZWZhdWx0IHJlbmRlciBkb2VzIG5vdCBuZWVkIHRoZSByb3cgZGF0YS4gSG93ZXZlciwgd2UgCg==</text>
+      <register name="&quot;" type="4">
+        <text>ComponentName</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ComponentName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
