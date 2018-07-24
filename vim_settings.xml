@@ -34,6 +34,7 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/PortalWrapper.scala" timestamp="1532421880972" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flexibleform/ReactJSONSchemaForm.scala" timestamp="1530867536154">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -120,11 +121,7 @@
         <mark key="^" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/component/container/TableBody.scala" timestamp="1532337176629">
-        <mark key="j" line="89" column="56" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="96" column="2" />
-        <mark key="." line="90" column="14" />
-        <mark key="^" line="90" column="14" />
+        <mark key="]" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/build.sbt" timestamp="1532283086763">
         <mark key="[" line="33" column="63" />
@@ -403,12 +400,6 @@
         <mark key="." line="73" column="43" />
         <mark key="^" line="73" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/TableBody.scala" timestamp="1532337176632">
-        <mark key="[" line="93" column="15" />
-        <mark key="]" line="94" column="3" />
-        <mark key="." line="94" column="3" />
-        <mark key="^" line="94" column="3" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Router.scala" timestamp="1532202472235">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -434,6 +425,7 @@
         <mark key="." line="186" column="23" />
         <mark key="^" line="343" column="65" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Popover.scala" timestamp="1532421936840" />
     </filemarks>
     <jumps>
       <jump line="73" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/notification/StageActivityModal.scala" />
