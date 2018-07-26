@@ -28,6 +28,12 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/turns/SnapshotTurns.scala" timestamp="1532637888007">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="60" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="95" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flexibleform/CustomObjectFieldTemplate.scala" timestamp="1530866649765">
         <mark key="[" line="16" column="7" />
         <mark key="]" line="16" column="12" />
@@ -793,8 +799,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZW52T3B0ID0gSnNFbnZpcm9ubWVudFV0aWwuZ2V0RW52KHByb3BzLnRyeG5Nb2RlbCkK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -809,38 +815,31 @@
         <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgbWFyZ2luLAogICAgICAgIDwuZGl2KHJlbmRlclRlYW0ocHJvcHMsIFJlYWxMaWZlUm9sZS5MZWFkSW52ZXN0b3IpKSwKICAgICAgICA8LmRpdihyZW5kZXJUZWFtKHByb3BzLCBSZWFsTGlmZVJvbGUuSW52ZXN0b3JDb3Vuc2VsKSwgbWFyZ2luKSwKICAgICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZW52T3B0ID0gSnNFbnZpcm9ubWVudFV0aWwuZ2V0RW52KHByb3BzLnRyeG5Nb2RlbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgV2l0aFJvdXRlciB7IHJvdXRlciA9PgogICAgICAgIHZhbCBzZWN0aW9uID0gVHJhbnNhY3Rpb25TZXR0aW5ncy5UYWJTZWN0aW9uLnRvVXJsKFRyYW5zYWN0aW9uU2V0dGluZ3MuVGFiU2VjdGlvbi5UcnhuTm90aWZpY2F0aW9ucykKICAgICAgICB2YWwgcGFnZSA9IFRyYW5zYWN0aW9uU2V0dGluZ3NQYWdlKHByb3BzLm91dGVyUHJvcHMudHJ4bklkLCBTb21lKHNlY3Rpb24pKQogICAgICAgIEJ1dHRvbkxpbmsoaHJlZiA9IHJvdXRlci51cmxGb3IocGFnZSkudmFsdWUsIGNvbG9yID0gQnV0dG9uU3R5bGUuQ29sb3JQcmltYXJ5KSgiQWR2YW5jZSBTZXR0aW5ncyIpCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbmFtZSA9IFN0YWdlQ29yZVV0aWxzLnN0YWdlTmFtZShzdGFnZUl0ZW0uc3RhZ2VUeXBlLCBlbnZPcHQpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-        val isChecked = !props.setting.unsubscribeWeeklyDigest
-        Checkbox(isChecked = isChecked, isDisabled = true)(&quot;Weekly digest&quot;)
-      }, {
-        val isChecked = !NotificationUtils.getUnsubscribeDailyDigest(props.setting.unsubscribeDailyDigest, level)
-        Checkbox(isChecked = isChecked, isDisabled = true)(&quot;Daily digest&quot;)
-      }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBFbXB0eVZkb20K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgPC5kaXYoCiAgICAgICAgICAvLyBUT0RPIHRoaWVuZG9AIHVzZSBhIHByb3BlciBVSSB0cmVhdG1lbnQgZm9yIHRoaXMgKGUuZy4gZGlzYWJsZWQgY2hlY2tib3ggb3IgaWNvbikKICAgICAgICAgIDwuZGl2KHMiV2Vla2x5IGRpZ2VzdCBlbWFpbDogJHt9IikKICAgICAgICApLAogICAgICAgIDwuZGl2KAogICAgICAgICAgLy8gVE9ETyB0aGllbmRvQCB1c2UgYSBwcm9wZXIgVUkgdHJlYXRtZW50IGZvciB0aGlzIChlLmcuIGRpc2FibGVkIGNoZWNrYm94IG9yIGljb24pCiAgICAgICAgICA8LmRpdihzIkRhaWx5IGRpZ2VzdCBlbWFpbDogJHt9IikKICAgICAgICApCiAgICAgICksCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQ2hlY2tib3goaXNDaGVja2VkID0gIXByb3BzLnNldHRpbmcudW5zdWJzY3JpYmVXZWVrbHlEaWdlc3QsIGlzRGlzYWJsZWQgPSB0cnVlKSgiV2Vla2x5IGRpZ2VzdCIpLAo=</text>
+        <text encoding="base64">ICAgIGlmIChzdGFnZVR1cm5zLmZvcmFsbChfLl8yLmV4aXN0cyhfLmlzRW1wdHkpKSkgewogICAgICA8LmRpdigKICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXguZmxleGJveC5pdGVtc0NlbnRlci5mbGV4Ym94LmNvbHVtbiwKICAgICAgICA8LnAoCiAgICAgICAgICBTdHlsZS5tYXJnaW4uYm90dG9tMTIsCiAgICAgICAgICA8LmltZygKICAgICAgICAgICAgXi5zcmMgOj0gIi93ZWIvZ29uZG9yL2ltYWdlcy9zbmFwc2hvdC9sYW5kc2NhcGUtZW1wdHktc3RhdGUuc3ZnIiwKICAgICAgICAgICAgXi53aWR0aCA6PSAiMTgwcHgiLAogICAgICAgICAgICBeLmhlaWdodCA6PSAiMTgwcHgiCiAgICAgICAgICApCiAgICAgICAgKSwKICAgICAgICA8LnAoU3R5bGUuY29sb3IuZ3JheTcsICJUaGVyZSBpcyBjdXJyZW50bHkgbm8gcGVuZGluZyB0dXJuLiIpCiAgICAgICkKICAgIH0gZWxzZSB7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>!NotificationUtils
-            .getUnsubscribeDailyDigest(props.setting.unsubscribeDailyDigest, userLevel)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gVGFzayA9PSBUdXJuIGhlcmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgLy8gVE9ETyB0aGllbmRvQCBzdHlsaW5nCiAgICAgICAgPC5kaXYocyJWaWV3aW5nIGRlYWwgYXMgJHt9IikKICAgICAgKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3R5bGUuZmxleGJveC5mbGV4LmZsZXhib3guaXRlbXNDZW50ZXIuaGVpZ2h0LnBjMTAwLmZsZXhib3guY29sdW1uLnRleHRBbGlnbi5jZW50ZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNhY3Rpb25TZXR0aW5nc1BhZ2UoCiAgICAgICAgICAgICAgcHJvcHMub3V0ZXJQcm9wcy50cnhuSWQsCiAgICAgICAgICAgICAgU29tZShUcmFuc2FjdGlvblNldHRpbmdzLlRhYlNlY3Rpb24udG9VcmwoVHJhbnNhY3Rpb25TZXR0aW5ncy5UYWJTZWN0aW9uLlRyeG5Ob3RpZmljYXRpb25zKSkKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgV2l0aFJvdXRlciB7IHJvdXRlciA9PgogICAgICAgIHZhbCBzZWN0aW9uID0gVHJhbnNhY3Rpb25TZXR0aW5ncy5UYWJTZWN0aW9uLnRvVXJsKFRyYW5zYWN0aW9uU2V0dGluZ3MuVGFiU2VjdGlvbi5UcnhuTm90aWZpY2F0aW9ucykKICAgICAgICB2YWwgcGFnZSA9IFRyYW5zYWN0aW9uU2V0dGluZ3NQYWdlKHByb3BzLm91dGVyUHJvcHMudHJ4bklkLCBTb21lKHNlY3Rpb24pKQogICAgICAgIEJ1dHRvbkxpbmsoaHJlZiA9IHJvdXRlci51cmxGb3IocGFnZSkudmFsdWUsIGNvbG9yID0gQnV0dG9uU3R5bGUuQ29sb3JQcmltYXJ5KSgiQWR2YW5jZSBTZXR0aW5ncyIpCiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
