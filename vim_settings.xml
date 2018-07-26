@@ -46,11 +46,11 @@
         <mark key="." line="287" column="0" />
         <mark key="^" line="286" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/FontSize.scala" timestamp="1531131493501">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/FontSize.scala" timestamp="1532632817331">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+        <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/EntityRoutes.scala" timestamp="1532604587025">
         <mark key="'" line="29" column="11" />
@@ -81,6 +81,12 @@
         <mark key="]" line="186" column="73" />
         <mark key="." line="186" column="73" />
         <mark key="^" line="186" column="51" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/TransactionSnapshot.scala" timestamp="1532634285489">
+        <mark key="[" line="80" column="30" />
+        <mark key="]" line="80" column="30" />
+        <mark key="." line="80" column="30" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/icon/Illus.scala" timestamp="1531127751810">
         <mark key="[" line="65" column="18" />
@@ -282,6 +288,12 @@
         <mark key="." line="7" column="76" />
         <mark key="^" line="7" column="76" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/notif/SnapshotNotifications.scala" timestamp="1532636619384">
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="66" column="17" />
+        <mark key="." line="66" column="17" />
+        <mark key="^" line="66" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/duediligence/common/room/Nav.scala" timestamp="1531127870894">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="30" />
@@ -478,11 +490,11 @@
         <mark key="." line="42" column="25" />
         <mark key="^" line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_font-size.scss" timestamp="1531132540257">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="^" line="4" column="5" />
-        <mark key="." line="4" column="5" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_font-size.scss" timestamp="1532632861103">
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="43" column="8" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/viewer/compare/TermSheetComparison.scala" timestamp="1532602073968">
         <mark key="[" line="4" column="0" />
@@ -528,6 +540,19 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/overview/SnapshotOverview.scala" timestamp="1532633272100">
+        <mark key="[" line="38" column="63" />
+        <mark key="]" line="38" column="64" />
+        <mark key="." line="38" column="106" />
+        <mark key="^" line="38" column="64" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/parties/SnapshotParties.scala" timestamp="1532636414555">
+        <mark key="'" line="41" column="36" />
+        <mark key="[" line="47" column="44" />
+        <mark key="]" line="47" column="52" />
+        <mark key="." line="47" column="52" />
+        <mark key="^" line="47" column="52" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/RoutingUtils.scala" timestamp="1532603102108">
         <mark key="[" line="19" column="21" />
@@ -663,7 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="24" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/SummaryTurn.scala" />
       <jump line="102" column="39" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/SummaryTurn.scala" />
       <jump line="49" column="47" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/SummaryTurn.scala" />
       <jump line="57" column="4" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/flow/turn/TurnRemindButton.scala" />
@@ -763,52 +787,60 @@
       <jump line="29" column="11" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/EntityRoutes.scala" />
       <jump line="45" column="34" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/duediligence/DueDiligenceWorkspaceRoutes.scala" />
       <jump line="18" column="58" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/memo/DealMemoRoutes.scala" />
+      <jump line="43" column="36" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/parties/SnapshotParties.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBib2FyZENvbnNlbnRVcmwgPSAiIy8iCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>boardconsnet</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpeElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gQ29weXJpZ2h0IChDKSAyMDE0LTIwMTggQW5kdWluIFRyYW5zYWN0aW9ucyBJbmMuCg==</text>
+        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgbWFyZ2luLAogICAgICAgIDwuZGl2KHJlbmRlclRlYW0ocHJvcHMsIFJlYWxMaWZlUm9sZS5MZWFkSW52ZXN0b3IpKSwKICAgICAgICA8LmRpdihyZW5kZXJUZWFtKHByb3BzLCBSZWFsTGlmZVJvbGUuSW52ZXN0b3JDb3Vuc2VsKSwgbWFyZ2luKSwKICAgICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBib2FyZENvbnNlbnRVcmwgPSAiIy8iCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAoCiAgICAgIGVtcHR5UnVsZQogICAgKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFNvbWUocGFnZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQm9hcmRQYWdlKAogICAgICAgICAgICAgIHdvcmtmbG93SWQsCiAgICAgICAgICAgICAgVHJ4blRlYW1JZCh3b3JrZmxvd0lkLnBhcmVudCwgdHJ4blRlYW1WYWx1ZSkKICAgICAgICAgICAgKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBQYWdlID0gRHluYW1pY0F1dGhQYWdlLkJvYXJkQ29uc2VudEJvYXJkTWVtYmVyc1BhZ2UK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBib2FyZE1lbWJlcnNVcmwgPSBib2FyZENvbnNlbnRVcmwgLyAocmFkaXhJZFtCb2FyZENvbnNlbnRXb3JrZmxvd0lkXSAvIHRyeG5UZWFtVmFsdWUpCiAgICAgIC5wbWFwW0R5bmFtaWNBdXRoUGFnZS5Cb2FyZENvbnNlbnRCb2FyZE1lbWJlcnNQYWdlXSB7CiAgICAgICAgY2FzZSAoYm9hcmRDb25zZW50V29ya0Zsb3dJZCwgdHJ4blRlYW1WYWx1ZSkgPT4KICAgICAgICAgIHZhbCBQYWdlID0gRHluYW1pY0F1dGhQYWdlLkJvYXJkQ29uc2VudEJvYXJkTWVtYmVyc1BhZ2UKICAgICAgICAgIFNvbWUoCiAgICAgICAgICAgIEJvYXJkQ29uc2VudEJvYXJkTWVtYmVyc1BhZ2UoCiAgICAgICAgICAgICAgYm9hcmRDb25zZW50V29ya0Zsb3dJZCwKICAgICAgICAgICAgICBUcnhuVGVhbUlkKGJvYXJkQ29uc2VudFdvcmtGbG93SWQucGFyZW50LCB0cnhuVGVhbVZhbHVlKQogICAgICAgICAgICApCiAgICAgICAgICApCiAgICAgIH0geyBwYWdlID0+CiAgICAgICAgKHBhZ2UuYm9hcmRDb25zZW50V29ya0Zsb3dJZCwgcGFnZS50ZWFtSWQudmFsdWUpCiAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgV2l0aFJvdXRlciB7IHJvdXRlciA9PgogICAgICAgIHZhbCBzZWN0aW9uID0gVHJhbnNhY3Rpb25TZXR0aW5ncy5UYWJTZWN0aW9uLnRvVXJsKFRyYW5zYWN0aW9uU2V0dGluZ3MuVGFiU2VjdGlvbi5UcnhuTm90aWZpY2F0aW9ucykKICAgICAgICB2YWwgcGFnZSA9IFRyYW5zYWN0aW9uU2V0dGluZ3NQYWdlKHByb3BzLm91dGVyUHJvcHMudHJ4bklkLCBTb21lKHNlY3Rpb24pKQogICAgICAgIEJ1dHRvbkxpbmsoaHJlZiA9IHJvdXRlci51cmxGb3IocGFnZSkudmFsdWUsIGNvbG9yID0gQnV0dG9uU3R5bGUuQ29sb3JQcmltYXJ5KSgiQWR2YW5jZSBTZXR0aW5ncyIpCiAgICAgIH0K</text>
+      </register>
+      <register name="3" type="4">
+        <text>{
+        val isChecked = !props.setting.unsubscribeWeeklyDigest
+        Checkbox(isChecked = isChecked, isDisabled = true)(&quot;Weekly digest&quot;)
+      }, {
+        val isChecked = !NotificationUtils.getUnsubscribeDailyDigest(props.setting.unsubscribeDailyDigest, level)
+        Checkbox(isChecked = isChecked, isDisabled = true)(&quot;Daily digest&quot;)
+      }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgPC5kaXYoCiAgICAgICAgICAvLyBUT0RPIHRoaWVuZG9AIHVzZSBhIHByb3BlciBVSSB0cmVhdG1lbnQgZm9yIHRoaXMgKGUuZy4gZGlzYWJsZWQgY2hlY2tib3ggb3IgaWNvbikKICAgICAgICAgIDwuZGl2KHMiV2Vla2x5IGRpZ2VzdCBlbWFpbDogJHt9IikKICAgICAgICApLAogICAgICAgIDwuZGl2KAogICAgICAgICAgLy8gVE9ETyB0aGllbmRvQCB1c2UgYSBwcm9wZXIgVUkgdHJlYXRtZW50IGZvciB0aGlzIChlLmcuIGRpc2FibGVkIGNoZWNrYm94IG9yIGljb24pCiAgICAgICAgICA8LmRpdihzIkRhaWx5IGRpZ2VzdCBlbWFpbDogJHt9IikKICAgICAgICApCiAgICAgICksCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgQ2hlY2tib3goaXNDaGVja2VkID0gIXByb3BzLnNldHRpbmcudW5zdWJzY3JpYmVXZWVrbHlEaWdlc3QsIGlzRGlzYWJsZWQgPSB0cnVlKSgiV2Vla2x5IGRpZ2VzdCIpLAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>!NotificationUtils
+            .getUnsubscribeDailyDigest(props.setting.unsubscribeDailyDigest, userLevel)</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgLy8gVE9ETyB0aGllbmRvQCBzdHlsaW5nCiAgICAgICAgPC5kaXYocyJWaWV3aW5nIGRlYWwgYXMgJHt9IikKICAgICAgKSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgU3R5bGUuZmxleGJveC5mbGV4LmZsZXhib3guaXRlbXNDZW50ZXIuaGVpZ2h0LnBjMTAwLmZsZXhib3guY29sdW1uLnRleHRBbGlnbi5jZW50ZXIsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB8IGR5bmFtaWNSb3V0ZUNUW0R5bmFtaWNBdXRoUGFnZS5Cb2FyZENvbnNlbnRCb2FyZE1lbWJlcnNQYWdlXShib2FyZE1lbWJlcnNVcmwpIH4+IGR5blJlbmRlcigKICAgICAgICAgIHBhZ2UgPT4gYm9hcmRtZW1iZXIuQm9hcmRNZW1iZXJUcmFja2luZ1ZpZXcocGFnZS5ib2FyZENvbnNlbnRXb3JrRmxvd0lkLCBwYWdlLnRlYW1JZCkoKQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNhY3Rpb25TZXR0aW5nc1BhZ2UoCiAgICAgICAgICAgICAgcHJvcHMub3V0ZXJQcm9wcy50cnhuSWQsCiAgICAgICAgICAgICAgU29tZShUcmFuc2FjdGlvblNldHRpbmdzLlRhYlNlY3Rpb24udG9VcmwoVHJhbnNhY3Rpb25TZXR0aW5ncy5UYWJTZWN0aW9uLlRyeG5Ob3RpZmljYXRpb25zKSkKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
