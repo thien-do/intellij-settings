@@ -52,6 +52,12 @@
         <mark key="." line="287" column="0" />
         <mark key="^" line="286" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flexibleform/FlexibleFormBuilderWithSideEffect.scala" timestamp="1532679626122">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="42" column="26" />
+        <mark key="^" line="42" column="25" />
+        <mark key="." line="42" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/FontSize.scala" timestamp="1532632817331">
         <mark key="[" line="12" column="46" />
         <mark key="]" line="12" column="47" />
@@ -312,12 +318,6 @@
         <mark key="]" line="186" column="23" />
         <mark key="." line="186" column="23" />
         <mark key="^" line="343" column="65" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/negotiation/NegotiationRoutes.scala" timestamp="1532604514520">
-        <mark key="[" line="9" column="73" />
-        <mark key="]" line="9" column="95" />
-        <mark key="." line="9" column="95" />
-        <mark key="^" line="9" column="95" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/wiring/WiringWorkspaceRoutes.scala" timestamp="1532604526601">
         <mark key="'" line="13" column="7" />
@@ -805,14 +805,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIER5bmFtaWMgRm9ybQo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>namicform</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpeElkXD4=</text>
