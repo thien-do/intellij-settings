@@ -331,12 +331,6 @@
         <mark key="^" line="45" column="40" />
         <mark key="." line="45" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/signature/SignViewerModal.scala" timestamp="1533222314103">
-        <mark key="[" line="122" column="14" />
-        <mark key="]" line="123" column="20" />
-        <mark key="." line="123" column="20" />
-        <mark key="^" line="123" column="20" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/TransactionSnapshotUtils.scala" timestamp="1533022312385">
         <mark key="[" line="81" column="29" />
         <mark key="]" line="92" column="41" />
@@ -846,14 +840,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5yZW5kZXJfUCB7IHByb3BzID0+CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mptyVdom</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>Props</text>
+        <text>mptyVdom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpeElkXD4=</text>
