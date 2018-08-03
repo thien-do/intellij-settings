@@ -673,6 +673,12 @@
         <mark key="^" line="162" column="9" />
         <mark key="." line="168" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/company/CompanyTrackingView.scala" timestamp="1533286729558">
+        <mark key="[" line="139" column="25" />
+        <mark key="]" line="139" column="31" />
+        <mark key="." line="139" column="31" />
+        <mark key="^" line="139" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Radio.scala" timestamp="1531339398167">
         <mark key="[" line="74" column="15" />
         <mark key="]" line="74" column="15" />
@@ -841,13 +847,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>SizeSmall</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>SizeSmall</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpeElkXD4=</text>
