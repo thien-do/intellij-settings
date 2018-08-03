@@ -27,6 +27,12 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="16" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/common/BoardConsentUtils.scala" timestamp="1533287690146">
+        <mark key="[" line="90" column="29" />
+        <mark key="]" line="90" column="35" />
+        <mark key="." line="90" column="35" />
+        <mark key="^" line="90" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/ModalHeader.scala" timestamp="1533148386957">
         <mark key="[" line="52" column="38" />
         <mark key="]" line="53" column="26" />
@@ -847,13 +853,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SizeSmall</text>
+        <text>cSizeMedium</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>SizeSmall</text>
+        <text>cSizeMedium</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpeElkXD4=</text>
