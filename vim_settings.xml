@@ -349,6 +349,12 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/layout/DealWorkspaceLayout.scala" timestamp="1534203485508">
+        <mark key="[" line="72" column="49" />
+        <mark key="]" line="72" column="49" />
+        <mark key="." line="72" column="49" />
+        <mark key="^" line="72" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/notif/SnapshotNotifications.scala" timestamp="1533027942537">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="67" column="4" />
@@ -910,11 +916,10 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorCommon/shared/src/main/scala/stargazer/model/routing/pages.scala" timestamp="1534199250743">
-        <mark key="[" line="357" column="60" />
-        <mark key="]" line="358" column="26" />
-        <mark key="." line="358" column="26" />
-        <mark key="^" line="358" column="26" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorCommon/shared/src/main/scala/stargazer/model/routing/pages.scala" timestamp="1534203775091">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/_tree-view.scss" timestamp="1530603180289">
         <mark key="[" line="22" column="0" />
@@ -1067,11 +1072,11 @@
         <mark key="." line="212" column="25" />
         <mark key="^" line="212" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/chronology/layout/DealChronologyLayout.scala" timestamp="1534201110836">
-        <mark key="[" line="66" column="44" />
-        <mark key="]" line="66" column="50" />
-        <mark key="." line="66" column="56" />
-        <mark key="^" line="66" column="50" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/chronology/layout/DealChronologyLayout.scala" timestamp="1534203442737">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="65" />
+        <mark key="." line="53" column="15" />
+        <mark key="^" line="53" column="16" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/tachyons/_hover.scss" timestamp="1532979544977">
         <mark key="[" line="87" column="0" />
@@ -1180,9 +1185,9 @@
         <mark key="." line="71" column="16" />
         <mark key="^" line="71" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/header/DealHeaderWorkflows.scala" timestamp="1534150514570">
-        <mark key="[" line="81" column="46" />
-        <mark key="]" line="81" column="49" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/header/DealHeaderWorkflows.scala" timestamp="1534202205019">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="52" />
         <mark key="." line="81" column="49" />
         <mark key="^" line="81" column="49" />
       </file>
@@ -1192,11 +1197,11 @@
         <mark key="." line="165" column="70" />
         <mark key="^" line="165" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/component/stage/workspace/Workspace.scala" timestamp="1534200850686">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="118" column="14" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/component/stage/workspace/Workspace.scala" timestamp="1534203737158">
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="19" />
+        <mark key="." line="45" column="19" />
+        <mark key="^" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flexibleform/DefaultObjectFieldTemplate.scala" timestamp="1530866354645">
         <mark key="[" line="58" column="10" />
@@ -1413,47 +1418,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Style.fontWeight.normal.fontSize.px24.lineHeight.px32</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>Style.fontWeight.normal.fontSize.px24.lineHeight.px32</text>
+        <text>showWorkspace</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpeElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5tYXBwaW5nLkpzTW9kZWxNYXBwaW5nSW5zdGFuY2VzLl8K</text>
+        <text encoding="base64">ICAgIHZhbCBlbnYgPSBKc0Vudmlyb25tZW50VXRpbC5nZXRFbnYodHJ4bk1vZGVsKQogICAgdmFsIGxhYmVsID0gcyIke1N0YWdlQ29yZVV0aWxzLnN0YWdlTmFtZShzdGFnZSwgZW52KX0gc3VtbWFyeSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aXRsZSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBidXR0b24gPSBTdGFnZUFjdGl2aXR5QnV0dG9uKAogICAgICB0cnhuSWQgPSBwYWdlLnRyeG5JZCwKICAgICAgc3RhZ2UgPSBwYWdlLnN0YWdlLAogICAgICBzdHlsZSA9IEJ1dHRvblN0eWxlLlN0eWxlTWluaW1hbCwKICAgICAgY29sb3IgPSBCdXR0b25TdHlsZS5Db2xvclByaW1hcnkKICAgICkoKQo=</text>
+        <text encoding="base64">ICAgIC8vIEBUT0RPOiB0aGlzIGlzIG5vdCBjb3JyZWN0IGJ1dCBzb21laG93IERlYWxNZW1vUGFnZSBpcyBleHRlbmRpbmcgQmFzZVdvcmtzcGFjZVBhZ2UuCiAgICAvLyBJdCBtdXN0IGJlIGNoYW5nZWQgdG86CiAgICAvLyBBLiBEZWFsTWVtb1BhZ2Ugc2hvdWxkIG5vdCBleHRlbmQgZnJvbSBCYXNlV29rcnNwYWNlUGFnZSBvci4uLgogICAgLy8gQi4gRGVhbE1lbW8gc2hvdWxkIGhhdmUgcHJvcGVyIHdvcmtmbG93SWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJyZWFkY3J1bWJzLnRvVmRvbUFycmF5KHJlbmRlckJyZWFkY3J1bWIpCg==</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyKHByb3BzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5nb25kb3IuY29udGFjdC5jb21tb24uQ29udGFjdFB1c2hJbnZpdGF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb250YWN0UHVzaEludml0YXRpb24ocHJvcHMucm91dGVyLCBwcm9wcy5jdXJyZW50UGFnZSkoKSwK</text>
+      <register name="6" type="4">
+        <text>getSummaryBc(op.page.stage, op.page.workflowId, props.trxnModel, router)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVHVybihvcC5wYWdlLnRyeG5JZCwgb3AucGFnZS5zdGFnZSkoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCB1cmwgPSByb3V0ZXIudXJsRm9yKHBhZ2UpLnZhbHVlCiAgICBEZWFsSGVhZGVyLkJyZWFkY3J1bWIoIkRvY3VtZW50IExlZGdlciIsIHVybCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQ29udGFjdFB1c2hJbnZpdGF0aW9uKG9wLnBhZ2UudHJ4bklkKSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
