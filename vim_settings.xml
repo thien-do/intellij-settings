@@ -396,6 +396,12 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/layout/header/user/HeaderSetting.scala" timestamp="1534229804083">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/layout/DealWorkspaceLayout.scala" timestamp="1534210401997">
         <mark key="[" line="62" column="8" />
         <mark key="]" line="62" column="15" />
@@ -1567,13 +1573,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>RadixId</text>
+        <text>s</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>RadixId</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpeElkXD4=</text>
