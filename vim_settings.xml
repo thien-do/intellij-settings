@@ -92,11 +92,11 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/common/BoardConsentLayout.scala" timestamp="1534148015158">
-        <mark key="[" line="70" column="56" />
-        <mark key="]" line="70" column="54" />
-        <mark key="." line="70" column="54" />
-        <mark key="^" line="70" column="54" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/common/BoardConsentLayout.scala" timestamp="1534208942763">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+        <mark key="^" line="36" column="8" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/DealSnapshot.scala" timestamp="1534135903760">
         <mark key="[" line="108" column="26" />
@@ -208,6 +208,12 @@
         <mark key="]" line="31" column="14" />
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/inbox/BoardConsentInbox.scala" timestamp="1534208929821">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
+        <mark key="^" line="40" column="54" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/ModalView.scala" timestamp="1533233852957">
         <mark key="[" line="20" column="0" />
@@ -378,9 +384,6 @@
         <mark key="]" line="30" column="23" />
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/TrackingSignaturesView.scala" timestamp="1534205359794">
-        <mark key="^" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/layout/DealWorkspaceLayout.scala" timestamp="1534204468657">
         <mark key="[" line="59" column="69" />
@@ -662,11 +665,11 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/BoardConsentRoutes.scala" timestamp="1534070593296">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="61" column="21" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/BoardConsentRoutes.scala" timestamp="1534208738087">
+        <mark key="[" line="74" column="13" />
+        <mark key="]" line="74" column="20" />
+        <mark key="." line="74" column="20" />
+        <mark key="^" line="74" column="20" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/closingsummary/ClosingSummaryInvestorCompanyMainView.scala" timestamp="1534205489469">
         <mark key="[" line="100" column="0" />
@@ -995,6 +998,12 @@
         <mark key="]" line="49" column="7" />
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/boardmember/BoardMemberTrackingView.scala" timestamp="1534207999285">
+        <mark key="[" line="553" column="33" />
+        <mark key="]" line="553" column="40" />
+        <mark key="^" line="553" column="40" />
+        <mark key="." line="553" column="40" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorCommon/shared/src/main/scala/stargazer/model/routing/pages.scala" timestamp="1534205165299">
         <mark key="[" line="320" column="4" />
@@ -1521,47 +1530,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5pZC5UcmFuc2FjdGlvbklkCg==</text>
+      <register name="&quot;" type="4">
+        <text>DealLayout</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>outerProps</text>
+        <text>DealLayout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpeElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgRGVhbFdvcmtzcGFjZUxheW91dChjdXJyZW50UGFnZSwgTm9UYXNrQ29tbW9uSU4oKSkK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXJnYXplci5tb2RlbC5yb3V0aW5nLkR5bmFtaWNBdXRoUGFnZS57Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5pZC5UcmFuc2FjdGlvbklkCg==</text>
+        <text encoding="base64">ICAgICAgdHlwZSBQID0gRHluYW1pY0F1dGhQYWdlLkVudGl0eS5Cb2FyZENvbnNlbnRTZXR1cFBhZ2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5pZC5Eb2N1bWVudElkCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbmR1aW4uc3RhcmdhemVyLmNsaWVudC5tb2R1bGVzLmluYm94LkVtYWlsQ2xpZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZHluYW1pY1JvdXRlQ1RbUF0oICJlbWFpbCIgLyAodXJsSWQgLyB1cmxFbWFpbFRocmVhZElkKS5jYXNlQ2xhc3NbUF0gKSB+PgogICAgICAgIGR5blJlbmRlclIoIChwYWdlLCByb3V0ZXIpID0+IGluYm94LkJvYXJkQ29uc2VudEluYm94KHBhZ2UsIHJvdXRlciwgcGFnZS5lbWFpbCkgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5yZW5kZXJCYWNrZW5kW0JhY2tlbmRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW1haWxDbGllbnQoCiAgICAgICAgICAgICAgcGFnZS50cnhuSWQsCiAgICAgICAgICAgICAgcGFnZS5lbWFpbFRocmVhZElkLAogICAgICAgICAgICAgIHRocmVhZElkT3B0ID0+IHJvdXRlci5zZXQoQm9hcmRDb25zZW50RW1haWxTcGVjaWZpY1RocmVhZFBhZ2UocGFnZS5ib2FyZENvbnNlbnRXb3JrRmxvd0lkLCB0aHJlYWRJZE9wdCkpCiAgICAgICAgICAgICkoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNsYXNzIEJhY2tlbmQoc2NvcGU6IEJhY2tlbmRTY29wZVtQcm9wcywgX10pIHsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0cnhuSWQ6IFRyYW5zYWN0aW9uSWQsCiAgc3RhZ2U6IE1haW5TdGFnZVR5cGUsCiAgcHJlU2VsZWN0ZWRTdGFnZURvY1N1ZmZpeDogT3B0aW9uW0RvY3VtZW50SWQuU3VmZml4XSwKICBwcmVTZWxlY3RlZFN0YWdlRG9jVmVyc2lvbklkeDogT3B0aW9uW0ludF0K</text>
+        <text encoding="base64">ICAgICAgZHluYW1pY1JvdXRlQ1RbQm9hcmRDb25zZW50RW1haWxUaHJlYWRQYWdlXSgiZW1haWwiIC8gdXJsSWQuY2FzZUNsYXNzW0JvYXJkQ29uc2VudEVtYWlsVGhyZWFkUGFnZV0pIH4+CiAgICAgICAgZHluUmVuZGVyUigocGFnZSwgcm91dGVyKSA9PiBpbmJveC5Cb2FyZENvbnNlbnRJbmJveChwYWdlLCByb3V0ZXIsIE5vbmUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW1haWxDbGllbnQoCiAgICAgICAgICAgICAgcGFnZS50cnhuSWQsCiAgICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgICB0aHJlYWRJZE9wdCA9PiByb3V0ZXIuc2V0KEJvYXJkQ29uc2VudEVtYWlsU3BlY2lmaWNUaHJlYWRQYWdlKHBhZ2UuYm9hcmRDb25zZW50V29ya0Zsb3dJZCwgdGhyZWFkSWRPcHQpKQogICAgICAgICAgICApKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZ2U6IEJhc2VDb2xsZWN0RG9jc1BhZ2UsCg==</text>
+      <register name="8" type="4">
+        <text>BoardConsentEmailSpecificThreadPage(props.page.boardConsentWorkFlowId, threadId)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFBhZ2UudHJ4bklkLAogICAgICAgICAgICBjdXJyZW50UGFnZS5zdGFnZSwKICAgICAgICAgICAgY3VycmVudFBhZ2Uuc3RhZ2VEb2NTdWZmaXhPcHQsCiAgICAgICAgICAgIGN1cnJlbnRQYWdlLnN0YWdlRG9jVmVyc2lvbkluZGV4T3B0Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGJvZHkgPSByZW4K</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
