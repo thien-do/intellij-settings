@@ -1167,11 +1167,10 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/wirefund/WireFundInvestorCompanyMainView.scala" timestamp="1534205398220">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="143" column="4" />
-        <mark key="^" line="142" column="53" />
-        <mark key="." line="142" column="53" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/wirefund/WireFundInvestorCompanyMainView.scala" timestamp="1534242703746">
+        <mark key="[" line="91" column="4" />
+        <mark key="]" line="91" column="4" />
+        <mark key="." line="91" column="4" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flexibleform/FlexibleElementBuilder.scala" timestamp="1530866466581">
         <mark key="[" line="82" column="0" />
@@ -1573,13 +1572,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpeElkXD4=</text>
@@ -1588,31 +1587,31 @@
         <text encoding="base64">ICAgIEZ1bmRTdWJMYXlvdXQoCiAgICAgIGZ1bmRTdWJMcElkLnBhcmVudCwKICAgICAgRnVuZFN1YkxwUGFnZShmdW5kU3ViTHBJZCksCiAgICAgICJTaWduYXR1cmUgcGFja2FnZSIsCiAgICAgIEZ1bmRTdWJGb3JtQ29tcG9uZW50LnJlYWN0b3IodGhpcykKICAgICkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5pZC5UcmFuc2FjdGlvbklkCmltcG9ydCBhbmR1aW4ubW9kZWwuaWQue0RvY3VtZW50SWQsIFdvcmtmbG93SWR9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5nb25kb3Iud29ya3NwYWNlLmxheW91dC5EZWFsV29ya3NwYWNlTGF5b3V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm9wcy5vdXRlclByb3BzLndvcmtmbG93SWQsCg==</text>
+        <text encoding="base64">ICAgIGRlZiByZW5kZXIocHJvcHM6IFByb3BzKTogVmRvbUVsZW1lbnQgPSB7CiAgICAgIHZhbCBib2R5ID0gcmVuZGVyQm9keShwcm9wcykKICAgICAgRGVhbFdvcmtzcGFjZUxheW91dChwcm9wcy5vdXRlclByb3BzLmN1cnJlbnRQYWdlLCBib2R5KSgpCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlbmFibGVGbG93QWN0aW9uLAo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5pZC5UcmFuc2FjdGlvbklkCmltcG9ydCBhbmR1aW4ubW9kZWwuaWQue0RvY3VtZW50SWQsIFdvcmtmbG93SWR9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB3aXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBwcm9wcy5vdXRlclByb3BzLndvcmtmbG93SWQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCByZWZzL3JlbW90ZXMvYW5kdWludHJhbnNhY3Rpb24vbWFzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlbmFibGVGbG93QWN0aW9uLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcm9wcy5vdXRlclByb3BzLndvcmtmbG93SWQK</text>
+        <text encoding="base64">Pj4+Pj4+PiB3aXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB3aXAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
