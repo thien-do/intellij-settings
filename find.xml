@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.proto" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,8 +14,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sbt</mask>
-    <mask>*.proto</mask>
     <mask>*.scss</mask>
     <mask>*.scala</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
