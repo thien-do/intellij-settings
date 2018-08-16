@@ -3,9 +3,30 @@
     <property name="created">2018-04-20T22:25:32</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-04-20T23:11:53</property>
+    <property name="modified">2018-08-16T15:00:44</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="aedc70" />
+    <option name="FILESTATUS_DELETED" value="727072" />
+    <option name="FILESTATUS_HIJACKED" value="fbd85c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f65f87" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f65f87" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f65f87" />
+    <option name="FILESTATUS_MERGED" value="ab9df5" />
+    <option name="FILESTATUS_MODIFIED" value="86dde9" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="86dde9" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="86dde9" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="727072" />
+    <option name="FILESTATUS_SWITCHED" value="ab9df5" />
+    <option name="FILESTATUS_UNKNOWN" value="f59762" />
+    <option name="FILESTATUS_addedOutside" value="aedc70" />
+    <option name="FILESTATUS_changelistConflict" value="f65f87" />
+    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+  </colors>
   <attributes>
     <option name="Implicit conversion">
       <value>
