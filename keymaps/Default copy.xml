@@ -10,4 +10,8 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
 </keymap>
