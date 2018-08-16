@@ -80,6 +80,14 @@
     <data-views />
     <general />
     <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter url-pattern="*fastopt.js" />
+          </stepping-filters>
+        </configuration>
+      </debugger>
       <debugger id="kotlin_debugger">
         <configuration>
           <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
