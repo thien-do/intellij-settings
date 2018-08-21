@@ -202,12 +202,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Modal.scala" timestamp="1534839915215">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="21" />
-        <mark key="." line="39" column="21" />
-        <mark key="^" line="39" column="21" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/navigation/primary/TransactionNavigationTags.scala" timestamp="1534103127620">
         <mark key="[" line="31" column="10" />
         <mark key="]" line="31" column="22" />
@@ -1108,11 +1102,10 @@
         <mark key="^" line="42" column="20" />
         <mark key="." line="42" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/transaction/TransactionTabRenderUtils.scala" timestamp="1534417081073">
-        <mark key="[" line="98" column="11" />
-        <mark key="]" line="98" column="17" />
-        <mark key="." line="98" column="18" />
-        <mark key="^" line="98" column="17" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/transaction/TransactionTabRenderUtils.scala" timestamp="1534843991921">
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="323" column="0" />
+        <mark key="." line="323" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/CompleteStageComponent.scala" timestamp="1534475398444">
         <mark key="[" line="306" column="0" />
@@ -2125,8 +2118,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Large</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIG9wZW5WaWV3RGV0YWlsQnRuCiAgICB9Cg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -2141,31 +2134,31 @@
         <text encoding="base64">ICAvLyBQb3J0YWxQb3BwZXIgY29tbW9uIHByb3BzIChzZWUgUG9ydGFsUG9wcGVyIGZvciBkZXRhaWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIG9wZW5WaWV3RGV0YWlsQnRuCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyID0gKHRhcmdldCwgb3BlbiwgY2xvc2UsIF8pID0+IHsKICAgICAgICAgIFRhZ01vZCgKICAgICAgICAgICAgXi5vbk1vdXNlRW50ZXIgLS0+IG9wZW4sCiAgICAgICAgICAgIF4ub25Nb3VzZUxlYXZlIC0tPiBzY29wZS5tb2RTdGF0ZShfLmNvcHkoY29waWVkID0gZmFsc2UpLCBjbG9zZSksCiAgICAgICAgICAgIF4ub25DbGljayAtLT4gY29weVRvQ2xpcGJvYXJkLAogICAgICAgICAgICB0YXJnZXQKICAgICAgICAgICkKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGlmIChjb21wYWN0TW9kZSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNQb3J0YWxDbGlja2VkID0gKGNsaWNrZWRUYXJnZXQsIHRhcmdldCwgcG9ydGFsKSA9PiB7CiAgICAgICAgICAgICAgUG9wb3Zlci5Jc1BvcnRhbENsaWNrZWQoY2xpY2tlZFRhcmdldCwgdGFyZ2V0LCBwb3J0YWwpIHx8IHByb3BzCiAgICAgICAgICAgICAgICAuZWRpdG9yUmVmKCkKICAgICAgICAgICAgICAgIC5tYXAoXy5jb250YWlucyhjbGlja2VkVGFyZ2V0KSkKICAgICAgICAgICAgICAgIC5nZXRPckVsc2UoZmFsc2UpCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyID0gKHQsIG9wZW4sIGNsb3NlLCBfKSA9PgogICAgICAgICAgVGFnTW9kKAogICAgICAgICAgICBeLm9uTW91c2VFbnRlciAtLT4gb3BlbiwKICAgICAgICAgICAgXi5vbk1vdXNlTGVhdmUgLS0+IGNsb3NlLAogICAgICAgICAgICBeLm9uTW91c2VVcCAtLT4gY2xvc2UsIC8vIGhpZGUgd2hlbiBtb2RhbCBvcGVuCiAgICAgICAgICAgIHQKICAgICAgICApLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyID0gKHQsIG9wZW4sIF8sIF8pID0+IHsKICAgICAgICAgIFRhZ01vZCgKICAgICAgICAgICAgXi5vbkNsaWNrIC0tPiBvcGVuLAogICAgICAgICAgICB0CiAgICAgICAgICApCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyID0gKHQsIG9wZW4sIF8sIF8pID0+IHsKICAgICAgICAgIFRhZ01vZCgKICAgICAgICAgICAgXi5vbkNsaWNrIC0tPiBvcGVuLAogICAgICAgICAgICB0CiAgICAgICAgICApCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyID0gKHRhcmdldCwgb3BlbiwgY2xvc2UsIF8pID0+IHsKICAgICAgICAgIFRhZ01vZCgKICAgICAgICAgICAgXi5vbk1vdXNlRW50ZXIgLS0+IG9wZW4sCiAgICAgICAgICAgIF4ub25Nb3VzZUxlYXZlIC0tPiBzY29wZS5tb2RTdGF0ZShfLmNvcHkoY29waWVkID0gZmFsc2UpLCBjbG9zZSksCiAgICAgICAgICAgIF4ub25DbGljayAtLT4gY29weVRvQ2xpcGJvYXJkLAogICAgICAgICAgICB0YXJnZXQKICAgICAgICAgICkKICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNQb3J0YWxDbGlja2VkID0gKGNsaWNrZWRUYXJnZXQsIHRhcmdldCwgcG9ydGFsKSA9PiB7CiAgICAgICAgICAgICAgUG9wb3Zlci5Jc1BvcnRhbENsaWNrZWQoY2xpY2tlZFRhcmdldCwgdGFyZ2V0LCBwb3J0YWwpIHx8IHByb3BzCiAgICAgICAgICAgICAgICAuZWRpdG9yUmVmKCkKICAgICAgICAgICAgICAgIC5tYXAoXy5jb250YWlucyhjbGlja2VkVGFyZ2V0KSkKICAgICAgICAgICAgICAgIC5nZXRPckVsc2UoZmFsc2UpCiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvLyA9PT0KCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyID0gKHQsIG9wZW4sIF8sIF8pID0+IHsKICAgICAgICAgIFRhZ01vZCgKICAgICAgICAgICAgXi5vbkNsaWNrIC0tPiBvcGVuLAogICAgICAgICAgICB0CiAgICAgICAgICApCiAgICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYWpzLmRvbS5FbGVtZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyID0gKHQsIG9wZW4sIF8sIF8pID0+IHsKICAgICAgICAgIFRhZ01vZCgKICAgICAgICAgICAgXi5vbkNsaWNrIC0tPiBvcGVuLAogICAgICAgICAgICB0CiAgICAgICAgICApCiAgICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5zY2FsYWpzLnBvcHBlci57UG9wcGVyLCBQb3BwZXJPcHRpb25zfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
