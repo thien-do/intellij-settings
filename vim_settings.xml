@@ -418,11 +418,11 @@
         <mark key="^" line="63" column="45" />
         <mark key="." line="63" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/stages/StageOverview.scala" timestamp="1533030628155">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="35" column="9" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/stages/StageOverview.scala" timestamp="1535364519420">
+        <mark key="[" line="72" column="41" />
+        <mark key="]" line="72" column="49" />
+        <mark key="." line="72" column="49" />
+        <mark key="^" line="72" column="49" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/signature/SignatureSummaryInner.scala" timestamp="1534749290754">
         <mark key="[" line="212" column="0" />
@@ -2241,13 +2241,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.hover.underlineNone,</text>
+        <text>Pluralize(&quot;activity&quot;, props.newActivities)</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.hover.underlineNone,</text>
+        <text>Pluralize(&quot;activity&quot;, props.newActivities)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
@@ -2256,31 +2256,31 @@
         <text encoding="base64">ICB2YWwgcHJldmVudE92ZXJmbG93OiBqcy5VbmRlZk9yW1ByZXZlbnRPdmVyZmxvd01vZGlmaWVyXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHByb3BzLmlzUHJpbWFyeSkgU3R5bGUuY29sb3Iud2hpdGUuZm9udFNpemUucHgxNiBlbHNlIFN0eWxlLmNvbG9yLmdyYXk0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIE5lY2Vzc2FyeSBkYXRhLCBhbHNvIG9ubHkgYXZhaWxhYmxlIGlmIGludml0ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgIDwuc3BhbigKICAgICAgICAgICAgVGFnTW9kLndoZW4oaGFzTmV3QWN0aXZpdHkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFdlIGRvbid0IG5lZWQgdGhpcyBkYXRhIGJ1dCB0aGlzIGlzIGUK</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS5tYXJnaW4udG9wNAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudGl0eVJlbmRlci5nZXRPckVsc2UoUHJpdmF0ZURlYWxzSGVhZGVyKGlzUHJpbWFyeSA9IGZhbHNlKSgpKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHByb3BzLmlzUHJpbWFyeSkgU3R5bGUuY29sb3Iud2hpdGUuZm9udFNpemUucHgxNiBlbHNlIFN0eWxlLmNvbG9yLmdyYXk0LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIE5lY2Vzc2FyeSBkYXRhLCBhbHNvIG9ubHkgYXZhaWxhYmxlIGlmIGludml0ZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFdlIGRvbid0IG5lZWQgdGhpcyBkYXRhIGJ1dCB0aGlzIGlzIGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29udGVudC5nZXRPCg==</text>
+        <text encoding="base64">ICAgIGVudGl0eVJlbmRlci5nZXRPckVsc2UoUHJpdmF0ZURlYWxzSGVhZGVyKGlzUHJpbWFyeSA9IGZhbHNlKSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBAVE9ETzogQGlhbXF1YW5nOTUgVGhlcmUgY291bGQgYmUgYSBiZXR0ZXIgd2F5IGhlcmUuCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIE5lY2Vzc2FyeSBkYXRhLCBhbHNvIG9ubHkgYXZhaWxhYmxlIGlmIGludml0ZWQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
