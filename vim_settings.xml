@@ -975,9 +975,9 @@
         <mark key="." line="84" column="7" />
         <mark key="^" line="84" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/avatar/AvatarColor.scala" timestamp="1535606090087">
-        <mark key="[" line="16" column="68" />
-        <mark key="]" line="17" column="45" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/avatar/AvatarColor.scala" timestamp="1535607360173">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="20" column="2" />
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
@@ -2257,8 +2257,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWYgYXBwbHkoaWQ6IFN0cmluZyk6IFN0cmluZyA9IHsKICAgIC8vIEh1ZSBpcyBnZW5lcmF0ZWQgdmFsdWUgdGhhdCBkZXBlbmRzIG9uIGlkCiAgICAvLyAtIFRha2VuIGZyb20gaHR0cDovL21hcnRpbi5hbmtlcmwuY29tLzIwMDkvMTIvMDkvaG93LXRvLWNyZWF0ZS1yYW5kb20tY29sb3JzLXByb2dyYW1tYXRpY2FsbHkvCiAgICB2YWwgaGFzaCA9IE11cm11ckhhc2gzLnN0cmluZ0hhc2goaWQpICogR29sZGVuUmF0aW9Db25qdWdhdGUKICAgIHZhbCBoID0gKGhhc2ggLSBNYXRoLmZsb29yKGhhc2gpKSAqIDM2MAogICAgLy8gU2F0dXJhdGlvbiBhbmQgTGlnaHRuZXNzIGFyZSBCZW4ncyBwaWNrZWQgdmFsdWVzCiAgICAvLyAtIGh0dHBzOi8vZ2l0aHViLmNvbS9hbmR1aW50cmFuc2FjdGlvbi9zdGFyZ2F6ZXIvaXNzdWVzLzE3MTE3CiAgICAvLyAtIE5vdGUgdGhhdCB0aGlzIGlzIGZvciBsaWdodCB0ZXh0IG9ubHkKICAgIHZhbCAocywgbCkgPSAoNDUsIDU1KQogICAgcyJoc2woJGgsJHMlLCRsJSkiCiAgfQo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -2270,7 +2270,7 @@
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgY29tcG9uZW50ID0gU2NhbGFDb21wb25lbnQKICAgIC5idWlsZGVyW1Byb3BzXSh0aGlzLmdldENsYXNzLmdldFNpbXBsZU5hbWUpCiAgICAuc3RhdGVsZXNzCiAgICAucmVuZGVyX0MocmVuZGVyKQogICAgLmJ1aWxkCg==</text>
+        <text encoding="base64">ICBkZWYgYXBwbHkoaWQ6IFN0cmluZyk6IFN0cmluZyA9IHsKICAgIC8vIEh1ZSBpcyBnZW5lcmF0ZWQgdmFsdWUgdGhhdCBkZXBlbmRzIG9uIGlkCiAgICAvLyAtIFRha2VuIGZyb20gaHR0cDovL21hcnRpbi5hbmtlcmwuY29tLzIwMDkvMTIvMDkvaG93LXRvLWNyZWF0ZS1yYW5kb20tY29sb3JzLXByb2dyYW1tYXRpY2FsbHkvCiAgICB2YWwgaGFzaCA9IE11cm11ckhhc2gzLnN0cmluZ0hhc2goaWQpICogR29sZGVuUmF0aW9Db25qdWdhdGUKICAgIHZhbCBoID0gKGhhc2ggLSBNYXRoLmZsb29yKGhhc2gpKSAqIDM2MAogICAgLy8gU2F0dXJhdGlvbiBhbmQgTGlnaHRuZXNzIGFyZSBCZW4ncyBwaWNrZWQgdmFsdWVzCiAgICAvLyAtIGh0dHBzOi8vZ2l0aHViLmNvbS9hbmR1aW50cmFuc2FjdGlvbi9zdGFyZ2F6ZXIvaXNzdWVzLzE3MTE3CiAgICAvLyAtIE5vdGUgdGhhdCB0aGlzIGlzIGZvciBsaWdodCB0ZXh0IG9ubHkKICAgIHZhbCAocywgbCkgPSAoNDUsIDU1KQogICAgcyJoc2woJGgsJHMlLCRsJSkiCiAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIF4uaHJlZiA6PSBKYXZhU2NyaXB0VXRpbHMudm9pZE1ldGhvZCwK</text>
