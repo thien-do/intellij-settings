@@ -975,6 +975,12 @@
         <mark key="." line="84" column="7" />
         <mark key="^" line="84" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/avatar/AvatarColor.scala" timestamp="1535606090087">
+        <mark key="[" line="16" column="68" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/Pages.scala" timestamp="1533109206214">
         <mark key="[" line="34" column="52" />
         <mark key="]" line="34" column="51" />
@@ -2251,14 +2257,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIF4uaHJlZiA6PSBKYXZhU2NyaXB0VXRpbHMudm9pZE1ldGhvZCwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
