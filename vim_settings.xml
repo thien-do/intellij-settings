@@ -1125,6 +1125,12 @@
         <mark key="^" line="64" column="51" />
         <mark key="." line="64" column="51" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorCommon/js/src/main/scala/stargazer/component/routing/RouterProvider.scala" timestamp="1535623217362">
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/name/EntityName.scala" timestamp="1535439906100" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/common/BoardConsentTrackingLayout.scala" timestamp="1534211860268">
         <mark key="[" line="44" column="43" />
@@ -1795,6 +1801,7 @@
         <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/components/input/SmartInput.scala" timestamp="1535440051917" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/gondorCommon/js/src/main/scala/stargazer/util/ReactComponentUtils.scala" timestamp="1535622161504" />
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/container/Tab.scala" timestamp="1534112464454">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -1830,7 +1837,7 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="87" column="55" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/extra_sjs0.6_2.12-1.2.3-sources.jar!/japgolly/scalajs/react/extra/router/Router.scala" timestamp="1535621322440" />
+      <file name="$USER_HOME$/.ideaLibSources/extra_sjs0.6_2.12-1.2.3-sources.jar!/japgolly/scalajs/react/extra/router/Router.scala" timestamp="1535622072490" />
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/_open-close-stage.scss" timestamp="1531133253119">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -2268,46 +2275,46 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>ctl</text>
+        <text>routerLogic</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCByb3V0ZXMxID0gUm91dGluZ0NvbmZpZy5yb3V0ZXMucmVuZGVyV2l0aCgoY3RsLCByZXMpID0+IFJvdXRlclByb3ZpZGVyKGN0bCkocmVzLnJlbmRlcigpKSkK</text>
+        <text encoding="base64">ICAgICAgY3RsS2V5IC0+IGpzLnVzZShjdGwpLmFzW2pzLkFueV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcm91dGVyLnJlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcm91dGVyLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcm91dGVyLgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIElkbGVUcmFja2luZy5pbnN0YW5jZS5hdHQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXJnYXplci51dGlsLlJlYWN0Q29tcG9uZW50VXRpbHMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC5zdGF0ZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBDb21wb25lbnROYW1lID0gUmVhY3RDb21wb25lbnRVdGlscy5jb21wb25lbnROYW1lKHRoaXMpCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXJnYXplci51dGlsLlJlYWN0Q29tcG9uZW50VXRpbHMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcm91dGVyLnJlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50Lgo=</text>
+        <text encoding="base64">ICAgIHJvdXRlci4K</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
