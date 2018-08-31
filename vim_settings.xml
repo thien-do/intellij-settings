@@ -186,6 +186,10 @@
         <mark key="^" line="10" column="43" />
         <mark key="." line="10" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/project/sample.local.conf" timestamp="1535700912678">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="180" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/pages.proto" timestamp="1533871049296">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -2287,8 +2291,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>VdomElement</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBkZ3JhcGhDb25maWcgewogICAgICBob3N0ID0gImRncmFwaC1zZXJ2ZXIuZ29uZG9yLnN2Yy5rdWJlIgogICAgICBwb3J0ID0gOTA4MAogICAgfQo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -2300,7 +2304,7 @@
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkFzSW5zdGFuY2VPZiIpKSAvLyBzY2FsYXN0eWxlOmlnbm9yZQo=</text>
+        <text encoding="base64">CiAgICBkZ3JhcGhDb25maWcgewogICAgICBob3N0ID0gImRncmFwaC1zZXJ2ZXIuZ29uZG9yLnN2Yy5rdWJlIgogICAgICBwb3J0ID0gOTA4MAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkFzSW5zdGFuY2VPZiIpKSAvLyBzY2FsYXN0eWxlOmlnbm9yZQo=</text>
