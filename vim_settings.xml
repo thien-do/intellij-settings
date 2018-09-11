@@ -1175,11 +1175,11 @@
         <mark key="^" line="31" column="22" />
         <mark key="." line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Modal.scala" timestamp="1535365397454">
-        <mark key="[" line="106" column="37" />
-        <mark key="]" line="106" column="37" />
-        <mark key="^" line="106" column="29" />
-        <mark key="." line="106" column="37" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Modal.scala" timestamp="1536656500051">
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="66" column="28" />
+        <mark key="." line="66" column="64" />
+        <mark key="^" line="66" column="7" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/components/downloader/BatchFileDownloadMessage.scala" timestamp="1536578617672">
         <mark key="[" line="41" column="27" />
@@ -2399,13 +2399,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>.when(props.size != SizeFull)</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>.when(props.size != SizeFull)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
@@ -2414,31 +2414,31 @@
         <text encoding="base64">ICBwcml2YXRlIHZhbCBTdHJpbmdTdGF0ZSA9IChuZXcgU2ltcGxlU3RhdGVbU3RyaW5nXSkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5jb29yZGluYXRlLnRvcAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvCiAgICAgICAgU3R5bGUucG9zCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgb3ZlcmxheU5vbkZ1bGxTdHlsZXMud2hlbihwcm9wcy5zaXplICE9IFNpemVGdWxsKSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHlsZS5jb29yZGluYXRlLnRvcAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBvCiAgICAgICAgU3R5bGUucG9zCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5nb25kb3IubGF5b3V0Lm5hdmlnYXRpb24uRGVhbE5hdmlnYXRpb25JbmJveC5PdXRlclByb3BzCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXF1ZXN0czogTGlzdFsoRG93bmxvYWRSZXF1ZXN0SWQsIERvd25sb2FkUmVxdWVzdCldCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5nb25kb3IubGF5b3V0Lm5hdmlnYXRpb24uRGVhbE5hdmlnYXRpb25JbmJveC5PdXRlclByb3BzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHR5cGUgT3V0ZXJQcm9wcyA9IEJhdGNoRmlsZURvd25sb2FkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICByZXF1ZXN0czogTGlzdFsoRG93bmxvYWRSZXF1ZXN0SWQsIERvd25sb2FkUmVxdWVzdCldCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
