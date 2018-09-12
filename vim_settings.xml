@@ -2198,11 +2198,11 @@
         <mark key="^" line="68" column="74" />
         <mark key="." line="68" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/test2/index.js" timestamp="1536734976951">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/Code/anduin/test2/index.js" timestamp="1536736049572">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+        <mark key="^" line="5" column="48" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/ThreadContent.scala" timestamp="1534332828178">
         <mark key="[" line="118" column="54" />
@@ -2527,8 +2527,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -2543,31 +2543,31 @@
         <text encoding="base64">Y29uc29sZS5sb2coInBhcnNpbmciKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBFeGNlcHQgZGVzaWduJ3Mgb3duIGZhY2FkZXM6CiFjb3JlL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9zY2FsYWpzL21hcmtlZGpzCg==</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3AgJHtjb3JlX3RhcmdldH0vY29yZS1vcHQtbGlicmFyeS5qcyAke2RvY3N9L2FwcC1saWJyYXJ5LmpzCmNwICR7Y29yZV90YXJnZXR9L2NvcmUtb3B0LWxvYWRlci5qcyAke2RvY3N9L2FwcC1sb2FkZXIuanMK</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKCJwYXJzaW5nLi4uIik7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKCJyZWFkaW5nLi4uIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vYXBwLWxpYnJhcnkuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLi9hcHAtbG9hZGVyLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">IyBFeGNlcHQgZGVzaWduJ3Mgb3duIGZhY2FkZXM6CiFjb3JlL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9zY2FsYWpzL21hcmtlZGpzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVtaXRTb3VyY2VNYXBzIDo9IGZhbHNlLAo=</text>
+        <text encoding="base64">Y3AgJHtjb3JlX3RhcmdldH0vY29yZS1vcHQtbGlicmFyeS5qcyAke2RvY3N9L2FwcC1saWJyYXJ5LmpzCmNwICR7Y29yZV90YXJnZXR9L2NvcmUtb3B0LWxvYWRlci5qcyAke2RvY3N9L2FwcC1sb2FkZXIuanMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vZGVwLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vYXBwLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9jZG4uanNkZWxpdnIubmV0L25wbS9wcmlzbWpzQDEuMTUuMC9wcmlzbS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vYXBwLWxpYnJhcnkuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLi9hcHAtbG9hZGVyLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgInByaXNtanMiIC0+ICIxLjE1LjAiLAo=</text>
+        <text encoding="base64">ICAgIGVtaXRTb3VyY2VNYXBzIDo9IGZhbHNlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByaXNtU2NhbGEK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vZGVwLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vYXBwLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
