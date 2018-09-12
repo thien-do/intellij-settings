@@ -453,6 +453,12 @@
         <mark key="^" line="101" column="7" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/scripts/dev-serve/index.js" timestamp="1536715456168">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageModal.scala" timestamp="1533631481555">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="25" column="27" />
@@ -699,6 +705,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="41" column="50" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1536715885343">
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="28" />
+        <mark key="^" line="35" column="28" />
+        <mark key="." line="35" column="28" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/DealHeader.scala" timestamp="1534201345570">
         <mark key="[" line="59" column="11" />
@@ -2225,6 +2237,12 @@
         <mark key="^" line="64" column="1" />
         <mark key="." line="64" column="1" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/project/plugins.sbt" timestamp="1536714279226">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/layout/navigation/user/NavigationUser.scala" timestamp="1534134984326">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="115" column="50" />
@@ -2277,6 +2295,12 @@
         <mark key="]" line="29" column="60" />
         <mark key="." line="29" column="60" />
         <mark key="^" line="29" column="60" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/scripts/dev-serve/index.html" timestamp="1536715527691">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/layout/EntityOverview.scala" timestamp="1534107397813">
         <mark key="[" line="78" column="35" />
@@ -2421,46 +2445,46 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGFzc3dvcmQgPSAkez9TVEFSR0FaRVJfU0VSVklDRVNfUE9SVEFMX0FETUlOX1BBU1NXT1JEfQo=</text>
+        <text encoding="base64">ICAgICAgIm1hcmtlZCIgLT4gIjAuMy4xOSIK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.when(props.size != SizeFull)</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGFzc3dvcmQgPSAkez9TVEFSR0FaRVJfU0VSVklDRVNfUE9SVEFMX0FETUlOX1BBU1NXT1JEfQo=</text>
+        <text encoding="base64">YXBwLnVzZShleHByZXNzLnN0YXRpYyhwYXRoLmpvaW4oX19kaXJuYW1lLCB0YXJnZXQpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIm1hcmtlZCIgLT4gIjAuMy4xOSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmF0LXN0cmlwZWQtLWdyYXktMzpudGgtY2hpbGQob2RkKSB7CiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tYXQtZ3JheS0zKTsKfQoKLmF0LXN0cmlwZWQtLWdyYXktMjpudGgtY2hpbGQob2RkKSB7CiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tYXQtZ3JheS0yKTsKfQoKLmF0LXN0cmlwZWQtLWdyYXktNTpudGgtY2hpbGQob2RkKSB7CiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tYXQtZ3JheS01KTsKfQoKLmF0LXN0cmlwZWQtLWdyYXktNDpudGgtY2hpbGQob2RkKSB7CiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tYXQtZ3JheS00KTsKfQoKLmF0LXN0cmlwZWQtLWdyYXktNjpudGgtY2hpbGQob2RkKSB7CiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tYXQtZ3JheS02KTsKfQo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vY29yZS1mYXN0b3B0LmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci5hdC10ZXh0IHsKICBjb2xvcjogJGF0LXRleHQ7Cn0KCi5hdC1kaXNhYmxlZCB7CiAgY29sb3I6ICRhdC1kaXNhYmxlZDsKfQo=</text>
+        <text encoding="base64">ICAgICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAicG9wcGVyLmpzIiAlICIxLjE0LjMiCiAgICAgICAgLyAiZGlzdC91bWQvcG9wcGVyLmpzIgogICAgICAgIG1pbmlmaWVkICJkaXN0L3VtZC9wb3BwZXIubWluLmpzIgogICAgICAgIGNvbW1vbkpTTmFtZSAiUG9wcGVyIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8vIC0tIFVsdGlsIC0tCkBpbXBvcnQgJ3V0aWwvZm9udC1zaXplJzsKQGltcG9ydCAndXRpbC9mbGV4Ym94JzsKQGltcG9ydCAndXRpbC9wb2ludGVyLWV2ZW50cyc7Cg==</text>
+        <text encoding="base64">ICAgICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAicmVhY3QtZG9tIiAlICIxNi4zLjEiCiAgICAgICAgLyAidW1kL3JlYWN0LWRvbS1zZXJ2ZXIuYnJvd3Nlci5kZXZlbG9wbWVudC5qcyIKICAgICAgICBtaW5pZmllZCAidW1kL3JlYWN0LWRvbS1zZXJ2ZXIuYnJvd3Nlci5wcm9kdWN0aW9uLm1pbi5qcyIKICAgICAgICBkZXBlbmRzT24gInVtZC9yZWFjdC1kb20uZGV2ZWxvcG1lbnQuanMiCiAgICAgICAgY29tbW9uSlNOYW1lICJSZWFjdERPTVNlcnZlciIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LnBlLWF1dG8gewogICAgcG9pbnRlci1ldmVudHM6IGF1dG87Cn0K</text>
+        <text encoding="base64">ICAgICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAicmVhY3QtZG9tIiAlICIxNi4zLjEiCiAgICAgICAgLyAidW1kL3JlYWN0LWRvbS5kZXZlbG9wbWVudC5qcyIKICAgICAgICBtaW5pZmllZCAidW1kL3JlYWN0LWRvbS5wcm9kdWN0aW9uLm1pbi5qcyIKICAgICAgICBkZXBlbmRzT24gInVtZC9yZWFjdC5kZXZlbG9wbWVudC5qcyIKICAgICAgICBjb21tb25KU05hbWUgIlJlYWN0RE9NIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGltcG9ydCAnY29tcG9uZW50L2Zvcm0vaW5kZXgnOwo=</text>
+        <text encoding="base64">ICAgICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAicmVhY3QiICUgIjE2LjMuMSIKICAgICAgICAvICJ1bWQvcmVhY3QuZGV2ZWxvcG1lbnQuanMiCiAgICAgICAgbWluaWZpZWQgInVtZC9yZWFjdC5wcm9kdWN0aW9uLm1pbi5qcyIKICAgICAgICBjb21tb25KU05hbWUgIlJlYWN0IiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAnY29tcG9uZW50L21lbnUnOwo=</text>
+        <text encoding="base64">ICAgICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAibWFya2VkIiAlICIwLjMuMTkiCiAgICAgICAgLyAibGliL21hcmtlZC5qcyIKICAgICAgICBtaW5pZmllZCAibWFya2VkLm1pbi5qcyIKICAgICAgICBjb21tb25KU05hbWUgIk1hcmtlZCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAibWFya2VkIiAlICIwLjMuMTkiCiAgICAgICAgLyAibGliL21hcmtlZC5qcyIKICAgICAgICBtaW5pZmllZCAibWFya2VkLm1pbi5qcyIKICAgICAgICBjb21tb25KU05hbWUgIk1hcmtlZCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmF0LWZvcm0tbGFiZWwgewogIEBleHRlbmQgLmZ3NjsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
