@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="prism" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_prismjs@1.15.0_prism.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_prismjs@1.15.0_prism.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.12.4" type="Scala">
       <properties>
         <compiler-classpath>
