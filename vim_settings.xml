@@ -724,11 +724,11 @@
         <mark key="^" line="41" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1536727584129">
-        <mark key="[" line="26" column="64" />
-        <mark key="]" line="26" column="64" />
-        <mark key="." line="26" column="64" />
-        <mark key="^" line="26" column="63" />
+      <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1536728792123">
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="26" column="65" />
+        <mark key="." line="26" column="65" />
+        <mark key="^" line="26" column="65" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/DealHeader.scala" timestamp="1534201345570">
         <mark key="[" line="59" column="11" />
@@ -2509,14 +2509,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBFeGNlcHQgZGVzaWduJ3Mgb3duIGZhY2FkZXM6CiFjb3JlL3NyYy9tYWluL3NjYWxhL2FuZHVpbi9zY2FsYWpzL21hcmtlZGpzCg==</text>
+      <register name="&quot;" type="4">
+        <text>Application</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Application</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
