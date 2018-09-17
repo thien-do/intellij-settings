@@ -2316,6 +2316,11 @@
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/DownshiftState.scala" timestamp="1537179902531">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/DealRoutes.scala" timestamp="1534108994166">
         <mark key="[" line="68" column="69" />
         <mark key="]" line="68" column="74" />
@@ -2651,14 +2656,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNjYWxhSlNMaW5rZXJDb25maWcgfj0geyBfLndpdGhFU0ZlYXR1cmVzKF8ud2l0aFVzZUVDTUFTY3JpcHQyMDE1KHRydWUpKSB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
