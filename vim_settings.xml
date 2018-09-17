@@ -392,9 +392,9 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/CustomDropdown.scala" timestamp="1536886128905">
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="48" column="27" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/CustomDropdown.scala" timestamp="1537166471775">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="34" />
         <mark key="." line="48" column="27" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/base/_deprecated.scss" timestamp="1535713092919">
@@ -607,13 +607,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/Pages.scala" timestamp="1536912591421">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="20" />
-        <mark key="." line="44" column="20" />
-        <mark key="^" line="44" column="20" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/jvm/src/main/scala/com/anduin/stargazer/service/boardconsent/BoardConsentService.scala" timestamp="1533677109912">
         <mark key="[" line="595" column="0" />
@@ -971,11 +964,11 @@
         <mark key="." line="53" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/scripts/link.sh" timestamp="1536720898143">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="43" column="32" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Code/anduin/design/scripts/link.sh" timestamp="1537166315816">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="45" column="11" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/portal/Popover.scala" timestamp="1536912086598">
         <mark key="[" line="15" column="8" />
@@ -983,11 +976,11 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/.gitignore" timestamp="1536833941185">
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="40" />
+      <file name="$USER_HOME$/Code/anduin/design/.gitignore" timestamp="1537167548114">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/editor/renderer/LinkRenderer.scala" timestamp="1534838282751">
         <mark key="[" line="10" column="55" />
@@ -1275,6 +1268,12 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
         <mark key="^" line="149" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/DownshiftRenderProps.scala" timestamp="1537166379831">
+        <mark key="[" line="7" column="107" />
+        <mark key="]" line="7" column="103" />
+        <mark key="^" line="7" column="103" />
+        <mark key="." line="7" column="103" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/package.json" timestamp="1533808787148">
         <mark key="[" line="13" column="6" />
@@ -1636,10 +1635,10 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/portal/PortalPopper.scala" timestamp="1536912078196">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/portal/PortalPopper.scala" timestamp="1537166435341">
         <mark key="'" line="113" column="40" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="9" />
+        <mark key="[" line="112" column="49" />
+        <mark key="]" line="112" column="75" />
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
       </file>
@@ -1697,10 +1696,10 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537161288241">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537167683589">
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="30" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/ModalBody.scala" timestamp="1535446903563">
@@ -2242,6 +2241,12 @@
         <mark key="." line="92" column="4" />
         <mark key="^" line="92" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/DownshiftGetMods.scala" timestamp="1537166622931">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="20" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-2.0/component/_modal.scss" timestamp="1535099740798">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="19" column="26" />
@@ -2647,66 +2652,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>getToggleButtonMods</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaGlnaGxpZ2h0ZWRJbmRleCA9IHNhZmVseVRvT3B0aW9uKG9yZy5oaWdobGlnaHRlZEluZGV4KSwKICAgICAgaW5wdXRWYWx1ZSA9IHNhZmVseVRvT3B0aW9uKG9yZy5pbnB1dFZhbHVlLmdldE9yRWxzZShudWxsKSksCiAgICAgIGlzT3BlbiA9IHNhZmVseVRvT3B0aW9uKG9yZy5pc09wZW4pLAogICAgICBzZWxlY3RlZEl0ZW0gPSBzYWZlbHlUb09wdGlvbihvcmcuc2VsZWN0ZWRJdGVtKQo=</text>
+        <text encoding="base64">Y29yZS9zcmMvbWFpbi9zY2FsYS9hbmR1aW4vc2NhbGFqcy9kb3duc2hpZnQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gUHJvcHMgZ2V0dGVyCiAgICAgIC8vIFN0YXRlCg==</text>
+        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnNjYWxhanMuanMuYW5ub3RhdGlvbi5KU0ltcG9ydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QudmRvbS5odG1sXzxeLl8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLnNjYWxhanMuanMuSlNDb252ZXJ0ZXJzLl8K</text>
       </register>
-      <register name="8" type="4">
-        <text>@js.native
-trait GetItemOptions[A] extends js.Object {
-  var index: Number = js.native
-  var item: A = js.native
-  var disabled: js.UndefOr[Boolean] = js.native
-}
-
-object GetItemOptions {
-  def apply[A](
-    index: Number,
-    item: A,
-    disabled: Option[Boolean] = None
-  ): GetItemOptions[A] = {
-    val props = (new js.Object).asInstanceOf[GetItemOptions[A]]
-    props.index = index
-    props.item = item
-    props.disabled = disabled.orUndefined
-    props
-  }
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkb3duc2hpZnQvRG93bnNoaWZ0LnNjYWxhCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkb3duc2hpZnQvRG93bnNoaWZ0LnNjYWxhCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QudmRvbS5odG1sXzxeLl8K</text>
+        <text encoding="base64">ICAgICAgLy8gUHJvcHMgZ2V0dGVyCiAgICAgIC8vIFN0YXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
