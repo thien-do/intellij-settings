@@ -1713,11 +1713,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537773526946">
-        <mark key="[" line="308" column="74" />
-        <mark key="]" line="311" column="48" />
-        <mark key="." line="311" column="48" />
-        <mark key="^" line="311" column="48" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537776156587">
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="^" line="364" column="7" />
+        <mark key="." line="364" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/ModalBody.scala" timestamp="1535446903563">
         <mark key="[" line="23" column="0" />
@@ -2681,50 +2681,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Since</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvKj4qLwo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>Since</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxbZ2NdOiBodHRwczovL2RvY3Muc2NhbGEtbGFuZy5vcmcvdG91ci9nZW5lcmljLWNsYXNzZXMuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZHJvcGRvd24gPSBGcnVpdC5TdGF0ZVNhbXBsZS5jb3B5KHJlbmRlciA9ICh2YWx1ZSwgb25DaGFuZ2UpID0+IHsKICAgICAgICAgIEZydWl0LkRyb3Bkb3duU2FtcGxlLmNvcHkodmFsdWUgPSBTb21lKHZhbHVlKSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQogICAgICAgIH0pKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxUaGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkIGJ5IGRlZmF1bHQgc28gdXNlcnMgY2FuIHN0YXJ0IHR5cGluZwogICAgICAgICAgfGltbWVkaWF0ZWx5LiBXaGlsZSB0aGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkLCBub3JtYWwga2V5Ym9hcmQKICAgICAgICAgIHxuYXZpZ2F0aW9uIHNob3VsZCBzdGlsbCB3b3JrCg==</text>
+        <text encoding="base64">ICAgICAgICAvKj4qLwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>While it is focused, normal keyboard navigation should
-          |still work as usual (up and down to select option and
-          |enter to confirm).</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwuZGl2KFN0eWxlLndpZHRoLnB4MTI4LCBkcm9wZG93biwgbWFyZ2luKSwKICAgICAgICAgIDwuZGl2KFN0eWxlLndpZHRoLm1heENvbnRlbnQsIGRyb3Bkb3duLCBtYXJnaW4pLAogICAgICAgICAgPC5kaXYoU3R5bGUuZmxleGJveC5mbGV4LCBkcm9wZG93bikK</text>
       </register>
-      <register name="3" type="4">
-        <text>(up and down to select option and
-          |enter to confirm).</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2luID0gU3R5bGUubWFyZ2luLmJvdHRvbTggLyo8Ki8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZHJvcGRvd24gPSBGcnVpdC5TdGF0ZVNhbXBsZS5jb3B5KHJlbmRlciA9ICh2YWx1ZSwgb25DaGFuZ2UpID0+IHsKICAgICAgICAgIEZydWl0LkRyb3Bkb3duU2FtcGxlLmNvcHkodmFsdWUgPSBTb21lKHZhbHVlKSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQogICAgICAgIH0pKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxUaGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkIGJ5IGRlZmF1bHQgc28gdXNlcnMgY2FuIHN0YXJ0IHR5cGluZwogICAgICAgICAgfGltbWVkaWF0ZWx5Lgo=</text>
+        <text encoding="base64">ICB2YWwgZHJvcGRvd25TYW1wbGUgPSBTdGF0ZVNhbXBsZShyZW5kZXIgPSAodmFsdWUsIG9uQ2hhbmdlKSA9PikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxXaGVuIHRoZXJlIGFyZSBtb3JlIHRoYW4gMTAgb3B0aW9ucywgYSBzZWFyY2ggYm94IHdpbGwgYXBwZWFyIGF0CiAgICAgICAgICB8dGhlIHRvcCBvZiB0aGUgb3B0aW9uIGxpc3QgdG8gaGVscCB1c2VycyBxdWlja2x5IGZpbmQgdGhlaXIgb3B0aW9uLgo=</text>
+        <text encoding="base64">ICB2YWwgZHJvcGRvd24gPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxLZXlib2FyZCBuYXZpZ2F0aW9uIChsaWtlIHVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwuZGl2KFN0eWxlLndpZHRoLm1heENvbnRlbnQsIGRyb3Bkb3duKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxXaGlsZSB0aGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkLCBub3JtYWwga2V5Ym9hcmQgbmF2aWdhdGlvbiBzdGlsbAogICAgICAgICAgfHdvcmtzIGxpa2UgdXN1YWwgKHVwIGFuZCBkb3duIHRvIHNlbGVjdCBvcHRpb24gYW5kIGVudGVyIHRvCiAgICAgICAgICB8Y29uZmlybSkuCg==</text>
+        <text encoding="base64">ICAgICAgICA8LmRpdihTdHlsZS53aWR0aC5weDEyOCwgZHJvcGRvd24pCiAgICAgICAgPC5kaXYoU3R5bGUuZmxleGJveC5mbGV4LCBkcm9wZG93bikK</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
