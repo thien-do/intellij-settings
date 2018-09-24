@@ -1713,11 +1713,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537776156587">
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="364" column="0" />
-        <mark key="^" line="364" column="7" />
-        <mark key="." line="364" column="0" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537780340245">
+        <mark key="[" line="385" column="14" />
+        <mark key="]" line="385" column="33" />
+        <mark key="^" line="385" column="33" />
+        <mark key="." line="385" column="33" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/ModalBody.scala" timestamp="1535446903563">
         <mark key="[" line="23" column="0" />
@@ -2682,19 +2682,19 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKj4qLwo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4pKCksCiAgICAgIEV4YW1wbGVSaWNoKFNvdXJjZS5hbm5vdGF0ZSh7CiAgICAgICAgPC5kaXYoRnJ1aXQuZHJvcGRvd25TYW1wbGUoKSkKICAgICAgfSkpKCksCiAgICAgIE1hcmtkb3duKAogICAgICAgICIiIgo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>DropdownSampleWithState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHJvcGRvd24gPSBGcnVpdC5TdGF0ZVNhbXBsZS5jb3B5KHJlbmRlciA9ICh2YWx1ZSwgb25DaGFuZ2UpID0+IHsKICAgICAgICAgIEZydWl0LkRyb3Bkb3duU2FtcGxlLmNvcHkodmFsdWUgPSBTb21lKHZhbHVlKSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQogICAgICAgIH0pKCkK</text>
+        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4pKCksCiAgICAgIEV4YW1wbGVSaWNoKFNvdXJjZS5hbm5vdGF0ZSh7CiAgICAgICAgPC5kaXYoRnJ1aXQuZHJvcGRvd25TYW1wbGUoKSkKICAgICAgfSkpKCksCiAgICAgIE1hcmtkb3duKAogICAgICAgICIiIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvKj4qLwo=</text>
