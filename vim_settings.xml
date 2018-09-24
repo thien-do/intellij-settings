@@ -1713,11 +1713,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537765980774">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="60" column="27" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537768595280">
+        <mark key="[" line="286" column="52" />
+        <mark key="]" line="286" column="52" />
+        <mark key="." line="286" column="52" />
+        <mark key="^" line="286" column="52" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/ModalBody.scala" timestamp="1535446903563">
         <mark key="[" line="23" column="0" />
@@ -2682,13 +2682,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>off</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>off</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
@@ -2696,32 +2696,35 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>While it is focused, normal keyboard navigation should
+          |still work as usual (up and down to select option and
+          |enter to confirm).</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRG93bnNoaWZ0QS5fCg==</text>
+      <register name="2" type="4">
+        <text>(up and down to select option and
+          |enter to confirm).</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRG93bnNoaWZ0QS5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxUaGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkIGJ5IGRlZmF1bHQgc28gdXNlcnMgY2FuIHN0YXJ0IHR5cGluZwogICAgICAgICAgfGltbWVkaWF0ZWx5Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucyA9IENvdW50cnkub3B0aW9ucy50YWtlKDUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHxXaGVuIHRoZXJlIGFyZSBtb3JlIHRoYW4gMTAgb3B0aW9ucywgYSBzZWFyY2ggYm94IHdpbGwgYXBwZWFyIGF0CiAgICAgICAgICB8dGhlIHRvcCBvZiB0aGUgb3B0aW9uIGxpc3QgdG8gaGVscCB1c2VycyBxdWlja2x5IGZpbmQgdGhlaXIgb3B0aW9uLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxWYWx1ZSA9IGNvdW50cnlPcHRpb25zKDMpLnZhbHVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxLZXlib2FyZCBuYXZpZ2F0aW9uIChsaWtlIHVwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyVmFsdWUgPSBjID0+IGMubmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucyA9IGNvdW50cnlPcHRpb25zLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxXaGlsZSB0aGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkLCBub3JtYWwga2V5Ym9hcmQgbmF2aWdhdGlvbiBzdGlsbAogICAgICAgICAgfHdvcmtzIGxpa2UgdXN1YWwgKHVwIGFuZCBkb3duIHRvIHNlbGVjdCBvcHRpb24gYW5kIGVudGVyIHRvCiAgICAgICAgICB8Y29uZmlybSkuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSBTb21lKHZhbHVlKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxXaGlsZSB0aGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkLCBub3JtYWwga2V5Ym9hcmQgbmF2aWdhdGlvbiBzdGlsbAogICAgICAgICAgfHdvcmtzIGxpa2UgdXN1YWwgKHVwIGFuZCBkb3duIHRvIHNlbGVjdCBvcHRpb24gYW5kIGVudGVyIHRvCiAgICAgICAgICB8Y29uZmlybSkuCiAgICAgICAgICB8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
