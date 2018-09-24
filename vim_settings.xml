@@ -685,12 +685,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/Dropdown.scala" timestamp="1537766463238">
-        <mark key="'" line="62" column="37" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="61" column="37" />
-        <mark key="." line="61" column="37" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/Dropdown.scala" timestamp="1537772807496">
+        <mark key="'" line="63" column="37" />
+        <mark key="[" line="60" column="32" />
+        <mark key="]" line="61" column="16" />
+        <mark key="^" line="61" column="16" />
+        <mark key="." line="61" column="16" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/EntityRoutes.scala" timestamp="1534100665780">
         <mark key="[" line="26" column="37" />
@@ -1713,11 +1713,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537768595280">
-        <mark key="[" line="286" column="52" />
-        <mark key="]" line="286" column="52" />
-        <mark key="." line="286" column="52" />
-        <mark key="^" line="286" column="52" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537773526946">
+        <mark key="[" line="308" column="74" />
+        <mark key="]" line="311" column="48" />
+        <mark key="." line="311" column="48" />
+        <mark key="^" line="311" column="48" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/ModalBody.scala" timestamp="1535446903563">
         <mark key="[" line="23" column="0" />
@@ -2576,7 +2576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="15" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" />
       <jump line="323" column="15" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" />
       <jump line="349" column="15" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" />
       <jump line="46" column="14" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIllus.scala" />
@@ -2676,58 +2675,59 @@
       <jump line="52" column="31" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduinwip/scalajs/downshift/DownshiftRenderProps.scala" />
       <jump line="102" column="25" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/Dropdown.scala" />
       <jump line="62" column="37" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/Dropdown.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Since</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Since</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQK</text>
+        <text encoding="base64">ICAgICAgICAgIHxbZ2NdOiBodHRwczovL2RvY3Muc2NhbGEtbGFuZy5vcmcvdG91ci9nZW5lcmljLWNsYXNzZXMuaHRtbAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxUaGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkIGJ5IGRlZmF1bHQgc28gdXNlcnMgY2FuIHN0YXJ0IHR5cGluZwogICAgICAgICAgfGltbWVkaWF0ZWx5LiBXaGlsZSB0aGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkLCBub3JtYWwga2V5Ym9hcmQKICAgICAgICAgIHxuYXZpZ2F0aW9uIHNob3VsZCBzdGlsbCB3b3JrCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>While it is focused, normal keyboard navigation should
           |still work as usual (up and down to select option and
           |enter to confirm).</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>(up and down to select option and
           |enter to confirm).</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxUaGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkIGJ5IGRlZmF1bHQgc28gdXNlcnMgY2FuIHN0YXJ0IHR5cGluZwogICAgICAgICAgfGltbWVkaWF0ZWx5Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxXaGVuIHRoZXJlIGFyZSBtb3JlIHRoYW4gMTAgb3B0aW9ucywgYSBzZWFyY2ggYm94IHdpbGwgYXBwZWFyIGF0CiAgICAgICAgICB8dGhlIHRvcCBvZiB0aGUgb3B0aW9uIGxpc3QgdG8gaGVscCB1c2VycyBxdWlja2x5IGZpbmQgdGhlaXIgb3B0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHxUaGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkIGJ5IGRlZmF1bHQgc28gdXNlcnMgY2FuIHN0YXJ0IHR5cGluZwogICAgICAgICAgfGltbWVkaWF0ZWx5Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxLZXlib2FyZCBuYXZpZ2F0aW9uIChsaWtlIHVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxXaGVuIHRoZXJlIGFyZSBtb3JlIHRoYW4gMTAgb3B0aW9ucywgYSBzZWFyY2ggYm94IHdpbGwgYXBwZWFyIGF0CiAgICAgICAgICB8dGhlIHRvcCBvZiB0aGUgb3B0aW9uIGxpc3QgdG8gaGVscCB1c2VycyBxdWlja2x5IGZpbmQgdGhlaXIgb3B0aW9uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxLZXlib2FyZCBuYXZpZ2F0aW9uIChsaWtlIHVwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxXaGlsZSB0aGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkLCBub3JtYWwga2V5Ym9hcmQgbmF2aWdhdGlvbiBzdGlsbAogICAgICAgICAgfHdvcmtzIGxpa2UgdXN1YWwgKHVwIGFuZCBkb3duIHRvIHNlbGVjdCBvcHRpb24gYW5kIGVudGVyIHRvCiAgICAgICAgICB8Y29uZmlybSkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxXaGlsZSB0aGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkLCBub3JtYWwga2V5Ym9hcmQgbmF2aWdhdGlvbiBzdGlsbAogICAgICAgICAgfHdvcmtzIGxpa2UgdXN1YWwgKHVwIGFuZCBkb3duIHRvIHNlbGVjdCBvcHRpb24gYW5kIGVudGVyIHRvCiAgICAgICAgICB8Y29uZmlybSkuCiAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxXaGlsZSB0aGUgc2VhcmNoIGJveCBpcyBmb2N1c2VkLCBub3JtYWwga2V5Ym9hcmQgbmF2aWdhdGlvbiBzdGlsbAogICAgICAgICAgfHdvcmtzIGxpa2UgdXN1YWwgKHVwIGFuZCBkb3duIHRvIHNlbGVjdCBvcHRpb24gYW5kIGVudGVyIHRvCiAgICAgICAgICB8Y29uZmlybSkuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set nonu</text>
+        <text>jump</text>
       </register>
     </registers>
     <search>
@@ -2768,6 +2768,7 @@
         <entry>set nu</entry>
         <entry>set nonu</entry>
         <entry>g60</entry>
+        <entry>jump</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -2823,6 +2824,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
