@@ -238,6 +238,11 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/DropdownTarget.scala" timestamp="1537766114508">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/clipboard/CopyToClipboard.scala" timestamp="1534838563521">
         <mark key="[" line="49" column="8" />
         <mark key="]" line="49" column="8" />
@@ -680,6 +685,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/Dropdown.scala" timestamp="1537766463238">
+        <mark key="'" line="62" column="37" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="61" column="37" />
+        <mark key="." line="61" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/EntityRoutes.scala" timestamp="1534100665780">
         <mark key="[" line="26" column="37" />
         <mark key="]" line="26" column="34" />
@@ -956,6 +968,12 @@
         <mark key="]" line="55" column="40" />
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/DropdownContent.scala" timestamp="1537762768568">
+        <mark key="[" line="84" column="19" />
+        <mark key="]" line="84" column="25" />
+        <mark key="." line="84" column="25" />
+        <mark key="^" line="84" column="25" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/layout/MainOverview.scala" timestamp="1534209388867">
         <mark key="[" line="53" column="44" />
@@ -1695,11 +1713,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537333768788">
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="31" />
-        <mark key="." line="33" column="31" />
-        <mark key="^" line="33" column="31" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537765980774">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="60" column="27" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/ModalBody.scala" timestamp="1535446903563">
         <mark key="[" line="23" column="0" />
@@ -2363,10 +2381,11 @@
         <mark key="." line="38" column="17" />
         <mark key="^" line="38" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/util/Util.scala" timestamp="1537329094172">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/util/Util.scala" timestamp="1537766468776">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/dialog/PortalSetUserTypeDialog.scala" timestamp="1534414788301">
         <mark key="[" line="167" column="89" />
@@ -2557,8 +2576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="55" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIllus.scala" />
-      <jump line="23" column="42" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageComponent.scala" />
       <jump line="350" column="15" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" />
       <jump line="323" column="15" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" />
       <jump line="349" column="15" filename="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/PageIcon.scala" />
@@ -2657,52 +2674,54 @@
       <jump line="115" column="40" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/portal/PortalPopper.scala" />
       <jump line="43" column="13" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/Pages.scala" />
       <jump line="52" column="31" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduinwip/scalajs/downshift/DownshiftRenderProps.scala" />
+      <jump line="102" column="25" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/Dropdown.scala" />
+      <jump line="62" column="37" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/Dropdown.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuXwo=</text>
+      <register name="&quot;" type="4">
+        <text>off</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>def</text>
+        <text>off</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBvbkNoYW5nZToganMuRnVuY3Rpb24xW0EsIFVuaXRdLAogICAgdmFsIGl0ZW1Ub1N0cmluZzoganMuRnVuY3Rpb24xW0EsIFN0cmluZ10sCiAgICB2YWwgZGVmYXVsdFNlbGVjdGVkSXRlbToganMuVW5kZWZPcltBXSwKICAgIHZhbCBjaGlsZHJlbjoganMuRnVuY3Rpb24xW0pzRG93bnNoaWZ0UmVuZGVyUHJvcHNbQV0sIFJlYWN0Lk5vZGVdCg==</text>
+        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QudmRvbS5odG1sXzxeLl8K</text>
+        <text encoding="base64">ICBpbXBvcnQgRG93bnNoaWZ0QS5fCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgRG93bnNoaWZ0QS5fCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QucmF3LlJlYWN0Lk5vZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucyA9IENvdW50cnkub3B0aW9ucy50YWtlKDUpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgRG93bnNoaWZ0QSgKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxWYWx1ZSA9IGNvdW50cnlPcHRpb25zKDMpLnZhbHVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyVmFsdWUgPSBjID0+IGMubmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb25DaGFuZ2UgPSBhID0+IG91dGVyUHJvcHMub25DaGFuZ2UoYSkucnVuTm93KCksCiAgICAgIGl0ZW1Ub1N0cmluZyA9IG91dGVyUHJvcHMuZ2V0VmFsdWVLZXksCiAgICAgIGRlZmF1bHRTZWxlY3RlZEl0ZW0gPSBPcHRpb24ob3V0ZXJQcm9wcy52YWx1ZSkub3JVbmRlZmluZWQsCiAgICAgIGNoaWxkcmVuID0gcmVuZGVyQ2hpbGRyZW4ob3V0ZXJQcm9wcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucyA9IGNvdW50cnlPcHRpb25zLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSBTb21lKHZhbHVlKSwK</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
@@ -2745,6 +2764,7 @@
         <entry>set visualbell</entry>
         <entry>set nu</entry>
         <entry>set nonu</entry>
+        <entry>g60</entry>
       </history-cmd>
       <history-expr />
       <history-input />
