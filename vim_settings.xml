@@ -871,12 +871,12 @@
         <mark key="^" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537950988392">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1537954363350">
         <mark key="'" line="109" column="32" />
-        <mark key="[" line="518" column="11" />
-        <mark key="]" line="519" column="32" />
-        <mark key="^" line="519" column="32" />
-        <mark key="." line="519" column="32" />
+        <mark key="[" line="561" column="27" />
+        <mark key="]" line="561" column="62" />
+        <mark key="^" line="561" column="62" />
+        <mark key="." line="561" column="62" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/Downshift.scala" timestamp="1537416281751">
         <mark key="[" line="8" column="0" />
@@ -1255,13 +1255,6 @@
         <mark key="]" line="75" column="0" />
         <mark key="^" line="74" column="27" />
         <mark key="." line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/dropdown/Dropdown.scala" timestamp="1537866832136">
-        <mark key="'" line="5" column="37" />
-        <mark key="[" line="34" column="47" />
-        <mark key="]" line="35" column="32" />
-        <mark key="^" line="35" column="32" />
-        <mark key="." line="35" column="32" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/style/FontSize.scala" timestamp="1532632817331">
         <mark key="[" line="12" column="46" />
@@ -2373,13 +2366,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>element</text>
+        <text>boilerplate</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>element</text>
+        <text>boilerplate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
@@ -2387,29 +2380,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHw0LiAqKmBpc1NlbGVjdGVkOmAqKmBzY2FsYTo6Qm9vbGVhbmDvvJp3aGV0aGVyIHRoaXMgb3B0aW9uIGlzIAogICAgICAgICAgfGN1cnJlbnRseSBzZWxlY3RlZC4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4pKCksCiAgICAgIE1hcmtkb3duKAogICAgICAgICIiIgo=</text>
+      <register name="1" type="4">
+        <text>, or
+          |else user's experience might suffer.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgVGFnKGNvbG9yID0gVGFnLkNvbG9yV2FybmluZykoIkFkdmFuY2VkIikKICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwgaXMgYXMgZ29vZCBhcyB0aGUgZGVmYXVsdCBvbmVzIGluIGJvdGggdmlzdWFsIGFuZCBiZWhhdmlvdXIuCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+      <register name="3" type="4">
+        <text>with user, so ensure 
+          |that your</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxgYGBzY2FsYQogICAgICAgICAgfC8vIFNlZSB0aGUgaW1wbGVtZW50YXRpb24gb2YgYGRlZmF1bHRSZW5kZXJgIGJlbG93CiAgICAgICAgICB8cmVuZGVyT3B0aW9uOiBSZW5kZXJQcm9wc1tBXSA9PiBWZG9tTm9kZSA9IGRlZmF1bHRSZW5kZXIKICAgICAgICAgIHxgYGAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IAogICAgICAgICAgfCBpZiB5b3UgCiAgICAgICAgICB8YXJlIGdvaW5nIHRvIAogICAgICAgICAgfG92ZXJyaWRlCiAgICAgICAgICB8dGhlbSBlbnN1cmUgdGhhdCB5b3UgZG8gaXQ=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxmaW5hbCBjYXNlIGNsYXNzIFJlbmRlclByb3BzW0FdKAogICAgICAgICAgfCAgLy8gVGhlIG9wdGlvbiB0byByZW5kZXIKICAgICAgICAgIHwgIG9wdGlvbjogRHJvcGRvd24uT3B0W0FdLAogICAgICAgICAgfCAgLy8gVGhlIHByZS1kZWZpbmVkIFRhZ01vZHMgdGhhdCBzaG91bGQgYmUgYXBwbGllZAogICAgICAgICAgfCAgLy8gdG8gdGhlIG9wdGlvbidzIG5vZGUKICAgICAgICAgIHwgIG1vZHM6IFRhZ01vZCwKICAgICAgICAgIHwgIC8vIFRoZSBgcmVuZGVyVmFsdWVgIHByb3AgdGhhdCBjYW4gYmUgY2FsbGVkCiAgICAgICAgICB8ICAvLyB3aXRoIGBvcHRpb24udmFsdWVgIHRvCiAgICAgICAgICB8ICByZW5kZXJWYWx1ZTogQSA9PiBWZG9tTm9kZSwKICAgICAgICAgIHwgIGlzU2VsZWN0ZWQ6IEJvb2xlYW4sCiAgICAgICAgICB8ICBpc0hpZ2hsaWdodGVkOiBCb29sZWFuCiAgICAgICAgICB8KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwqKkluIG1vc3QgY2FzZXMgeW91IHNob3VsZCBub3QgbmVlZCB0aGlzLioqCiAgICAgICAgICB8W2ByZW5kZXJWYWx1ZWBdKHJlbmRlcnZhbHVlKSBzaG91bGQgYmUgZW5vdWdoIHRvIGhhdmUgbW9zdCAuIFlvdQogICAgICAgICAgfHNob3VsZCBvbmx5IG5lZWQgYHJlbmRlck9wdGlvbmAgaWYgeW91IHdhbnQgdG8gb3ZlcnJpZGUgdGhlIGJhc2ljCiAgICAgICAgICB8dmlzdWFsIGhpbnQgbGlrZSB0aGUgYmFja2dyb3VuZCBjb2xvciBvbiBob3ZlciBvciB0aGUgY2hlY2ttYXJrCiAgICAgICAgICB8aWNvbiBvZiBzZWxlY3RlZCBpdGVtLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4pKCksCiAgICAgIE1hcmtkb3duKAogICAgICAgICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgVGFnKGNvbG9yID0gVGFnLkNvbG9yV2FybmluZykoIkFkdmFuY2VkIikKICAgICAgKSwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIHwK</text>
