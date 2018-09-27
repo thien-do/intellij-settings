@@ -189,6 +189,10 @@
         <mark key="^" line="10" column="43" />
         <mark key="." line="10" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/project/sample.local.conf" timestamp="1538025610948">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="173" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/layout/navigation/utils/PageLink.scala" timestamp="1534138038312">
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="28" />
@@ -745,6 +749,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/local/local.conf" timestamp="1538025621561">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="169" column="3" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/model/src/main/protobuf/page/flow/summary.proto" timestamp="1534332077374">
         <mark key="[" line="44" column="0" />
@@ -2365,8 +2375,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>util</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -2378,36 +2388,36 @@
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29yZS9zcmMvbWFpbi9zY2FsYS9hbmR1aW4vc2NhbGFqcy91dGlsCg==</text>
+        <text encoding="base64">ICAgIGdyYXBoQ29uZmlnIHsKICAgICAgc3RvcmFnZUJhY2tlbmQgPSAiY3FsIgogICAgICBzdG9yYWdlSG9zdCA9ICJzY3lsbGEuZ29uZG9yLnN2Yy5rdWJlIgogICAgfQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>, or
           |else user's experience might suffer.</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHwgaXMgYXMgZ29vZCBhcyB0aGUgZGVmYXVsdCBvbmVzIGluIGJvdGggdmlzdWFsIGFuZCBiZWhhdmlvdXIuCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>with user, so ensure 
           |that your</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IAogICAgICAgICAgfCBpZiB5b3UgCiAgICAgICAgICB8YXJlIGdvaW5nIHRvIAogICAgICAgICAgfG92ZXJyaWRlCiAgICAgICAgICB8dGhlbSBlbnN1cmUgdGhhdCB5b3UgZG8gaXQ=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwqKkluIG1vc3QgY2FzZXMgeW91IHNob3VsZCBub3QgbmVlZCB0aGlzLioqCiAgICAgICAgICB8W2ByZW5kZXJWYWx1ZWBdKHJlbmRlcnZhbHVlKSBzaG91bGQgYmUgZW5vdWdoIHRvIGhhdmUgbW9zdCAuIFlvdQogICAgICAgICAgfHNob3VsZCBvbmx5IG5lZWQgYHJlbmRlck9wdGlvbmAgaWYgeW91IHdhbnQgdG8gb3ZlcnJpZGUgdGhlIGJhc2ljCiAgICAgICAgICB8dmlzdWFsIGhpbnQgbGlrZSB0aGUgYmFja2dyb3VuZCBjb2xvciBvbiBob3ZlciBvciB0aGUgY2hlY2ttYXJrCiAgICAgICAgICB8aWNvbiBvZiBzZWxlY3RlZCBpdGVtLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4pKCksCiAgICAgIE1hcmtkb3duKAogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwqKkluIG1vc3QgY2FzZXMgeW91IHNob3VsZCBub3QgbmVlZCB0aGlzLioqCiAgICAgICAgICB8W2ByZW5kZXJWYWx1ZWBdKHJlbmRlcnZhbHVlKSBzaG91bGQgYmUgZW5vdWdoIHRvIGhhdmUgbW9zdCAuIFlvdQogICAgICAgICAgfHNob3VsZCBvbmx5IG5lZWQgYHJlbmRlck9wdGlvbmAgaWYgeW91IHdhbnQgdG8gb3ZlcnJpZGUgdGhlIGJhc2ljCiAgICAgICAgICB8dmlzdWFsIGhpbnQgbGlrZSB0aGUgYmFja2dyb3VuZCBjb2xvciBvbiBob3ZlciBvciB0aGUgY2hlY2ttYXJrCiAgICAgICAgICB8aWNvbiBvZiBzZWxlY3RlZCBpdGVtLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgVGFnKGNvbG9yID0gVGFnLkNvbG9yV2FybmluZykoIkFkdmFuY2VkIikKICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4pKCksCiAgICAgIE1hcmtkb3duKAogICAgICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgPC5kaXYoCiAgICAgICAgVGFnKGNvbG9yID0gVGFnLkNvbG9yV2FybmluZykoIkFkdmFuY2VkIikKICAgICAgKSwK</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
