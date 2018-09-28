@@ -1550,11 +1550,11 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/portal/manageform/DynamicFormPreviewComponent.scala" timestamp="1538117249807">
-        <mark key="[" line="87" column="39" />
-        <mark key="]" line="87" column="37" />
-        <mark key="^" line="87" column="37" />
-        <mark key="." line="87" column="37" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/portal/manageform/DynamicFormPreviewComponent.scala" timestamp="1538121086137">
+        <mark key="[" line="86" column="67" />
+        <mark key="]" line="86" column="66" />
+        <mark key="." line="86" column="66" />
+        <mark key="^" line="86" column="66" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/component/stage/CustomizeWorkflowsInTransactionDialog.scala" timestamp="1534148284189">
         <mark key="[" line="32" column="83" />
@@ -2451,14 +2451,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2aWV3Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>component</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
@@ -2467,31 +2467,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYWxsYmFjay5lbXB0eSwKICAgICAgICAgICAgICAgICAgICBDYWxsYmFjay5lbXB0eSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2aWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICA8LmRpdihTdHlsZS5mbGV4Ym94Lm5vbmUsIHJlbmRlckRlbGV0ZUR1cGxpY2F0ZShmb3JtLmlkKSApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUYWdNb2Qud2hlbihwcm9wcy5kYXRhLnByb3BlcnRpZXMuY29udGFpbnMoY29udGFpbmVyKSkoU3R5bGUubWFyZ2luLmhvcjEyKSwK</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJEZWxldGVEdXBsaWNhdGUoZm9ybS5pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRCYXNlUHJldmlld1Byb3BzKHByb3BzKS5jb3B5KAogICAgICAgICAgZGF0YSA9IGZvcm0sCiAgICAgICAgICBvbkRhdGFVcGRhdGUgPSB1cGRhdGVDaGlsZHJlbihmb3JtLmlkKSwKICAgICAgICAgIG9uUmVtb3ZlID0gcmVtb3ZlQ2hpbGRyZW4oZm9ybS5pZCksCiAgICAgICAgICBvbk1vdmVVcCA9IG1vdmVVcENoaWxkcmVuKGluZGV4KSwKICAgICAgICAgIG9uTW92ZURvd24gPSBtb3ZlRG93bkNoaWxkcmVuKGluZGV4KSwKICAgICAgICApKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGFnTW9kLndoZW4ocHJvcHMuZGF0YS5tdWx0aXBsZSA9PSBUUlVFKSB7CiAgICAgICAgICAgICAgVGFnTW9kKAogICAgICAgICAgICAgICAgc3RhdGUuZHVwbGljYXRpb24udG9WZG9tQXJyYXkocmVuZGVyRHVwbGljYXRpb25JdGVtKHByb3BzKSksCiAgICAgICAgICAgICAgICByZW5kZXJBZGREdXBsaWNhdGUoKQogICAgICAgICAgICAgICkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldEJhc2VQcmV2aWV3UHJvcHMocHJvcHMpLmNvcHkoCiAgICAgICAgICAgIGRhdGEgPSBmb3JtLAogICAgICAgICAgICBvbkRhdGFVcGRhdGUgPSB1cGRhdGVEdXBsaWNhdGUoZm9ybS5pZCksCiAgICAgICAgICAgIG9uUmVtb3ZlID0gcmVtb3ZlRHVwbGljYXRlKGZvcm0uaWQpCiAgICAgICAgICApKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIFRhZ01vZC53aGVuKHByb3BzLmRhdGEubXVsdGlwbGUgPT0gVFJVRSkgewogICAgICAgICAgICBUYWdNb2QoCiAgICAgICAgICAgICAgc3RhdGUuZHVwbGljYXRpb24udG9WZG9tQXJyYXkocmVuZGVyRHVwbGljYXRpb25JdGVtKHByb3BzKSksCiAgICAgICAgICAgICAgcmVuZGVyQWRkRHVwbGljYXRlKCkKICAgICAgICAgICAgKQogICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybSA9PgogICAgICAgICAgICApCiAgICAgICAgICApLAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyRm9ybShwcm9wcyksCiAgICAgICAgICAgIHByb3BzLmRhdGEuY2hpbGRyZW4uemlwV2l0aEluZGV4LnRvVmRvbUFycmF5KHJlbmRlckNoaWxkcmVuSXRlbShwcm9wcykpLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8LmRpdigKICAgICAgICAgICAgICAgIFN0eWxlLmZsZXhib3guZmxleCwKICAgICAgICAgICAgICAgIDwuZGl2KAogICAgICAgICAgICAgICAgICBTdHlsZS5mbGV4Ym94Lmdyb3cxLAogICAgICAgICAgICAgICAgICBnZXRCYXNlUHJldmlld1Byb3BzKHByb3BzKS5jb3B5KAogICAgICAgICAgICAgICAgICAgIGRhdGEgPSBmb3JtLAogICAgICAgICAgICAgICAgICAgIG9uRGF0YVVwZGF0ZSA9IHVwZGF0ZUR1cGxpY2F0ZShmb3JtLmlkKSwKICAgICAgICAgICAgICAgICAgICBvblJlbW92ZSA9IHJlbW92ZUR1cGxpY2F0ZShmb3JtLmlkKQogICAgICAgICAgICAgICAgICApKCkKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICByZW5kZXJEZWxldGVEdXBsaWNhdGUoZm9ybS5pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImEiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRHluYW1pY0Zvcm1QcmV2aWV3Q29tcG9uZW50KAogICAgICAgICAgICAgICAgICAgIHByb3BzLmFsbFZhbHVlcywKICAgICAgICAgICAgICAgICAgICBwcm9wcy5kaXJ0eUlkcywKICAgICAgICAgICAgICAgICAgICBpc0R1cGxpY2F0ZSA9IHRydWUsCiAgICAgICAgICAgICAgICAgICAgcHJvcHMuYWxsVmFsaWRNYXBwaW5nVmFsdWVzLAogICAgICAgICAgICAgICAgICAgIHByb3BzLm9uVmFsdWVzVXBkYXRlLAogICAgICAgICAgICAgICAgICAgIENhbGxiYWNrLmVtcHR5LAogICAgICAgICAgICAgICAgICAgIENhbGxiYWNrLmVtcHR5LAogICAgICAgICAgICAgICAgICAgIHByb3BzLnNob3dBbGwsCiAgICAgICAgICAgICAgICAgICAgcHJvcHMuaW5zaWRlUGFnZSB8fCBwcm9wcy5kYXRhLnByb3BlcnRpZXMuY29udGFpbnMoY29udGFpbmVyKSwKICAgICAgICAgICAgICAgICAgICBwcm9wcy5wZGZGaWxlcwogICAgICAgICAgICAgICAgICApKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyRm9ybShwcm9wcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYWxsYmFjay5lbXB0eSwKICAgICAgICAgICAgICAgICAgICBDYWxsYmFjay5lbXB0eSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyRm9ybShwcm9wcykK</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
