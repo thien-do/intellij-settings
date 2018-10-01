@@ -140,11 +140,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilder.scala" timestamp="1538382965188">
-        <mark key="[" line="809" column="0" />
-        <mark key="]" line="820" column="4" />
-        <mark key="." line="809" column="3" />
-        <mark key="^" line="809" column="3" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilder.scala" timestamp="1538384700146">
+        <mark key="[" line="64" column="65" />
+        <mark key="]" line="64" column="71" />
+        <mark key="." line="64" column="71" />
+        <mark key="^" line="64" column="71" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilderFormDescription.scala" timestamp="1538131046801">
         <mark key="'" line="91" column="58" />
@@ -2569,47 +2569,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXdSdWxlcyA9IHNlY3Rpb24ucnVsZXMubWFwKAogICAgICBydWxlID0+CiAgICAgICAgUnVsZQogICAgICAgICAgLnBhcnNlKHJ1bGUuXzEpCiAgICAgICAgICAuZm9sZCgKICAgICAgICAgICAgXyA9PiBydWxlLAogICAgICAgICAgICBleHByID0+CiAgICAgICAgICAgICAgUnVsZS5zaG93KFJ1bGUudHJhbnNmb3JtKGV4cHIsIG5ld0lkcykpIC0+IHJ1bGUuXzIudmFsdWUuZm9sZChydWxlLl8yKSgKICAgICAgICAgICAgICAgIHZhbHVlID0+IFJ1bGUucGFyc2UodmFsdWUpLmZvbGQoXyA9PiBydWxlLl8yLCBleHByID0+IFNldFZhbHVlKFJ1bGUuc2hvdyhSdWxlLnRyYW5zZm9ybShleHByLCBuZXdJZHMpKSkpCiAgICAgICAgICAgICkKICAgICAgICApCiAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXdSdWxlcyA9IHNlY3Rpb24ucnVsZXMubWFwKAogICAgICBydWxlID0+CiAgICAgICAgUnVsZQogICAgICAgICAgLnBhcnNlKHJ1bGUuXzEpCiAgICAgICAgICAuZm9sZCgKICAgICAgICAgICAgXyA9PiBydWxlLAogICAgICAgICAgICBleHByID0+CiAgICAgICAgICAgICAgUnVsZS5zaG93KFJ1bGUudHJhbnNmb3JtKGV4cHIsIG5ld0lkcykpIC0+IHJ1bGUuXzIudmFsdWUuZm9sZChydWxlLl8yKSgKICAgICAgICAgICAgICAgIHZhbHVlID0+IFJ1bGUucGFyc2UodmFsdWUpLmZvbGQoXyA9PiBydWxlLl8yLCBleHByID0+IFNldFZhbHVlKFJ1bGUuc2hvdyhSdWxlLnRyYW5zZm9ybShleHByLCBuZXdJZHMpKSkpCiAgICAgICAgICAgICkKICAgICAgICApCiAgICApCg==</text>
+      <register name="0" type="4">
+        <text>section: FormSection, newIds: Map[String, String]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgfSB5aWVsZCAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciB7CiAgICAgIHN0YXRlIDwtIHNjb3BlLnN0YXRlCiAgICAgIHByb3BzIDwtIHNjb3BlLnByb3BzCiAgICAgIF8gPC0gewo=</text>
+        <text encoding="base64">ICAgIC5pbml0aWFsU3RhdGVGcm9tUHJvcHMocHJvcHMgPT4gU3RhdGUoZGF0YSA9IHByb3BzLmRhdGEsIGNvdW50Q2hpbGRyZW4gPSBwcm9wcy5kYXRhLmNoaWxkcmVuLmxlbmd0aCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgfSB5aWVsZCAoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciB7CiAgICAgIHN0YXRlIDwtIHNjb3BlLnN0YXRlCiAgICAgIHByb3BzIDwtIHNjb3BlLnByb3BzCiAgICAgIF8gPC0gewo=</text>
+        <text encoding="base64">ICAgIC5jb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKAogICAgICBzY29wZSA9PiBzY29wZS5tb2RTdGF0ZShfLmNvcHkoZGF0YSA9IHNjb3BlLm5leHRQcm9wcy5kYXRhLCBjb3VudENoaWxkcmVuID0gc2NvcGUubmV4dFByb3BzLmRhdGEuY2hpbGRyZW4ubGVuZ3RoKSkKICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUgPC0gc2NvcGUuc3RhdGUKICAgICAgcHJvcHMgPC0gc2NvcGUucHJvcHMK</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIFN0YXRlKAogICAgZGF0YTogRHluYW1pY0Zvcm1TZWN0aW9uLAogICAgY291bnRDaGlsZHJlbjogSW50ID0gMAogICkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgfSB5aWVsZCAoKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciB7CiAgICAgIHN0YXRlIDwtIHNjb3BlLnN0YXRlCiAgICAgIHByb3BzIDwtIHNjb3BlLnByb3BzCiAgICAgIF8gPC0gewo=</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVGFnTW9kKAo=</text>
+        <text encoding="base64">ICAgICAgbmV3TGlzdHMuXzEubWFwKF8uXzEpICsrIExpc3QobmV3VmFsaWRhdGlvbikgKysgbmV3TGlzdHMuXzIuZHJvcCgxKS5tYXAoXy5fMSkK</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
