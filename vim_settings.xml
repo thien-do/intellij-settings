@@ -140,11 +140,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilder.scala" timestamp="1538384700146">
-        <mark key="[" line="64" column="65" />
-        <mark key="]" line="64" column="71" />
-        <mark key="." line="64" column="71" />
-        <mark key="^" line="64" column="71" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilder.scala" timestamp="1538385755796">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="93" column="37" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilderFormDescription.scala" timestamp="1538131046801">
         <mark key="'" line="91" column="58" />
@@ -669,11 +669,11 @@
         <mark key="." line="22" column="49" />
         <mark key="^" line="22" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilderWarning.scala" timestamp="1538376854450">
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="37" column="34" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilderWarning.scala" timestamp="1538386380064">
+        <mark key="[" line="36" column="58" />
+        <mark key="]" line="36" column="70" />
+        <mark key="." line="36" column="70" />
+        <mark key="^" line="36" column="70" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/scripts/build.sh" timestamp="1536727607551">
         <mark key="[" line="22" column="0" />
@@ -2570,13 +2570,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Desc</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Desc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
@@ -2585,31 +2585,31 @@
         <text>section: FormSection, newIds: Map[String, String]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC5pbml0aWFsU3RhdGVGcm9tUHJvcHMocHJvcHMgPT4gU3RhdGUoZGF0YSA9IHByb3BzLmRhdGEsIGNvdW50Q2hpbGRyZW4gPSBwcm9wcy5kYXRhLmNoaWxkcmVuLmxlbmd0aCkpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53aXguYWNjb3JkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyV2FybmluZyhwcm9wcykK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5jb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKAogICAgICBzY29wZSA9PiBzY29wZS5tb2RTdGF0ZShfLmNvcHkoZGF0YSA9IHNjb3BlLm5leHRQcm9wcy5kYXRhLCBjb3VudENoaWxkcmVuID0gc2NvcGUubmV4dFByb3BzLmRhdGEuY2hpbGRyZW4ubGVuZ3RoKSkKICAgICkK</text>
+        <text encoding="base64">ICAgIGRlZiByZW5kZXJXYXJuaW5nKHByb3BzOiBQcm9wcyk6IFZkb21FbGVtZW50ID0gewoKICAgICAgdmFsIGhhc0Vub3VnaE1hcHBpbmdWYWx1ZSA9IHByb3BzLmRhdGEuZm9ybURlc2NyaXB0aW9uLmlzRW1wdHkgfHwKICAgICAgICBwcm9wcy5kYXRhLmZvcm1EZXNjcmlwdGlvbi5leGlzdHMoCiAgICAgICAgICBmb3JtID0+CiAgICAgICAgICAgIGZvcm0uaW5wdXRUeXBlID09IElucHV0VHlwZS5Ob25lIHx8IChmb3JtLnBkZk1hcHBpbmcKICAgICAgICAgICAgICAuZXhpc3RzKF8ubm9uRW1wdHkpICYmIChmb3JtLmlucHV0T3B0aW9ucy5pc0VtcHR5IHx8IGZvcm0uaW5wdXRPcHRpb25zLmV4aXN0cyhfLnBkZk1hcHBpbmcubm9uRW1wdHkpKSkKICAgICAgICApCgogICAgICB2YWwgaGFzSW52YWxpZE1hcHBpbmdWYWx1ZSA9CiAgICAgICAgcHJvcHMuZGF0YS5mb3JtRGVzY3JpcHRpb24uZXhpc3RzIHsgZm9ybSA9PgogICAgICAgICAgZm9ybS5wZGZNYXBwaW5nLmV4aXN0cygKICAgICAgICAgICAgYWNjb3JkLnZhbGlkYXRlKF8pKFJ1bGVzLnZhbGlkTWFwcGluZ1ZhbHVlKHByb3BzLmFsbFZhbGlkTWFwcGluZ1ZhbHVlcykpLmlzRmFpbHVyZQogICAgICAgICAgKQogICAgICAgIH0KCiAgICAgIHZhbCBoYXNJbnZhbGlkTWFwcGluZ1ZhbHVlSW5JbnB1dE9wdGlvbnMgPSBwcm9wcy5kYXRhLmZvcm1EZXNjcmlwdGlvbgogICAgICAgIC5leGlzdHMgeyBmb3JtID0+CiAgICAgICAgICBmb3JtLmlucHV0T3B0aW9ucy5leGlzdHMgeyBpbnB1dCA9PgogICAgICAgICAgICBhY2NvcmQudmFsaWRhdGUoaW5wdXQucGRmTWFwcGluZykoUnVsZXMudmFsaWRNYXBwaW5nVmFsdWUocHJvcHMuYWxsVmFsaWRNYXBwaW5nVmFsdWVzKSkuaXNGYWlsdXJlCiAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgdmFsIHdhcm5pbmdNZXNzYWdlcyA9IExpc3QoCiAgICAgICAgIWhhc0Vub3VnaE1hcHBpbmdWYWx1ZSAtPiAiTWlzc2luZyBtYXBwaW5nIHZhbHVlIiwKICAgICAgICBoYXNJbnZhbGlkTWFwcGluZ1ZhbHVlIC0+ICJJbnZhbGlkIG1hcHBpbmcgdmFsdWUiLAogICAgICAgIGhhc0ludmFsaWRNYXBwaW5nVmFsdWVJbklucHV0T3B0aW9ucyAtPiAiSW52YWxpZCBtYXBwaW5nIHZhbHVlIGluIGlucHV0IG9wdGlvbnMiCiAgICAgICkuZmlsdGVyKF8uXzEpLm1hcChfLl8yKQoKICAgICAgPC5zcGFuKAogICAgICAgIFN0eWxlLm1hcmdpbi5ob3I4LAogICAgICAgIFRhZ01vZC53aGVuKAogICAgICAgICAgd2FybmluZ01lc3NhZ2VzLm5vbkVtcHR5CiAgICAgICAgKSgKICAgICAgICAgIFRvb2x0aXAoCiAgICAgICAgICAgIHJlbmRlclRhcmdldCA9IDwuc3BhbihTdHlsZS5jb2xvci5kYW5nZXIzLCBJY29uKG5hbWUgPSBJY29uLk5hbWVFcnJvcikoKSksCiAgICAgICAgICAgIHJlbmRlckNvbnRlbnQgPSAoKSA9PiA8LmRpdih3YXJuaW5nTWVzc2FnZXMudG9UYWdNb2QoPC5wKF8pKSkKICAgICAgICAgICkoKQogICAgICAgICkKICAgICAgKQogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIFN0YXRlKAogICAgZGF0YTogRHluYW1pY0Zvcm1TZWN0aW9uLAogICAgY291bnRDaGlsZHJlbjogSW50ID0gMAogICkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIC5pbml0aWFsU3RhdGVGcm9tUHJvcHMocHJvcHMgPT4gU3RhdGUoZGF0YSA9IHByb3BzLmRhdGEsIGNvdW50Q2hpbGRyZW4gPSBwcm9wcy5kYXRhLmNoaWxkcmVuLmxlbmd0aCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC5jb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKAogICAgICBzY29wZSA9PiBzY29wZS5tb2RTdGF0ZShfLmNvcHkoZGF0YSA9IHNjb3BlLm5leHRQcm9wcy5kYXRhLCBjb3VudENoaWxkcmVuID0gc2NvcGUubmV4dFByb3BzLmRhdGEuY2hpbGRyZW4ubGVuZ3RoKSkKICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3TGlzdHMuXzEubWFwKF8uXzEpICsrIExpc3QobmV3VmFsaWRhdGlvbikgKysgbmV3TGlzdHMuXzIuZHJvcCgxKS5tYXAoXy5fMSkK</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIFN0YXRlKAogICAgZGF0YTogRHluYW1pY0Zvcm1TZWN0aW9uLAogICAgY291bnRDaGlsZHJlbjogSW50ID0gMAogICkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
