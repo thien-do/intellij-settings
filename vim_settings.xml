@@ -872,12 +872,8 @@
         <mark key="^" line="175" column="51" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/PortalPopper.scala" timestamp="1538467551764">
-        <mark key="'" line="110" column="40" />
-        <mark key="[" line="77" column="42" />
-        <mark key="]" line="77" column="58" />
-        <mark key="^" line="77" column="58" />
-        <mark key="." line="77" column="58" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/PortalPopper.scala" timestamp="1538469144698">
+        <mark key="^" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/ModalFooter.scala" timestamp="1535446859824">
         <mark key="[" line="23" column="0" />
@@ -1190,11 +1186,11 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJSDependency/src/main/scala/anduin/scalajs/popper/PopperModifiers.scala" timestamp="1538468102434">
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="35" column="26" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="35" column="26" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJSDependency/src/main/scala/anduin/scalajs/popper/PopperModifiers.scala" timestamp="1538469056515">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="11" column="80" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/NotificationPreferencesModal.scala" timestamp="1534065892613">
         <mark key="[" line="14" column="0" />
@@ -2577,14 +2573,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnNjYWxhai5qcy5KU09OCg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
@@ -2593,31 +2589,31 @@
         <text encoding="base64">ICAgIEBKU05hbWUoImJlaGF2aW9yIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHIK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnNjYWxhai5qcy5KU09OCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZGF0YS5hc0luc3RhbmNlT2ZbanMuRHluYW1pY10uZmxpcHBlZCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZGF0YS5hc0luc3RhbmNlT2ZbanMuRHluYW1pY10uZmxpcHBlZCkKICAgIHByaW50bG4oZGF0YS5hc0luc3RhbmNlT2ZbanMuRHluYW1pY10ucGxhY2VtZW50KQogICAgcHJpbnRsbihkYXRhLmFzSW5zdGFuY2VPZltqcy5EeW5hbWljXS5vcmlnaW5hbFBsYWNlbWVudCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnNjYWxhanMuanMuSlNPTgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIHByaW50bG4oSlNPTi5zdHJpbmdpZnkob3B0aW9ucykpCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBmbGlwID0gc3RhdGljTW9kaWZpZXJzLmZsaXAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBmbGlwID0gbmV3IEZsaXAoTGlzdChGbGlwLkJlaGF2aW91ckNsb2Nrd2lzZSkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oZGF0YS5hc0luc3RhbmNlT2ZbanMuRHluYW1pY10uZmxpcHBlZCkKICAgIHByaW50bG4oZGF0YS5hc0luc3RhbmNlT2ZbanMuRHluYW1pY10ucGxhY2VtZW50KQogICAgcHJpbnRsbihkYXRhLmFzSW5zdGFuY2VPZltqcy5EeW5hbWljXS5vcmlnaW5hbFBsYWNlbWVudCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCByYXc6IFN0cmluZyA9ICJjbG9ja3dpc2UiCg==</text>
+        <text encoding="base64">Ci8vIHNjYWxhc3R5bGU6b2ZmIHVuZGVyc2NvcmUuaW1wb3J0CmltcG9ydCBqcy5KU0NvbnZlcnRlcnMuXwovLyBzY2FsYXN0eWxlOm9uIHVuZGVyc2NvcmUuaW1wb3J0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCByYXc6IFN0cmluZyA9ICJjbG9ja3dpc2UiCg==</text>
+        <text encoding="base64">ICB2YWwgZmxpcDoganMuVW5kZWZPcltQb3BwZXJNb2RpZmllcnMuRmxpcF0gPSBqcy51bmRlZmluZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQKaW1wb3J0IGpzLkpTQ29udmVydGVycy5fCi8vIHNjYWxhc3R5bGU6b24gdW5kZXJzY29yZS5pbXBvcnQK</text>
+        <text encoding="base64">ICAvLyA9PT0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBmaW5hbCBjbGFzcyBGbGlwKAogICAgdmFsIGJlaGF2aW91cjogTGlzdFtGbGlwLkJlaGF2aW91cl0gPSBMaXN0LmVtcHR5CiAgKSBleHRlbmRzIGpzLk9iamVjdCB7CiAgICBASlNOYW1lKCJiZWhhdmlvciIpCiAgICB2YWwgYjoganMuQXJyYXlbU3RyaW5nXSA9IGpzLkFycmF5W1N0cmluZ10oImxlZnQiLCAibGVmdC1zdGFydCIsICJsZWZ0LWVuZCIpCiAgICBASlNOYW1lKCJhIikKICAgIHZhbCBiZWhhdmlvdXJSYXc6IGpzLkFycmF5W1N0cmluZ10gPSBiZWhhdmlvdXIubWFwKF8ucmF3KS50b0pTQXJyYXkKICB9CgogIG9iamVjdCBGbGlwIHsKICAgIHNlYWxlZCBhYnN0cmFjdCBjbGFzcyBCZWhhdmlvdXIodmFsIHJhdzogU3RyaW5nKQogICAgY2FzZSBvYmplY3QgQmVoYXZpb3VyRmxpcCBleHRlbmRzIEJlaGF2aW91cigiZmxpcCIpCiAgICBjYXNlIG9iamVjdCBCZWhhdmlvdXJDbG9ja3dpc2UgZXh0ZW5kcyBCZWhhdmlvdXIoImNsb2Nrd2lzZSIpCiAgICBjYXNlIG9iamVjdCBCZWhhdmlvdXJDb3VudGVyQ2xvY2t3aXNlIGV4dGVuZHMgQmVoYXZpb3VyKCJjb3VudGVyY2xvY2t3aXNlIikKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
