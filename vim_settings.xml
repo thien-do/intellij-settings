@@ -384,6 +384,12 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/textmask/ReactTextMask.scala" timestamp="1538547242369">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-2.0/component/_menu.scss" timestamp="1534326321474">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="15" column="24" />
@@ -1001,6 +1007,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageTextBox.scala" timestamp="1538546629133">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="44" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/layout/navigation/user/NavigationEntityView.scala" timestamp="1534108610056">
         <mark key="[" line="63" column="14" />
@@ -2577,47 +2588,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQKaW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuXwppbXBvcnQgamFwZ29sbHkuc2NhbGFqcy5yZWFjdC52ZG9tLmh0bWxfPF4uXwovLyBzY2FsYXN0eWxlOm9uIHVuZGVyc2NvcmUuaW1wb3J0Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>RawMaskFunction</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>RawMaskFunction</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiZG93bnNoaWZ0IiAtPiBBbmR1aW5WZXJzaW9ucy5ucG0uZG93bnNoaWZ0Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHR5cGUgTWFza1Jhd0Z1bmN0aW9uID0ganMuRnVuY3Rpb24xW1N0cmluZywgTWFza1Jhd0FycmF5XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQKaW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuXwppbXBvcnQgamFwZ29sbHkuc2NhbGFqcy5yZWFjdC52ZG9tLmh0bWxfPF4uXwovLyBzY2FsYXN0eWxlOm9uIHVuZGVyc2NvcmUuaW1wb3J0Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZ1bmMucmF3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIGpzLkFycmF5KCIoIiwganMuUmVnRXhwKCJcXGQiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAiVGhpcyBvbmx5IGNsZWFuIHNjYWxhanMtYnVuZGxlciBnZW5lcmF0ZWQgZmlsZXMiCg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmZpbmQgLi8gLW5hbWUgeWFybi5sb2NrIC10eXBlIGYgfCB4YXJncyBybSAtZgouL2pzL2FuZHVpbi1ib290c3RyYXAveWFybi5sb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXNrIG1hdGNoIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Li9hcHBzL2dvbmRvci9nb25kb3JBcHBDbGllbnQveWFybi5sb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Li9nb25kb3IvanMveWFybi5sb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbSBtYXRjaCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Li9tb2R1bGVzL25hcnlhL25hcnlhL2pzL3lhcm4ubG9jawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWFjdC10cnVuY2F0ZS1tYXJrdXAgCg==</text>
+        <text encoding="base64">ICAgICAgbWFzay5vclVuZGVmaW5lZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQuaW5wdXQuTmF0aXZlRHJvcGRvd24K</text>
+        <text encoding="base64">ICAgICAgICAgIG1hc2sgPSBqcy5kZWZpbmVkKGpzLkFycmF5W2pzLnxbU3RyaW5nLCBqcy5SZWdFeHBdXSgiKCIsIGpzLlJlZ0V4cCgiXFxkIikpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
