@@ -665,6 +665,12 @@
         <mark key="." line="26" column="34" />
         <mark key="^" line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJSDependency/src/main/scala/anduin/scalajs/textmask/TextMaskAddons.scala" timestamp="1538625079867">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="43" />
+        <mark key="^" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/onboarding/founder/DueDiligenceOverview.scala" timestamp="1535097753972">
         <mark key="[" line="22" column="49" />
         <mark key="]" line="22" column="64" />
@@ -2612,8 +2618,8 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBASlNJbXBvcnQoInRleHQtbWFzay1hZGRvbnMvZGlzdC9jcmVhdGVOdW1iZXJNYXNrIiwgSlNJbXBvcnQuRGVmYXVsdCkKICBAanMubmF0aXZlCiAgZGVmIGNyZWF0ZU1hc2soKTogVGV4dE1hc2suUmF3ID0ganMubmF0aXZlCg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -2625,7 +2631,7 @@
         <text encoding="base64">XDxyZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbmRlciA9IGpzLmRlZmluZWQocmVuZGVySW5wdXQpLAogICAgICAgICAgb25DaGFuZ2UgPSBqcy5kZWZpbmVkKGUgPT4gcHJpbnRsbihlLnRhcmdldC52YWx1ZSkpCg==</text>
+        <text encoding="base64">ICBASlNJbXBvcnQoInRleHQtbWFzay1hZGRvbnMvZGlzdC9jcmVhdGVOdW1iZXJNYXNrIiwgSlNJbXBvcnQuRGVmYXVsdCkKICBAanMubmF0aXZlCiAgZGVmIGNyZWF0ZU1hc2soKTogVGV4dE1hc2suUmF3ID0ganMubmF0aXZlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
