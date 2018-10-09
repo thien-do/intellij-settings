@@ -1674,11 +1674,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539068743112">
-        <mark key="[" line="198" column="73" />
-        <mark key="]" line="198" column="72" />
-        <mark key="." line="198" column="72" />
-        <mark key="^" line="198" column="72" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539070299809">
+        <mark key="[" line="300" column="11" />
+        <mark key="]" line="300" column="45" />
+        <mark key="." line="300" column="45" />
+        <mark key="^" line="300" column="45" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/Downshift.scala" timestamp="1538556976257">
         <mark key="[" line="20" column="0" />
@@ -1989,10 +1989,10 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/textmask/TextMask.scala" timestamp="1538646998286">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="6" />
+        <mark key="[" line="68" column="20" />
+        <mark key="]" line="68" column="20" />
+        <mark key="." line="68" column="20" />
+        <mark key="^" line="68" column="6" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/debug/FlowDebug.scala" timestamp="1532601245364">
         <mark key="[" line="43" column="52" />
@@ -2666,47 +2666,47 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>textmask</text>
+        <text>defaultRender[A]</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>textmask</text>
+        <text>defaultRender[A]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29yZS9zcmMvbWFpbi9zY2FsYS9hbmR1aW4vc2NhbGFqcy90ZXh0bWFzawo=</text>
+        <text encoding="base64">ICAgICAgICAgIHxyZW5kZXJPcHRpb246IFJlbmRlclByb3BzW0FdID0+IFZkb21Ob2RlID0gZGVmYXVsdFJlbmRlcltBXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>defaultRender[A]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCByZW5kZXJPcHRpb25Qcm9wcyA9IERyb3Bkb3duT3B0LlJlbmRlclByb3BzKAogICAgICBvcHRpb24gPSBvcHRpb24sCiAgICAgIG1vZHMgPSBUYWdNb2QuZW1wdHksCiAgICAgIHJlbmRlclZhbHVlID0gcHJvcHMub3V0ZXIucmVuZGVyVmFsdWUsCiAgICAgIGlzSGlnaGxpZ2h0ZWQgPSBmYWxzZSwKICAgICAgaXNTZWxlY3RlZCA9IGZhbHNlCiAgICApCiAgICA8LmRpdigKICAgICAgVGFnTW9kKFN0eWxlLm92ZXJmbG93LmhpZGRlbiwgXi5oZWlnaHQgOj0gIjAiKSwKICAgICAgcHJvcHMub3V0ZXIucmVuZGVyT3B0aW9uKHJlbmRlck9wdGlvblByb3BzKQogICAgKQo=</text>
+      <register name="2" type="4">
+        <text>By default
+          |it's simply `option.value.toString`.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBhY3R1YWxTdHlsZXMgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
-      <register name="4" type="4">
-        <text>Style.display.block.overflow.hidden,
-        ^.height := &quot;0&quot;,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3R5bGUuZGlzcGxheS5ibG9jay50ZXh0QWxpZ24ubGVmdCwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBwYXJlbnQgPSBTdHlsZS5kaXNwbGF5LmJsb2NrLnRleHRBbGlnbi5sZWZ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBwYXJlbnQgPSBTdHlsZS5kaXNwbGF5LmJsb2NrLnRleHRBbGlnbi5sZWZ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
