@@ -1674,11 +1674,11 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539070299809">
-        <mark key="[" line="300" column="11" />
-        <mark key="]" line="300" column="45" />
-        <mark key="." line="300" column="45" />
-        <mark key="^" line="300" column="45" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539071188006">
+        <mark key="[" line="323" column="27" />
+        <mark key="]" line="323" column="26" />
+        <mark key="." line="323" column="26" />
+        <mark key="^" line="323" column="26" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/Downshift.scala" timestamp="1538556976257">
         <mark key="[" line="20" column="0" />
@@ -2665,14 +2665,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>defaultRender[A]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxJbiBtb3N0IGNhc2VzLCByZXR1cm5pbmcgYSBzdHJpbmcgKHVzdWFsbHkgdGhlIHNhbWUgYXMKICAgICAgICAgIHxgdmFsdWVUb1N0cmluZ2ApIHNob3VsZCBiZSBlbm91Z2guIEhvd2V2ZXIsIGFzIHRoZSByZXN1bHQgdHlwZQogICAgICAgICAgfGlzIGBWZG9tTm9kZWAsIHlvdSBjYW4gcmV0dXJuIG11Y2ggbW9yZToK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>defaultRender[A]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -2680,27 +2680,27 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHxyZW5kZXJPcHRpb246IFJlbmRlclByb3BzW0FdID0+IFZkb21Ob2RlID0gZGVmYXVsdFJlbmRlcltBXQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>defaultRender[A]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxJbiBtb3N0IGNhc2VzLCByZXR1cm5pbmcgYSBzdHJpbmcgKHVzdWFsbHkgdGhlIHNhbWUgYXMKICAgICAgICAgIHxgdmFsdWVUb1N0cmluZ2ApIHNob3VsZCBiZSBlbm91Z2guIEhvd2V2ZXIsIGFzIHRoZSByZXN1bHQgdHlwZQogICAgICAgICAgfGlzIGBWZG9tTm9kZWAsIHlvdSBjYW4gcmV0dXJuIG11Y2ggbW9yZToK</text>
       </register>
-      <register name="2" type="4">
-        <text>By default
-          |it's simply `option.value.toString`.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHxUaGlzIGNhbiBiZSBjdXN0b21pemVkIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHxUaGUgZGVmYXVsdCBgdG9TdHJpbmdgIHNob3VsZCB3b3JrIGZvciBtb3N0IGNhc2VzLiBIb3dldmVyLCB3aGVuIAogICAgICAgICAgfG9wdGlvbiB0eXBlIGlzIGNvbXBsZXgsIGB0b1N0cmluZ2AgbWlnaHQgbm90IHJlcHJlc2VudCB0aGUgCiAgICAgICAgICB8cmVuZGVyZWQgcmVzdWx0LiBJbiB0aGVzZSBjYXNlcyB5b3UgY2FuIHByb3ZpZGUgeW91ciBvd24gcHJlZGljYXRlLgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+      <register name="5" type="4">
+        <text>defaultRender[A]</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+      <register name="6" type="4">
+        <text>By default
+          |it's simply `option.value.toString`.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIHwK</text>
