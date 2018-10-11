@@ -270,7 +270,7 @@
         <mark key="." line="66" column="17" />
         <mark key="^" line="66" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/Dropdown.scala" timestamp="1539236189948">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/Dropdown.scala" timestamp="1539247160457">
         <mark key="[" line="91" column="68" />
         <mark key="]" line="91" column="58" />
         <mark key="." line="91" column="58" />
@@ -1714,11 +1714,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539245988970">
-        <mark key="[" line="604" column="23" />
-        <mark key="]" line="604" column="23" />
-        <mark key="." line="604" column="23" />
-        <mark key="^" line="602" column="26" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539248066274">
+        <mark key="'" line="618" column="18" />
+        <mark key="[" line="601" column="17" />
+        <mark key="]" line="601" column="26" />
+        <mark key="^" line="601" column="26" />
+        <mark key="." line="601" column="26" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/Downshift.scala" timestamp="1538556976257">
         <mark key="[" line="20" column="0" />
@@ -1887,11 +1888,11 @@
         <mark key="." line="116" column="37" />
         <mark key="^" line="116" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/component/SimpleState.scala" timestamp="1538649066119">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/component/SimpleState.scala" timestamp="1539247694029">
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="68" />
+        <mark key="^" line="43" column="68" />
+        <mark key="." line="43" column="68" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/onboarding/founder/WiringOverview.scala" timestamp="1535097729081">
         <mark key="[" line="22" column="43" />
@@ -2600,7 +2601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/task/DealTaskRoutes.scala" />
       <jump line="65" column="37" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/DealRoutes.scala" />
       <jump line="101" column="4" filename="$USER_HOME$/Code/anduin/stargazer/apps/gondor/gondorAppClient/src/main/scala/com/anduin/stargazer/client/modules/routing/RoutingConfig.scala" />
       <jump line="9" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/DealSummaryRoutes.scala" />
@@ -2700,52 +2700,56 @@
       <jump line="36" column="37" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownMeasure.scala" />
       <jump line="33" column="23" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownMeasure.scala" />
       <jump line="87" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownContent.scala" />
+      <jump line="618" column="18" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpdmF0ZVtkcm9wZG93bl0gb2JqZWN0IERyb3Bkb3duQ29udGVudCB7CgogIHByaXZhdGUgdmFsIGZha2VUZXh0Qm94ID0gVGV4dEJveCh2YWx1ZSA9ICIiKQogIC8vIHN0YXRpYyBtb2RzCiAgcHJpdmF0ZSB2YWwgc2VhcmNoTW9kcyA9IFRhZ01vZCgKICAgIFRleHRCb3hTdHlsZS5nZXRJbnB1dChmYWtlVGV4dEJveCksCiAgICBeLmF1dG9Gb2N1cyA6PSB0cnVlLAogICAgXi5wbGFjZWhvbGRlciA6PSAiU2VhcmNo4oCmIgogICkKCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8LmRpdihTdHlsZS5oZWlnaHQucHg4KSwK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>px16</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkcm9wZG93bi9Ecm9wZG93bk9wdGlvbi5zY2FsYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8LmRpdihTdHlsZS5oZWlnaHQucHg4KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpdmF0ZVtkcm9wZG93bl0gb2JqZWN0IERyb3Bkb3duQ29udGVudCB7CgogIHByaXZhdGUgdmFsIGZha2VUZXh0Qm94ID0gVGV4dEJveCh2YWx1ZSA9ICIiKQogIC8vIHN0YXRpYyBtb2RzCiAgcHJpdmF0ZSB2YWwgc2VhcmNoTW9kcyA9IFRhZ01vZCgKICAgIFRleHRCb3hTdHlsZS5nZXRJbnB1dChmYWtlVGV4dEJveCksCiAgICBeLmF1dG9Gb2N1cyA6PSB0cnVlLAogICAgXi5wbGFjZWhvbGRlciA6PSAiU2VhcmNo4oCmIgogICkKCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgubWFyZ2luLmJvdHRvbTgsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBmaWx0ZXJPcHRpb24ocHJvcHM6IFByb3BzKShvcHRpb246IERyb3Bkb3duLk9wdFtBXSkgPSB7CiAgICB2YWwgaW5wdXRPcHQgPSBwcm9wcy5kb3duc2hpZnQuaW5wdXRWYWx1ZS50b09wdGlvbi5maWx0ZXIoXyAhPSBudWxsKQogICAgaW5wdXRPcHQgbWF0Y2ggewogICAgICBjYXNlIE5vbmUgfCBTb21lKCIiKSA9PiB0cnVlCiAgICAgIGNhc2UgU29tZShpbnB1dCkgPT4KICAgICAgICB2YWwgdmFsdWUgPSBwcm9wcy5vdXRlci5nZXRGaWx0ZXJWYWx1ZShvcHRpb24udmFsdWUpLnRvTG93ZXJDYXNlCiAgICAgICAgdmFsdWUuY29udGFpbnMoaW5wdXQudG9Mb3dlckNhc2UpCiAgICB9CiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8LmRpdigK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgcmVuZGVyU2VhcmNoKHByb3BzOiBQcm9wcyk6IE9wdGlvbltWZG9tRWxlbWVudF0gPSB7CiAgICBpZiAocHJvcHMub3V0ZXIub3B0aW9ucy5sZW5ndGggPiAxMCkgewogICAgICB2YWwgaW5wdXQgPSA8LmlucHV0KAogICAgICAgIERyb3Bkb3duQ29udGVudC5zZWFyY2hNb2RzLAogICAgICAgIFV0aWwuZ2V0TW9kc0Zyb21Qcm9wcyhwcm9wcy5kb3duc2hpZnQuZ2V0SW5wdXRQcm9wcygpKQogICAgICApCiAgICAgIHZhbCBlbGVtZW50ID0gPC5kaXYoU3R5bGUucGFkZGluZy5ob3I4Lm1hcmdpbi5ib3R0b204LCBpbnB1dCkKICAgICAgU29tZShlbGVtZW50KQogICAgfSBlbHNlIHsKICAgICAgTm9uZQogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICApLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCiAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFsIG0gPSAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgCiAgcHJpdmF0ZSBkZWYgcmVuZGVyU2VhcmNoKCkgPSB7CgogIH0K</text>
+      <register name="5" type="4">
+        <text>Dropdown.Measurement(
+                    biggestWidthOption = Some(Dropdown.Opt(&quot;10000&quot;)),
+                    optionHeight = Some(32)
+                  )</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZVNpbXBsZSgpKAogICAgICAgIC8vIHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4CiAgICAgICAgU2ltcGxlU3RhdGUuU3RyKAogICAgICAgICAgaW5pdGlhbFZhbHVlID0gIjAiLAogICAgICAgICAgcmVuZGVyID0gKHZhbHVlLCBvbkNoYW5nZSkgPT4gewogICAgICAgICAgICB2YWwgcmVuZGVyID0gKGk6IEludCkgPT4gRHJvcGRvd24uT3B0KHMibG9uZyBsb25nIGxvbmcgbG9uZyBsb25nICR7aS50b1N0cmluZ30gbG9uZyBsb25nIGxvbmcgbG9uZyBsb25nIikKICAgICAgICAgICAgU3RyaW5nRHJvcGRvd24oCiAgICAgICAgICAgICAgdmFsdWUgPSBTb21lKHZhbHVlKSwKICAgICAgICAgICAgICBvbkNoYW5nZSA9IG9uQ2hhbmdlLAogICAgICAgICAgICAgIG9wdGlvbnMgPSAwLnRvKDEwMDAwKS5tYXAocmVuZGVyKS50b0xpc3QsCiAgICAgICAgICAgICAgcmVuZGVyVmFsdWUgPSBhID0+IGEKICAgICAgICAgICAgKSgpCiAgICAgICAgICB9CiAgICAgICAgKSgpCiAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbihpZiAoaXNTdGF0aWNNZWFzdXJlbWVudCkgaXNTdGF0aWNNZWFzdXJlbWVudCBlbHNlIG51bGwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5wYWRkaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC5kaXYoU3R5bGUuaGVpZ2h0LnB4OCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwuZGl2KAogICAgICBUYWdNb2QoU3R5bGUub3ZlcmZsb3cuaGlkZGVuLCBeLmhlaWdodCA6PSAiMCIpLAogICAgICAgIG9wdGlvbi5tYXAoRHJvcGRvd25PcHRpb24ucmVuZGVyUGxhaW4ocHJvcHMub3V0ZXIpKQogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQ2hlY2tib3goaXNTdGF0aWNNZWFzdXJlbWVudCwgb25DaGFuZ2UgPSBzZXRJc1N0YXRpY01lYXN1cmVtZW50KSgiVXNlIHN0YXRpYyBtZWFzdXJlbWVudCIpLAogICAgICAgICAgICAgICAgICA8LmRpdihTdHlsZS5oZWlnaHQucHg4KSwKICAgICAgICAgICAgICAgICAgQnV0dG9uKG9uQ2xpY2sgPSBzZXRJc01vdW50ZWQoIWlzTW91bnRlZCkpKGlmIChpc01vdW50ZWQpICJVbm1vdW50IiBlbHNlICJtb3VudCIpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
