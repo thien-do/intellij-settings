@@ -141,11 +141,11 @@
         <mark key="." line="85" column="38" />
         <mark key="^" line="85" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1537925005490">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="85" column="102" />
-        <mark key="^" line="89" column="53" />
-        <mark key="." line="84" column="20" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageButtonStyle.scala" timestamp="1539237708664">
+        <mark key="[" line="142" column="35" />
+        <mark key="]" line="143" column="39" />
+        <mark key="." line="143" column="39" />
+        <mark key="^" line="143" column="39" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/scripts/link.sh" timestamp="1532203960322">
         <mark key="[" line="95" column="0" />
@@ -2585,47 +2585,48 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2luID0gImFzZCIK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBzY2FsYXN0eWxlOm9mZiB2YXIuZmllbGQK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2luID0gImFzZCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHZhbHVlID0gbWVhc3VyZW1lbnQuYmlnZ2VzdFdpZHRoT3B0aW9uLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2luID0gImFzZCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2kgPSAiYXNkIgogICAgICAgIHZhbCBtZ2luID0gImFzZCIKICAgICAgICB2YWwgbWluID0gImFzZCIKICAgICAgICB2YWwgbWFuID0gImFzZCIKICAgICAgICB2YWwgbWFpbiA9ICJhc2QiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2luID0gU3R5bGUubWFyZ2luLmxlZnQxNgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhc3RSZXN1bHRPcHQuZm9sZChjYWxjdWxhdGVBbmRDYWNoZShwcm9wcykpKGxhc3RSZXN1bHQgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3BzLm9wdGlvbnMobG9uZ2VzdEluZGV4KQo=</text>
+        <text encoding="base64">ICAgICAgLy8gQFRPRE86IFRoaXMgc2hvdWxkIGJlIEV4YW1wbGVTaW1wbGUsIGJ1dCBQb3BvdmVyIGlzIGR5aW5nCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvbmdlc3ROb2RlCgogICAgdmFsIGxvbmdlc3RJbmRleCA9IG5vZGVzLm1heEJ5KF8uXzEuY2xpZW50V2lkdGgpLl8yCg==</text>
+      <register name="6" type="4">
+        <text>**GOOD:** Users know which is the primary action 
+        that should be taken</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vZAo=</text>
+        <text encoding="base64">ICAgICAgLy8gZm9ybWF0OiBvZmYK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KG5vZGUgPT4gewogICAgICAKICAgIH0p</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8gZm9ybWF0OiBvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vZGVzLnJlZHVjZQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHZhbHVlID0gbWVhc3VyZW1lbnQuYmlnZ2VzdFdpZHRoT3B0aW9uLnZhbHVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
