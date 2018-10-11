@@ -550,12 +550,12 @@
         <mark key="^" line="62" column="89" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownContent.scala" timestamp="1539240414460">
-        <mark key="'" line="74" column="23" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownContent.scala" timestamp="1539242140696">
+        <mark key="'" line="97" column="23" />
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="80" column="24" />
+        <mark key="." line="80" column="24" />
+        <mark key="^" line="80" column="24" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/apps/gondor/gondorAppClient/webpack/gondorAppClient.common.webpack.config.js" timestamp="1534326177457">
         <mark key="[" line="66" column="0" />
@@ -2592,13 +2592,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>200</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -2607,31 +2607,31 @@
         <text encoding="base64">ICAgIHZhbCBoZWlnaHQ6IEludCwKICAgIHZhbCByb3dDb3VudDogSW50LAogICAgdmFsIHJvd0hlaWdodDogSW50IHwganMuRnVuY3Rpb24xW0ludCwgSW50XSwKICAgIHZhbCByb3dSZW5kZXJlcjoganMuRnVuY3Rpb24xW1Jvd1JlbmRlclByb3BzLCByYXcuUmVhY3QuTm9kZV0sCiAgICB2YWwgd2lkdGg6IEludAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCBhbGxPcHRpb25IZWlnaHQgPSBvcHRpb25IZWlnaHQgKiBvcHRpb25Db3VudAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aSA9PiB7CiAgICAgICAgICAgICAgICAgIERyb3Bkb3duLk9wdCgKICAgICAgICAgICAgICAgICAgICBzImxvbmcgbG9uZyBsb25nIGxvbmcgbG9uZyAke2kudG9TdHJpbmd9IGxvbmcgIiArCiAgICAgICAgICAgICAgICAgICAgICBzImxvbmcgbG9uZyBsb25nIGxvbmciCiAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCBtYXhIZWlnaHQgPSBNYXRoLmNlaWwoKS50b0ludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRHJvcGRvd25PcHQuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnNjYWxhanMuanMufAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB3aWR0aDogSW50Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWlnaHQ6IEludCwKICAgIHZhbCByb3dDb3VudDogSW50LAogICAgdmFsIHJvd0hlaWdodDogSW50IHwganMuRnVuY3Rpb24xW0ludCwgSW50XSwK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgTWF0aC5mCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgdHJhaXQgUm93UmVuZGVyUHJvcHMgZXh0ZW5kcyBqcy5PYmplY3QgewogICAgdmFsIGluZGV4OiBJbnQKICAgIHZhbCBpc1Njcm9sbGluZzogQm9vbGVhbgogICAgdmFsIGlzVmlzaWJsZTogQm9vbGVhbgogICAgdmFsIGtleTogU3RyaW5nCiAgICB2YWwgcGFyZW50OiBqcy5PYmplY3QKICAgIHZhbCBzdHlsZToganMuT2JqZWN0CiAgfQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBvcHRpb25IZWlnaHQgPSBwcm9wcy5tZWFzdXJlbWVudC5vcHRpb25IZWlnaHQuZ2V0T3JFbHNlKDApCiAgICB2YWwgb3B0aW9uQ291bnQgPSBwcm9wcy5vdXRlci5vcHRpb25zLmxlbmd0aAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIE1hdGguY2VpbChtYXhIKQogICAgTWF0aC5taW4obWF4SGVpZ2h0LCBhbGxPcHRpb25IZWlnaHQpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>props.measurement.optionHeight.getOrElse(0)</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
