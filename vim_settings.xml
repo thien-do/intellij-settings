@@ -258,6 +258,12 @@
         <mark key="." line="57" column="89" />
         <mark key="^" line="57" column="89" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flexibleform/DefaultWidgets.scala" timestamp="1539328085314">
+        <mark key="[" line="83" column="20" />
+        <mark key="]" line="83" column="34" />
+        <mark key="^" line="83" column="34" />
+        <mark key="." line="83" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/layout/DealWorkspaceLayout.scala" timestamp="1534330827921">
         <mark key="[" line="46" column="16" />
         <mark key="]" line="46" column="16" />
@@ -1534,6 +1540,12 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="40" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/SelectDocumentForSignature.scala" timestamp="1539327848820">
+        <mark key="[" line="395" column="30" />
+        <mark key="]" line="395" column="36" />
+        <mark key="^" line="395" column="36" />
+        <mark key="." line="395" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flexibleform/Test.scala" timestamp="1530867826429">
         <mark key="[" line="27" column="19" />
         <mark key="]" line="27" column="19" />
@@ -1582,11 +1594,11 @@
         <mark key="." line="27" column="35" />
         <mark key="^" line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/form/input/DropdownInput.scala" timestamp="1538107010110">
-        <mark key="[" line="94" column="31" />
-        <mark key="]" line="94" column="89" />
-        <mark key="^" line="94" column="89" />
-        <mark key="." line="94" column="89" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/form/input/DropdownInput.scala" timestamp="1539327555383">
+        <mark key="[" line="118" column="34" />
+        <mark key="]" line="118" column="40" />
+        <mark key="^" line="118" column="40" />
+        <mark key="." line="118" column="40" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/portal/Tooltip.scala" timestamp="1536912387418">
         <mark key="[" line="59" column="45" />
@@ -2712,14 +2724,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAicmVhY3QtdmlydHVhbGl6ZWQiIC0+IEFuZHVpblZlcnNpb25zLm5wbS5yZWFjdFZpcnR1YWxpemVkCg==</text>
+      <register name="&quot;" type="4">
+        <text>_.toString</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>textMaskAddons</text>
+        <text>_.toString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -2728,34 +2740,34 @@
         <text encoding="base64">ICAgICAgICAicmVhY3QtdmlydHVhbGl6ZWQiIC0+IEFuZHVpblZlcnNpb25zLm5wbS5yZWFjdFZpcnR1YWxpemVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgubWFyZ2luLmJvdHRvbTgsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8LmRpdigK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgubWFyZ2luLmJvdHRvbTgsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8LmRpdigK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICApLAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFsIG0gPSAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Dropdown.Measurement(
                     biggestWidthOption = Some(Dropdown.Opt(&quot;10000&quot;)),
                     optionHeight = Some(32)
                   )</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbihpZiAoaXNTdGF0aWNNZWFzdXJlbWVudCkgaXNTdGF0aWNNZWFzdXJlbWVudCBlbHNlIG51bGwpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC5kaXYoU3R5bGUuaGVpZ2h0LnB4OCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
