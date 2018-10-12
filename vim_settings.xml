@@ -229,6 +229,13 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="32" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/template/TemplateForm.scala" timestamp="1539329040042">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="221" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/clipboard/CopyToClipboard.scala" timestamp="1534838563521">
         <mark key="[" line="49" column="8" />
         <mark key="]" line="49" column="8" />
@@ -1540,8 +1547,8 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="40" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/SelectDocumentForSignature.scala" timestamp="1539327848820">
-        <mark key="[" line="395" column="30" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/SelectDocumentForSignature.scala" timestamp="1539330039390">
+        <mark key="[" line="395" column="38" />
         <mark key="]" line="395" column="36" />
         <mark key="^" line="395" column="36" />
         <mark key="." line="395" column="36" />
@@ -1594,11 +1601,11 @@
         <mark key="." line="27" column="35" />
         <mark key="^" line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/form/input/DropdownInput.scala" timestamp="1539327555383">
-        <mark key="[" line="118" column="34" />
-        <mark key="]" line="118" column="40" />
-        <mark key="^" line="118" column="40" />
-        <mark key="." line="118" column="40" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/form/input/DropdownInput.scala" timestamp="1539329543430">
+        <mark key="[" line="118" column="43" />
+        <mark key="]" line="118" column="41" />
+        <mark key="^" line="118" column="41" />
+        <mark key="." line="118" column="41" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/portal/Tooltip.scala" timestamp="1536912387418">
         <mark key="[" line="59" column="45" />
@@ -1690,11 +1697,11 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/ApplicationSettings.scala" timestamp="1538472313541">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="129" column="57" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/userAccount/ApplicationSettings.scala" timestamp="1539330084256">
+        <mark key="[" line="127" column="58" />
+        <mark key="]" line="128" column="29" />
+        <mark key="." line="128" column="29" />
+        <mark key="^" line="128" column="29" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/PortalUtils.scala" timestamp="1536577749208">
         <mark key="[" line="26" column="13" />
@@ -2619,9 +2626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="37" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/DealRoutes.scala" />
-      <jump line="101" column="4" filename="$USER_HOME$/Code/anduin/stargazer/apps/gondor/gondorAppClient/src/main/scala/com/anduin/stargazer/client/modules/routing/RoutingConfig.scala" />
-      <jump line="9" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/DealSummaryRoutes.scala" />
       <jump line="13" column="34" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/DealWorkspaceRoutes.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/duediligence/DueDiligenceWorkspaceRoutes.scala" />
       <jump line="2" column="7" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/workspace/wiring/WiringWorkspaceRoutes.scala" />
@@ -2719,19 +2723,22 @@
       <jump line="33" column="23" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownMeasure.scala" />
       <jump line="87" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownContent.scala" />
       <jump line="618" column="18" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" />
+      <jump line="218" column="25" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/template/TemplateForm.scala" />
+      <jump line="285" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/template/TemplateForm.scala" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/template/TemplateForm.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_.toString</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5pZC5Nb2RlbElkUmVnaXN0cnkK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>_.toString</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -2740,34 +2747,31 @@
         <text encoding="base64">ICAgICAgICAicmVhY3QtdmlydHVhbGl6ZWQiIC0+IEFuZHVpblZlcnNpb25zLm5wbS5yZWFjdFZpcnR1YWxpemVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5pZC5Nb2RlbElkUmVnaXN0cnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHVpbi5jb21wb25lbnQuaW5wdXQuTmF0aXZlRHJvcGRvd24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgubWFyZ2luLmJvdHRvbTgsCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8LmRpdigK</text>
+        <text encoding="base64">ICAgICAgTW9kZWxJZFJlZ2lzdHJ5LnBhcnNlci5wYXJzZUFzW0R5bmFtaWNGb3JtSWRdKGZvcm1JZFZhbHVlKS5mb2xkKENhbGxiYWNrLmVtcHR5KSB7IGZvcm1JZCA9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTmF0aXZlRHJvcGRvd24oCiAgICAgICAgICAgICAgdmFsdWUgPSBzdGF0ZS5mb3JtSWRPcHQubWFwKF8uc3RyaW5nVmFsdWUpLmdldE9yRWxzZSgiIiksCiAgICAgICAgICAgICAgb3B0aW9ucyA9IGdldEZvcm1PcHRpb25zKHByb3BzLCBzdGF0ZSksCiAgICAgICAgICAgICAgb25DaGFuZ2UgPSBvblNlbGVjdEZvcm0KICAgICAgICAgICAgKSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFsIG0gPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Dropdown.Measurement(
-                    biggestWidthOption = Some(Dropdown.Opt(&quot;10000&quot;)),
-                    optionHeight = Some(32)
-                  )</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIGdldEZvcm1PcHRpb25zKHByb3BzOiBQcm9wcywgc3RhdGU6IFN0YXRlKSA9IHsKICAgICAgcHJvcHMuYWxsRm9ybXMubWFwIHsKICAgICAgICBjYXNlIChpZCwgbW9kZWwpID0+CiAgICAgICAgICBOYXRpdmVEcm9wZG93bi5PcHRpb24oCiAgICAgICAgICAgIHZhbHVlID0gaWQuc3RyaW5nVmFsdWUsCiAgICAgICAgICAgIGxhYmVsID0gbW9kZWwuZm9ybU5hbWUKICAgICAgICAgICkKICAgICAgfS50b0xpc3QgKysgTGlzdChOYXRpdmVEcm9wZG93bi5PcHRpb24odmFsdWUgPSAiIiwgbGFiZWwgPSAiIikpCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbihpZiAoaXNTdGF0aWNNZWFzdXJlbWVudCkgaXNTdGF0aWNNZWFzdXJlbWVudCBlbHNlIG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
