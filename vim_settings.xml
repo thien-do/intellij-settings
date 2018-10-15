@@ -479,7 +479,7 @@
         <mark key="." line="656" column="26" />
         <mark key="^" line="656" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/dropdown/DropdownContent.scala" timestamp="1539592919796">
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/dropdown/DropdownContent.scala" timestamp="1539594734707">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="^" line="103" column="64" />
@@ -1403,11 +1403,11 @@
         <mark key="^" line="33" column="43" />
         <mark key="." line="33" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/TransactionOnBoardingEntitySelection.scala" timestamp="1534749376393">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="^" line="170" column="25" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/entity/TransactionOnBoardingEntitySelection.scala" timestamp="1539594418159">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="166" column="25" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/navigation/primary/TransactionNavigationTags.scala" timestamp="1534103127620">
         <mark key="[" line="31" column="10" />
@@ -2095,6 +2095,12 @@
         <mark key="]" line="68" column="20" />
         <mark key="." line="68" column="20" />
         <mark key="^" line="68" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/dropdown/Dropdown.scala" timestamp="1539594608175">
+        <mark key="[" line="103" column="34" />
+        <mark key="]" line="103" column="59" />
+        <mark key="^" line="103" column="59" />
+        <mark key="." line="103" column="59" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/debug/FlowDebug.scala" timestamp="1532601245364">
         <mark key="[" line="43" column="52" />
@@ -2786,7 +2792,7 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC5kaXYoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEBUT0RPOiBmb3IgZHZrbmRuOiBUaGlzIGlzIG5vdCBhdmFpbGFibGUgYXMgbG9uZyBhcwogICAgICAgICAgICAgICAgLy8gZG93bnNoaWZ0IGlzIGJlaW5nIHVzZWQgYXMgYW4gdW5jb250cm9sbGVkIGNvbXBvbmVudC4gSWYgd2UKICAgICAgICAgICAgICAgIC8vIGNoYW5nZSB0aGUgdmFsdWUgaGVyZSBvdXJzZWx2ZXMsIGRvd25zaGlmdCdzIHNlbGVjdGVkIGl0ZW0KICAgICAgICAgICAgICAgIC8vIHdvbid0IGJlIHVwZGF0ZWQK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
@@ -2801,31 +2807,31 @@
         <text encoding="base64">ICAgICAgICBzZWxlY3RlZEl0ZW0gPSBqcy5kZWZpbmVkKHByb3BzLnZhbHVlIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZSh2YWx1ZSkgPT4gdmFsdWUKICAgICAgICAgIGNhc2UgTm9uZSAgICAgICAgPT4gbnVsbAogICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC5kaXYoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEBUT0RPOiBmb3IgZHZrbmRuOiBUaGlzIGlzIG5vdCBhdmFpbGFibGUgYXMgbG9uZyBhcwogICAgICAgICAgICAgICAgLy8gZG93bnNoaWZ0IGlzIGJlaW5nIHVzZWQgYXMgYW4gdW5jb250cm9sbGVkIGNvbXBvbmVudC4gSWYgd2UKICAgICAgICAgICAgICAgIC8vIGNoYW5nZSB0aGUgdmFsdWUgaGVyZSBvdXJzZWx2ZXMsIGRvd25zaGlmdCdzIHNlbGVjdGVkIGl0ZW0KICAgICAgICAgICAgICAgIC8vIHdvbid0IGJlIHVwZGF0ZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC5kaXYoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICBGcnVpdC5Ecm9wZG93blNhbXBsZQogICAgICAgICAgICAgICAgLmNvcHkodmFsdWUgPSBTb21lKHZhbHVlKSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZWZhdWx0U2VsZWN0ZWRJdGVtOiBqcy5VbmRlZk9yW0FdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICBGcnVpdC5Ecm9wZG93blNhbXBsZQogICAgICAgICAgICAgICAgLmNvcHkodmFsdWUgPSBTb21lKHZhbHVlKSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0U2VsZWN0ZWRJdGVtID0gcHJvcHMudmFsdWUub3JVbmRlZmluZWQsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBkZWZhdWx0U2VsZWN0ZWRJdGVtOiBqcy5VbmRlZk9yW0FdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZWZhdWx0U2VsZWN0ZWRJdGVtID0gcHJvcHMudmFsdWUub3JVbmRlZmluZWQsCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnJ1aXQuRHJvcGRvd25TYW1wbGUKICAgICAgICAgICAgICAuY29weSh2YWx1ZSA9IFNvbWUodmFsdWUpLCBvbkNoYW5nZSA9IG9uQ2hhbmdlKSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0U2VsZWN0ZWRJdGVtID0gcHJvcHMudmFsdWUub3JVbmRlZmluZWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8LmRpdigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnJ1aXQuRHJvcGRvd25TYW1wbGUKICAgICAgICAgICAgICAuY29weSh2YWx1ZSA9IFNvbWUodmFsdWUpLCBvbkNoYW5nZSA9IG9uQ2hhbmdlKSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
