@@ -593,10 +593,11 @@
         <mark key="^" line="62" column="89" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownContent.scala" timestamp="1539246262257">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownContent.scala" timestamp="1539591822720">
+        <mark key="[" line="107" column="56" />
+        <mark key="]" line="107" column="58" />
+        <mark key="." line="107" column="58" />
+        <mark key="^" line="107" column="58" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/apps/gondor/gondorAppClient/webpack/gondorAppClient.common.webpack.config.js" timestamp="1534326177457">
         <mark key="[" line="66" column="0" />
@@ -1763,12 +1764,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539590347315">
-        <mark key="'" line="591" column="18" />
-        <mark key="[" line="515" column="44" />
-        <mark key="]" line="515" column="44" />
-        <mark key="." line="515" column="44" />
-        <mark key="^" line="515" column="38" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539591963968">
+        <mark key="'" line="589" column="18" />
+        <mark key="[" line="488" column="41" />
+        <mark key="]" line="488" column="41" />
+        <mark key="." line="488" column="41" />
+        <mark key="^" line="497" column="9" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/Downshift.scala" timestamp="1538556976257">
         <mark key="[" line="20" column="0" />
@@ -2779,46 +2780,48 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>selected</text>
+        <text>, Style.border.bottom, boxStyles)</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>selected</text>
+        <text>, Style.border.bottom, boxStyles)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZVJpY2goU291cmNlLmFubm90YXRlKHsKICAgICAgICB2YWwgcmVuZGVyVmFsdWUgPSAoY291bnRyeTogQ291bnRyeSkgPT4gewogICAgICAgICAgdmFsIGZsYWcgPSA8LmltZygKICAgICAgICAgICAgU3R5bGUubWFyZ2luLnJpZ2h0OCwKICAgICAgICAgICAgXi5zcmMgOj0gQ291bnRyeS5nZXRGbGFnU3JjKGNvdW50cnkuY29kZSksCiAgICAgICAgICAgIFRhZ01vZCheLndpZHRoIDo9ICIxNnB4IiwgXi5oZWlnaHQgOj0gIjE2cHgiKQogICAgICAgICAgKQogICAgICAgICAgUmVhY3QuRnJhZ21lbnQoZmxhZywgY291bnRyeS5uYW1lKQogICAgICAgIH0gLyo+Ki8KICAgICAgICBDb3VudHJ5LlN0YXRlU2FtcGxlLmNvcHkocmVuZGVyID0gKHZhbHVlLCBvbkNoYW5nZSkgPT4gewogICAgICAgICAgQ291bnRyeS5Ecm9wZG93blNhbXBsZS5jb3B5KAogICAgICAgICAgICB2YWx1ZSA9IFNvbWUodmFsdWUpLAogICAgICAgICAgICBvbkNoYW5nZSA9IG9uQ2hhbmdlLCAvKjwqLwogICAgICAgICAgICByZW5kZXJWYWx1ZSA9IHJlbmRlclZhbHVlIC8qPiovCiAgICAgICAgICApKCkKICAgICAgICB9KSgpIC8qPCovCiAgICAgIH0pKSgpLAo=</text>
+        <text encoding="base64">ICAgICAgcHJvcHMub3V0ZXIuaGVhZGVyLm1hcChyZW5kZXJXaXRoQm94KFN0eWxlLmJvcmRlci5ib3R0b20pKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxUaGlzIGlzIHVzZWZ1bCAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYm94U3R5bGVzID0gU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXkxLmJvcmRlckNvbG9yLmdyYXkzLnBhZGRpbmcudmVyOC5wYWRkaW5nLmhvcjEyCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxGb3IgZXhhbXBsZSwgdGhlIERyb3Bkb3duJ3MgYnV0dG9uIGJlbG93IHdpbGwgc2hvdyB0aGUgY291bnRyeSdzCiAgICAgICAgICB8ZmxhZyB3aGlsZSB0aGUgb3B0aW9uIGxpc3Qgd29uJ3Q6Cg==</text>
+      <register name="2" type="4">
+        <text>Therefore, you are free to define
+          |anything to separate them from the option list as you want.
+          |</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBjb250aW5lbnQgPSAK</text>
+        <text encoding="base64">ICAgICAgcHJvcHMub3V0ZXIuZm9vdGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC5zcGFuKFN0eWxlLmNvbG9yLmdyYXk2LCBzIiAtICR7Y291bnRyeS5jb250aW5lbnR9IikK</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyV2kK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRyeS5uYW1lICsgY291bnRyeS5jb250aW5lbnQK</text>
+        <text encoding="base64">CiAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvdW50cnkubmFtZSArIGNvdW50cnkuY29udGluZW50Cg==</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kKFN0eWxlLmJvcmRlcldpZHRoLnB4MS5ib3JkZXJDb2xvci5ncmF5MywgYm9yZGVyKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxHZW5lcmFsbHkgaXQncyBiZXN0IHRvIAogICAgICAgICAgfAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXkxLnBhZGRpbmcudmVyOC5wYWRkaW5nLmhvcjEyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
