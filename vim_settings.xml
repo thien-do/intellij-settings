@@ -86,6 +86,12 @@
         <mark key="." line="370" column="0" />
         <mark key="^" line="36" column="18" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/negotiation/matching/MatchingArea.scala" timestamp="1539592376773">
+        <mark key="[" line="169" column="35" />
+        <mark key="]" line="169" column="43" />
+        <mark key="." line="169" column="43" />
+        <mark key="^" line="169" column="43" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/chronology/layout/DealChronologyLayoutUtils.scala" timestamp="1534227838873">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="43" />
@@ -473,11 +479,11 @@
         <mark key="." line="656" column="26" />
         <mark key="^" line="656" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/dropdown/DropdownContent.scala" timestamp="1538640961341">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="107" column="40" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/dropdown/DropdownContent.scala" timestamp="1539592919796">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="103" column="64" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxMask.scala" timestamp="1538648222555">
         <mark key="[" line="10" column="43" />
@@ -1855,7 +1861,6 @@
         <mark key="^" line="49" column="1" />
         <mark key="." line="49" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/checklist/DealChecklist.scala" timestamp="1539332846001" />
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilderFieldType.scala" timestamp="1538131795175">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="25" column="0" />
@@ -2442,10 +2447,11 @@
         <mark key="." line="36" column="11" />
         <mark key="^" line="36" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" timestamp="1539335817518">
-        <mark key="[" line="273" column="36" />
-        <mark key="]" line="273" column="36" />
-        <mark key="." line="273" column="36" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/member/InviteMemberModal.scala" timestamp="1539592958127">
+        <mark key="[" line="77" column="27" />
+        <mark key="]" line="77" column="7" />
+        <mark key="." line="77" column="7" />
+        <mark key="^" line="77" column="7" />
       </file>
       <file name="$USER_HOME$/Code/anduin/ui-guide/core/src/main/scala/anduin/guide/page/ExampleSimple.scala" timestamp="1531326779648">
         <mark key="[" line="38" column="13" />
@@ -2779,14 +2785,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, Style.border.bottom, boxStyles)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgcmVuZGVyV2l0aEJveChib3JkZXI6IFN0eWxlKShjb250ZW50OiBWZG9tTm9kZSkgPSB7CiAgICA8LmRpdihib3hTdHlsZXMsIGJvcmRlciwgY29udGVudCkKICB9Cg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>, Style.border.bottom, boxStyles)</text>
+        <text>renderWithBox</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -2795,33 +2801,33 @@
         <text encoding="base64">ICAgICAgcHJvcHMub3V0ZXIuaGVhZGVyLm1hcChyZW5kZXJXaXRoQm94KFN0eWxlLmJvcmRlci5ib3R0b20pKSwK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgcmVuZGVyV2l0aEJveChib3JkZXI6IFN0eWxlKShjb250ZW50OiBWZG9tTm9kZSkgPSB7CiAgICA8LmRpdihib3hTdHlsZXMsIGJvcmRlciwgY29udGVudCkKICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBfID0+IEVtcHR5VmRvbSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwuZGl2KAogICAgICAgICAgICBTdHlsZS5ib3JkZXJDb2xvci5ncmF5My5ib3JkZXIuYm90dG9tLAogICAgICAgICAgICBTdHlsZS5iYWNrZ3JvdW5kQ29sb3IuZ3JheTEucGFkZGluZy52ZXI4LnBhZGRpbmcuaG9yMTIsCiAgICAgICAgICAgIGJ1dHRvbgogICAgICAgICAgKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC5kaXYoCiAgICAgICAgICAgICAgU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXkxLnBhZGRpbmcudmVyOC5wYWRkaW5nLmhvcjEyLAogICAgICAgICAgICAgIFN0eWxlLmJvcmRlci50b3AuYm9yZGVyQ29sb3IuZ3JheTMsCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYm94U3R5bGVzID0gU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXkxLmJvcmRlckNvbG9yLmdyYXkzLnBhZGRpbmcudmVyOC5wYWRkaW5nLmhvcjEyCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>Therefore, you are free to define
           |anything to separate them from the option list as you want.
           |</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJvcHMub3V0ZXIuZm9vdGVyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyV2kK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVGFnTW9kKFN0eWxlLmJvcmRlcldpZHRoLnB4MS5ib3JkZXJDb2xvci5ncmF5MywgYm9yZGVyKSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXkxLnBhZGRpbmcudmVyOC5wYWRkaW5nLmhvcjEyLAo=</text>
+        <text encoding="base64">ICAgICAgcHJvcHMub3V0ZXIuZm9vdGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
