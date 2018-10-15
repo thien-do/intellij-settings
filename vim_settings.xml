@@ -2257,11 +2257,11 @@
         <mark key="." line="7" column="60" />
         <mark key="^" line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/modal/FundSubSetupModal.scala" timestamp="1534414025560">
-        <mark key="[" line="664" column="0" />
-        <mark key="]" line="664" column="51" />
-        <mark key="^" line="664" column="49" />
-        <mark key="." line="665" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/modal/FundSubSetupModal.scala" timestamp="1539569628315">
+        <mark key="[" line="544" column="64" />
+        <mark key="]" line="544" column="64" />
+        <mark key="." line="544" column="64" />
+        <mark key="^" line="544" column="64" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilderField.scala" timestamp="1538132039451">
         <mark key="[" line="71" column="3" />
@@ -2644,7 +2644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/EntityRoutes.scala" />
       <jump line="33" column="15" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/EntityRoutes.scala" />
       <jump line="31" column="18" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/EntityRoutes.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/EntityRoutes.scala" />
@@ -2744,52 +2743,53 @@
       <jump line="477" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/EmailClient.scala" />
       <jump line="160" column="32" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/EmailClient.scala" />
       <jump line="494" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/EmailClient.scala" />
+      <jump line="562" column="46" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/modal/FundSubSetupModal.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5zdGFnZS5NYWluU3RhZ2VUeXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>sortBy(_.workflow.workflowType)</text>
+        <text>Some((form._1, form._2, form._3.copy(exportedSections = sections)))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAicmVhY3QtdmlydHVhbGl6ZWQiIC0+IEFuZHVpblZlcnNpb25zLm5wbS5yZWFjdFZpcnR1YWxpemVkCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBGb3JtRHJvcGRvd24gPSAobmV3IERyb3Bkb3duW0R5bmFtaWNGb3JtSWRdKSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5tb2RlbC5zdGFnZS5NYWluU3RhZ2VUeXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGltcGxpY2l0IHZhbCBvcmQ6IE9yZGVyaW5nW09wdGlvbltNYWluU3RhZ2VUeXBlXV0gPSBuZXcgT3JkZXJpbmdbT3B0aW9uW01haW5TdGFnZVR5cGVdXSB7CiAgICBvdmVycmlkZSBkZWYgY29tcGFyZSh4OiBPcHRpb25bTWFpblN0YWdlVHlwZV0sIHk6IE9wdGlvbltNYWluU3RhZ2VUeXBlXSk6IEludCA9IHsKICAgICAgKHgsIHkpIG1hdGNoIHsKICAgICAgICBjYXNlIChOb25lLCBOb25lKSAgICAgICAgID0+IDAKICAgICAgICBjYXNlIChOb25lLCBTb21lKF8pKSAgICAgID0+IC0xCiAgICAgICAgY2FzZSAoU29tZShfKSwgTm9uZSkgICAgICA9PiAxCiAgICAgICAgY2FzZSAoU29tZShzMSksIFNvbWUoczIpKSA9PiBzMS5pbmRleCAtIHMyLmluZGV4CiAgICAgIH0KICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHNjb3BlCiAgICAgICAgICAgICAgICAgICAgICAgIC5tb2RTdGF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgICBfLmNvcHkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZEZvcm0gPSBTb21lKChmb3JtLl8xLCBmb3JtLl8yLCBmb3JtLl8zLmNvcHkoZXhwb3J0ZWRTZWN0aW9ucyA9IHNlY3Rpb25zKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsb3NlCiAgICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpZCA9IGZvcm0uXzMuY2FwaXRhbElkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHNlbGVjdGVkRm9ybSA9IGZvciB7CiAgICAgICAgZm9ybSA8LSBzdGF0ZS5zZWxlY3RlZEZvcm0KICAgICAgICBmb3JtTmFtZSA8LSBwcm9wcy5hbGxEeW5hbWljRm9ybUlkcy5tYXAoXy5fMSkudG9NYXAuZ2V0KGZvcm0uXzEpCiAgICAgIH0geWllbGQgZm9ybU5hbWUgLT4gZm9ybS5fMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VbU3RyaW5nXSgiIiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcm9wcy5hbGxEeW5hbWljRm9ybUlkcwogICAgICAgICAgICAgICAgLmZpbmQoXy5fMS5fMSA9PSBpZCkKICAgICAgICAgICAgICAgIC5tYXAoXy5fMS5fMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgYjogU3RyaW5nID0gYS5nZXRPckVsc2UoIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
