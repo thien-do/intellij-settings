@@ -294,11 +294,11 @@
         <mark key="." line="66" column="17" />
         <mark key="^" line="66" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/Dropdown.scala" timestamp="1539589606561">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="47" />
-        <mark key="." line="91" column="58" />
-        <mark key="^" line="91" column="58" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/Dropdown.scala" timestamp="1539594173152">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="104" column="9" />
+        <mark key="." line="102" column="34" />
+        <mark key="^" line="102" column="34" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/duediligence/common/room/Nav.scala" timestamp="1536900069540">
         <mark key="[" line="28" column="94" />
@@ -1770,18 +1770,18 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539591963968">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539594342546">
         <mark key="'" line="589" column="18" />
-        <mark key="[" line="488" column="41" />
-        <mark key="]" line="488" column="41" />
-        <mark key="." line="488" column="41" />
-        <mark key="^" line="497" column="9" />
+        <mark key="[" line="108" column="64" />
+        <mark key="]" line="108" column="62" />
+        <mark key="." line="108" column="62" />
+        <mark key="^" line="108" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/Downshift.scala" timestamp="1538556976257">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="40" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/Downshift.scala" timestamp="1539594041752">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/stargazer/module/portal/manageform/DynamicFormPreviewComponent.scala" timestamp="1538122707091">
         <mark key="[" line="42" column="2" />
@@ -2786,48 +2786,46 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgcmVuZGVyV2l0aEJveChib3JkZXI6IFN0eWxlKShjb250ZW50OiBWZG9tTm9kZSkgPSB7CiAgICA8LmRpdihib3hTdHlsZXMsIGJvcmRlciwgY29udGVudCkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC5kaXYoCg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>renderWithBox</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvcHMub3V0ZXIuaGVhZGVyLm1hcChyZW5kZXJXaXRoQm94KFN0eWxlLmJvcmRlci5ib3R0b20pKSwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEl0ZW0gPSBqcy5kZWZpbmVkKHByb3BzLnZhbHVlIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZSh2YWx1ZSkgPT4gdmFsdWUKICAgICAgICAgIGNhc2UgTm9uZSAgICAgICAgPT4gbnVsbAogICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgcmVuZGVyV2l0aEJveChib3JkZXI6IFN0eWxlKShjb250ZW50OiBWZG9tTm9kZSkgPSB7CiAgICA8LmRpdihib3hTdHlsZXMsIGJvcmRlciwgY29udGVudCkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC5kaXYoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfID0+IEVtcHR5VmRvbSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwuZGl2KAogICAgICAgICAgICBTdHlsZS5ib3JkZXJDb2xvci5ncmF5My5ib3JkZXIuYm90dG9tLAogICAgICAgICAgICBTdHlsZS5iYWNrZ3JvdW5kQ29sb3IuZ3JheTEucGFkZGluZy52ZXI4LnBhZGRpbmcuaG9yMTIsCiAgICAgICAgICAgIGJ1dHRvbgogICAgICAgICAgKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICBGcnVpdC5Ecm9wZG93blNhbXBsZQogICAgICAgICAgICAgICAgLmNvcHkodmFsdWUgPSBTb21lKHZhbHVlKSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBkZWZhdWx0U2VsZWN0ZWRJdGVtOiBqcy5VbmRlZk9yW0FdLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0U2VsZWN0ZWRJdGVtID0gcHJvcHMudmFsdWUub3JVbmRlZmluZWQsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC5kaXYoCiAgICAgICAgICAgICAgU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXkxLnBhZGRpbmcudmVyOC5wYWRkaW5nLmhvcjEyLAogICAgICAgICAgICAgIFN0eWxlLmJvcmRlci50b3AuYm9yZGVyQ29sb3IuZ3JheTMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYm94U3R5bGVzID0gU3R5bGUuYmFja2dyb3VuZENvbG9yLmdyYXkxLmJvcmRlckNvbG9yLmdyYXkzLnBhZGRpbmcudmVyOC5wYWRkaW5nLmhvcjEyCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0U2VsZWN0ZWRJdGVtID0gcHJvcHMudmFsdWUub3JVbmRlZmluZWQsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Therefore, you are free to define
-          |anything to separate them from the option list as you want.
-          |</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRnJ1aXQuRHJvcGRvd25TYW1wbGUKICAgICAgICAgICAgICAuY29weSh2YWx1ZSA9IFNvbWUodmFsdWUpLCBvbkNoYW5nZSA9IG9uQ2hhbmdlKSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJvcHMub3V0ZXIuZm9vdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICA8LmRpdigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
