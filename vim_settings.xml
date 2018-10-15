@@ -288,9 +288,9 @@
         <mark key="." line="66" column="17" />
         <mark key="^" line="66" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/Dropdown.scala" timestamp="1539247160457">
-        <mark key="[" line="91" column="68" />
-        <mark key="]" line="91" column="58" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/Dropdown.scala" timestamp="1539589606561">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="47" />
         <mark key="." line="91" column="58" />
         <mark key="^" line="91" column="58" />
       </file>
@@ -594,9 +594,9 @@
         <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownContent.scala" timestamp="1539246262257">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/apps/gondor/gondorAppClient/webpack/gondorAppClient.common.webpack.config.js" timestamp="1534326177457">
         <mark key="[" line="66" column="0" />
@@ -1763,12 +1763,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539248066274">
-        <mark key="'" line="618" column="18" />
-        <mark key="[" line="601" column="17" />
-        <mark key="]" line="601" column="26" />
-        <mark key="^" line="601" column="26" />
-        <mark key="." line="601" column="26" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" timestamp="1539590347315">
+        <mark key="'" line="591" column="18" />
+        <mark key="[" line="515" column="44" />
+        <mark key="]" line="515" column="44" />
+        <mark key="." line="515" column="44" />
+        <mark key="^" line="515" column="38" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/scalajs/downshift/Downshift.scala" timestamp="1538556976257">
         <mark key="[" line="20" column="0" />
@@ -2778,47 +2778,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="&quot;" type="4">
+        <text>selected</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>ScalaJS</text>
+        <text>selected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIjEgJHtwcm9wLl8xfSIpCg==</text>
+        <text encoding="base64">ICAgICAgRXhhbXBsZVJpY2goU291cmNlLmFubm90YXRlKHsKICAgICAgICB2YWwgcmVuZGVyVmFsdWUgPSAoY291bnRyeTogQ291bnRyeSkgPT4gewogICAgICAgICAgdmFsIGZsYWcgPSA8LmltZygKICAgICAgICAgICAgU3R5bGUubWFyZ2luLnJpZ2h0OCwKICAgICAgICAgICAgXi5zcmMgOj0gQ291bnRyeS5nZXRGbGFnU3JjKGNvdW50cnkuY29kZSksCiAgICAgICAgICAgIFRhZ01vZCheLndpZHRoIDo9ICIxNnB4IiwgXi5oZWlnaHQgOj0gIjE2cHgiKQogICAgICAgICAgKQogICAgICAgICAgUmVhY3QuRnJhZ21lbnQoZmxhZywgY291bnRyeS5uYW1lKQogICAgICAgIH0gLyo+Ki8KICAgICAgICBDb3VudHJ5LlN0YXRlU2FtcGxlLmNvcHkocmVuZGVyID0gKHZhbHVlLCBvbkNoYW5nZSkgPT4gewogICAgICAgICAgQ291bnRyeS5Ecm9wZG93blNhbXBsZS5jb3B5KAogICAgICAgICAgICB2YWx1ZSA9IFNvbWUodmFsdWUpLAogICAgICAgICAgICBvbkNoYW5nZSA9IG9uQ2hhbmdlLCAvKjwqLwogICAgICAgICAgICByZW5kZXJWYWx1ZSA9IHJlbmRlclZhbHVlIC8qPiovCiAgICAgICAgICApKCkKICAgICAgICB9KSgpIC8qPCovCiAgICAgIH0pKSgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxUaGlzIGlzIHVzZWZ1bCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxGb3IgZXhhbXBsZSwgdGhlIERyb3Bkb3duJ3MgYnV0dG9uIGJlbG93IHdpbGwgc2hvdyB0aGUgY291bnRyeSdzCiAgICAgICAgICB8ZmxhZyB3aGlsZSB0aGUgb3B0aW9uIGxpc3Qgd29uJ3Q6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnNjYWxhanMuanMuSlNPTgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBjb250aW5lbnQgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnNjYWxhanMuanMuSlNPTgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC5zcGFuKFN0eWxlLmNvbG9yLmdyYXk2LCBzIiAtICR7Y291bnRyeS5jb250aW5lbnR9IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oSlNPTi5zdHJpbmdpZnkobWFza1Byb3BzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRyeS5uYW1lICsgY291bnRyeS5jb250aW5lbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vZ2l0aHViLmNvbS9zY2FsYS1qcy9zY2FsYS1qcy9pc3N1ZXMvMjIyNwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIEludGVsbGlqIG1pZ2h0IHdhcm4gdGhpcyB0eXBpbmcuIEp1c3QgYmVsaWV2ZSBpbiBjb21waWxhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvdW50cnkubmFtZSArIGNvdW50cnkuY29udGluZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWx0ZXJlZCA9IHByb3BzLmZpbHRlcktleXMoXy5jb250YWlucygiIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxHZW5lcmFsbHkgaXQncyBiZXN0IHRvIAogICAgICAgICAgfAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiMSAke3Byb3AuXzF9IDIgJHtwcm9wLl8yLnRvU3RyaW5nfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
