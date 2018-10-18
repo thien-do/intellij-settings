@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,8 +16,8 @@
     <mask>*.sbt</mask>
     <mask>*.proto</mask>
     <mask>*.scala, *.sbt</mask>
-    <mask>*.scss</mask>
     <mask>*.scala, *.scss</mask>
     <mask>*.scala</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
