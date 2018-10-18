@@ -542,10 +542,10 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/dataroom/DataRoomTabRenderer.scala" timestamp="1539903286903">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/dataroom/DataRoomTabRenderer.scala" timestamp="1539905363509">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/snapshot/stages/StageTurns.scala" timestamp="1533026110931">
         <mark key="[" line="4" column="0" />
@@ -1784,6 +1784,12 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/modules/dms/dms/js/src/main/scala/anduin/file/explorer/FileExplorer.scala" timestamp="1539905327441">
+        <mark key="[" line="67" column="10" />
+        <mark key="]" line="67" column="29" />
+        <mark key="^" line="67" column="29" />
+        <mark key="." line="67" column="29" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/contact/ContactPage.scala" timestamp="1534757704595">
         <mark key="[" line="227" column="22" />
         <mark key="]" line="227" column="27" />
@@ -2933,13 +2939,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuUmVhY3QK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>renderEmptyFolder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -2948,31 +2954,31 @@
         <text encoding="base64">Ly8gQ29weXJpZ2h0IChDKSAyMDE0LTIwMTggQW5kdWluIFRyYW5zYWN0aW9ucyBJbmMuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphcGdvbGx5LnNjYWxhanMucmVhY3QuUmVhY3QK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQKLy8gc2NhbGFzdHlsZTpvbiB1bmRlcnNjb3JlLmltcG9ydAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJlYWN0LkZyYWdtZW50KAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQKLy8gc2NhbGFzdHlsZTpvbiB1bmRlcnNjb3JlLmltcG9ydAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIHJlbmRlckVtcHR5Rm9sZGVyOiBWZG9tRWxlbWVudCA9IHt9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHR5cGUgUHJvcHMgPSBGaWxlRXhwbG9yZXJFbXB0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5yZW5kZXJfUChyZW5kZXIpCg==</text>
+        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYgdW5kZXJzY29yZS5pbXBvcnQKLy8gc2NhbGFzdHlsZTpvbiB1bmRlcnNjb3JlLmltcG9ydAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBwcml2YXRlIHZhbCBzdGF0aWMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
