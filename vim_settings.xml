@@ -27,7 +27,7 @@
         <mark key="." line="479" column="17" />
         <mark key="^" line="479" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1540858507947">
+      <file name="/a.dummy" timestamp="1540861096559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -247,6 +247,12 @@
         <mark key="]" line="49" column="8" />
         <mark key="." line="49" column="70" />
         <mark key="^" line="50" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/Checkbox.scala" timestamp="1540860999117">
+        <mark key="[" line="85" column="31" />
+        <mark key="]" line="85" column="36" />
+        <mark key="^" line="85" column="36" />
+        <mark key="." line="85" column="36" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownDimension.scala" timestamp="1539155993338">
         <mark key="[" line="14" column="32" />
@@ -649,10 +655,10 @@
         <mark key="." line="29" column="42" />
         <mark key="^" line="29" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/FileButtonInput.scala" timestamp="1540857204723">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/input/FileButtonInput.scala" timestamp="1540860978203">
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="15" />
+        <mark key="." line="50" column="15" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/common/BoardConsentTrackingLayout.scala" timestamp="1534211860268">
         <mark key="[" line="44" column="43" />
@@ -1067,11 +1073,11 @@
         <mark key="." line="18" column="50" />
         <mark key="^" line="18" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1540858574221">
-        <mark key="[" line="62" column="2" />
-        <mark key="]" line="62" column="2" />
-        <mark key="." line="62" column="2" />
-        <mark key="^" line="100" column="51" />
+      <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1540861037088">
+        <mark key="[" line="114" column="11" />
+        <mark key="]" line="114" column="12" />
+        <mark key="." line="114" column="12" />
+        <mark key="^" line="114" column="12" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/editor/renderer/LinkRenderer.scala" timestamp="1534838282751">
         <mark key="[" line="10" column="55" />
@@ -2042,6 +2048,11 @@
         <mark key="." line="68" column="32" />
         <mark key="^" line="68" column="32" />
       </file>
+      <file name="/a.regexp" timestamp="1540861102277">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/layout/navigation/DealNavigationMatterNo.scala" timestamp="1536899916639">
         <mark key="[" line="113" column="57" />
         <mark key="]" line="113" column="56" />
@@ -2953,13 +2964,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>$USER_HOME$/Code/anduin/stargazer/modules/dms/dms/js/src/main/scala/com/anduin/stargazer/client/component/viewer/MultipleFilePreviewer.scala:335:33</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>$USER_HOME$/Code/anduin/stargazer/modules/dms/dms/js/src/main/scala/com/anduin/stargazer/client/component/viewer/MultipleFilePreviewer.scala:335:33</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -2968,31 +2979,31 @@
         <text encoding="base64">ICBjYXNlIG9iamVjdCBTdHlsZU9yYW5nZSBleHRlbmRzIFN0eWxlRnVsbE5ldyhDb2xvck9yYW5nZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3IgPSBwcm9wcy5jb2xvcgo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBzdHlsZUZ1bGw6IFN0eWxlRnVsbE5ldyAgICAgICAgICAgICAgID0+IChzdHlsZUZ1bGwuY29sb3IsIFN0eWxlRnVsbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb2xvcjogQnV0dG9uU3R5bGUuQ29sb3IgPSBCdXR0b25TdHlsZS5Db2xvcldoaXRlLAo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBfID0+IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3IgPSBwcm9wcy5jb2xvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBCdXR0b25TdHlsZS5Db2xvciwK</text>
+        <text encoding="base64">ICBjb2xvcjogQnV0dG9uU3R5bGUuQ29sb3IgPSBCdXR0b25TdHlsZS5Db2xvcldoaXRlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3IgPSBwcm9wcy5vdXRlclByb3BzLmNvbG9yLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvciwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbG9yOiBCdXR0b25TdHlsZS5Db2xvciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3IgPSBwcm9wcy5vdXRlclByb3BzLmNvbG9yLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text />
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiBCdXR0b25TdHlsZS5Db2xvciwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>jump</text>
