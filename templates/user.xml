@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="foo" value="renderTarget = openModal =&gt; {&#10;  Button(&#10;    style = ButtonStyle.StyleLink,&#10;    onClick = openModal&#10;  )()&#10;}," toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>
