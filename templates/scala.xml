@@ -20,7 +20,7 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
-  <template name="modal" value="Modal(&#10;  renderTarget = openModal =&gt; {&#10;    Button(&#10;      onClick = openModal&#10;    )(&#10;      &#10;    )&#10;  },&#10;  renderContent = closeModal =&gt; {&#10;    &#10;  }&#10;)()" toReformat="true" toShortenFQNames="true">
+  <template name="modal" value="Modal(&#10;  renderTarget = openModal =&gt; {&#10;    Button(&#10;      onClick = openModal&#10;    )(&#10;      &#10;    )&#10;  },&#10;  renderContent = closeModal =&gt; {&#10;    &#10;  }&#10;)()" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="SCALA" value="true" />
     </context>
