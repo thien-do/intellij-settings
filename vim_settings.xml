@@ -331,6 +331,11 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="32" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/SimpleState.scala" timestamp="1548083206106">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/wirefund/common/CompanyBankDetailView.scala" timestamp="1534412149219">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -831,6 +836,11 @@
         <mark key="]" line="125" column="11" />
         <mark key="^" line="125" column="11" />
         <mark key="." line="125" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/DemoState.scala" timestamp="1548083211913">
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PagePopover.scala" timestamp="1536912401377">
         <mark key="[" line="30" column="52" />
@@ -3387,13 +3397,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>SimpleState</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>SimpleState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
