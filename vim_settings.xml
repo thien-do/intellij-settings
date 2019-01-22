@@ -1634,6 +1634,12 @@
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/Pages.scala" timestamp="1548147618358">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/modules/dynamicForm/dynamicForm/js/src/main/scala/com/anduin/stargazer/client/dynamicform/builder/FormBuilderProperty.scala" timestamp="1538132309095">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="34" column="0" />
@@ -2036,6 +2042,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="59" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/layout/LayoutNav.scala" timestamp="1548148551430">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/lp/FundSubFormComponent.scala" timestamp="1540883427106">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -2064,6 +2075,12 @@
         <mark key="]" line="9" column="76" />
         <mark key="." line="9" column="76" />
         <mark key="^" line="9" column="76" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/Main.scala" timestamp="1548148717695">
+        <mark key="[" line="12" column="66" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="66" />
+        <mark key="^" line="12" column="66" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/common/PreviewableFileName.scala" timestamp="1533197899066">
         <mark key="[" line="48" column="0" />
@@ -2617,6 +2634,13 @@
         <mark key="]" line="49" column="8" />
         <mark key="." line="49" column="70" />
         <mark key="^" line="50" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" timestamp="1548148744968">
+        <mark key="'" line="5" column="35" />
+        <mark key="[" line="97" column="127" />
+        <mark key="]" line="97" column="126" />
+        <mark key="." line="97" column="126" />
+        <mark key="^" line="97" column="126" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduinwip/scalajs/downshift/DownshiftState.scala" timestamp="1537160953022">
         <mark key="[" line="23" column="7" />
@@ -3300,13 +3324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/routing/EntitySuggestion.scala" />
-      <jump line="142" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/module/entity/common/EntityInvitation.scala" />
-      <jump line="20" column="25" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/company/BoardConsentCreate.scala" />
-      <jump line="283" column="42" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/chronology/dealdocs/DealDocsChronology.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/common/BoardConsentLayout.scala" />
-      <jump line="51" column="25" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/onboarding/founder/Invitation.scala" />
-      <jump line="62" column="17" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/invitation/UserInvitationUI.scala" />
       <jump line="44" column="22" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/PortalPopper.scala" />
       <jump line="41" column="53" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/portal/Tooltip.scala" />
       <jump line="47" column="17" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/stage/getsignatures/SignatureRequestModal.scala" />
@@ -3400,69 +3417,75 @@
       <jump line="590" column="12" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/modal/FundSubSetupModal.scala" />
       <jump line="91" column="16" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/flowcomponent/debug/FlowDataList.scala" />
       <jump line="27" column="6" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/button/PageButton.scala" />
+      <jump line="61" column="7" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" />
+      <jump line="103" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/Pages.scala" />
+      <jump line="72" column="6" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/Pages.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/Pages.scala" />
+      <jump line="98" column="97" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" />
+      <jump line="5" column="35" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxgQnV0dG9uLlN0eWxlLlRleHRgIGhhcyBhIHRleHQtb25seSBhcHBlYXJhbmNlOgogICAgICAgICAgfG1ha2VzIGEgQnV0dG9uIGxvb2tzIGV4YWN0bHkgbGlrZSBhIGxpbmsK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwiXD4=</text>
+        <text encoding="base64">XDxzY2FsYWpzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHwiIiIuc3RyaXBNYXJnaW4KICAgICAgKSgpLAogICAgICBFeGFtcGxlUmljaChTb3VyY2UuYW5ub3RhdGUoewogICAgICAgIDwuZGl2KAogICAgICAgICAgU3R5bGUuZmxleGJveC5mbGV4LAogICAgICAgICAgQnV0dG9uKAogICAgICAgICAgICBzdHlsZSA9IEJ1dHRvbi5TdHlsZS5GdWxsKGNvbG9yID0gQnV0dG9uLkNvbG9yLkJsdWUpCiAgICAgICAgICApKCJTdWJtaXQiKSwKICAgICAgICAgIDwuZGl2KFN0eWxlLm1hcmdpbi5sZWZ0OCksCiAgICAgICAgICBCdXR0b24oCiAgICAgICAgICAgIHN0eWxlID0gQnV0dG9uLlN0eWxlLkZ1bGwoKQogICAgICAgICAgKSgiQ2FuY2VsIikKICAgICAgICApCiAgICAgIH0pKSgpLAogICAgICBNYXJrZG93bigKICAgICAgICAiIiIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxgQnV0dG9uLlN0eWxlLlRleHRgIGhhcyBhIHRleHQtb25seSBhcHBlYXJhbmNlOgogICAgICAgICAgfG1ha2VzIGEgQnV0dG9uIGxvb2tzIGV4YWN0bHkgbGlrZSBhIGxpbmsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">c2NhbGFqcy5kb20KCm9iamVjdCBNYWluIHsKICBwcml2YXRlIHZhbCBiYXNlVXJsID0gQmFzZVVybC5mcm9tV2luZG93T3JpZ2luIC8gIiIKCiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7CiAgICAvLyBOb3RoaW5nLCBqdXN0IG1lbnRpb24gc28gdGhleSBhcmUgaW5jbHVkZWQgYnkg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICBsaShUaXRsZSgiV29yayB3aXRoIHVzIiwgU29tZShDYXJlZXJzKSkpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwuZGl2KAo=</text>
+        <text encoding="base64">ICBjYXNlIG9iamVjdCBDYXJlZXJzIGV4dGVuZHMgUGFnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3R5bGUubWFyZ2luLnJpZ2h0OAo=</text>
+        <text encoding="base64">ICAgICAgfCBzdGF0aWNSb3V0ZSgiY2FyZWVycyIsIENhcmVlcnMpIH4+IHJlZGlyZWN0VG9QYXRoKCJodHRwczovL2dvb2dsZS5jb20udm4iKShSZWRpcmVjdC5SZXBsYWNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICk8Cg==</text>
+        <text encoding="base64">ICAgICAgfCBkeW5hbWljUm91dGVDVCgiY2FyZWVycyIgfiBoYXNoLmNhc2VDbGFzc1tDYXJlZXJzXSkgfj4gZ2V0UmVuZGVyKCgpID0+IFByb21pc2UucmVzb2x2ZVtSZW5kZXJGbl0oUGFnZVdJUC5yZW5kZXIgXykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgfCBzdGF0aWNSb3V0ZSgiY2FyZWVyIiwgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxgQnV0dG9uLlN0eWxlLlRleHRgIGhhcyBhIHRleHQtb25seSBhcHBlYXJhbmNlOgogICAgICAgICAgfG1ha2VzIGEgQnV0dG9uIGxvb2tzIGV4YWN0bHkgbGlrZSBhIGxpbmsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEJ1dHRvbihzdHlsZSA9IEJ1dHRvbi5TdHlsZS5UZXh0KCkpKCJBY2NlcHQiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDwuZGl2KAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-search encoding="base64">XDxzY2FsYWpzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzY2FsYWpzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Checkbox</entry>
         <entry encoding="base64">XDxkaXZTdHlsZXNcPg==</entry>
         <entry encoding="base64">XDxleHRlbmRzXD4=</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
@@ -3482,6 +3505,7 @@
         <entry encoding="base64">XDxyYWRpeElkXD4=</entry>
         <entry encoding="base64">XDxyZWZcPg==</entry>
         <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDxzY2FsYWpzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>copy</entry>
