@@ -714,11 +714,11 @@
         <mark key="." line="43" column="52" />
         <mark key="^" line="43" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/welcome/PageWelcome.scala" timestamp="1548789522910">
-        <mark key="[" line="52" column="64" />
-        <mark key="]" line="52" column="71" />
-        <mark key="." line="52" column="71" />
-        <mark key="^" line="52" column="71" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/welcome/PageWelcome.scala" timestamp="1548792622782">
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="59" column="34" />
+        <mark key="." line="59" column="34" />
+        <mark key="^" line="59" column="34" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/gondor/summary/layout/header/TransactionNavigationDealMemo.scala" timestamp="1534137861498">
         <mark key="[" line="41" column="29" />
@@ -3346,19 +3346,19 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>elements</text>
+        <text>Table</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>elements</text>
+        <text>Table</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCiAgICAgICAgICB8IyMjIEluZm9ybWF0aW9uCiAgICAgICAgIiIiLnN0cmlwTWFyZ2luCiAgICAgICkoKSwKICAgICAgUGFnZUxpbmsoR29vZCwgY3RsLCBQYWdlcy5JY29uKCksICJJY29uIiwgInN5bWJvbGl6ZXMgYWN0aW9ucyAmIG9iamVjdHMiKSgpLAogICAgICBQYWdlTGluayhHb29kLCBjdGwsIFBhZ2VzLkljb24oKSwgIlByb2dyZXNzIEluZGljYXRvciIsICIiKSgpLAo=</text>
+        <text encoding="base64">ICAgICAgUGFnZUxpbmsoR29vZCwgY3RsLCBQYWdlcy5UYWJsZSgpLCAiVGFibGUiLCAiZ3JvdXBzIHN0cnVjdHVyZWQgY29udGVudHMiKSgpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHwK</text>
