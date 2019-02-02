@@ -1483,11 +1483,11 @@
         <mark key="." line="78" column="54" />
         <mark key="^" line="78" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/PageHome.scala" timestamp="1549121725720">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="14" column="28" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/PageHome.scala" timestamp="1549123862339">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/base/_base.scss" timestamp="1534912949556">
         <mark key="[" line="64" column="50" />
@@ -3050,10 +3050,10 @@
         <mark key="^" line="165" column="116" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/layout/Layout.scala" timestamp="1549102959397">
-        <mark key="[" line="52" column="27" />
-        <mark key="]" line="52" column="27" />
-        <mark key="." line="52" column="27" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/layout/Layout.scala" timestamp="1549124326281">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
         <mark key="^" line="52" column="27" />
       </file>
       <file name="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/rohan/layout/EntityLayout.scala" timestamp="1534067095503">
@@ -3417,46 +3417,46 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUGFnZUhvbWVMaXN0KGN0bCkoKQo=</text>
+        <text encoding="base64">ICAgICAgXi5jbGFzc05hbWUgOj0gImFkLWZmLXNhbnMiLAo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;calc(1/4 / 1/3)&quot;,</text>
+        <text>Design</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRhZ01vZChTdHlsZS5mbGV4Ym94Lm5vbmUsIF4ud2lkdGggOj0gIjM3LjUlIiksIC8vIDEvNCAvIDIvMwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwuc3BhbigiRGVzaWduIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUGFnZUhvbWVMaXN0KGN0bCkoKQo=</text>
+        <text encoding="base64">ICAgICAgXi5jbGFzc05hbWUgOj0gImFkLWZmLXNhbnMiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQQWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXi5tYXhXaWR0aCA6PSAiMTYwMHB4IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF4ud2lkdGggOj0gIjI1dnciLAo=</text>
+        <text encoding="base64">ICAgICAgICA8LnNwYW4oIkRlc2lnbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgUGFnZUhvbWVMaXN0KGN0bCkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3R5bGUuY29sb3IuLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEhlYWRpbmcodGV4dCwgMikoKQo=</text>
+        <text encoding="base64">ICAgICAgXi5tYXhXaWR0aCA6PSAiMTYwMHB4IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEhlYWRpbmcodGV4dCwgMSkoKQo=</text>
+        <text encoding="base64">ICAgIF4ud2lkdGggOj0gIjI1dnciLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHVpbi5ndWlkZS5jb21wb25lbnRzLkhlYWRpbmcK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
