@@ -9,12 +9,12 @@
         <mark key="^" line="62" column="9" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/CheckboxInput.scala" timestamp="1549308761072">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="28" column="36" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/CheckboxInput.scala" timestamp="1549310332738">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="66" column="40" />
+        <mark key="]" line="66" column="44" />
+        <mark key="." line="66" column="44" />
+        <mark key="^" line="66" column="44" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Toc.scala" timestamp="1549134670877">
         <mark key="[" line="69" column="28" />
@@ -22,11 +22,12 @@
         <mark key="." line="69" column="37" />
         <mark key="^" line="69" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549308957685">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549310338761">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1549134447049">
         <mark key="[" line="48" column="22" />
@@ -392,14 +393,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>opy</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -408,31 +409,31 @@
         <text encoding="base64">LmZjLXM6Zm9jdXMgeyBib3gtc2hhZG93OiAwIDAgMCAycHggdmFyKC0tY29sb3ItYmx1ZS0xKTsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxWYWx1ZSA9IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kKAogICAgICAgIFN0eWxlLmJhY2tncm91bmQuZ3JheTEuYmFja2dyb3VuZC5ob3ZlcldoaXRlLmJhY2tncm91bmQuYWN0aXZlR3JheTIsCiAgICAgICAgU3R5bGUuYm9yZGVyQ29sb3IuZ3JheTQuc2hhZG93LmJsdXIxTGlnaHQKICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVGFnTW9kKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kKAogICAgICAgIFN0eWxlLmJhY2tncm91bmQuYmx1ZTQuYmFja2dyb3VuZC5ob3ZlckJsdWUzLmJhY2tncm91bmQuYWN0aXZlQmx1ZTUsCiAgICAgICAgU3R5bGUuYm9yZGVyQ29sb3IuYmx1ZTUuc2hhZG93LmJsdXIxRGFyawogICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVGFnTW9kKAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5iYWNrZ3JvdW5kLmdyYXkxLmJhY2tncm91bmQuaG92ZXJXaGl0ZS5iYWNrZ3JvdW5kLmFjdGl2ZUdyYXkyLAo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHlsZS5iYWNrZ3JvdW5kLndoaXRlLmJhY2tncm91bmQuYWN0aXZlR3JheTIsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJvcHMuaXNEaXNhYmxlZCkgU3R5bGUuYm9yZGVyQ29sb3IuZ3JheTMgZWxzZSBTdHlsZS5ib3JkZXJDb2xvci5ncmF5NC5zaGFkb3cuYmx1cjFMaWdodAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
