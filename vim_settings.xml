@@ -9,12 +9,12 @@
         <mark key="^" line="62" column="9" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/CheckboxInput.scala" timestamp="1549299200796">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="38" column="82" />
-        <mark key="]" line="38" column="82" />
-        <mark key="." line="38" column="82" />
-        <mark key="^" line="38" column="32" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/CheckboxInput.scala" timestamp="1549308073031">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="27" column="75" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="32" />
+        <mark key="^" line="28" column="32" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Toc.scala" timestamp="1549134670877">
         <mark key="[" line="69" column="28" />
@@ -22,12 +22,12 @@
         <mark key="." line="69" column="37" />
         <mark key="^" line="69" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549303905904">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549308082861">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="15" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1549134447049">
         <mark key="[" line="48" column="22" />
@@ -230,11 +230,11 @@
         <mark key="." line="124" column="58" />
         <mark key="^" line="124" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tachyons/_focus.scss" timestamp="1549298954523">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="32" />
-        <mark key="^" line="10" column="32" />
-        <mark key="." line="10" column="32" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tachyons/_focus.scss" timestamp="1549308127996">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/PageHome.scala" timestamp="1549128613927">
         <mark key="[" line="21" column="31" />
@@ -394,13 +394,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text encoding="base64">Zm9jdXMg</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">Zm9jdXMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -409,31 +409,31 @@
         <text encoding="base64">LmZjLXM6Zm9jdXMgeyBib3gtc2hhZG93OiAwIDAgMCAycHggdmFyKC0tY29sb3ItYmx1ZS0xKTsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFcK</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kKAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgVGFnTW9kKAo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgVGFnTW9kKAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBTdHlsZS5iYWNrZ3JvdW5kLmdyYXkxLmJhY2tncm91bmQuaG92ZXJXaGl0ZS5iYWNrZ3JvdW5kLmFjdGl2ZUdyYXkyLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTdHlsZS5iYWNrZ3JvdW5kLndoaXRlLmJhY2tncm91bmQuYWN0aXZlR3JheTIsCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIFcK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0eWwK</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmpzLWZvY3VzLXZpc2libGUgLmZjLW9kOm5vdCguZm9jdXMtdmlzaWJsZSk6Zm9jdXMgeyBvdXRsaW5lLWNvbG9yOiB0cmFuc3BhcmVudDsgfQo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
