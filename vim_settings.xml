@@ -9,23 +9,12 @@
         <mark key="^" line="62" column="9" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/style/PageColor.scala" timestamp="1549230638334">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="83" column="42" />
-        <mark key="]" line="83" column="42" />
-        <mark key="^" line="83" column="42" />
-        <mark key="." line="83" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tachyons/variables/_color.scss" timestamp="1549228202970">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="30" column="30" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/icon/PageIcon.scala" timestamp="1548798773520">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="7" column="43" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/CheckboxInput.scala" timestamp="1549299200796">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="38" column="82" />
+        <mark key="]" line="38" column="82" />
+        <mark key="." line="38" column="82" />
+        <mark key="^" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Toc.scala" timestamp="1549134670877">
         <mark key="[" line="69" column="28" />
@@ -33,23 +22,12 @@
         <mark key="." line="69" column="37" />
         <mark key="^" line="69" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/CodeBlock.scala" timestamp="1549138290443">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
-        <mark key="^" line="31" column="73" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/SidePanel.scala" timestamp="1549104864060">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="24" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549287934714">
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="17" />
-        <mark key="^" line="41" column="26" />
-        <mark key="." line="41" column="17" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549299215451">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1549134447049">
         <mark key="[" line="48" column="22" />
@@ -75,24 +53,18 @@
         <mark key="." line="81" column="29" />
         <mark key="^" line="81" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/button/ButtonType.scala" timestamp="1549052579976">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="74" />
-        <mark key="^" line="26" column="13" />
-        <mark key="." line="26" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/button/Button.scala" timestamp="1549274609863">
-        <mark key="[" line="123" column="54" />
-        <mark key="]" line="124" column="58" />
-        <mark key="." line="124" column="58" />
-        <mark key="^" line="124" column="58" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/Pages.scala" timestamp="1549267929163">
         <mark key="'" line="15" column="29" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="14" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/button/PageButton.scala" timestamp="1549291383350">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/button/BoxExampleEmail.scala" timestamp="1549224877985">
         <mark key="[" line="62" column="0" />
@@ -124,23 +96,11 @@
         <mark key="." line="31" column="70" />
         <mark key="^" line="31" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/PageHome.scala" timestamp="1549128613927">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/menu/MenuDivider.scala" timestamp="1549134817064">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1549273905908">
-        <mark key="[" line="298" column="20" />
-        <mark key="]" line="298" column="19" />
-        <mark key="." line="298" column="19" />
-        <mark key="^" line="298" column="19" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1549298623888">
+        <mark key="[" line="104" column="49" />
+        <mark key="]" line="104" column="51" />
+        <mark key="." line="104" column="51" />
+        <mark key="^" line="104" column="51" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Markdown.scala" timestamp="1549223707193">
         <mark key="[" line="96" column="56" />
@@ -162,6 +122,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/icon/PageIconGlyphName.scala" timestamp="1549297028118">
+        <mark key="[" line="109" column="37" />
+        <mark key="]" line="109" column="47" />
+        <mark key="^" line="109" column="47" />
+        <mark key="." line="109" column="47" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/PageWrapper.scala" timestamp="1549102928364">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -180,26 +146,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/style/Color.scala" timestamp="1549197127604" />
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/playground/PagePlayground.scala" timestamp="1548878165751">
-        <mark key="'" line="190" column="2" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="32" />
-        <mark key="." line="187" column="43" />
-        <mark key="^" line="187" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/menu/VerticalDivider.scala" timestamp="1549134831016">
-        <mark key="[" line="17" column="76" />
-        <mark key="]" line="17" column="76" />
-        <mark key="." line="17" column="76" />
-        <mark key="^" line="17" column="8" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tachyons/_border-colors.scss" timestamp="1549135300491" />
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/Checkbox.scala" timestamp="1549287543213">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/icon/IconGlyph.scala" timestamp="1549297002929">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
+        <mark key="^" line="172" column="6" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" timestamp="1549267932416">
         <mark key="'" line="43" column="0" />
@@ -207,18 +158,6 @@
         <mark key="]" line="52" column="0" />
         <mark key="^" line="51" column="29" />
         <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/QuoteBlock.scala" timestamp="1549134081913">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Example.scala" timestamp="1549138569700">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="21" column="28" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/ExampleSimple.scala" timestamp="1549138827805">
         <mark key="[" line="30" column="0" />
@@ -244,6 +183,102 @@
         <mark key="^" line="69" column="51" />
         <mark key="." line="68" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/button/PageButtonBox.scala" timestamp="1549275140222">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/style/PageColor.scala" timestamp="1549230638334">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="83" column="42" />
+        <mark key="^" line="83" column="42" />
+        <mark key="." line="83" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tachyons/variables/_color.scss" timestamp="1549228202970">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="30" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/icon/PageIcon.scala" timestamp="1549291388691">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="26" />
+        <mark key="^" line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/CodeBlock.scala" timestamp="1549138290443">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="73" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/SidePanel.scala" timestamp="1549104864060">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="24" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/button/ButtonType.scala" timestamp="1549052579976">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="74" />
+        <mark key="^" line="26" column="13" />
+        <mark key="." line="26" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/button/Button.scala" timestamp="1549274609863">
+        <mark key="[" line="123" column="54" />
+        <mark key="]" line="124" column="58" />
+        <mark key="." line="124" column="58" />
+        <mark key="^" line="124" column="58" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tachyons/_focus.scss" timestamp="1549298954523">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/PageHome.scala" timestamp="1549128613927">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/menu/MenuDivider.scala" timestamp="1549134817064">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/playground/PagePlayground.scala" timestamp="1548878165751">
+        <mark key="'" line="190" column="2" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="32" />
+        <mark key="." line="187" column="43" />
+        <mark key="^" line="187" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/menu/VerticalDivider.scala" timestamp="1549134831016">
+        <mark key="[" line="17" column="76" />
+        <mark key="]" line="17" column="76" />
+        <mark key="." line="17" column="76" />
+        <mark key="^" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/Checkbox.scala" timestamp="1549296769194">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="10" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/QuoteBlock.scala" timestamp="1549134081913">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Example.scala" timestamp="1549138569700">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="21" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/welcome/PageLink.scala" timestamp="1548788746426">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
@@ -251,23 +286,8 @@
         <mark key="^" line="39" column="51" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/button/PageButtonBox.scala" timestamp="1549275140222">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="618" column="18" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/page/PageDropdown.scala" />
-      <jump line="218" column="25" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/template/TemplateForm.scala" />
-      <jump line="285" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/template/TemplateForm.scala" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/template/TemplateForm.scala" />
-      <jump line="254" column="32" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/company/BoardConsentForm.scala" />
-      <jump line="208" column="16" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/company/BoardConsentForm.scala" />
-      <jump line="206" column="16" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/company/BoardConsentForm.scala" />
-      <jump line="244" column="35" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/boardconsent/company/BoardConsentForm.scala" />
-      <jump line="477" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/EmailClient.scala" />
-      <jump line="160" column="32" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/EmailClient.scala" />
       <jump line="494" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/EmailClient.scala" />
       <jump line="562" column="46" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/modal/FundSubSetupModal.scala" />
       <jump line="96" column="4" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/dropdown/DropdownContent.scala" />
@@ -358,52 +378,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/style/PageColor.scala" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/style/PageColorGray.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/style/PageColorGray.scala" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/Checkbox.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/Checkbox.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/Checkbox.scala" />
+      <jump line="51" column="4" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/Checkbox.scala" />
+      <jump line="66" column="74" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/CheckboxInput.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/CheckboxInput.scala" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/CheckboxInput.scala" />
+      <jump line="99" column="14" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" />
+      <jump line="18" column="17" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>x</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCiAgICAgICAgICB8CiAgICAgICAgIiIiLnN0cmlwTWFyZ2luCiAgICAgICkoKSwK</text>
+        <text encoding="base64">LmZjLXM6Zm9jdXMgeyBib3gtc2hhZG93OiAwIDAgMCAycHggdmFyKC0tY29sb3ItYmx1ZS0xKTsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgIC8vIFcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICkK</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kKAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4KICAgICAgKSgpCg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCiAgICAgICAgICB8VGhlIGxpdmUgZXhhbXBsZSBhYm92ZSBpcyBub3QgZnVsbHkgaW50ZXJhY3QtYWJsZSBkdWUgdG8gdGhpcwogICAgICAgICAgfGd1aWRlJ3MgbGltaXRhdGlvbiAoZ3VpZGUgaXMgc3RhdGVsZXNzKS4gSW4gcHJhY3RpY2UsIHlvdSB3aWxsCiAgICAgICAgICB8dXN1YWxseSB1c2UgaXQgd2l0aCB5b3VyIHN0YXRlOgogICAgICAgICAgfAogICAgICAgICAgfGBgYHNjYWxhCiAgICAgICAgICB8Y2FzZSBjbGFzcyBTdGF0ZShpc0ZvbzogQm9vbGVhbikKICAgICAgICAgIHwKICAgICAgICAgIHxkZWYgc2V0SXNGb28oaXNDaGVja2VkOiBCb29sZWFuKSA9IHsKICAgICAgICAgIHwgIHNjb3BlLnNldFN0YXRlKGlzRm9vID0gaXNDaGVja2VkKQogICAgICAgICAgfH0KICAgICAgICAgIHwKICAgICAgICAgIHxkZWYgcmVuZGVyKCkgPSB7CiAgICAgICAgICB8ICBDaGVja2JveCgKICAgICAgICAgIHwgICAgdmFsdWUgPSBzdGF0ZS5pc0ZvbywKICAgICAgICAgIHwgICAgb25DaGFuZ2UgPSBzZXRJc0ZvbwogICAgICAgICAgfCAgKSgiRm9vIikKICAgICAgICAgIHx9CiAgICAgICAgICB8YGBgCiAgICAgICAgICB8CiAgICAgICAgICB8IyBpc0NoZWNrZWQKICAgICAgICAgIHwKICAgICAgICAgIHwjIG9uQ2hhbmdlCiAgICAgICAgICB8CiAgICAgICAgICB8IyBPdGhlcnMKICAgICAgICAgIHwKICAgICAgICAgIHxFeGFtcGxlOgogICAgICAgICIiIi5zdHJpcE1hcmdpbgogICAgICApKCksCiAgICAgIEV4YW1wbGVSaWNoKFNvdXJjZS5hbm5vdGF0ZSh7CiAgICAgICAgPC5kaXYoCiAgICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgsCiAgICAgICAgICBDaGVja2JveChpc0NoZWNrZWQgPSB0cnVlLCBpc0Rpc2FibGVkID0gdHJ1ZSkoIkZvbyIpLAogICAgICAgICAgQ2hlY2tib3goaXNDaGVja2VkID0gZmFsc2UsIGlzRGlzYWJsZWQgPSB0cnVlKSgiRm9vIikKICAgICAgICApCiAgICAgIH0pKSgpLAo=</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kKAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aXNDaGVja2VkID0+IHsKICAgICAgICAgICAgICAgIHZhbCBtc2cgPSBzIkNoZWNrYm94IHNob3VsZCBiZSBjaGFuZ2VkIHRvICR7aXNDaGVja2VkLnRvU3RyaW5nfSIKICAgICAgICAgICAgICAgIENhbGxiYWNrLmFsZXJ0KG1zZykKICAgICAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHlsZS5iYWNrZ3JvdW5kLmdyYXkxLmJhY2tncm91bmQuaG92ZXJXaGl0ZS5iYWNrZ3JvdW5kLmFjdGl2ZUdyYXkyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8LmRpdihjaGVja2JveCkK</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS5iYWNrZ3JvdW5kLndoaXRlLmJhY2tncm91bmQuYWN0aXZlR3JheTIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0eWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDaGVja2JveCgKICAgICAgICAgIGlzQ2hlY2tlZCA9IHRydWUsCiAgICAgICAgICBvbkNoYW5nZSA9IGlzQ2hlY2tlZCA9PiB7CiAgICAgICAgICAgIHZhbCBtc2cgPSBzIkNoZWNrYm94IHNob3VsZCBiZSBjaGFuZ2VkIHRvICR7aXNDaGVja2VkLnRvU3RyaW5nfSIKICAgICAgICAgICAgQ2FsbGJhY2suYWxlcnQobXNnKQogICAgICAgICAgfQogICAgICAgICkoIkhlbGxvIFdvcmxkIikK</text>
+        <text encoding="base64">LmpzLWZvY3VzLXZpc2libGUgLmZjLW9kOm5vdCguZm9jdXMtdmlzaWJsZSk6Zm9jdXMgeyBvdXRsaW5lLWNvbG9yOiB0cmFuc3BhcmVudDsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -452,8 +482,8 @@
         <entry>jump</entry>
         <entry>wk</entry>
         <entry>ư</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
