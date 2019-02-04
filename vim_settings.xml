@@ -45,6 +45,12 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549287934714">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="17" />
+        <mark key="^" line="41" column="26" />
+        <mark key="." line="41" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1549134447049">
         <mark key="[" line="48" column="22" />
         <mark key="]" line="48" column="23" />
@@ -189,6 +195,12 @@
         <mark key="^" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tachyons/_border-colors.scss" timestamp="1549135300491" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/Checkbox.scala" timestamp="1549287543213">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" timestamp="1549267932416">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="52" column="0" />
@@ -351,47 +363,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGkoVGl0bGUoIlRvZ2dsZSIsIEludGVybmFsKFRvZ2dsZSgpKSkpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhlcmUgaXMg</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGRlZiBpY29uSW5mbzogT3B0aW9uW0ljb25dID0gQm94LmdldEljb25JbmZvKHRoaXMpCiAgICBmaW5hbCBkZWYgaWNvbkNvbG9yTm9ybWFsOiBUYWdNb2QgPSBCb3hOb0JnLmdldEljb25Db2xvck5vcm1hbCh0aGlzKQogICAgZmluYWwgZGVmIGljb25Db2xvckRpc2FibGVkOiBUYWdNb2QgPSBCb3guaWNvbkNvbG9yRGlzYWJsZWQK</text>
+        <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCiAgICAgICAgICB8CiAgICAgICAgIiIiLnN0cmlwTWFyZ2luCiAgICAgICkoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGkoVGl0bGUoIlRvZ2dsZSIsIEludGVybmFsKFRvZ2dsZSgpKSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4KICAgICAgKSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvcHMuaXNEaXNhYmxlZCkgcHJvcHMuc3R5bGUuaWNvbkNvbG9yRGlzYWJsZWQgZWxzZSBwcm9wcy5zdHlsZS5pY29uQ29sb3JOb3JtYWwsCg==</text>
+        <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCiAgICAgICAgICB8VGhlIGxpdmUgZXhhbXBsZSBhYm92ZSBpcyBub3QgZnVsbHkgaW50ZXJhY3QtYWJsZSBkdWUgdG8gdGhpcwogICAgICAgICAgfGd1aWRlJ3MgbGltaXRhdGlvbiAoZ3VpZGUgaXMgc3RhdGVsZXNzKS4gSW4gcHJhY3RpY2UsIHlvdSB3aWxsCiAgICAgICAgICB8dXN1YWxseSB1c2UgaXQgd2l0aCB5b3VyIHN0YXRlOgogICAgICAgICAgfAogICAgICAgICAgfGBgYHNjYWxhCiAgICAgICAgICB8Y2FzZSBjbGFzcyBTdGF0ZShpc0ZvbzogQm9vbGVhbikKICAgICAgICAgIHwKICAgICAgICAgIHxkZWYgc2V0SXNGb28oaXNDaGVja2VkOiBCb29sZWFuKSA9IHsKICAgICAgICAgIHwgIHNjb3BlLnNldFN0YXRlKGlzRm9vID0gaXNDaGVja2VkKQogICAgICAgICAgfH0KICAgICAgICAgIHwKICAgICAgICAgIHxkZWYgcmVuZGVyKCkgPSB7CiAgICAgICAgICB8ICBDaGVja2JveCgKICAgICAgICAgIHwgICAgdmFsdWUgPSBzdGF0ZS5pc0ZvbywKICAgICAgICAgIHwgICAgb25DaGFuZ2UgPSBzZXRJc0ZvbwogICAgICAgICAgfCAgKSgiRm9vIikKICAgICAgICAgIHx9CiAgICAgICAgICB8YGBgCiAgICAgICAgICB8CiAgICAgICAgICB8IyBpc0NoZWNrZWQKICAgICAgICAgIHwKICAgICAgICAgIHwjIG9uQ2hhbmdlCiAgICAgICAgICB8CiAgICAgICAgICB8IyBPdGhlcnMKICAgICAgICAgIHwKICAgICAgICAgIHxFeGFtcGxlOgogICAgICAgICIiIi5zdHJpcE1hcmdpbgogICAgICApKCksCiAgICAgIEV4YW1wbGVSaWNoKFNvdXJjZS5hbm5vdGF0ZSh7CiAgICAgICAgPC5kaXYoCiAgICAgICAgICBTdHlsZS5mbGV4Ym94LmZsZXgsCiAgICAgICAgICBDaGVja2JveChpc0NoZWNrZWQgPSB0cnVlLCBpc0Rpc2FibGVkID0gdHJ1ZSkoIkZvbyIpLAogICAgICAgICAgQ2hlY2tib3goaXNDaGVja2VkID0gZmFsc2UsIGlzRGlzYWJsZWQgPSB0cnVlKSgiRm9vIikKICAgICAgICApCiAgICAgIH0pKSgpLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2hpbGRyZW4ubm9uRW1wdHkpIHt9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">aXNDaGVja2VkID0+IHsKICAgICAgICAgICAgICAgIHZhbCBtc2cgPSBzIkNoZWNrYm94IHNob3VsZCBiZSBjaGFuZ2VkIHRvICR7aXNDaGVja2VkLnRvU3RyaW5nfSIKICAgICAgICAgICAgICAgIENhbGxiYWNrLmFsZXJ0KG1zZykKICAgICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2hpbGRyZW4ubm9uRW1wdHkpIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8LmRpdihjaGVja2JveCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICBDaGVja2JveCgKICAgICAgICAgIGlzQ2hlY2tlZCA9IHRydWUsCiAgICAgICAgICBvbkNoYW5nZSA9IGlzQ2hlY2tlZCA9PiB7CiAgICAgICAgICAgIHZhbCBtc2cgPSBzIkNoZWNrYm94IHNob3VsZCBiZSBjaGFuZ2VkIHRvICR7aXNDaGVja2VkLnRvU3RyaW5nfSIKICAgICAgICAgICAgQ2FsbGJhY2suYWxlcnQobXNnKQogICAgICAgICAgfQogICAgICAgICkoIkhlbGxvIFdvcmxkIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -439,9 +451,9 @@
         <entry>g60</entry>
         <entry>jump</entry>
         <entry>wk</entry>
-        <entry>W</entry>
         <entry>ư</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
