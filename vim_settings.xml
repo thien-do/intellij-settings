@@ -22,12 +22,12 @@
         <mark key="." line="62" column="39" />
         <mark key="^" line="62" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549387033941">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549389426500">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="102" column="61" />
-        <mark key="]" line="102" column="73" />
-        <mark key="." line="102" column="73" />
-        <mark key="^" line="102" column="73" />
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="19" />
+        <mark key="." line="103" column="19" />
+        <mark key="^" line="103" column="19" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1549134447049">
         <mark key="[" line="48" column="22" />
@@ -144,9 +144,9 @@
         <mark key="." line="173" column="0" />
         <mark key="^" line="172" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/ChecklistExample.scala" timestamp="1549319874726">
-        <mark key="[" line="39" column="46" />
-        <mark key="]" line="39" column="52" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/ChecklistExample.scala" timestamp="1549388365099">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="54" column="9" />
         <mark key="." line="39" column="52" />
         <mark key="^" line="39" column="52" />
       </file>
@@ -393,49 +393,47 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>informative</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>informative</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCiAgICAgICAgICB8QSBjaGVja2JveCBhbGxvd3MgdXNlcnMgdG8gbWFyayBhbiBvcHRpb24gYXMgc2VsZWN0ZWQgKGNoZWNrZWQpIG9yCiAgICAgICAgICB8bm90ICh1bmNoZWNrZWQpOgogICAgICAgICIiIi5zdHJpcE1hcmdpbgogICAgICApKCksCg==</text>
+        <text encoding="base64">ICAgICAgICBvbkNoYW5nZSA9IGlzQ2hlY2tlZCA9PiB7CiAgICAgICAgICBzY29wZS5tb2RTdGF0ZSB7IHN0YXRlID0+CiAgICAgICAgICAgIHN0YXRlLmNvcHkoaXRlbXMgPSBzdGF0ZS5pdGVtcy5tYXAoXy5jb3B5KF8yID0gaXNDaGVja2VkKSkpCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGRpc3BsYXkgCiAgICAgICAgICB8aW5mb3JtYXRpb24gb3IKICAgICAgICAgIHxzdGF0dXMgZHVlIHRvIHRoZWlyIHN1YnRsZSBhcHBlYXJhbmNlLg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxBIGNoZWNrYm94IGNhbiBiZSBkaXNhYmxlZCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxzZWxlY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgIHx0aGUgYGlzQ2hlY2tlZGAgcHJvcCBjb250cm9scwogICAgICAgICAgfHdoZXRoZXIgaXQgaXMgY2hlY2tlZCBvciBub3QsIHdoaWxlIHRoZSBgb25DaGFuZ2VgIHByb3Agd2lsbCBiZQogICAgICAgICAgfGNhbGxlZCBpbiByZXNwb25zZSB0byB1c2VycycgaW50ZXJhY3Rpb25zIChjaGVjay91bmNoZWNrKS4KICAgICAgICAgIHwK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">RGlzYWJsZWQgY2hlY2tib3hlcyBjYW4gc3RpbGwgcmVmbGVjdCB3aGV0aGVyIHRoZXkgYXJlIGNoZWNrZWQgb3IKICAgICAgICAgIHxub3QuIA==</text>
+        <text encoding="base64">IAogICAgICAgICAgfEEgbGlzdCBvZiBjaGVja2JveGVzLCBvciBldmVuIG5lc3RlZCBsaXN0cyw=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxBbHRob3VnaCBkaXNhYmxlZCBjaGVja2JveGVzIGNhbiBzdGlsbCBiZSBjaGVja2VkIG8K</text>
+        <text encoding="base64">ICAgICAgICAgIHx0byBhbGxvdyBzZWxlY3Rpbmcgc2V2ZXJhbCByZWxhdGVkIG9wdGlvbnM6Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>with a
-          |checkbox. A disabled checkbox can still be checked or unc</text>
+        <text encoding="base64">YXMgYSBsaXN0LAogICAgICAgICAgfCBvciBldmVuIG5lc3RlZCBsaXN0cywg</text>
       </register>
-      <register name="6" type="4">
-        <text>.
-          |A checkbox can be disabled via the `isDisabled` prop.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwgICAgICAgIGlzQ2hlY2tlZCA9IHN0YXRlLml0ZW1zLmZvcmFsbChfLl8yKSwKICAgICAgICAgIHwgICAgICAgIGlzSW5kZXRlcm1pbmF0ZSA9IHN0YXRlLml0ZW1zLmV4aXN0cyhpdGVtID0+IHsKICAgICAgICAgIHwgICAgICAgICAgc3RhdGUuaXRlbXMuZXhpc3RzKF8uXzIgIT0gaXRlbS5fMikKICAgICAgICAgIHwgICAgICAgIH0pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxBIGRyb3AK</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9IVE1ML0VsZW1lbnQvaW5wdXQvY2hlY2tib3gjSW5kZXRlcm1pbmF0ZV9zdGF0ZV9jaGVja2JveGVzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHx3aXRoIHVzZXJzJyBhY3Rpb24gKGNoZWNrIG9yIHVuY2hlY2spCg==</text>
+      <register name="8" type="4">
+        <text>only be used for visual 
+          |and helper</text>
       </register>
-      <register name="9" type="4">
-        <text>callback helps
-          |its consumer acts in response to user's interaction</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIHxOb3RlIHRoYXQgdGhlIGluZGV0ZXJtaW5hdGUgYXBwZWFyYW5jZSB0YWtlcyBwcmVjZWRlbmNlIG92ZXIgYm90aAogICAgICAgICAgfGNoZWNrZWQgYW5kIHVuY2hlY2tlZC4gV2hlbiBzZXQsIHRoZSBjaGVja2JveCB3aWxsIGFsd2F5cyBiZQogICAgICAgICAgfGRpc3BsYXllZCBhcyBpbmRldGVybWluYXRlLCBubyBtYXR0ZXIgaXQgaXMgY2hlY2tlZCBvciBub3QuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
