@@ -22,12 +22,12 @@
         <mark key="." line="62" column="39" />
         <mark key="^" line="62" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549389426500">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="103" column="19" />
-        <mark key="]" line="103" column="19" />
-        <mark key="." line="103" column="19" />
-        <mark key="^" line="103" column="19" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549396820995">
+        <mark key="'" line="176" column="25" />
+        <mark key="[" line="154" column="19" />
+        <mark key="]" line="154" column="44" />
+        <mark key="." line="154" column="44" />
+        <mark key="^" line="154" column="44" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1549134447049">
         <mark key="[" line="48" column="22" />
@@ -144,7 +144,7 @@
         <mark key="." line="173" column="0" />
         <mark key="^" line="172" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/ChecklistExample.scala" timestamp="1549388365099">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/ChecklistExample.scala" timestamp="1549396314231">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="54" column="9" />
         <mark key="." line="39" column="52" />
@@ -287,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="14" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/com/anduin/stargazer/client/modules/inbox/EmailClient.scala" />
       <jump line="562" column="46" filename="$USER_HOME$/Code/anduin/stargazer/gondor/js/src/main/scala/anduin/fundsub/module/common/modal/FundSubSetupModal.scala" />
       <jump line="96" column="4" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/dropdown/DropdownContent.scala" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/anduin/stargazer/platform/stargazerJs/src/main/scala/anduin/component/dropdown/DropdownContent.scala" />
@@ -387,19 +386,20 @@
       <jump line="99" column="14" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" />
       <jump line="18" column="17" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" />
+      <jump line="169" column="25" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW5kZXRlcm1pbmF0ZSA=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW5kZXRlcm1pbmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -408,32 +408,32 @@
         <text encoding="base64">ICAgICAgICBvbkNoYW5nZSA9IGlzQ2hlY2tlZCA9PiB7CiAgICAgICAgICBzY29wZS5tb2RTdGF0ZSB7IHN0YXRlID0+CiAgICAgICAgICAgIHN0YXRlLmNvcHkoaXRlbXMgPSBzdGF0ZS5pdGVtcy5tYXAoXy5jb3B5KF8yID0gaXNDaGVja2VkKSkpCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxBIGNoZWNrYm94IGNhbiBiZSBkaXNhYmxlZCAK</text>
+        <text encoding="base64">ICAgICAgICAgIHxCZWxvdyBpcyBhbiBleGFtcGxlIG9mIGEgcGFyZW50IGNoZWNrYm94Ogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHx0aGUgYGlzQ2hlY2tlZGAgcHJvcCBjb250cm9scwogICAgICAgICAgfHdoZXRoZXIgaXQgaXMgY2hlY2tlZCBvciBub3QsIHdoaWxlIHRoZSBgb25DaGFuZ2VgIHByb3Agd2lsbCBiZQogICAgICAgICAgfGNhbGxlZCBpbiByZXNwb25zZSB0byB1c2VycycgaW50ZXJhY3Rpb25zIChjaGVjay91bmNoZWNrKS4KICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgIHxBcyBtZW50aW9uZWQsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IAogICAgICAgICAgfEEgbGlzdCBvZiBjaGVja2JveGVzLCBvciBldmVuIG5lc3RlZCBsaXN0cyw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwtIElmCiAgICAgICAgICB8LSBJZiBub25lIGFyZSBjaGVja2VkLCB0aGUgcGFyZW50IGNoZWNrYm94IGlzIHNldCB0byB1bmNoZWNrZWQuCiAgICAgICAgICB8SWYgb25lIG9yIHR3byBhcmUgY2hlY2tlZCwgdGhlIHJlY2lwZSBuYW1lJ3MgY2hlY2tib3ggaXMgc2V0IHRvCiAgICAgICAgICB8aW5kZXRlcm1pbmF0ZS4KICAgICAgICAgIHxJZiBhbGwgYXJlIGNoZWNrZWQsIHRoZSByZWNpcGUgbmFtZSdzIGNoZWNrYm94IGlzIHNldCB0bwogICAgICAgICAgfGNoZWNrZWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHx0byBhbGxvdyBzZWxlY3Rpbmcgc2V2ZXJhbCByZWxhdGVkIG9wdGlvbnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwvLyBjbGFzcyBJdGVtKGlzU2VsZWN0ZWQ6IEJvb2xlYW4pCiAgICAgICAgICB8Ly8gY2xhc3MgU3RhdGUoaXRlbXM6IFNlcVtJdGVtXSkKICAgICAgICAgIHxpc0NoZWNrZWQgPSBzdGF0ZS5pdGVtcy5mb3JhbGwoXy5pc1NlbGVjdGVkKQogICAgICAgICAgfGlzSW5kZXRlcm1pbmF0ZSA9IHN0YXRlLml0ZW1zLmV4aXN0cyhpdGVtID0+IHsKICAgICAgICAgIHwgIHN0YXRlLml0ZW1zLmV4aXN0cyhfLmlzU2VsZWN0ZWQgIT0gaXRlbS5pc1NlbGVjdGVkKQogICAgICAgICAgfH0pCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">YXMgYSBsaXN0LAogICAgICAgICAgfCBvciBldmVuIG5lc3RlZCBsaXN0cywg</text>
+        <text>masked the above 2
+          |styles appearance.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwgICAgICAgIGlzQ2hlY2tlZCA9IHN0YXRlLml0ZW1zLmZvcmFsbChfLl8yKSwKICAgICAgICAgIHwgICAgICAgIGlzSW5kZXRlcm1pbmF0ZSA9IHN0YXRlLml0ZW1zLmV4aXN0cyhpdGVtID0+IHsKICAgICAgICAgIHwgICAgICAgICAgc3RhdGUuaXRlbXMuZXhpc3RzKF8uXzIgIT0gaXRlbS5fMikKICAgICAgICAgIHwgICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9IVE1ML0VsZW1lbnQvaW5wdXQvY2hlY2tib3gjSW5kZXRlcm1pbmF0ZV9zdGF0ZV9jaGVja2JveGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxXaGVuIGBpc0luZGV0ZXJtaW5hdGVgIGlzIHNldCwgYSBjaGVja2JveCB3aWxsIGFsd2F5cyBkaXNwbGF5CiAgICAgICAgICB8dGhlIGluZGV0ZXJtaW5hdGUgYXBwZWFyYW5jZSwgbm8gbWF0dGVyIGl0IGlzIGNoZWNrZWQgb3Igbm90LgogICAgICAgICAgfEJlY2F1c2Ugb2YgdGhpcywgdGhlIHZhbHVlcyBvZiB0aGVzZSBjaGVja2JveGVzIGFyZSB1c3VhbGx5IG5vdCB1c2VkLgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>only be used for visual 
-          |and helper</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHxOb3RlIHRoYXQgdGhpcyBpcyAqKm5vdCoqIGEgdGhpcmQgc3RhdGUuIEEgY2hlY2tib3ggY2FuIG9ubHkgaGF2ZQogICAgICAgICAgfDIgc3RhdGVzOiBjaGVja2VkIG9yIG5vdC4gVGhpcyBpcyBvbmx5IGEgdmlzdWFsIGFwcGVhcmFuY2UgdGhhdAogICAgICAgICAgfG1hc2tlZCB0aGUgY2hlY2tlZCBvciB1bmNoZWNrZWQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxOb3RlIHRoYXQgdGhlIGluZGV0ZXJtaW5hdGUgYXBwZWFyYW5jZSB0YWtlcyBwcmVjZWRlbmNlIG92ZXIgYm90aAogICAgICAgICAgfGNoZWNrZWQgYW5kIHVuY2hlY2tlZC4gV2hlbiBzZXQsIHRoZSBjaGVja2JveCB3aWxsIGFsd2F5cyBiZQogICAgICAgICAgfGRpc3BsYXllZCBhcyBpbmRldGVybWluYXRlLCBubyBtYXR0ZXIgaXQgaXMgY2hlY2tlZCBvciBub3QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxDaGVja2JveGVzIGNhbiBiZSBzZXQgdG8gZGlzcGxheSB0aGUgaW5kZXRlcm1pbmF0ZSBhcHBlYXJhbmNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
