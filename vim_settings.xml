@@ -22,12 +22,12 @@
         <mark key="." line="62" column="39" />
         <mark key="^" line="62" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549384170170">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549387033941">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="62" />
-        <mark key="]" line="60" column="62" />
-        <mark key="." line="60" column="62" />
-        <mark key="^" line="60" column="62" />
+        <mark key="[" line="102" column="61" />
+        <mark key="]" line="102" column="73" />
+        <mark key="." line="102" column="73" />
+        <mark key="^" line="102" column="73" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/build.sbt" timestamp="1549134447049">
         <mark key="[" line="48" column="22" />
@@ -393,13 +393,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>responses according to users' interaction.</text>
+        <text>informative</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>responses according to users' interaction.</text>
+        <text>informative</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -407,32 +407,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCiAgICAgICAgICB8QSBjaGVja2JveCBhbGxvd3MgdXNlcnMgdG8gbWFyayBhbiBvcHRpb24gYXMgc2VsZWN0ZWQgKGNoZWNrZWQpIG9yCiAgICAgICAgICB8bm90ICh1bmNoZWNrZWQpOgogICAgICAgICIiIi5zdHJpcE1hcmdpbgogICAgICApKCksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxpdHMgY29uc3VtZXIgcmVzcG9uc2VzIGFjY29yZGluZyB0byB1c2VycycgaW50ZXJhY3Rpb24uCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGRpc3BsYXkgCiAgICAgICAgICB8aW5mb3JtYXRpb24gb3IKICAgICAgICAgIHxzdGF0dXMgZHVlIHRvIHRoZWlyIHN1YnRsZSBhcHBlYXJhbmNlLg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxNZWFud2hpbGUsIHRoZSBgb25DaGFuZ2VgIGFuZCB0aGUgY29uc3VtZXIgc2hvdWxkIHVwZGF0ZSBpdCAKICAgICAgICAgIHxhY2NvcmRpbmdseQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHxzZWxlY3Rpb24K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHx3aGlsZSB0aGUgCiAgICAgICAgICB8YG9uQ2hhbmdlYCBwcm9wIHNob3VsZCAKICAgICAgICAgIHxoYXZlIGEgY2FsbGJhY2sgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">RGlzYWJsZWQgY2hlY2tib3hlcyBjYW4gc3RpbGwgcmVmbGVjdCB3aGV0aGVyIHRoZXkgYXJlIGNoZWNrZWQgb3IKICAgICAgICAgIHxub3QuIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxBcyBzaG93biBpbiB0aGUgZXhhbXBsZSBhdCB0aGUgdG9wZGQK</text>
+        <text encoding="base64">ICAgICAgICAgIHxBbHRob3VnaCBkaXNhYmxlZCBjaGVja2JveGVzIGNhbiBzdGlsbCBiZSBjaGVja2VkIG8K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxBIGNoZWNrYm94IGFsbG93cyB1c2VycyB0byBtYXJrIGFuIG9wdGlvbiBhcyBzZWxlY3RlZCAoY2hlY2tlZCkgb3IKICAgICAgICAgIHxub3QgKHVuY2hlY2tlZCk6Cg==</text>
+      <register name="5" type="4">
+        <text>with a
+          |checkbox. A disabled checkbox can still be checked or unc</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxTZXZlcmFsIGNoZWNrYm94ZXMKICAgICAgICAgIHxBbGxvdyB1c2VycyB0byBzZWxlY3Qgbm9uZSwgb25lIG9yIHNldmVyYWwgb3B0aW9ucy4KICAgICAgICAgIHxGb3JtaW5nIGEgbGlzdAo=</text>
+      <register name="6" type="4">
+        <text>.
+          |A checkbox can be disabled via the `isDisabled` prop.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHxJdCBpcyBjb21tb24gdG8gdXNlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxBIGRyb3AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHx3aXRoIHVzZXJzJyBhY3Rpb24gKGNoZWNrIG9yIHVuY2hlY2spCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIF4ubWFyZ2luQm90dG9tIDo9ICItOHB4IiwK</text>
+      <register name="9" type="4">
+        <text>callback helps
+          |its consumer acts in response to user's interaction</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
