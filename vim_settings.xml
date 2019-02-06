@@ -76,11 +76,11 @@
         <mark key="." line="104" column="51" />
         <mark key="^" line="104" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Markdown.scala" timestamp="1549223707193">
-        <mark key="[" line="96" column="56" />
-        <mark key="]" line="97" column="5" />
-        <mark key="." line="97" column="5" />
-        <mark key="^" line="97" column="5" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Markdown.scala" timestamp="1549462482516">
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="12" />
+        <mark key="." line="72" column="12" />
+        <mark key="^" line="73" column="31" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/icon/PageIconGlyphName.scala" timestamp="1549297028118">
         <mark key="[" line="109" column="37" />
@@ -88,12 +88,11 @@
         <mark key="^" line="109" column="47" />
         <mark key="." line="109" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/radio/PageRadio.scala" timestamp="1549461750243">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/radio/PageRadio.scala" timestamp="1549462422544">
         <mark key="'" line="23" column="62" />
-        <mark key="[" line="90" column="15" />
-        <mark key="]" line="90" column="15" />
-        <mark key="." line="90" column="15" />
-        <mark key="^" line="90" column="15" />
+        <mark key="[" line="77" column="9" />
+        <mark key="]" line="77" column="9" />
+        <mark key="." line="77" column="9" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Header.scala" timestamp="1549139721552">
         <mark key="[" line="29" column="33" />
@@ -150,11 +149,11 @@
         <mark key="." line="84" column="46" />
         <mark key="^" line="84" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/PageHomeLink.scala" timestamp="1549200470010">
-        <mark key="[" line="68" column="42" />
-        <mark key="]" line="68" column="42" />
-        <mark key="^" line="69" column="51" />
-        <mark key="." line="68" column="42" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/PageHomeLink.scala" timestamp="1549462508994">
+        <mark key="[" line="59" column="23" />
+        <mark key="]" line="59" column="27" />
+        <mark key="^" line="59" column="27" />
+        <mark key="." line="59" column="27" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/button/PageButtonBox.scala" timestamp="1549275140222">
         <mark key="[" line="27" column="0" />
@@ -337,13 +336,13 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Checkbox</text>
+        <text>.</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>Checkbox</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -352,31 +351,42 @@
         <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCiAgICAgICAgICB8IyBUZXh0IFdyYXAKICAgICAgICAgIHwKICAgICAgICAgIHxXaGVuIHRoZXJlIGlzIG5vdCBlbm91Z2ggc3BhY2UsIGEgY2hlY2tib3gncyBsYWJlbCBpcyB3cmFwcGVkIG9udG8KICAgICAgICAgIHxtdWx0aXBsZSBsaW5lcywgd2hpbGUgdGhlIGNoZWNrYm94IGl0c2VsZiBzdGF5cyBhdCB0b3AgbGVmdDoKICAgICAgICAiIiIuc3RyaXBNYXJnaW4KICAgICAgKSgpLAogICAgICBFeGFtcGxlU2ltcGxlKCkoewogICAgICAgIERlbW9TdGF0ZS5Cb29sKGluaXRpYWxWYWx1ZSA9IGZhbHNlLCByZW5kZXIgPSAodmFsdWUsIG9uQ2hhbmdlKSA9PiB7CiAgICAgICAgICBDaGVja2JveCgKICAgICAgICAgICAgaXNDaGVja2VkID0gdmFsdWUsCiAgICAgICAgICAgIG9uQ2hhbmdlID0gb25DaGFuZ2UKICAgICAgICAgICkoc2FtcGxlQWdyZWVtZW50KQogICAgICAgIH0pKCkKICAgICAgfSksCiAgICAgIE1hcmtkb3duKAogICAgICAgICIiIgogICAgICAgICAgfEhvd2V2ZXIsIGl0J3MgZ2VuZXJhbGx5IGJldHRlciB0byBrZWVwIHlvdXIgY2hlY2tib3hlcycgbGFiZWxzIHNob3J0CiAgICAgICAgICB8YW5kIHNpbXBsZS4gQWRkaXRpb25hbCBpbmZvcm1hdGlvbiBjYW4gdGhlbiBiZSBzZXBhcmF0ZWQgdG8gYQogICAgICAgICAgfHBhcmFncmFwaCBhYm92ZSBvciBiZWxvdyBpdDoKICAgICAgICAiIiIuc3RyaXBNYXJnaW4KICAgICAgKSgpLAogICAgICBFeGFtcGxlU2ltcGxlKCkoewogICAgICAgIERlbW9TdGF0ZS5Cb29sKGluaXRpYWxWYWx1ZSA9IGZhbHNlLCByZW5kZXIgPSAodmFsdWUsIG9uQ2hhbmdlKSA9PiB7CiAgICAgICAgICA8LmRpdigKICAgICAgICAgICAgPC5wKFN0eWxlLm1hcmdpbi5ib3R0b204LCBzYW1wbGVBZ3JlZW1lbnQpLAogICAgICAgICAgICBDaGVja2JveChpc0NoZWNrZWQgPSB2YWx1ZSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoIkkgYWdyZWUiKQogICAgICAgICAgKQogICAgICAgIH0pKCkKICAgICAgfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2UgPSBfID0+IENhbGxiYWNrLmVtcHR5LAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2UgPSBfID0+IENhbGxiYWNrLmVtcHR5LAo=</text>
+      <register name="2" type="4">
+        <text>,
+      Markdown(
+        &quot;&quot;&quot;
+          |# Text Wrap
+          |
+          |When there is not enough space, a checkbox's label is wrapped onto
+          |multiple lines, while the checkbox itself stays at top left:
+          |However, it's generally better to keep your checkboxes' labels short
+          |and simple. Additional information can then be separated to a
+          |paragraph above or below it:
+        &quot;&quot;&quot;.stripMargin
+      )()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgUmFkaW9CYXNlID0gUmFkaW8oImRpc2FibGUiLCAiIiwgZmFsc2UsIF8gPT4gQ2FsbGJhY2suZW1wdHksIGlzRGlzYWJsZWQgPSB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgKSgpLAogICAgICBNYXJrZG93bigKICAgICAgICAiIiIKICAgICAgICAgIHwjIFRleHQgV3JhcAogICAgICAgICAgfAogICAgICAgICAgfFdoZW4gdGhlcmUgaXMgbm90IGVub3VnaCBzcGFjZSwgYSBjaGVja2JveCdzIGxhYmVsIGlzIHdyYXBwZWQgb250bwogICAgICAgICAgfG11bHRpcGxlIGxpbmVzLCB3aGlsZSB0aGUgY2hlY2tib3ggaXRzZWxmIHN0YXlzIGF0IHRvcCBsZWZ0OgogICAgICAgICAgfEhvd2V2ZXIsIGl0J3MgZ2VuZXJhbGx5IGJldHRlciB0byBrZWVwIHlvdXIgY2hlY2tib3hlcycgbGFiZWxzIHNob3J0CiAgICAgICAgICB8YW5kIHNpbXBsZS4gQWRkaXRpb25hbCBpbmZvcm1hdGlvbiBjYW4gdGhlbiBiZSBzZXBhcmF0ZWQgdG8gYQogICAgICAgICAgfHBhcmFncmFwaCBhYm92ZSBvciBiZWxvdyBpdDoKICAgICAgICAiIiIuc3RyaXBNYXJnaW4KICAgICAgKSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJhZGlvQmFzZS5jb3B5KGlzQ2hlY2tlZCA9IGZhbHNlKSgiVW5jaGVja2VkIikK</text>
+        <text encoding="base64">ICAgICAgRXhhbXBsZVNpbXBsZSgpKHsKICAgICAgICBEZW1vU3RhdGUuQm9vbChpbml0aWFsVmFsdWUgPSBmYWxzZSwgcmVuZGVyID0gKHZhbHVlLCBvbkNoYW5nZSkgPT4gewogICAgICAgICAgPC5kaXYoCiAgICAgICAgICAgIDwucChTdHlsZS5tYXJnaW4uYm90dG9tOCwgc2FtcGxlQWdyZWVtZW50KSwKICAgICAgICAgICAgQ2hlY2tib3goaXNDaGVja2VkID0gdmFsdWUsIG9uQ2hhbmdlID0gb25DaGFuZ2UpKCJJIGFncmVlIikKICAgICAgICAgICkKICAgICAgICB9KSgpCiAgICAgIH0pLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJhZGlvQmFzZS5jb3B5KGlzQ2hlY2tlZCA9IHRydWUpKCJDaGVja2VkIiksCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJhZGlvKCJkaXNhYmxlIiwgImIiLCBpc0NoZWNrZWQgPSBmYWxzZSwgXyA9PiBDYWxsYmFjay5lbXB0eSwgaXNEaXNhYmxlZCA9IHRydWUpKCJVbmNoZWNrZWQiKSwK</text>
+        <text encoding="base64">ICAgICAgICAiIiIuc3RyaXBNYXJnaW4KICAgICAgKSgpLAogICAgICBNYXJrZG93bigK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJhZGlvKCJkaXNhYmxlIiwgImEiLCBpc0NoZWNrZWQgPSB0cnVlLCBfID0+IENhbGxiYWNrLmVtcHR5LCBpc0Rpc2FibGVkID0gdHJ1ZSkoIkNoZWNrZWQiKSwK</text>
+        <text encoding="base64">ICAgICAgRXhhbXBsZVNpbXBsZSgpKHsKICAgICAgICBEZW1vU3RhdGUuQm9vbChpbml0aWFsVmFsdWUgPSBmYWxzZSwgcmVuZGVyID0gKHZhbHVlLCBvbkNoYW5nZSkgPT4gewogICAgICAgICAgUmFkaW8oCiAgICAgICAgICAgICJ0ZXh0LXdyYXAiLAogICAgICAgICAgICAiYSIsCiAgICAgICAgICAgIGlzQ2hlY2tlZCA9IHZhbHVlLAogICAgICAgICAgICBvbkNoYW5nZSA9IG9uQ2hhbmdlCiAgICAgICAgICApKHNhbXBsZUFncmVlbWVudCkKICAgICAgICB9KSgpCiAgICAgIH0pLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIENoZWNrYm94KGlzQ2hlY2tlZCA9IHRydWUsIGlzRGlzYWJsZWQgPSB0cnVlKSgiQ2hlY2tlZCIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2UgPSBfID0+IENhbGxiYWNrLmVtcHR5LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIENoZWNrYm94KGlzQ2hlY2tlZCA9IGZhbHNlLCBpc0Rpc2FibGVkID0gdHJ1ZSkoIlVuY2hlY2tlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2UgPSBfID0+IENhbGxiYWNrLmVtcHR5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
