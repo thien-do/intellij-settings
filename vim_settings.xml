@@ -9,12 +9,6 @@
         <mark key="^" line="84" column="52" />
         <mark key="." line="84" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/checkbox/CheckboxInput.scala" timestamp="1549458262572">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Toc.scala" timestamp="1549314157794">
         <mark key="[" line="62" column="34" />
         <mark key="]" line="62" column="39" />
@@ -100,11 +94,8 @@
         <mark key="^" line="109" column="47" />
         <mark key="." line="109" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/radio/PageRadio.scala" timestamp="1549462422544">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/radio/PageRadio.scala" timestamp="1549666365804">
         <mark key="'" line="23" column="62" />
-        <mark key="[" line="77" column="9" />
-        <mark key="]" line="77" column="9" />
-        <mark key="." line="77" column="9" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/postcss.config.js" timestamp="1549635964910">
         <mark key="[" line="2" column="78" />
@@ -154,12 +145,12 @@
         <mark key="^" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" timestamp="1549455476993">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" timestamp="1549666838824">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="77" column="101" />
-        <mark key="]" line="77" column="40" />
-        <mark key="^" line="77" column="40" />
-        <mark key="." line="77" column="40" />
+        <mark key="[" line="83" column="128" />
+        <mark key="]" line="83" column="127" />
+        <mark key="^" line="83" column="127" />
+        <mark key="." line="83" column="127" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/ExampleSimple.scala" timestamp="1549138827805">
         <mark key="[" line="30" column="0" />
@@ -402,14 +393,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHxOb3RlIHRoYXQgdGhlIGNvbnN1bWVycyBhcmUgcmVzcG9uc2libGUgZm9yIAo=</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>it is the consumer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -418,31 +409,31 @@
         <text encoding="base64">ZWNobyAtZSAiJHtQVVJQTEV9MS8ye05DfSBDb21waWxpbmcgQ1NTIC4uLiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UkVEPSdcMDMzWzA7MzFtJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHxOb3RlIHRoYXQgdGhlIGNvbnN1bWVycyBhcmUgcmVzcG9uc2libGUgZm9yIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAiJHtjb3JlX2Nzc19jb25maWd9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHxJbiBwcmFjdGljZSwgYGlzQ2hlY2tlZGAgaXMgdXN1YWxseSBiYXNlZCBvbiBhIGJvb2xlYW4KICAgICAgICAgIHxzdGF0ZSwgd2hpY2ggaXMgdXBkYXRlZCBhY2NvcmRpbmdseSB2aWEgYG9uQ2hhbmdlYDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAtZSAiSSAke1JFRH1sb3ZlJHtOQ30gU3RhY2sgT3ZlcmZsb3ciCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHx2YWx1ZTogU3RyaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAtZSAiSSAke1JFRH1sb3ZlJHtOQ30gU3RhY2sgT3ZlcmZsb3ciCg==</text>
+        <text encoding="base64">UkVEPSdcMDMzWzA7MzFtJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAtZSAiSSAke1JFRH1sb3ZlJHtOQ30gU3RhY2sgT3ZlcmZsb3ciCg==</text>
+        <text encoding="base64">ZWNobyAiJHtjb3JlX2Nzc19jb25maWd9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UkVEPSdcMDMzWzA7MzFtJwpOQz0nXDAzM1swbScgIyBObyBDb2xvcgo=</text>
+        <text encoding="base64">ZWNobyAtZSAiSSAke1JFRH1sb3ZlJHtOQ30gU3RhY2sgT3ZlcmZsb3ciCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBjb2xvcnMK</text>
+        <text encoding="base64">ZWNobyAtZSAiSSAke1JFRH1sb3ZlJHtOQ30gU3RhY2sgT3ZlcmZsb3ciCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAtZSAiSSAke1JFRH1sb3ZlJHtOQ30gU3RhY2sgT3ZlcmZsb3ciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkVEPSdcMDMzWzA7MzFtJwpOQz0nXDAzM1swbScgIyBObyBDb2xvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
