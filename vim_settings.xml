@@ -27,12 +27,12 @@
         <mark key="." line="31" column="37" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549461725632">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/PageCheckbox.scala" timestamp="1549745651003">
         <mark key="'" line="25" column="7" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="201" column="9" />
-        <mark key="." line="154" column="46" />
-        <mark key="^" line="154" column="46" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="149" column="40" />
+        <mark key="^" line="149" column="40" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/scripts/postcss.config.js" timestamp="1549632832556">
         <mark key="[" line="2" column="32" />
@@ -45,11 +45,6 @@
         <mark key="]" line="48" column="23" />
         <mark key="^" line="39" column="21" />
         <mark key="." line="48" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/style/PageTypography.scala" timestamp="1549140533941">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/main/layout/LayoutNav.scala" timestamp="1549455489849">
         <mark key="[" line="76" column="39" />
@@ -93,6 +88,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tailwind.js" timestamp="1549746108107">
+        <mark key="[" line="75" column="9" />
+        <mark key="]" line="75" column="9" />
+        <mark key="^" line="75" column="9" />
+        <mark key="." line="75" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/button/ButtonStyle.scala" timestamp="1549298623888">
         <mark key="[" line="104" column="49" />
         <mark key="]" line="104" column="51" />
@@ -111,8 +112,12 @@
         <mark key="^" line="109" column="47" />
         <mark key="." line="109" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/radio/PageRadio.scala" timestamp="1549666365804">
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/radio/PageRadio.scala" timestamp="1549744639516">
         <mark key="'" line="23" column="62" />
+        <mark key="[" line="64" column="55" />
+        <mark key="]" line="64" column="55" />
+        <mark key="." line="64" column="55" />
+        <mark key="^" line="64" column="21" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/postcss.config.js" timestamp="1549635964910">
         <mark key="[" line="2" column="78" />
@@ -205,11 +210,6 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/button/PageButtonBox.scala" timestamp="1549275140222">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/style/PageColor.scala" timestamp="1549230638334">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="83" column="42" />
@@ -223,25 +223,11 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="73" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/package.json" timestamp="1549633569177">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/checkbox/ExampleChecklist.scala" timestamp="1549315801903">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/scripts/link/link_paths.sh" timestamp="1549633545720">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-      </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBox.scala" timestamp="1549742785768">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBox.scala" timestamp="1549745685875">
+        <mark key="[" line="53" column="13" />
+        <mark key="]" line="53" column="13" />
+        <mark key="." line="53" column="13" />
+        <mark key="^" line="48" column="17" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/button/Button.scala" timestamp="1549274609863">
         <mark key="[" line="123" column="54" />
@@ -282,6 +268,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="31" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Heading.scala" timestamp="1549746050777">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/postcss.js" timestamp="1549633172853">
         <mark key="[" line="2" column="34" />
@@ -428,46 +419,46 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEZW1vU3RhdGUuU3RyKCJBbmR1aW4iLCAodmFsdWUsIG9uQ2hhbmdlKSA9PiB7CiAgICAgICAgICA8LmRpdihTdHlsZS53aWR0aC5weDI1NikoCiAgICAgICAgICAgIFRleHRCb3godmFsdWUgPSB2YWx1ZSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQogICAgICAgICAgKQogICAgICAgIH0pKCksCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>semiBold</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEZW1vU3RhdGUuU3RyKCJBbmR1aW4iLCAodmFsdWUsIG9uQ2hhbmdlKSA9PiB7CiAgICAgICAgICA8LmRpdihTdHlsZS53aWR0aC5weDI1NikoCiAgICAgICAgICAgIFRleHRCb3godmFsdWUgPSB2YWx1ZSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQogICAgICAgICAgKQogICAgICAgIH0pKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwvLyBjYXNlIGNsYXNzIFN0YXRlKGlzRm9vOiBCb29sZWFuLCAuLi4pCiAgICAgICAgICB8CiAgICAgICAgICB8Q2hlY2tib3goCiAgICAgICAgICB8ICB2YWx1ZSA9IHN0YXRlLmlzRm9vLAogICAgICAgICAgfCAgb25DaGFuZ2UgPSBpc0NoZWNrZWQgPT4gewogICAgICAgICAgfCAgICBzY29wZS5tb2RTdGF0ZShfLmNvcHkoaXNGb28gPSBpc0NoZWNrZWQpCiAgICAgICAgICB8ICB9CiAgICAgICAgICB8KSgiRm9vIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZW1vU3RhdGUuU3RyKCJBbmR1aW4iLCAodmFsdWUsIG9uQ2hhbmdlKSA9PiB7CiAgICAgICAgICA8LmRpdihTdHlsZS53aWR0aC5weDI1NikoCiAgICAgICAgICAgIFRleHRCb3godmFsdWUgPSB2YWx1ZSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQogICAgICAgICAgKQogICAgICAgIH0pKCksCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KHZhbHVlLCBvbkNoYW5nZSkgPT4gewogICAgICAgICAgPC5kaXYoU3R5bGUud2lkdGgucHgyNTYpKAogICAgICAgICAgICBUZXh0Qm94KHZhbHVlID0gdmFsdWUsIG9uQ2hhbmdlID0gb25DaGFuZ2UpKCkKICAgICAgICAgICk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0KG1hc2s6IFRleHRCb3guTWFzayk6IFRleHRNYXNrID0gbWFzayBtYXRjaCB7CiAgICBjYXNlIFRleHRCb3guTWFza0VtYWlsICAgICAgICA9PiBlbWFpbAogICAgY2FzZSBUZXh0Qm94Lk1hc2tDdXJyZW5jeSAgICAgPT4gY3VycmVuY3kKICAgIGNhc2UgVGV4dEJveC5NYXNrUGVyY2VudGFnZSAgID0+IHBlcmNlbnRhZ2UKICAgIGNhc2UgVGV4dEJveC5NYXNrTnVtYmVyICAgICAgID0+IG51bWJlcgogICAgY2FzZSBUZXh0Qm94Lk1hc2tGbG9hdCAgICAgICAgPT4gZmxvYXQKICAgIGNhc2UgYXJyYXk6IFRleHRCb3guTWFza0N1c3RvbUFycmF5ID0+IFRleHRNYXNrLkFycmF5KGFycmF5LnZhbHVlKQogICAgY2FzZSBmdW5jOiBUZXh0Qm94Lk1hc2tDdXN0b21GdW5jICAgPT4gVGV4dE1hc2suRnVuYyhmdW5jLnZhbHVlKQogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHxbY29udHJvbGxlZF06IGh0dHBzOi8vcmVhY3Rqcy5vcmcvZG9jcy9mb3Jtcy5odG1sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBwbGFjZWtra2tra2sK</text>
+        <text encoding="base64">ICAgICAgICAgIHwgCiAgICAgICAgICB8IFRoZSBjdXJyZW50IHZhbHVlIGlzIHVzdWFsbHkgfHN0b3JlZCBhdCBpdHMgY29uc3VtZXJzJyBzdGF0ZSBhbmQgcGFzc2VkIHZpYSB0aGUgYHZhbHVlYCBwcm9wLgogICAgICAgICAgfFRoaXMgdmFsdWUgc2hvdWxkIGJlIHVwZGF0ZWQgYWNjb3JkaW5nbHkgd2l0aCB0aGUgYG9uQ2hhbmdlYAogICAgICAgICAgfGNhbGxiYWNrLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIE1hc2tDdXN0b21BcnJheSh2YWx1ZTogTGlzdFtUZXh0TWFzay5JdGVtXSkgZXh0ZW5kcyBNYXNrKCIiKQogIGNhc2UgY2xhc3MgTWFza0N1c3RvbUZ1bmModmFsdWU6IFN0cmluZyA9PiBUZXh0TWFzay5BcnJheSkgZXh0ZW5kcyBNYXNrKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHxjdXJyZW50IHZhbHVlIHNob3VsZCBiZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYXNlIG9iamVjdCBNYXNrRW1haWwgZXh0ZW5kcyBNYXNrKCJAIikKICBjYXNlIG9iamVjdCBNYXNrQ3VycmVuY3kgZXh0ZW5kcyBNYXNrKCIkIikKICBjYXNlIG9iamVjdCBNYXNrUGVyY2VudGFnZSBleHRlbmRzIE1hc2soIiUiKQogIGNhc2Ugb2JqZWN0IE1hc2tOdW1iZXIgZXh0ZW5kcyBNYXNrKCIiKQogIGNhc2Ugb2JqZWN0IE1hc2tGbG9hdCBleHRlbmRzIE1hc2soIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHxgdmFsdWVgIHByb3AgYXQgaXRzIGNvbnN1bWVycycgc3RhdGUsIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0cmFpdCBJbnQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwKICAgICAgICAgIHwjIFN1Z2dlc3Rpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBwZXJjZW50YWdlID0gewogICAgdmFsIGNvbmZpZyA9IG5ldyBOdW1iZXJDb25maWcocHJlZml4ID0gIiIsIHN1ZmZpeCA9ICIlIiwgYWxsb3dEZWNpbWFsID0gdHJ1ZSwgZGVjaW1hbExpbWl0ID0gMykKICAgIFRleHRNYXNrLkZyb21KUyhOdW1iZXIoY29uZmlnKSkKICB9CiAgcHJpdmF0ZSB2YWwgbnVtYmVyID0gewogICAgdmFsIGNvbmZpZyA9IG5ldyBOdW1iZXJDb25maWcocHJlZml4ID0gIiIpCiAgICBUZXh0TWFzay5Gcm9tSlMoTnVtYmVyKGNvbmZpZykpCiAgfQogIHByaXZhdGUgdmFsIGZsb2F0ID0gewogICAgdmFsIGNvbmZpZyA9IG5ldyBOdW1iZXJDb25maWcocHJlZml4ID0gIiIsIGFsbG93RGVjaW1hbCA9IHRydWUsIGRlY2ltYWxMaW1pdCA9IDMpCiAgICBUZXh0TWFzay5Gcm9tSlMoTnVtYmVyKGNvbmZpZykpCiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBEZW1vU3RhdGUuU3RyKCJBbmR1aW4iLCAodmFsdWUsIG9uQ2hhbmdlKSA9PiB7CiAgICAgICAgICA8LmRpdihTdHlsZS53aWR0aC5weDI1NikoCiAgICAgICAgICAgIFRleHRCb3godmFsdWUgPSB2YWx1ZSwgb25DaGFuZ2UgPSBvbkNoYW5nZSkoKQogICAgICAgICAgKQogICAgICAgIH0pKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
