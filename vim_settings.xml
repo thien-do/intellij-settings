@@ -210,10 +210,11 @@
         <mark key="]" line="24" column="9" />
         <mark key="." line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBox.scala" timestamp="1549667395533">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBox.scala" timestamp="1549671755792">
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+        <mark key="^" line="60" column="18" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/button/Button.scala" timestamp="1549274609863">
         <mark key="[" line="123" column="54" />
@@ -399,14 +400,14 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgTWFya2Rvd24oCiAgICAgICAgIiIiCiAgICAgICAgICB8CiAgICAgICAgIiIiLnN0cmlwTWFyZ2luCiAgICAgICkoKSwKICAgICAgRXhhbXBsZVJpY2goU291cmNlLmFubm90YXRlKHsKICAgICAgICBEZW1vU3RhdGUuU3RyKCJObyBtYXNrIiwgewogICAgICAgICAgVGV4dEJveChfLCBfLCBtYXNrID0gTm9uZSkoKQogICAgICAgIH0pKCkKICAgICAgfSkpKCksCiAgICAgIEV4YW1wbGVSaWNoKFNvdXJjZS5hbm5vdGF0ZSh7CiAgICAgICAgRGVtb1N0YXRlLlN0cigiMTAwMCIsIHsKICAgICAgICAgIFRleHRCb3goXywgXywgbWFzayA9IFNvbWUoVGV4dEJveC5NYXNrTnVtYmVyKSkoKQogICAgICAgIH0pKCkKICAgICAgfSkpKCksCiAgICAgIEV4YW1wbGVSaWNoKFNvdXJjZS5hbm5vdGF0ZSh7CiAgICAgICAgRGVtb1N0YXRlLlN0cigiMTAwMCIsIHsKICAgICAgICAgIFRleHRCb3goXywgXywgbWFzayA9IFNvbWUoVGV4dEJveC5NYXNrQ3VycmVuY3kpKSgpCiAgICAgICAgfSkoKQogICAgICB9KSkoKSwKICAgICAgRXhhbXBsZVJpY2goU291cmNlLmFubm90YXRlKHsKICAgICAgICBEZW1vU3RhdGUuU3RyKCI0MyIsIHsKICAgICAgICAgIFRleHRCb3goXywgXywgbWFzayA9IFNvbWUoVGV4dEJveC5NYXNrUGVyY2VudGFnZSkpKCkKICAgICAgICB9KSgpCiAgICAgIH0pKSgpLAogICAgICBFeGFtcGxlUmljaChTb3VyY2UuYW5ub3RhdGUoewogICAgICAgIERlbW9TdGF0ZS5TdHIoInRoaWVuQGFuZHVpbi5jbyIsIHsKICAgICAgICAgIFRleHRCb3goXywgXywgbWFzayA9IFNvbWUoVGV4dEJveC5NYXNrRW1haWwpKSgpCiAgICAgICAgfSkoKQogICAgICB9KSkoKSwKICAgICAgRXhhbXBsZVJpY2goU291cmNlLmFubm90YXRlKHsKICAgICAgICBEZW1vU3RhdGUuU3RyKAogICAgICAgICAgIigxMjIpIDIyMi0yMjIyIiwgewogICAgICAgICAgICB2YWwgbiA9IFRleHRNYXNrLlJlZ0V4cCgiXFxkIikKICAgICAgICAgICAgdmFsIGMgPSBUZXh0TWFzay5DaGFyCiAgICAgICAgICAgIFRleHRCb3goXywgXywgbWFzayA9IFNvbWUoVGV4dEJveC5NYXNrQ3VzdG9tQXJyYXkoewogICAgICAgICAgICAgIExpc3QoYygiKCIpLCBuLCBuLCBuLCBjKCIpIiksIGMoIiAiKSwgbiwgbiwgbiwgYygiLSIpLCBuLCBuLCBuLCBuKQogICAgICAgICAgICB9KSkpKCkKICAgICAgICAgIH0KICAgICAgICApKCkKICAgICAgfSkpKCkK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>it is the consumer</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
