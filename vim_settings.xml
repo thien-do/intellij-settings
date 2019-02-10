@@ -10,12 +10,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" timestamp="1549809535267">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="99" column="27" />
-        <mark key="]" line="99" column="33" />
-        <mark key="." line="99" column="33" />
-        <mark key="^" line="99" column="33" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" timestamp="1549813435586">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="96" column="40" />
+        <mark key="]" line="96" column="44" />
+        <mark key="." line="96" column="44" />
+        <mark key="^" line="96" column="44" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Toc.scala" timestamp="1549314157794">
         <mark key="[" line="62" column="34" />
@@ -229,10 +229,10 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="73" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBox.scala" timestamp="1549811944832">
-        <mark key="[" line="102" column="36" />
-        <mark key="]" line="102" column="36" />
-        <mark key="." line="102" column="36" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBox.scala" timestamp="1549813438364">
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="102" column="34" />
+        <mark key="." line="102" column="34" />
         <mark key="^" line="102" column="36" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBoxValue.scala" timestamp="1549805491039">
@@ -293,10 +293,11 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Heading.scala" timestamp="1549746050777">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Heading.scala" timestamp="1549813933982">
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="32" column="55" />
+        <mark key="." line="32" column="55" />
+        <mark key="^" line="32" column="55" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/postcss.js" timestamp="1549633172853">
         <mark key="[" line="2" column="34" />
@@ -422,26 +423,26 @@
       <jump line="20" column="52" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/app/router/Router.scala" />
       <jump line="49" column="11" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/home/PageHomeList.scala" />
       <jump line="91" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxInput.scala" />
-      <jump line="18" column="17" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxInput.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxInput.scala" />
       <jump line="101" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" />
       <jump line="90" column="24" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxInput.scala" />
       <jump line="92" column="36" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxInput.scala" />
+      <jump line="18" column="17" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>.</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -450,31 +451,31 @@
         <text encoding="base64">ICAgIGZpbmFsIGRlZiBpc1NpbmdsZUxpbmU6IEJvb2xlYW4gPSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVGFnTW9kLndoZW4ob3V0ZXIudHBlLmlzU2luZ2xlTGluZSkoKSwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kLndoZW4ob3V0ZXIudHBlLmlzU2luZ2xlTGluZSkoKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXi5oZWlnaHQgOj0gb3V0ZXIuc2l6ZS5oZWlnaHRQeCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXNQYWRkaW5nTGVmdExhcmdlID0gZmFsc2UsCiAgICAgIGlzUGFkZGluZ1JpZ2h0TGFyZ2UgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgXi5oZWlnaHQgOj0gb3V0ZXIuc2l6ZS5oZWlnaHRQeCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgaXNQYWRkaW5nTGVmdExhcmdlID0gZmFsc2UsCiAgICAgIGlzUGFkZGluZ1JpZ2h0TGFyZ2UgPSBmYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gXi5wYWRkaW5nUmlnaHQgOj0gZ2V0U3R5bGVzUGFkZGluZyhvdXRlciwgb3V0ZXIuc3RhdHVzLmV4aXN0cyhfIC5ub2RlLmlzRGVmaW5lZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gXi5wYWRkaW5nUmlnaHQgOj0gZ2V0U3R5bGVzUGFkZGluZyhvdXRlciwgb3V0ZXIuc3RhdHVzLmV4aXN0cyhfIC5ub2RlLmlzRGVmaW5lZCkpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgXi5wYWRkaW5nTGVmdCA6PSAoKSwK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IG91dGVyLnNpemUuaGVpZ2h0UHggZWxzZSAKICAgIG91dGVyLnNpemUuaG9yUGFkZGluZ1B4KQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
