@@ -10,12 +10,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" timestamp="1549805116105">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="95" column="19" />
-        <mark key="]" line="95" column="31" />
-        <mark key="^" line="95" column="31" />
-        <mark key="." line="95" column="31" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" timestamp="1549809535267">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="99" column="27" />
+        <mark key="]" line="99" column="33" />
+        <mark key="." line="99" column="33" />
+        <mark key="^" line="99" column="33" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Toc.scala" timestamp="1549314157794">
         <mark key="[" line="62" column="34" />
@@ -84,11 +84,11 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxSize.scala" timestamp="1549808199243">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="23" column="31" />
-        <mark key="^" line="23" column="31" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxSize.scala" timestamp="1549810708679">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tailwind.js" timestamp="1549746108107">
         <mark key="[" line="75" column="9" />
@@ -157,11 +157,11 @@
         <mark key="^" line="11" column="42" />
         <mark key="." line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxStyle.scala" timestamp="1549806821221">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="38" column="35" />
-        <mark key="^" line="13" column="4" />
-        <mark key="." line="38" column="35" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxStyle.scala" timestamp="1549809653881">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="66" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/icon/IconGlyph.scala" timestamp="1549297002929">
         <mark key="[" line="173" column="0" />
@@ -310,11 +310,11 @@
         <mark key="." line="17" column="76" />
         <mark key="^" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxInput.scala" timestamp="1549805597680">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="85" column="8" />
-        <mark key="." line="91" column="42" />
-        <mark key="^" line="91" column="42" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxInput.scala" timestamp="1549810961948">
+        <mark key="[" line="88" column="5" />
+        <mark key="]" line="88" column="5" />
+        <mark key="." line="88" column="5" />
+        <mark key="^" line="87" column="42" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Example.scala" timestamp="1549138569700">
         <mark key="[" line="21" column="27" />
@@ -435,46 +435,56 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>padding</text>
+        <text>,</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>padding</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGRlZiBoZWlnaHQ6IEludCA9IDMyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIF4ucGFkZGluZ0xlZnQgOj0gZ2V0UGFkZGluZyhvdXRlci5pY29uLmlzRGVmaW5lZCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGRlZiBweDogU3RyaW5nID0gIjQwcHgiCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgb3ZlcmxheVNpemU6IFRhZ01vZAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbW9kID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmaW5hbCBkZWYgc2luZ2xlOiBUYWdNb2QgPSBUYWdNb2QoY29tbW9uLCBzaW5nbGVPbmx5KQogIGZpbmFsIGRlZiBhcmVhOiBUYWdNb2QgPSBUYWdNb2QoY29tbW9uLCBhcmVhT25seSkK</text>
+        <text encoding="base64">ICAgIGlmIChvdXRlci5pY29uLmlzRGVmaW5lZCkgb3V0ZXIuc2l6ZS5oZWlnaHRQeCBlbHNlIG91dGVyLnNpemUuaG9yUGFkZGluZ1B4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0eWxlLmRpc3BsYXkuYmxvY2sud2lkdGgucGMxMDAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFRleHRCb3hSZW5kZXIuZ2V0SW5wdXQoVGV4dEJveCh2YWx1ZSA9ICIiKSksCg==</text>
+      <register name="5" type="4">
+        <text>TagMod(
+          outer.size.text,
+          ^.height := outer.size.heightPx,
+          ^.paddingLeft := getStylesPadding(outer, outer.icon.isDefined),
+          ^.paddingRight := getStylesPadding(outer, outer.status.exists(_.node.isDefined))
+        )</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFRleHRCb3hTdHlsZS5nZXRTdHlsZXMoCiAgICAgIAogICAgKQo=</text>
+      <register name="6" type="4">
+        <text>TagMod(
+            outer.size.text,
+            ^.height := outer.size.heightPx,
+            ^.paddingLeft := getStylesPadding(outer, outer.icon.isDefined),
+            ^.paddingRight := getStylesPadding(outer, outer.status.exists(_.node.isDefined))
+          )</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUaGlzIGlzIHRoZSBtYWluIHN0eWxlIGRlZmluaXRpb24gZm9yIGEgdGV4dCBib3guIE90aGVyIHByb3BzIGNhbiBwcm92aWRlCiAgLy8gc29tZSBtaW5vciBjdXN0b21pemF0aW9ucyAoZS5nLiBUZXh0Qm94U3RhdHVzIGNhbiBwcm92aWRlIGEgY3VzdG9tIGJvcmRlcgogIC8vIGNvbG9yKSBidXQgdGhlIGVuZCBkZWNpc2lvbiBtdXN0IGJlIG1hZGUgaGVyZS4KICAvLyAtIFRoZSBBUEkgaGVyZSBzaG91bGQgYmUgZGVzaWduZWQgdG8gbm90IGtub3dpbmcgdGhlIEFQSSBvZiBUZXh0Qm94CiAgLy8gLSBOb3RlIHRoYXQgdGhpcyBpcyBmb3IgdGhlIGFjdHVhbCBjb250cm9sIGVsZW1lbnQgKGUuZy4gYGlucHV0YCBvcgogIC8vICAgYHRleHRhcmVhYCB0YWcpLCBub3QgdGhlIGNvbnRhaW5lci4gSW4gb3RoZXIgd29yZHMsIHRoaXMgaXMgZm9yCiAgLy8gICBUZXh0Qm94SW5wdXQsIG5vdCBUZXh0Qm94Cg==</text>
+        <text encoding="base64">ICAgICAKICAgICAgICBpc1BhZGRpbmdMZWZ0TGFyZ2UgPSBvdXRlci5pY29uLmlzRGVmaW5lZCwKICAgICAgaXNQYWRkaW5nUmlnaHRMYXJnZSA9IG91dGVyLnN0YXR1cy5leGlzdHMoXy5ub2RlLmlzRGVmaW5lZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVGV4dEJveFJlbmRlci5nZXRJbnB1dChwcm9wcyksCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZ2V0UGFkZGluZyhoYXNDb250ZW50OiBCb29sZWFuKSA9CiAgICAgICAgICBpZiAob3V0ZXIuaWNvbi5pc0RlZmluZWQpIG91dGVyLnNpemUuaGVpZ2h0UHggZWxzZSBvdXRlci5zaXplLmhvclBhZGRpbmdQeAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRQYWRkaW5nKGhhc0NvbnRlbnQ6IEJvb2xlYW4pID0gCiAgICBpZiAob3V0ZXIuaWNvbi5pc0RlZmluZWQpIG91dGVyLnNpemUuaGVpZ2h0UHggZWxzZSBvdXRlci5zaXplLmhvclBhZGRpbmdQeAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
