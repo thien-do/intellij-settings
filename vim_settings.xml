@@ -229,11 +229,11 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="73" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBox.scala" timestamp="1549805679076">
-        <mark key="[" line="101" column="11" />
-        <mark key="]" line="102" column="10" />
-        <mark key="." line="102" column="10" />
-        <mark key="^" line="102" column="10" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBox.scala" timestamp="1549811944832">
+        <mark key="[" line="102" column="36" />
+        <mark key="]" line="102" column="36" />
+        <mark key="." line="102" column="36" />
+        <mark key="^" line="102" column="36" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/pages/components/textbox/PageTextBoxValue.scala" timestamp="1549805491039">
         <mark key="[" line="77" column="40" />
@@ -252,11 +252,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownFilter.scala" timestamp="1549805672414">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="4" column="48" />
-        <mark key="^" line="49" column="29" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/dropdown/DropdownFilter.scala" timestamp="1549811688474">
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="50" column="23" />
+        <mark key="." line="50" column="23" />
+        <mark key="^" line="50" column="23" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tachyons/_focus.scss" timestamp="1549308127996">
         <mark key="[" line="10" column="5" />
@@ -281,11 +281,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxType.scala" timestamp="1549807848971">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="11" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxType.scala" timestamp="1549811851801">
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/scripts/clean.sh" timestamp="1549633260100">
         <mark key="[" line="5" column="0" />
@@ -310,11 +310,11 @@
         <mark key="." line="17" column="76" />
         <mark key="^" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxInput.scala" timestamp="1549810961948">
-        <mark key="[" line="88" column="5" />
-        <mark key="]" line="88" column="5" />
-        <mark key="." line="88" column="5" />
-        <mark key="^" line="87" column="42" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxInput.scala" timestamp="1549811938398">
+        <mark key="[" line="76" column="89" />
+        <mark key="]" line="76" column="89" />
+        <mark key="." line="76" column="89" />
+        <mark key="^" line="76" column="7" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Example.scala" timestamp="1549138569700">
         <mark key="[" line="21" column="27" />
@@ -435,56 +435,46 @@
         <text>f(ldt)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>x</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIF4ucGFkZGluZ0xlZnQgOj0gZ2V0UGFkZGluZyhvdXRlci5pY29uLmlzRGVmaW5lZCksCg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGRlZiBpc1NpbmdsZUxpbmU6IEJvb2xlYW4gPSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgVGFnTW9kLndoZW4ob3V0ZXIudHBlLmlzU2luZ2xlTGluZSkoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbW9kID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChvdXRlci5pY29uLmlzRGVmaW5lZCkgb3V0ZXIuc2l6ZS5oZWlnaHRQeCBlbHNlIG91dGVyLnNpemUuaG9yUGFkZGluZ1B4Cg==</text>
+        <text encoding="base64">ICAgICAgXi5oZWlnaHQgOj0gb3V0ZXIuc2l6ZS5oZWlnaHRQeCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaXNQYWRkaW5nTGVmdExhcmdlID0gZmFsc2UsCiAgICAgIGlzUGFkZGluZ1JpZ2h0TGFyZ2UgPSBmYWxzZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>TagMod(
-          outer.size.text,
-          ^.height := outer.size.heightPx,
-          ^.paddingLeft := getStylesPadding(outer, outer.icon.isDefined),
-          ^.paddingRight := getStylesPadding(outer, outer.status.exists(_.node.isDefined))
-        )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHwK</text>
       </register>
-      <register name="6" type="4">
-        <text>TagMod(
-            outer.size.text,
-            ^.height := outer.size.heightPx,
-            ^.paddingLeft := getStylesPadding(outer, outer.icon.isDefined),
-            ^.paddingRight := getStylesPadding(outer, outer.status.exists(_.node.isDefined))
-          )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gXi5wYWRkaW5nUmlnaHQgOj0gZ2V0U3R5bGVzUGFkZGluZyhvdXRlciwgb3V0ZXIuc3RhdHVzLmV4aXN0cyhfIC5ub2RlLmlzRGVmaW5lZCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAKICAgICAgICBpc1BhZGRpbmdMZWZ0TGFyZ2UgPSBvdXRlci5pY29uLmlzRGVmaW5lZCwKICAgICAgaXNQYWRkaW5nUmlnaHRMYXJnZSA9IG91dGVyLnN0YXR1cy5leGlzdHMoXy5ub2RlLmlzRGVmaW5lZCkK</text>
+        <text encoding="base64">ICAgICAgXi5wYWRkaW5nTGVmdCA6PSAoKSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZ2V0UGFkZGluZyhoYXNDb250ZW50OiBCb29sZWFuKSA9CiAgICAgICAgICBpZiAob3V0ZXIuaWNvbi5pc0RlZmluZWQpIG91dGVyLnNpemUuaGVpZ2h0UHggZWxzZSBvdXRlci5zaXplLmhvclBhZGRpbmdQeAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IG91dGVyLnNpemUuaGVpZ2h0UHggZWxzZSAKICAgIG91dGVyLnNpemUuaG9yUGFkZGluZ1B4KQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRQYWRkaW5nKGhhc0NvbnRlbnQ6IEJvb2xlYW4pID0gCiAgICBpZiAob3V0ZXIuaWNvbi5pc0RlZmluZWQpIG91dGVyLnNpemUuaGVpZ2h0UHggZWxzZSBvdXRlci5zaXplLmhvclBhZGRpbmdQeAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
