@@ -10,11 +10,11 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" timestamp="1549757408359">
-        <mark key="[" line="153" column="6" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="42" />
-        <mark key="^" line="25" column="42" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBox.scala" timestamp="1549801495174">
+        <mark key="[" line="58" column="11" />
+        <mark key="]" line="58" column="17" />
+        <mark key="^" line="58" column="17" />
+        <mark key="." line="58" column="17" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/Toc.scala" timestamp="1549314157794">
         <mark key="[" line="62" column="34" />
@@ -83,10 +83,6 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxSize.scala" timestamp="1549677425876">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="34" />
-      </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/resources/stylesheets/tailwind.js" timestamp="1549746108107">
         <mark key="[" line="75" column="9" />
         <mark key="]" line="75" column="9" />
@@ -154,11 +150,11 @@
         <mark key="^" line="11" column="42" />
         <mark key="." line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxStyle.scala" timestamp="1549765554856">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="20" column="46" />
-        <mark key="^" line="20" column="46" />
-        <mark key="." line="20" column="46" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxStyle.scala" timestamp="1549801505075">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="9" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="20" column="9" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/icon/IconGlyph.scala" timestamp="1549297002929">
         <mark key="[" line="173" column="0" />
@@ -221,11 +217,11 @@
         <mark key="." line="18" column="69" />
         <mark key="^" line="18" column="69" />
       </file>
-      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxRender.scala" timestamp="1549765514812">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="24" />
-        <mark key="^" line="31" column="24" />
-        <mark key="." line="31" column="24" />
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxRender.scala" timestamp="1549801554903">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/guide/components/CodeBlock.scala" timestamp="1549138290443">
         <mark key="[" line="31" column="28" />
@@ -277,6 +273,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/anduin/design/core/src/main/scala/anduin/component/input/textbox/TextBoxType.scala" timestamp="1549801438925">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="27" column="2" />
+        <mark key="." line="27" column="2" />
+        <mark key="^" line="27" column="2" />
       </file>
       <file name="$USER_HOME$/Code/anduin/design/scripts/clean.sh" timestamp="1549633260100">
         <mark key="[" line="5" column="0" />
@@ -419,47 +421,47 @@
       <register name="a" type="4">
         <text>f(ldt)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getBorderColor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgU3R5bGUucGFkZGluZy5ob3IxMi5wYWRkaW5nLnZlcjgsCg==</text>
       </register>
       <register name="f" type="4">
         <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>getBorderColor</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0dXM6IFRleHRCb3hTdGF0dXMgPSBUZXh0Qm94LlN0YXR1cy5Ob25lLAo=</text>
+        <text encoding="base64">ICAgIG9iamVjdCBGdWxsIGV4dGVuZHMgVGV4dEJveFN0eWxlLkZ1bGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgU3R5bGUucGFkZGluZy5ob3IxMi5wYWRkaW5nLnZlcjgsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBkZWYgZ2V0U2l6ZTogVGV4dEJveFNpemUgPT4gVGFnTW9kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgaW5wdXRTdGF0aWMgPSBUYWdNb2QoCiAgICBTdHlsZS5ib3JkZXIuYWxsLmJvcmRlcldpZHRoLnB4MS5ib3JkZXJSYWRpdXMucHgyLAogICAgU3R5bGUucGFkZGluZy5ob3IxMi5wYWRkaW5nLnZlcjgsCiAgICBTdHlsZS5kaXNwbGF5LmJsb2NrLndpZHRoLnBjMTAwLnBhZGRpbmcucmlnaHQxMi5wYWRkaW5nLnZlcjgsCiAgICBTdHlsZS5zaGFkb3cuZm9jdXNTcHJlYWQuYm9yZGVyQ29sb3IuZm9jdXNCbHVlNC50cmFuc2l0aW9uLmFsbFdpdGhTaGFkb3cKICApCgogIHByaXZhdGUgZGVmIGdldENvbG9yKHByb3BzOiBQcm9wcyk6IFRhZ01vZCA9CiAgICBpZiAocHJvcHMuaXNEaXNhYmxlZCkgU3R5bGUuY29sb3IuZ3JheTYgZWxzZSBTdHlsZS5jb2xvci5ncmF5OAoKICBwcml2YXRlIGRlZiBnZXRCYWNrZ3JvdW5kKHByb3BzOiBQcm9wcyk6IFRhZ01vZCA9IHsKICAgIGlmIChwcm9wcy5pc1JlYWRPbmx5KSB7CiAgICAgIFN0eWxlLmJhY2tncm91bmQuZ3JheTEKICAgIH0gZWxzZSBpZiAocHJvcHMuaXNEaXNhYmxlZCkgewogICAgICBTdHlsZS5iYWNrZ3JvdW5kLmdyYXkyCiAgICB9IGVsc2UgewogICAgICBTdHlsZS5iYWNrZ3JvdW5kLndoaXRlCiAgICB9CiAgfQoKICBwcml2YXRlIGRlZiBnZXRCb3JkZXJDb2xvcihwcm9wczogUHJvcHMpOiBUYWdNb2QgPSBwcm9wcy5zdGF0dXMuYm9yZGVyQ29sb3IKCiAgZGVmIGdldElucHV0KHByb3BzOiBQcm9wcyk6IFRhZ01vZCA9IFRhZ01vZCgKICAgIGlucHV0U3RhdGljLAogICAgcHJvcHMudHBlLmdldFNpemUocHJvcHMuc2l6ZSksCiAgICBpZiAocHJvcHMuY29udGV4dC5pc0RlZmluZWQpIFN0eWxlLnBhZGRpbmcubGVmdDEyIGVsc2UgXi5wYWRkaW5nTGVmdCA6PSAiMzJweCIsCiAgICBnZXRCb3JkZXJDb2xvcihwcm9wcyksCiAgICBnZXRCYWNrZ3JvdW5kKHByb3BzKSwKICAgIGdldENvbG9yKHByb3BzKQogICkK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRTaXplOiBUZXh0Qm94U2l6ZSA9PiBUYWdNb2QgPSBfLmFyZWEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBTdGF0dXMK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRTaXplOiBUZXh0Qm94U2l6ZSA9PiBUYWdNb2QgPSBfLnNpbmdsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgLy8gQ29udGV4dAoK</text>
+        <text encoding="base64">ICBwcmVmaXg6IE9wdGlvbltWZG9tTm9kZV0gPSBOb25lLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldENvbW1vbihwcm9wcyksCg==</text>
+        <text encoding="base64">ICBwcmVmaXg6IE9wdGlvbltWZG9tTm9kZV0gPSBOb25lLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICAgIGRlZiBnZXRTdGF0dXNOb2RlKHByb3BzOiBQcm9wcyk6IE9wdGlvbltWZG9tRWxlbWVudF0gPQogICAgICBwcm9wcy5zdGF0dXMubm9kZS5tYXAoPC5kaXYoc3R5bGUsIF8pKQo=</text>
+        <text encoding="base64">ICAvLyBDb250cmFpbnN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvYmplY3QgU3RhdHVzIHsKICAgIHByaXZhdGUgdmFsIHN0eWxlID0gVGFnTW9kKAogICAgICBTdHlsZS5wb3NpdGlvbi5hYnNvbHV0ZS5tYXJnaW4ucmlnaHQ4Lm1hcmdpbi52ZXJBdXRvLAogICAgICBTdHlsZS5wb3NpdGlvbi5waW5Ub3AucG9zaXRpb24ucGluQm90dG9tLnBvc2l0aW9uLnBpblJpZ2h0LAogICAgICBTdHlsZS5iYWNrZ3JvdW5kLndoaXRlLmhlaWdodC5weDE2CiAgICApCgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
